@@ -1,0 +1,3458 @@
+Esim.Kim中文交流群
+Previous messages
+8 March 2026
+S
+14:30
+S"
+In reply to this message
+還原掛載
+14:31
+overlayfs
+AN
+14:31
+Andres Nava
+Sticker
+Not included, change data exporting settings to download.
+, 26.0 KB
+N?
+14:32
+Natu 
+In reply to this message
+怪，我看看
+14:32
+In reply to this message
+就 magisk
+AN
+14:32
+Andres Nava
+怪
+14:32
+我用的KerneISU
+S
+14:33
+S"
+3以上已經不處理掛載了
+14:33
+模塊負責
+i
+14:33
+incognito
+In reply to this message
+没了。挂了
+14:33
+凉透透
+祭梦
+14:43
+祭司 梦
+Sticker
+Not included, change data exporting settings to download.
+, 83.9 KB
+p记
+14:43
+px休息中 记得催我睡觉
+遇到黑哥们了
+TH
+14:45
+Tom Hardy
+现在twilio的号还可以转走嘛
+aC
+14:45
+anon Chihaya
+Sticker
+Not included, change data exporting settings to download.
+, 11.0 KB
+法
+14:46
+法老-英国
+小米被害者
+14:48
+你少fastboot驱动
+14:48
+明白了吗
+l
+14:49
+lives
+r了
+法
+14:50
+法老-英国
+这几天小米 骚操作都会起来
+14:50
+比如 那个没阉割的esim
+14:50
+下加电源
+14:50
+试试
+14:51
+看你应该少驱动
+14:52
+8EG5系列BL解锁_仅小米新.rar
+Not included, change data exporting settings to download.
+15.6 MB
+14:52
+[]
+伍六
+14:52
+伍 六柒
+In reply to this message
+f50pro吧他那个
+14:53
+直接pdd百亿补贴买
+法
+14:53
+法老-英国
+f50pro 纯cpe
+14:53
+没可玩性
+伍六
+14:53
+伍 六柒
+但是不如f50
+14:53
+f50是usb3.0
+14:53
+pro是2.0 数据线直连速度砍一半
+14:53
+In reply to this message
+裸机
+14:54
+套餐自己爱买不买
+法
+14:54
+法老-英国
+等蓝牙实体卡
+14:54
+f50pro 勉强可以玩esim了
+14:54
+f50pro 可以插2张sim卡
+14:54
+内置还有一张卡
+14:54
+3张
+伍六
+14:54
+伍 六柒
+In reply to this message
+装一个estkapp不就可以了吗
+法
+14:54
+法老-英国
+不行
+14:54
+f50pro 无法操作
+14:55
+必须蓝牙实体卡
+伍六
+14:55
+伍 六柒
+f50可以啊
+法
+14:55
+法老-英国
+重启
+伍六
+14:55
+伍 六柒
+买f50好了
+法
+14:55
+法老-英国
+f50 有adb
+14:55
+f50pro 有双卡
+伍六
+14:55
+伍 六柒
+f50就是个安卓
+法
+14:55
+法老-英国
+可以玩啊
+14:55
+为啥不能玩
+韩
+14:55
+韩晨
+我在等一款新的随身WiFi
+14:56
+能用安卓root或者op
+法
+14:56
+法老-英国
+可以
+韩
+14:56
+韩晨
+Sticker
+Not included, change data exporting settings to download.
+, 24.0 KB
+法
+14:56
+法老-英国
+你买f50 就没事
+韩
+14:56
+韩晨
+其实我挺看好glinet那款4g随身wifi的
+法
+14:56
+法老-英国
+插esim
+14:56
+完美玩
+韩
+14:56
+韩晨
+带openwrt
+14:56
+就是没货卖了
+法
+14:56
+法老-英国
+那是不发货
+14:56
+不是不能玩
+韩
+14:56
+韩晨
+你可以转运的
+14:56
+只是不发云南
+14:56
+Sticker
+Not included, change data exporting settings to download.
+, 24.0 KB
+法
+14:57
+法老-英国
+你用F50+esim
+14:57
+试试
+韩
+14:57
+韩晨
+云南是为啥
+法
+14:57
+法老-英国
+云南可用
+韩
+14:57
+韩晨
+因为靠缅？
+法
+14:57
+法老-英国
+云南西藏
+韩
+14:57
+韩晨
+？
+14:57
+Sticker
+Not included, change data exporting settings to download.
+, 24.0 KB
+14:57
+你用的卡的问题啊
+法
+14:58
+法老-英国
+你用esim卡
+14:58
+不会 有不支持区域
+14:58
+你esim 写个漫游卡不能用？
+14:59
+F50 root了
+14:59
+不会有这个问题
+14:59
+只有物联网卡不给你玩
+15:00
+你用esim 玩漫游卡能不能玩
+15:00
+那不就行了
+15:00
+F50+esim
+15:00
+不能玩?
+15:01
+设备root了
+15:01
+串改了
+15:01
+不会不能玩
+15:01
+要root
+15:01
+没root 你玩不了
+15:02
+快下单小米17U徕卡
+15:02
+卫星+未公开的esim
+15:02
+全给bl出来
+15:07
+我那个是给的驱动
+15:07
+软件用烟雨的
+15:07
+就行
+15:08
+1.01版本就行
+15:09
+买过几次小米不买了
+我
+15:09
+我在西安很想你
+In reply to this message
+敢骂我
+法
+15:09
+法老-英国
+不适合我玩的
+G9
+15:09
+Gaara 911
+Sticker
+Not included, change data exporting settings to download.
+, 195.2 KB
+我
+15:09
+我在西安很想你
+我给你禁了
+15:09
+当时是因为小屏和r角
+15:09
+Sticker
+Not included, change data exporting settings to download.
+, 18.2 KB
+15:10
+[]
+15:10
+拍照的手机是16pm
+G9
+15:11
+Gaara 911
+In reply to this message
+手机不错
+p记
+15:13
+px休息中 记得催我睡觉
+美团只从上次信用卡泄漏后 再也不保存cvv了？
+15:13
+每次都要手动写
+法
+15:13
+法老-英国
+不是写进去了
+15:13
+等着
+SL
+15:14
+Stan Lee
+In reply to this message
+正宗的肯定没有呀
+法
+15:14
+法老-英国
+我看日志都写进去了
+15:14
+进入恢复模式
+15:14
+格式化下
+15:14
+Photo
+1280×131
+15:15
+看懂了吗
+15:15
+进入恢复模式
+15:15
+电源+音量上
+15:16
+进入恢复模式
+15:16
+后台显示都刷进去了
+15:16
+你都等了20分钟了把
+15:16
+进入恢复模式
+15:17
+没清数据
+15:18
+他没解bl
+15:18
+bl解除数据清空的
+15:18
+你杀版本的
+15:18
+你啥版本
+15:19
+你啥都不懂啊
+15:19
+就跟着乱来啊
+15:19
+解锁bl 必定清空手机
+15:19
+备份了吗？
+15:19
+。。。。
+15:19
+你是真的跟着瞎折腾
+15:19
+你退小米id了吗？
+15:20
+你别玩了
+15:20
+不适合你啊
+15:20
+你小米几啊
+15:20
+17没问题
+15:20
+退id了吗
+15:20
+备份数据 退id没有
+15:21
+https://www.bilibili.com/video/BV155NMzCERV/?spm_id_from=333.337.search-card.all.click&vd_source=3e89bd259f9695df17c17dd3ec516739
+15:21
+这个就能解
+15:22
+包我刚才发的就行
+15:22
+正常解锁
+15:22
+必定清空手机
+15:22
+直接解啊
+15:22
+我刚才发的包
+15:23
+版本没问题
+15:23
+[]
+15:23
+先执行2 再执行1
+15:24
+数据丢失
+15:24
+。。。。
+15:24
+你完全不会啊
+15:24
+应该备份到手机上
+15:26
+对啊
+15:26
+备份数据到了本地
+15:26
+等备份好了
+15:27
+把备份包上传到电脑
+15:27
+他就是2月前的
+15:27
+不是？
+15:28
+下拉
+15:28
+开设备信息
+祭梦
+15:29
+祭司 梦
+Sticker
+Not included, change data exporting settings to download.
+, 83.9 KB
+法
+15:30
+法老-英国
+[]
+15:30
+你解不了了
+15:31
+你的版本不行了
+15:31
+回退客服不给你回退
+阿
+15:31
+小米没有自己降级一说了
+15:32
+你瞎折腾
+15:32
+你的版本已经无法解锁了
+15:32
+手贱的人很多的
+15:41
+再试试呗
+15:41
+坏了去售后
+15:43
+不是写了
+15:43
+父母
+15:50
+老实用1加
+15:50
+没烦恼
+伍六
+16:05
+伍 六柒
+In reply to this message
+k90 2月的可以
+16:05
+17系列不行
+我
+16:10
+我在西安很想你
+拿到了三份工具
+16:11
+等备份好一个一个试
+KM
+16:12
+K Mox 𝕏⁠⁠⁠⁠⁠ ⁧
+In reply to this message
+你就不会改机型?
+16:12
+In reply to this message
+别半夜ota又给你回锁了
+S
+16:24
+S"
+~~短信空是哪位老師嗎~~
+祭梦
+16:25
+祭司 梦
+Sticker
+Not included, change data exporting settings to download.
+, 83.9 KB
+S
+16:28
+S"
+Sticker
+Not included, change data exporting settings to download.
+, 58.6 KB
+祭梦
+16:38
+祭司 梦
+Sticker
+Not included, change data exporting settings to download.
+, 4.5 KB
+G
+16:41
+Guderian
+大佬们，giffgaff实体卡现在官方只发澳大利亚、日本、西班牙、英国了吗？
+祭梦
+16:42
+祭司 梦
+In reply to this message
+对
+16:42
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 50.2 KB
+G9
+16:44
+Gaara 911
+Sticker
+Not included, change data exporting settings to download.
+, 9.3 KB
+16:44
+再水一会儿我还能进前十
+16:46
+In reply to this message
+还三国杀了
+16:47
+我好多年没玩儿了了
+16:47
+后来更新了很多，我就没时间玩儿了，就不玩儿了
+E
+17:00
+Esim.Kim
+ 今日发言排行榜 
+ 第1名 - 发言 357 条 【今日水王】
+ 第2名 - 发言 155 条 再接再厉
+ 第3名 - 发言 155 条 再接再厉
+ 第4名 - 发言 147 条 再接再厉
+ 第5名 - 发言 68 条 再接再厉
+ 第6名 - 发言 63 条 再接再厉
+ 第7名 - 发言 59 条 再接再厉
+ 第8名 - 发言 56 条 再接再厉
+ 第9名 - 发言 55 条 再接再厉
+ 第10名 - 发言 41 条 再接再厉
+ 恭喜今日水王！数据已重置。明天继续加油
+G9
+17:01
+Gaara 911
+我去
+17:01
+果然
+17:01
+我就说
+17:01
+我可以前十
+S
+17:02
+S"
+門檻太低
+G9
+17:02
+Gaara 911
+Sticker
+Not included, change data exporting settings to download.
+, 9.3 KB
+17:02
+Sticker
+Not included, change data exporting settings to download.
+, 58.8 KB
+S
+17:04
+S"
+你水多
+祭梦
+17:10
+祭司 梦
+In reply to this message
+天天抢占第1名
+17:10
+Sticker
+Not included, change data exporting settings to download.
+, 83.9 KB
+17:11
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 8.6 KB
+S
+17:11
+S"
+In reply to this message
+撤回扣三條
+17:19
+In reply to this message
+然後開你慢速
+荣李
+17:19
+Sticker
+Not included, change data exporting settings to download.
+, 12.3 KB
+祭梦
+17:23
+祭司 梦
+S
+17:32
+S"
+這是雲備份....吧
+G9
+17:40
+Gaara 911
+[]
+17:40
+大家晚安
+伍六
+18:08
+伍 六柒
+6我的国行小米有esim了
+18:08
+[]
+18:09
+是的
+G9
+18:19
+Gaara 911
+Sticker
+Not included, change data exporting settings to download.
+, 9.5 KB
+18:19
+In reply to this message
+小米几啊
+18:19
+Sticker
+Not included, change data exporting settings to download.
+, 16.8 KB
+伍六
+18:22
+伍 六柒
+[]
+伍六
+18:43
+伍 六柒
+In reply to this message
+快解
+YL
+18:46
+Yang Liu
+印度 巴里索里
+伍六
+18:50
+伍 六柒
+晚上不能刷机
+18:50
+这不是众所周知吗
+18:51
+早晚容易出事。
+阿
+18:51
+你今晚注定不眠
+18:54
+没吊用
+18:54
+没有eid
+18:55
+玩鸡毛，还占个实体卡位
+N?
+18:55
+Natu 
+你插个实体esim卡
+伍六
+18:55
+伍 六柒
+In reply to this message
+他这个就是要你把小白卡estk什么的放到卡槽二里面。
+18:55
+然后就能直接在设置里面管理，但是我感觉有点脱裤子放屁。
+18:55
+打开设置打开数据再进那个卡要三步。
+18:55
+直接打开app，只要一步。
+18:56
+很傻逼，他有这个芯片，但是他没有eid
+N?
+18:56
+Natu 
+那就是没有芯片
+伍六
+18:56
+伍 六柒
+加了这个模块之后，手机还很卡。
+18:58
+芯片是有，他以前不是有那个一元流量吗？
+N?
+19:02
+Natu 
+一元流量不是esim
+19:02
+不是一个东西
+雅
+19:27
+雅诺狐
+In reply to this message
+怎么有的啊
+19:27
+我把我的实体卡转换完才发现没有
+19:28
+In reply to this message
+这就是我
+Az
+19:31
+AAA z
+In reply to this message
+有eSIM了吗
+G
+G
+19:32
+GeneralPeople.
+国行小米17有esim芯片呀？
+Az
+19:33
+AAA z
+那我要把破华为换了
+G
+19:34
+GeneralPeople.
+现在解锁了，能看得出容量吗，有没有国内证书
+19:35
+In reply to this message
+明天叫小雷OTA一下，当个事办
+19:36
+我猜也是
+19:36
+毕竟小米肯定也要做国内esim的
+19:37
+界面啥的肯定会下放到国行版本，之前国际版才有这界面
+9 March 2026
+SL
+02:45
+Stan Lee
+[]
+02:45
+3HK diy速度不错
+02:46
+测个速5.6块钱没了
+G
+02:53
+Gnaiqux
+会不会是安装了国内的软件 在小组件弹出广告了呢
+02:54
+就和安装搜狗输入法 ios 下拉搜索 也会推荐广告APP
+法
+02:56
+法老-英国
+解bl刷国际版
+G
+02:57
+Gnaiqux
+[]
+02:58
+In reply to this message
+小米17系列 有eSIM芯片？ 解锁了 是不是可以用eSIM了。
+法
+02:58
+法老-英国
+你用美区id就没广告了
+02:58
+等人研究
+G
+02:58
+Gnaiqux
+输入法的 个性化广告 关掉就好了
+02:59
+国内的APP 真是无孔不入 各种钻空子。
+法
+02:59
+法老-英国
+美区id不允许启动应用广告
+G
+03:00
+Gnaiqux
+这些都还好 我最烦的是开屏广告 还有用到陀螺仪的
+法
+03:00
+法老-英国
+但是美区id国内app很少
+i
+03:00
+incognito
+下载了app到处是广告
+法
+03:00
+法老-英国
+苹果有一点好
+03:00
+能Mitm
+03:01
+软件可以去广告
+G
+03:01
+Gnaiqux
+开屏也可以吗？
+法
+03:01
+法老-英国
+全可以
+03:01
+装Loon surge都可以
+G
+03:01
+Gnaiqux
+有地址没 我去看下
+i
+03:01
+incognito
+loon可以直接搞去广告吗？
+法
+03:01
+法老-英国
+可以
+i
+03:01
+incognito
+没有订阅只开功能
+法
+03:03
+法老-英国
+https://hub.kelee.one/
+03:03
+自己看
+G
+03:04
+Gnaiqux
+这个是loon专用的
+03:05
+我去找下 surge的吧
+法
+03:05
+法老-英国
+你买个loon不就行了
+G
+03:05
+Gnaiqux
+没必要吧～
+法
+03:05
+法老-英国
+Surge更贵
+G
+03:05
+Gnaiqux
+买都买过了 不能再去换吧
+i
+03:06
+incognito
+啥都有
+03:06
+基本都是吃灰
+03:06
+轻度用户
+法
+03:06
+法老-英国
+有的话就找Surge的插件
+03:08
+可刷港版
+03:08
+台版
+03:08
+现在性价高的就是小米17
+03:08
+库存一大把
+03:09
+开机不联网直接解锁
+ca
+03:09
+如果内置esim
+03:09
+性价比超高
+G
+03:18
+Gnaiqux
+小米17全系应该都是支持eSIM的 貌似3月底官方就推送固件开启eSIM吧
+法
+03:26
+法老-英国
+不知道
+03:26
+现在解了Bl就会有结果
+03:27
+小米17系列已经可以改运营商信号标了
+一…
+03:47
+一天天的 …
+In reply to this message
+好家伙，外币卡，直接冲欧元？
+03:47
+那手续费不得哭了
+s
+03:50
+spacex
+N26你们开的哪个区
+??
+03:50
+𝐇𝐢𝐨𝐬(𝐆𝐆) 🄼🅁 
+德
+s
+03:50
+spacex
+IP也用的奥地利？
+03:54
+准备也注册个
+SL
+03:55
+Stan Lee
+In reply to this message
+奥地利
+03:55
+不用视频验证
+03:56
+需要定位在 奥地利
+03:56
+我也用得是英国IP注册的
+一…
+03:58
+一天天的 …
+Sticker
+Not included, change data exporting settings to download.
+, 11.4 KB
+SL
+04:01
+Stan Lee
+t
+tnt 09.03.2026 04:01:07
+撸一下
+SL
+04:01
+Stan Lee
+In reply to this message
+买个3HK消解一下
+G9
+04:01
+Gaara 911
+In reply to this message
+早上就是开始发骚。你好
+04:02
+Sticker
+Not included, change data exporting settings to download.
+, 16.8 KB
+c
+04:08
+ccx
+In reply to this message
+如果能充的话，你报告给外管局，应该还能拿到一笔奖金
+ca
+我懂
+04:10
+我不 懂卡
+In reply to this message
+用币安bsc转wirex，再转N26，没有一分钱手续费
+ca
+04:10
+没u建议不要玩外卡
+04:11
+除非你有港卡
+04:11
+有okx那不得再搞个币安
+04:11
+这两个一起用
+04:11
+挺好用
+04:12
+或者可以搞个krak，krak德区直接就能iban转n26，0手续费
+c
+04:12
+ccx
+In reply to this message
+币安bsc就有手续费了
+我懂
+04:12
+我不 懂卡
+In reply to this message
+usdc，bsc，0手续费
+04:12
+usdt才有0.01手续费
+04:13
+[]
+04:15
+各有各的好处吧，okx手续费要比币安低一点点，而且c2c的价格有时候也比币安低
+G9
+04:16
+Gaara 911
+In reply to this message
+你直接说，我陪你睡
+我懂
+04:17
+我不 懂卡
+之前我用国内建行卡外汇到N26，手续费要80
+04:17
+总共汇了100，到账20
+G9
+04:17
+Gaara 911
+In reply to this message
+[]
+我懂
+04:17
+我不 懂卡
+Sticker
+Not included, change data exporting settings to download.
+, 41.3 KB
+04:19
+In reply to this message
+那三种
+G9
+04:20
+Gaara 911
+In reply to this message
+https://www.youtube.com/watch?v=oe7D9liTDI4
+s
+04:33
+spacex
+你们出金路线怎么走的
+04:34
+我wise 海妖 ifast 全是国区 n26还没开
+04:35
+Kraken里面usdc和usdt利息都挺不错的，还没搞出金路线
+04:35
+不是你自己的，你提现过去能用啊
+04:35
+Sticker
+Not included, change data exporting settings to download.
+, 21.5 KB
+04:36
+万能群友
+04:37
+现在就刷刷U卡，存存利息 只是把出金路线还是尽量打通
+G9
+04:39
+Gaara 911
+Sticker
+Not included, change data exporting settings to download.
+, 16.8 KB
+s
+04:41
+spacex
+币圈现在有点熊，海妖的活期APR4% 60天定期APR5% 居然在一众交易所算高的了
+初
+04:42
+初一
+Sticker
+Not included, change data exporting settings to download.
+, 183.4 KB
+祭梦
+04:43
+祭司 梦
+Sticker
+Not included, change data exporting settings to download.
+, 4.5 KB
+初
+04:46
+初一
+群友又又又又去香港开户咯吗
+p记
+04:47
+px休息中 记得催我睡觉
+In reply to this message
+广州
+??
+04:48
+𝐇𝐢𝐨𝐬(𝐆𝐆) 🄼🅁 
+In reply to this message
+怎么还没过关
+SL
+04:49
+Stan Lee
+初
+初一 09.03.2026 04:46:37
+群友又又又又去香港开户咯吗
+p记
+04:51
+px休息中 记得催我睡觉
+中间发生了点小插曲
+04:51
+得明天去了
+SL
+04:54
+Stan Lee
+[]
+真的假的
+法
+04:54
+法老-英国
+没说清楚
+04:55
+转移了 有没有新号
+SL
+04:55
+Stan Lee
+能不能是一回事，有没有用是另一回事
+法
+04:55
+法老-英国
+完全没答复
+04:55
+只能了解到能转移
+SL
+04:56
+Stan Lee
+转移的是国外esim还是国内esim也没说
+ca
+??
+04:57
+𝐇𝐢𝐨𝐬(𝐆𝐆) 🄼🅁 
+In reply to this message
+什么小插曲？在广州约了个P？
+04:59
+直接醒来在缅北
+法
+04:59
+法老-英国
+air 只选26.0
+04:59
+其他系统都是坑
+流
+05:08
+流芒
+我冲线下有国补+省补
+法
+05:11
+法老-英国
+怎么省17e 都要800块钱
+05:11
+还把我的小米14 以旧换新 都要800块
+05:12
+还以为能0元购
+p
+05:57
+pppp
+In reply to this message
+欧版系统也一样
+05:59
+我感觉应该是账号地区的原因
+雅
+06:31
+雅诺狐
+In reply to this message
+@ASSSDM 教教
+KM
+06:40
+K Mox 𝕏⁠⁠⁠⁠⁠ ⁧
+In reply to this message
+ota？
+初
+06:54
+初一
+Sticker
+Not included, change data exporting settings to download.
+, 19.8 KB
+06:55
+群友先冲，
+G9
+06:57
+Gaara 911
+当时我混进了一个EMBA总裁培训班，当天分享讲课的老师也是某央企集团高管，他说了一句话我至今记忆尤新：一个男人，小头决定下限，大头决定上限，台下的熟妇女学员都掌声雷动，表示赞同！
+SL
+06:59
+Stan Lee
+[]
+好奇的看了下这是什么网站
+G9
+06:59
+Gaara 911
+In reply to this message
+我还是喜欢看国产的，比如海角社区
+06:59
+Sticker
+Not included, change data exporting settings to download.
+, 22.0 KB
+SL
+07:01
+Stan Lee
+[]
+这些都是
+07:01
+Sticker
+Not included, change data exporting settings to download.
+, 18.1 KB
+07:01
+为什么会出现在这里
+07:01
+https://ip.skk.moe/ 是谁做的
+法
+07:05
+法老-英国
+[]
+PM
+木
+07:08
+木由
+In reply to this message
+大佬，2000以内，推荐谷歌哪个型号的手机呀
+G9
+07:20
+Gaara 911
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 9.3 KB
+p
+07:23
+pppp
+In reply to this message
+有折扣而已
+我懂
+07:29
+我不 懂卡
+In reply to this message
+我都用币安转wirex再转n26了，你说我玩不玩u
+初
+07:29
+初一
+唉，囊中羞涩，不然高低整个三星鸡鸡
+p
+07:30
+pppp
+三星跳水王 整二手啊
+初
+07:30
+初一
+Sticker
+Not included, change data exporting settings to download.
+, 11.1 KB
+S
+07:31
+S"
+....
+Q
+07:31
+Q
+去年 2700整了台一手flip6，当备用机好用
+初
+07:31
+初一
+Sticker
+Not included, change data exporting settings to download.
+, 25.8 KB
+07:31
+三星鸡这么好用吗
+p
+07:31
+pppp
+也还行
+初
+07:32
+初一
+Sticker
+Not included, change data exporting settings to download.
+, 19.8 KB
+p
+07:32
+pppp
+tg四开
+07:32
+微信四开
+07:32
+三开
+初
+07:32
+初一
+Look look
+p
+07:32
+pppp
+说错了
+Q
+07:32
+Q
+我觉得好用，美版系统流畅
+初
+07:32
+初一
+看看界面
+p
+07:33
+pppp
+正常双开一个 安全文件夹一个
+07:33
+用三星不就为了那个安全文件夹嘛
+初
+07:34
+初一
+没用过三星鸡，不了解
+p
+07:34
+pppp
+还是摩托好 系统级的6开
+s
+07:34
+spacex
+挺过记忆恢复术是吧
+p
+07:34
+pppp
+In reply to this message
+是的
+07:35
+SL
+07:42
+Stan Lee
+【livi】由於本行於期限前尚未收到你的回覆，你的liviSave已被凍結。請盡快登入livi
+app檢視及更新你的資料。
+07:43
+更新了资料还冻结
+07:43
+更新资料必须联系客服
+07:45
+还活着
+法
+07:59
+法老-英国
+pixel 7 pixel 8 后盖破裂机 只要600-800
+SL
+08:04
+Stan Lee
+Sticker
+Not included, change data exporting settings to download.
+, 19.7 KB
+G9
+08:10
+Gaara 911
+Sticker
+Not included, change data exporting settings to download.
+, 24.4 KB
+i
+08:10
+incognito
+In reply to this message
+这么便宜
+SL
+08:10
+Stan Lee
+In reply to this message
+是呀
+i
+08:10
+incognito
+佬都哪里看的啊
+SL
+08:10
+Stan Lee
+联系客服处理了
+G9
+08:11
+Gaara 911
+Sticker
+Not included, change data exporting settings to download.
+, 58.8 KB
+SL
+08:11
+Stan Lee
+不过这银行也没啥用
+08:11
+【livi】為確保你登記的個人資料正確無誤，請盡快登入livi
+app檢視及更新（如需要）你的資料。
+如未能於7天內回覆，你的戶口將會被凍結。
+08:11
+我在APP更新了通行证（旧的过期了）
+08:12
+然后今天说被冻结了
+祭梦
+08:19
+祭司 梦
+这是谁
+08:19
+Sticker
+Not included, change data exporting settings to download.
+, 4.5 KB
+G9
+08:28
+Gaara 911
+In reply to this message
+马虎
+08:28
+In reply to this message
+中国邮政提示您不要马虎
+SL
+08:30
+Stan Lee
+In reply to this message
+丢了吧
+SL
+08:55
+Stan Lee
+wirex你们是哪个区的
+08:58
+wirex HK区可以转欧元到N26?
+祭梦
+09:02
+祭司 梦
+[]
+09:02
+Sticker
+Not included, change data exporting settings to download.
+, 83.9 KB
+09:02
+1.36刀购买4天不限量大陆esim，每天5GB高速流量
+aC
+SL
+09:05
+Stan Lee
+为什么我wirx APP登录不了，没反应，网页登录正常
+祭梦
+09:05
+祭司 梦
+Sticker
+Not included, change data exporting settings to download.
+, 4.5 KB
+SL
+09:05
+Stan Lee
+In reply to this message
+都在用了
+09:16
+改个密码就登录成功了
+09:16
+我发现我上次登录 wirex是2023年
+09:31
+很多都很早开了然后吃灰
+spacex boosted the group 1 time
+祭梦
+10:03
+祭司 梦
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 83.9 KB
+d
+10:08
+des
+问下群友的maya esim上tg会卡吗
+10:09
+卡的发消息好几秒才出去
+L
+10:09
+LuckyRebel
+不会呀
+祭梦
+10:09
+祭司 梦
+In reply to this message
+也许是你信号不好
+10:09
+Sticker
+Not included, change data exporting settings to download.
+, 83.9 KB
+d
+10:09
+des
+In reply to this message
+油管倒是很流畅
+G9
+10:12
+Gaara 911
+[]
+10:12
+[]
+SL
+10:15
+Stan Lee
+有钱
+祭梦
+10:17
+祭司 梦
+In reply to this message
+白嫖的，4个月免费试用
+10:17
+Sticker
+Not included, change data exporting settings to download.
+, 83.9 KB
+G9
+10:18
+Gaara 911
+In reply to this message
+s是的
+10:19
+Photo
+120×43
+这不是写着免费试用4个月吗
+.k
+木
+10:21
+木木虎
+好久不上来冒泡了
+10:21
+我只想说，我还在等疯狗携号转网
+依范
+11:41
+依然 范德彪
+口令
+E
+11:41
+Esim.Kim
+口令：242295
+祭梦
+11:47
+祭司 梦
+口令
+11:47
+Sticker
+Not included, change data exporting settings to download.
+, 4.5 KB
+SL
+12:10
+Stan Lee
+@tntwi 又成功注册一个helium
+12:10
+Sticker
+Not included, change data exporting settings to download.
+, 18.1 KB
+p
+12:10
+pppp
+羡慕helium
+12:10
+付不了款
+旧
+12:10
+旧纸船的频道～
+p
+pppp 09.03.2026 12:10:51
+羡慕helium
+旧
+12:11
+旧纸船的频道～
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 10.0 KB
+p
+12:11
+pppp
+你们用啥卡付的
+旧
+12:11
+旧纸船的频道～
+In reply to this message
+bybit都可以过
+12:11
+Sticker
+Not included, change data exporting settings to download.
+, 20.6 KB
+SL
+12:12
+Stan Lee
+[]
+Wifcall 秒來
+旧
+12:12
+旧纸船的频道～
+cn wifi都可以拉
+SL
+12:12
+Stan Lee
+In reply to this message
+注册用美国IP
+12:12
+In reply to this message
+是的
+12:13
+In reply to this message
+那是IP不行
+p
+12:14
+pppp
+In reply to this message
+那可能是我姿势不对了 我bybit不行
+旧
+12:14
+旧纸船的频道～
+In reply to this message
+走Google pay
+p
+12:14
+pppp
+雪中旱道行吗
+12:15
+In reply to this message
+我试试去
+香
+12:27
+香港九龙
+In reply to this message
+想要
+SL
+12:27
+Stan Lee
+自己注册
+香
+12:28
+香港九龙
+没卡可以卿
+12:28
+Sticker
+Not included, change data exporting settings to download.
+, 8.0 KB
+DH
+12:30
+Dylan Hu
+跟你说了你又不信
+祭梦
+12:46
+祭司 梦
+Sticker
+Not included, change data exporting settings to download.
+, 83.9 KB
+12:46
+In reply to this message
+哪个地址税费便宜
+K
+12:56
+Keil
+In reply to this message
+用什么节点啊
+12:57
+[]
+旧
+12:57
+旧纸船的频道～
+不能开梯吧
+12:57
+要漫游
+12:57
+我sg漫游都过了
+12:57
+Sticker
+Not included, change data exporting settings to download.
+, 20.6 KB
+K
+13:00
+Keil
+sg过后，对节点有要求吗
+13:01
+好的感谢
+p
+13:12
+pppp
+In reply to this message
+5555 Bcr 816, Glenallen, MO 63751美国
+香
+13:15
+香港九龙
+You need to do an ID verification for any changes that will be made to
+an account.
+13:15
+没啥用
+13:15
+找人工帮忙就要你kyc
+13:15
+以后出啥子事，那估计废了
+13:18
+因为我嫌号码不好啊
+13:19
+找客服换个好号
+13:19
+结果说任何更改都得kyc
+SL
+13:22
+Stan Lee
+隨機的號碼都不怎麼樣，要好號碼不如轉入
+香
+13:26
+香港九龙
+不建议转入
+13:26
+因为换esim也要kyc
+13:26
+搞不好，你又要想办法转走
+13:26
+太太气人了
+一
+13:32
+一只胖锦鲤
+In reply to this message
+啥卡
+13:33
+aqua
+M
+SL
+13:40
+Stan Lee
+前幾天封的GV不給我解，還是我轉入的，
+13:40
+F**k
+13:40
+就發了一條短信
+13:41
+20刀打水漂
+香
+13:42
+香港九龙
+hum也是
+13:42
+慎重考虑
+N?
+14:23
+Natu 
+话
+14:23
+话说
+14:23
+twilio pac 是不是得升级才能给了
+香
+14:27
+香港九龙
+应该是
+14:28
+发了好多次遇到都是要升级
+14:30
+Sandra Guzman Montoya （Twilio）
+Julian （Twilio）
+Hamsavalli K (Twilio)
+14:30
+sb
+14:30
+遇到这3个
+14:30
+都是叫我升级
+14:30
+特别是julian，
+14:30
+气死
+AN
+14:32
+Andres Nava
+冊那
+14:32
+[]
+~~我上次要的忘了轉~~
+香
+14:32
+香港九龙
+Sticker
+Not included, change data exporting settings to download.
+, 6.8 KB
+AN
+14:33
+Andres Nava
+In reply to this message
+群友肯定不認爲是靚號
+14:34
+~~2333結尾~~
+14:34
+~~我自己想要的~~
+14:34
+~~只是我自己想要這個尾號~~
+14:34
+前面還有4 群友肯定是看不上
+T
+15:02
+Temperature of wind
+[]
+这算是开了WiFi calling么？
+B
+15:04
+Big
+In reply to this message
+開了
+15:04
+沒連上吧
+乾坤
+15:04
+乾 坤
+打一下电话不就行了
+旧
+15:04
+旧纸船的频道～
+In reply to this message
+看上去是连了
+15:05
+看看有没有标志
+T
+15:06
+Temperature of wind
+[]
+看样子有了
+乾坤
+15:06
+乾 坤
+号码发出来我打一个给你
+N?
+15:07
+Natu 
+话说之后要是 $3 包 twilio 选号 + PAC
+T
+15:07
+Temperature of wind
+helium 不需要身份验证么？我刚刚直接注册，就下了号码
+N?
+15:07
+Natu 
+你们有意愿吗
+15:07
+helium 的问题是你可能保不住
+T
+15:07
+Temperature of wind
+15:07
+就当注册了一个备用吧
+15:08
+用 cmlink 漫游流量加谷歌账号直接就注册成了
+N?
+15:09
+Natu 
+因为虚拟号功能其实已经做差不多了
+15:09
+英国有什么说法吗
+T
+15:12
+Temperature of wind
+[]
+这卡有 5G？不过刚刚就闪现了一下，就没了
+旧
+15:12
+旧纸船的频道～
+In reply to this message
+可以了
+15:12
+我这也有5G不过没啥用
+乾坤
+15:12
+乾 坤
+In reply to this message
+关掉wifi就啥也不是
+T
+15:13
+Temperature of wind
+是
+香
+15:15
+香港九龙
+为什么我的hu显示LTE
+15:15
+一直是LTE，但是一格信号也没有
+旧
+15:15
+旧纸船的频道～
+In reply to this message
+拉wifi了吗
+香
+15:15
+香港九龙
+一会显示LTE一会又不显示
+15:15
+没开WiFi
+旧
+15:16
+旧纸船的频道～
+不拉wifi过一会就掉的
+15:16
+Sticker
+Not included, change data exporting settings to download.
+, 20.6 KB
+香
+15:16
+香港九龙
+不过我是用三星手机
+15:16
+但他可以打电话啊
+乾坤
+15:16
+乾 坤
+我的也是三星
+香
+15:17
+香港九龙
+我的就奇怪不拉WiFi也可以用
+旧
+15:17
+旧纸船的频道～
+Sticker
+Not included, change data exporting settings to download.
+, 4.5 KB
+乾坤
+15:17
+乾 坤
+开wifi就能接打
+旧
+15:17
+旧纸船的频道～
+我的只能打+1，其他都秒挂
+乾坤
+15:17
+乾 坤
+因为只有+1免费
+香
+15:18
+香港九龙
+我尝试打+86会听到一段提示音
+15:18
+很奇怪唉
+T
+15:24
+Temperature of wind
+香
+15:25
+香港九龙
+hu莫名其妙有信号了
+15:25
+联通4g
+i
+15:34
+incognito
+不是昨天的事？
+15:34
+磨蹭到今天？
+15:34
+这又晚上了
+G9
+16:28
+Gaara 911
+In reply to this message
+还搞呢
+16:30
+In reply to this message
+你有这功夫早就拿下了。壁咚她，强行她。不敢为她蹲笆篱子，怎么配说爱她
+E
+17:00
+Esim.Kim
+ 今日发言排行榜 
+ 今日发言不够给力，本轮奖励轮空
+ 第1名 - 发言 94 条
+ 第2名 - 发言 63 条
+ 第3名 - 发言 54 条
+ 第4名 - 发言 51 条
+ 第5名 - 发言 51 条
+ 第6名 - 发言 37 条
+ 第7名 - 发言 36 条
+ 第8名 - 发言 33 条
+ 第9名 - 发言 31 条
+ 第10名 - 发言 21 条
+ 因无人发言达到 300 条消息，本轮奖励轮空，请继续努力！
+G9
+17:00
+Gaara 911
+我去
+17:00
+我居然还是老九
+17:00
+Sticker
+Not included, change data exporting settings to download.
+, 16.8 KB
+祭梦
+17:02
+祭司 梦
+Sticker
+Not included, change data exporting settings to download.
+, 83.9 KB
+G9
+17:03
+Gaara 911
+In reply to this message
+你居然一天没上榜
+aC
+18:00
+anon Chihaya
+Sticker
+Not included, change data exporting settings to download.
+, 11.0 KB
+18:00
+In reply to this message
+我今天上课从早上到晚，真没时间
+aC
+18:25
+anon Chihaya
+Sticker
+Not included, change data exporting settings to download.
+, 11.0 KB
+aC
+18:45
+anon Chihaya
+oot人呢
+18:45
+他群里进广告man了
+18:45
+再不回来要炸群了怕不是
+R
+22:36
+Rey (瑞)
+In reply to this message
+祝你好运
+10 March 2026
+一
+01:05
+一周困八天 
+In reply to this message
+app注册不了
+旧
+01:19
+旧纸船的频道～
+In reply to this message
+电脑开局域网共享试试
+一
+01:38
+一周困八天 
+In reply to this message
+没电脑咋办
+01:39
+Sticker
+Not included, change data exporting settings to download.
+, 11.4 KB
+Co
+01:47
+Come on
+In reply to this message
+传通行证或者护照
+01:50
+不是已经实名过了？
+01:51
+那你在更新实名下试试
+旧
+01:51
+旧纸船的频道～
+In reply to this message
+好 那就漫游试试
+01:51
+最好是us ip
+一
+01:59
+一周困八天 
+In reply to this message
+国内卡开漫游？
+旧
+01:59
+旧纸船的频道～
+？
+01:59
+海外
+一
+02:00
+一周困八天 
+没有海外卡
+旧
+02:00
+旧纸船的频道～
+trip/香蕉
+02:00
+试试
+简
+02:00
+简
+In reply to this message
+看运气有一个客服给
+一
+02:00
+一周困八天 
+买张esim？
+02:06
+可以转要给HK
+SL
+02:24
+Stan Lee
+In reply to this message
+也什麼你們都收到這個
+SL
+02:49
+Stan Lee
+我沒上台也沒收到
+G
+02:55
+Gnaiqux
+In reply to this message
+？
+SL
+03:02
+Stan Lee
+In reply to this message
+看套餐像3万能
+03:05
+库存不足
+03:05
+Sticker
+Not included, change data exporting settings to download.
+, 18.1 KB
+ll
+03:08
+ling ling
+羡慕死了
+SL
+03:10
+Stan Lee
+In reply to this message
+羡慕死了
+aC
+03:10
+anon Chihaya
+要是没有后面的那个W
+xy
+03:15
+xiao yugan
+我勒个豆
+K
+03:21
+Keil
+helium的税费你们都多少啊
+03:21
+我填的OR，要1.77刀
+03:22
+哪里的地址啊
+SL
+03:26
+Stan Lee
+MO的
+K
+03:30
+Keil
+这个保号方法是什么
+03:31
+Sticker
+Not included, change data exporting settings to download.
+, 7.4 KB
+03:31
+In reply to this message
+好用感谢
+03:31
+[]
+03:33
+激活的时候要开启wifi吗
+03:33
+还在激活中
+SL
+03:34
+Stan Lee
+In reply to this message
+是的
+K
+03:43
+Keil
+[]
+03:43
+我可以拉起wifi call
+03:43
+但是一直显示激活中
+03:43
+是什么原因啊
+03:43
+Sticker
+Not included, change data exporting settings to download.
+, 7.4 KB
+法
+03:44
+法老-英国
+啥卡
+K
+03:46
+Keil
+helium
+法
+03:47
+法老-英国
+手动切网络
+s
+03:48
+spacex
+兄弟们，荷兰
+Simyo还能正常使用吗，N26昨晚搞好了，准备来开个这个看看，之前完全开不了，没有支持的支付方式
+S
+03:50
+S"
+要設置漫遊開啟
+03:51
+[]
+s
+03:51
+spacex
+有aff吗
+K
+03:51
+Keil
+好了好了
+03:52
+感谢
+s
+03:52
+spacex
+我看帖子都是好老的了，走aff好像有奖励
+K
+03:52
+Keil
+In reply to this message
+佬，这个保护方式是什么
+03:52
+我看是一个月一次
+03:52
+保号
+s
+03:52
+spacex
+In reply to this message
+有aff吗
+法
+03:54
+法老-英国
+卡放美国一个月用下流量
+03:54
+如果不用概率停用服务
+S
+03:54
+S"
+simyo申请链接,开卡再送5欧元：
+https://vriendendeal.simyo.nl/prepaid/SZBDpT
+s
+03:54
+spacex
+helium好像确实总收到提示，要用流量 但是国内就没基站
+03:55
+In reply to this message
+好的，我给n26充值的还没到账，等会开
+S
+R
+03:55
+Rey (瑞)
+In reply to this message
+这种号码
+03:55
+能在上海买套房吧
+S
+03:57
+S"
+可以啊
+03:57
+主要是付款困难
+s
+03:57
+spacex
+开esim会上瘾 怎么办
+旧
+03:57
+旧纸船的频道～
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 10.0 KB
+S
+03:57
+S"
+不让信用卡支付了
+K
+03:57
+Keil
+In reply to this message
+这个保号成本是多少啊
+AN
+03:58
+Andres Nava
+0.01
+03:58
+或者是發短信
+S
+03:58
+S"
+每半年余额变动
+K
+03:58
+Keil
+In reply to this message
+就是每个月使用一次流量吗
+03:58
+可以可以
+S
+03:58
+S"
+estk跑定量
+s
+03:58
+spacex
+之前开不了，然后去把护照办了，然后开沃达丰德国，又开了N26
+03:58
+Sticker
+Not included, change data exporting settings to download.
+, 21.5 KB
+祭梦
+03:58
+祭司 梦
+In reply to this message
+走12.5欧的
+S
+03:58
+S"
+0.01o
+K
+03:58
+Keil
+挺好的
+03:58
+In reply to this message
+国内开不了吗
+s
+03:58
+spacex
+10多张了
+祭梦
+03:58
+祭司 梦
+[]
+法
+03:58
+法老-英国
+是要你在美国本地使用
+03:59
+你概率死
+K
+03:59
+Keil
+完蛋
+03:59
+那这卡只能用一个月啊
+s
+03:59
+spacex
+helium估计挺不了多久，我每个月wificall打个电话看能不能保住吧
+法
+03:59
+法老-英国
+和你用不用没关系
+K
+03:59
+Keil
+不是说让使用数据流量吗
+旧
+04:00
+旧纸船的频道～
+In reply to this message
+？
+04:00
+内地怎么用
+法
+04:00
+法老-英国
+主要是需要美国本地用流量
+旧
+04:00
+旧纸船的频道～
+Sticker
+Not included, change data exporting settings to download.
+, 10.0 KB
+K
+04:00
+Keil
+拿来注册个paypal
+s
+04:00
+spacex
++12027621401 打这个号码，通了自动播报时间
+有些找的kfc电话，不知道为啥打不通
+K
+04:00
+Keil
+Sticker
+Not included, change data exporting settings to download.
+, 7.4 KB
+法
+04:00
+法老-英国
+否则每个月给你红色信号邮件
+04:01
+那天不顺眼就让你滚蛋
+s
+04:07
+spacex
+Sticker
+Not included, change data exporting settings to download.
+, 21.5 KB
+p记
+04:07
+px休息中 记得催我睡觉
+In reply to this message
+没 找个换港币银行太难了 等了几个小时还没好 机器坏了
+s
+04:08
+spacex
+WiFi call确实好，太可惜了
+p记
+04:08
+px休息中 记得催我睡觉
+操了
+04:10
+[]
+04:10
+不换港币能去吗 是不是开完户必须充呀
+初
+04:11
+初一
+跨境支付通转呗，秒速入账
+p记
+04:12
+px休息中 记得催我睡觉
+不是
+04:13
+开完户 不是得充港币吗
+04:13
+In reply to this message
+好像手续费很高吧
+初
+04:13
+初一
+Sticker
+Not included, change data exporting settings to download.
+, 19.8 KB
+04:14
+免费，损耗的只有汇率啊
+p记
+04:15
+px休息中 记得催我睡觉
+操了 不换了
+04:15
+走了
+初
+04:15
+初一
+看看香港JK
+04:15
+你线下开？？？
+SL
+04:16
+Stan Lee
+In reply to this message
+不用呀
+04:17
+在线开
+04:17
+In reply to this message
+电子鸦片
+04:17
+去香港基本可以微信支付宝
+初
+04:18
+初一
+线下开可能会被要求交一大堆资料
+04:18
+Sticker
+Not included, change data exporting settings to download.
+, 68.2 KB
+p记
+04:21
+px休息中 记得催我睡觉
+不能在一棵树上吊死
+04:21
+往远处走还有一家能换
+04:21
+农行竟然没库存了
+初
+04:22
+初一
+Sticker
+Not included, change data exporting settings to download.
+, 19.8 KB
+04:22
+你还在内地啊
+p记
+04:22
+px休息中 记得催我睡觉
+是啊 排队排好久
+04:23
+结果前面不知办啥了 机器搞坏了
+初
+04:23
+初一
+你不是去香港开户吗
+04:23
+换汇干嘛
+04:24
+不用带现金，全程蓝绿+u卡
+04:24
+存钱就用跨境支付通转呗
+04:25
+线下开就拿卡呢
+04:26
+BocPay+还有立减5，记得刷哦
+04:27
+Sticker
+Not included, change data exporting settings to download.
+, 36.8 KB
+04:27
+有问题吗？？？？
+04:28
+正常消费应该都有吧
+p记
+04:31
+px休息中 记得催我睡觉
+[]
+04:31
+妈的 一早上
+04:32
+终于换好了
+04:33
+没有 我充银行里
+SL
+04:33
+Stan Lee
+在线开又不用存钱
+i
+04:36
+incognito
+In reply to this message
+这个月还有吗？
+04:36
+忘记这羊毛了
+͏͏
+04:36
+͏ ͏
+In reply to this message
+中行好办吗
+p记
+04:38
+px休息中 记得催我睡觉
+In reply to this message
+这是在内地换汇大哥
+04:38
+狂奔到南站中
+04:38
+Sticker
+Not included, change data exporting settings to download.
+, 9.8 KB
+͏͏
+04:38
+͏ ͏
+In reply to this message
+好吧
+04:39
+去香港哪用换汇
+04:39
+500块在香港坐车剩不到一半
+04:41
+hh
+04:41
+不去逛逛
+04:43
+深圳真没有啥
+04:43
+城市还是香港好看
+p记
+04:43
+px休息中 记得催我睡觉
+Sticker
+Not included, change data exporting settings to download.
+, 9.8 KB
+͏͏
+04:44
+͏ ͏
+拍照都是景
+04:44
+深圳一言难尽
+p记
+04:44
+px休息中 记得催我睡觉
+[]
+04:44
+昨晚在广州逛的
+04:44
+这几位怎么样
+͏͏
+04:44
+͏ ͏
+深圳和广州没得比
+04:45
+广州塔好看 但灯颜色太土
+L
+04:48
+Lucifer
+广州有啥推荐的美食吗
+一…
+04:49
+一天天的 …
+福建人？
+M
+04:50
+ Maki
+In reply to this message
+广州塔
+L
+04:51
+Lucifer
+In reply to this message
+吃广州塔吗。。
+SL
+04:53
+Stan Lee
+In reply to this message
+啊，你没选？
+04:53
+开户的时候好像要选要不要吧
+04:54
+可以APP看下有没有卡，有卡就应该寄了
+04:55
+那应该是寄出了
+初
+04:56
+初一
+In reply to this message
+有的，老铁
+04:56
+In reply to this message
+去体验过小巷爱情故事没
+SL
+04:56
+Stan Lee
+In reply to this message
+个人收款码不行了
+04:56
+In reply to this message
+平邮呀
+初
+04:56
+初一
+Sticker
+Not included, change data exporting settings to download.
+, 19.8 KB
+SL
+04:56
+Stan Lee
+一直都是平邮
+伍六
+04:57
+伍 六柒
+过去了记得用csl送的 20 7便利店卷
+初
+04:57
+初一
+记得给群友看看香港jk
+伍六
+04:58
+伍 六柒
+3hk携转csl成功了
+04:58
+喵的，但是账号登不上去。
+04:58
+改密码又提示改不了。
+04:58
+只能网页验证码登录。
+i
+04:58
+incognito
+In reply to this message
+要商家啊
+祭梦
+04:59
+祭司 梦
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 24.8 KB
+SL
+04:59
+Stan Lee
+In reply to this message
+好像是的，我用个人码都没扣减
+伍六
+04:59
+伍 六柒
+In reply to this message
+n26注册完了
+05:00
+索然无味
+祭梦
+05:00
+祭司 梦
+In reply to this message
+好
+05:00
+Sticker
+Not included, change data exporting settings to download.
+, 83.9 KB
+05:00
+In reply to this message
+开上面说的荷兰
+05:00
+Sticker
+Not included, change data exporting settings to download.
+, 84.8 KB
+G9
+05:00
+Gaara 911
+Sticker
+Not included, change data exporting settings to download.
+, 40.8 KB
+旧
+05:01
+旧纸船的频道～
+In reply to this message
+你也来开
+伍六
+05:01
+伍 六柒
+In reply to this message
+下班来
+05:01
+今天开始上班了
+祭梦
+05:01
+祭司 梦
+[]
+G9
+05:01
+Gaara 911
+开完N26之后需要互转一下
+05:01
+稍等我把我IBAN发出来
+SL
+05:02
+Stan Lee
+荷兰现在5欧能开卡了？
+G9
+05:02
+Gaara 911
+你们转给我钱，来开通账户转账功能
+05:02
+Sticker
+Not included, change data exporting settings to download.
+, 22.0 KB
+SL
+05:02
+Stan Lee
+不是要十几O?
+祭梦
+05:02
+祭司 梦
+In reply to this message
+你说的是荷兰沃达丰吧？
+05:02
+Sticker
+Not included, change data exporting settings to download.
+, 83.9 KB
+05:03
+simyo
+p记
+05:08
+px休息中 记得催我睡觉
+In reply to this message
+没 就去了广州塔
+初
+05:09
+初一
+老司机带带
+05:10
+Sticker
+Not included, change data exporting settings to download.
+, 64.8 KB
+05:10
+给老资历跪下咯
+p记
+05:11
+px休息中 记得催我睡觉
+广州女的真多
+05:11
+你坐下地铁就知道了
+05:11
+一个车厢内 女的比男的多多了
+初
+05:11
+初一
+快，给所有看看jk
+p记
+05:11
+px休息中 记得催我睡觉
+Sticker
+Not included, change data exporting settings to download.
+, 7.3 KB
+初
+05:11
+初一
+Sticker
+Not included, change data exporting settings to download.
+, 29.9 KB
+p记
+05:14
+px休息中 记得催我睡觉
+为什么他们都会粤语
+05:14
+好好听
+初
+05:14
+初一
+Sticker
+Not included, change data exporting settings to download.
+, 19.8 KB
+05:16
+你操普通话过去说： 吊毛，你的粤语好好听啊！可以交个朋友吗
+05:29
+快说说：“各个国家有各个的国歌”
+p记
+05:32
+px休息中 记得催我睡觉
+好激动
+05:32
+快到了
+͏͏
+05:32
+͏ ͏
+In reply to this message
+有都不在天河
+p记
+05:32
+px休息中 记得催我睡觉
+话说
+05:32
+我的csl好像还没转移好
+初
+05:35
+初一
+你一个人去啊？？？？
+p记
+05:42
+px休息中 记得催我睡觉
+[]
+05:43
+获取密码 怎么这样了 国内护照数字7位呀
+05:43
+*111#
+乾坤
+05:43
+乾 坤
+按要求输入
+p记
+05:44
+px休息中 记得催我睡觉
+In reply to this message
+好 我试试 刚加载出来你这条消息
+05:46
+In reply to this message
+提示这个
+05:46
+我属于我护照前6位数字
+05:46
+[]
+05:46
+说不正确
+乾坤
+05:47
+乾 坤
+那是你姿势不对
+初
+05:52
+初一
+Sticker
+Not included, change data exporting settings to download.
+, 33.1 KB
+p记
+05:53
+px休息中 记得催我睡觉
+完犊子 废了
+初
+05:54
+初一
+Sticker
+Not included, change data exporting settings to download.
+, 21.0 KB
+p记
+05:57
+px休息中 记得催我睡觉
+In reply to this message
+他说的不包括
+06:00
+In reply to this message
+显示成功了 但是没来码
+06:00
+Sticker
+Not included, change data exporting settings to download.
+, 9.8 KB
+乾坤
+06:04
+乾 坤
+我都说了你姿势不对
+06:05
+要输入前面除了2个字母以外的护照数字6位数。
+p记
+06:08
+px休息中 记得催我睡觉
+app上不去了 密码尝试次数过多
+06:08
+垃圾csl
+06:09
+In reply to this message
+……
+初
+06:10
+初一
+Sticker
+Not included, change data exporting settings to download.
+, 19.8 KB
+乾坤
+06:10
+乾 坤
+p记
+06:10
+px休息中 记得催我睡觉
+你这说的不就是前6位数字吗
+乾坤
+06:10
+乾 坤
+对啊，是数字不是字母。
+p记
+06:10
+px休息中 记得催我睡觉
+……
+06:10
+你去试试你说的对不对
+乾坤
+06:11
+乾 坤
+In reply to this message
+我前几天刚刚弄过
+初
+06:11
+初一
+Sticker
+Not included, change data exporting settings to download.
+, 183.4 KB
+p记
+06:11
+px休息中 记得催我睡觉
+In reply to this message
+你现在去试
+06:11
+看看提示你啥
+06:11
+成功还是不正确
+06:11
+Sticker
+Not included, change data exporting settings to download.
+, 15.6 KB
+06:13
+没
+乾坤
+06:13
+乾 坤
+主要是现在我不想改密码啊，前几天我找回密码是这么操作的
+初
+06:13
+初一
+瞎折腾，去营业厅操作？？？
+p记
+06:13
+px休息中 记得催我睡觉
+我刚刚去了一个网站 接受验证码 还是之前那个号码才能收到
+06:13
+3hk那个不行
+06:15
+In reply to this message
+没选 改了
+06:15
+In reply to this message
+嗯这个
+06:15
+反正没转成功
+乾坤
+06:15
+乾 坤
+那就等老号码失效了再登陆
+06:15
+24小时后
+06:16
+两个号都还能用那肯定不行
+p记
+06:16
+px休息中 记得催我睡觉
+到香港 我开数据看看吧
+Ko
+06:17
+K oi
+haha卡怎么只充十港币
+06:17
+还是必须用app才能充
+乾坤
+06:28
+乾 坤
+这体毛也没谁了
+S
+06:48
+S"
+@GRN88888 話說你的是44版 2月補丁?
+Co
+06:49
+Come on
+In reply to this message
+3HK网页充值
+p记
+07:27
+px休息中 记得催我睡觉
+救我
+07:27
+救我
+07:27
+help me
+07:27
+[]
+07:28
+我在咖啡店点了个咖啡只有30分钟wifi
+07:28
+没网 要失恋了
+07:29
+能用我还问个蛋
+B
+07:30
+Buat jerami
+香港咋买esim
+p记
+07:30
+px休息中 记得催我睡觉
+In reply to this message
+不能用 试了10遍了
+07:31
+重启手机 飞行都不行
+07:31
+操了
+07:31
+我没网 地图都用不了
+ll
+07:31
+ling ling
+In reply to this message
+再点一次
+p记
+07:31
+px休息中 记得催我睡觉
+税现在有香港能用的esim呀
+07:31
+救救
+SL
+07:32
+Stan Lee
+trip， cmlink，红茶，都有香港流量套餐呀
+07:32
+也不贵
+B
+07:33
+Buat jerami
+要号码
+SL
+07:34
+Stan Lee
+人家现在是要号码吗？他现在是要上网
+伍六
+07:36
+伍 六柒
+csl直接开通啊
+07:37
+68不是送7张天卡
+p记
+07:37
+px休息中 记得催我睡觉
+In reply to this message
+没网 没网
+07:37
+有没有能上网的esim救救急
+07:37
+兄弟们
+伍六
+07:38
+伍 六柒
+In reply to this message
+漫游打开了吗
+p记
+07:38
+px休息中 记得催我睡觉
+[]
+伍六
+07:39
+伍 六柒
+有信号么
+07:39
+没有就手动选一下中国联通
+07:43
+@Xongmao88 还有一个卡。昨几天他们发的那个9块钱4天
+p记
+07:43
+px休息中 记得催我睡觉
+In reply to this message
+帮我买一下 我回去转你行不
+伍六
+07:44
+伍 六柒
+问题是我也没买过啊
+祭梦
+07:47
+祭司 梦
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 83.9 KB
+G
+07:50
+Gnaiqux
+怎么这么便宜 这个本地流量。
+伍六
+07:51
+伍 六柒
+还好我移动自带20g漫游流量。不用担心
+Co
+07:54
+Come on
+我流量用的haha sim实体卡
+祭梦
+07:54
+祭司 梦
+In reply to this message
+[]
+Co
+07:54
+Come on
+加上移动漫游流量 支持访问境外数据的
+SL
+07:59
+Stan Lee
+第一次去HK不做好准备？
+祭梦
+08:00
+祭司 梦
+有写
+08:00
+[]
+89
+08:04
+88 99
+Twioi的号码还有办法搞出来吗 大哥们
+p
+08:06
+pppp
+In reply to this message
+实名 交钱
+89
+08:06
+88 99
+实名好像中国人不行
+p
+08:07
+pppp
+In reply to this message
+香港不是到处都有卖电话卡的 随便买一张不就得了
+祭梦
+08:08
+祭司 梦
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 18.6 KB
+伍六
+08:11
+伍 六柒
+咋想的不在过境前把卡弄好就去香港
+祭梦
+08:11
+祭司 梦
+In reply to this message
+HK是 $3.19
+法
+08:11
+法老-英国
+随便超市买一张sosim不就好了
+08:12
+难道你手机没卡槽？
+p记
+08:12
+px休息中 记得催我睡觉
+In reply to this message
+弄好了啊 没网 垃圾csl
+08:12
+操他妈
+法
+08:12
+法老-英国
+你没搞套餐吧
+伍六
+08:12
+伍 六柒
+祭梦
+08:12
+祭司 梦
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 4.5 KB
+伍六
+08:13
+伍 六柒
+In reply to this message
+现在用的什么卡
+法
+08:13
+法老-英国
+香港附近 商店都有wifi进去蹭蹭买个套餐就好
+伍六
+08:13
+伍 六柒
+csl只要打开数据就会自动用那7张数据卷吧
+法
+08:15
+法老-英国
+开啥数据漫游
+08:15
+人在香港
+08:15
+要搞本地流量
+伍六
+08:16
+伍 六柒
+用不了那不就只能找方法了
+p记
+08:20
+px休息中 记得催我睡觉
+煞笔csl 操他妈的
+祭梦
+08:20
+祭司 梦
+？
+08:20
+Sticker
+Not included, change data exporting settings to download.
+, 83.9 KB
+SL
+08:23
+Stan Lee
+笑死
+G9
+08:23
+Gaara 911
+Sticker
+Not included, change data exporting settings to download.
+, 158.4 KB
+08:23
+[]
+L
+08:41
+Lucifer
+In reply to this message
+我在黄埔这边，大佬，这附近有啥好吃推荐没
+08:41
+在广州出差10几天
+G
+08:43
+Gnaiqux
+In reply to this message
+啥情况呢 蹲后续呢/
+S
+08:46
+S"
+In reply to this message
+https://t.me/esim_kim/242934
+08:46
+Sticker
+Not included, change data exporting settings to download.
+, 35.2 KB
+08:50
+6
+08:50
+那豈不是完全不限制了
+08:50
+~~反正三月也還沒出~~
+Co
+09:05
+Come on
+In reply to this message
+他回去了 重新买了个3HK卡正常有网络
+G
+T
+09:15
+Temperature of wind
+为啥不额外备一张HK 纯流量卡也不贵
+p记
+09:21
+px休息中 记得催我睡觉
+In reply to this message
+后续就是 已经坐在去深圳的高铁了
+09:21
+他妈的 白去
+祭梦
+09:22
+祭司 梦
+In reply to this message
+...
+09:22
+Sticker
+Not included, change data exporting settings to download.
+, 83.9 KB
+G
+09:22
+Gnaiqux
+In reply to this message
+为啥不现场买个流量卡呢
+09:24
+至少不亏 毕竟咖啡也喝了。
+Co
+09:27
+Come on
+他买了3HK 有网络了 回去了
+G
+09:28
+Gnaiqux
+真 到此一游
+Co
+09:29
+Come on
+p记
+09:29
+px休息中 记得催我睡觉
+我已经不想说话了
+09:29
+妈的
+09:29
+去深圳了
+SL
+09:35
+Stan Lee
+【livi】你已成功確認及更新你的資料。你的liviSave現已恢復，你可登入livi
+app繼續使用各項功能。
+09:36
+笑死
+Co
+09:41
+Come on
+In reply to this message
+？？啥原因
+SL
+09:42
+Stan Lee
+没啥原因，定期检查
+Co
+09:43
+Come on
+In reply to this message
+我没遇到
+SL
+09:43
+Stan Lee
+放心，会遇到的
+09:44
+ZA也会
+乾坤
+10:29
+乾 坤
+其实最简单快速的方法是开通三大运营商的漫游套餐，虽然有点贵但是可以应急。
+10:31
+上不了网怎么开红茶
+D?
+10:31
+Drink more hot oil 
+不是有Wi-Fi？
+乾坤
+10:32
+乾 坤
+他不是30分钟准备到期了才求助嘛
+10:33
+国内三大运营商本来就实名了啊
+10:33
+你去香港不带国内号码？
+10:34
+我说国内啊
+10:34
+你不带人家带啊
+10:35
+这都能杠
+SL
+10:38
+Stan Lee
+去之前流量就要准备好
+??
+10:40
+𝐇𝐢𝐨𝐬(𝐆𝐆) 🄼🅁 
+都是没出过门没经验惹的祸
+10:40
+Sticker
+Not included, change data exporting settings to download.
+, 42.8 KB
+10:40
+凡事都有第一次，下次他就不会再犯了
+SL
+10:41
+Stan Lee
+带了现金，去了也不至于搞不到网络
+??
+10:42
+𝐇𝐢𝐨𝐬(𝐆𝐆) 🄼🅁 
+他连开通港澳和国际漫游服务都不知道，直接就带着国内卡去香港
+10:42
+能有信号才怪
+乾坤
+10:43
+乾 坤
+͏͏
+10:43
+͏ ͏
+In reply to this message
+那也有办法
+10:43
+高铁站 地铁站公共wifi咯
+10:43
+买游客卡
+??
+10:44
+𝐇𝐢𝐨𝐬(𝐆𝐆) 🄼🅁 
+办法很多，奈何当事人一根筋不会啊
+͏͏
+10:44
+͏ ͏
+那有啥办法
+??
+10:44
+𝐇𝐢𝐨𝐬(𝐆𝐆) 🄼🅁 
+大活人在城市还能被尿憋死
+乾坤
+͏͏
+10:44
+͏ ͏
+在中国手机停机了
+10:44
+身边没网
+10:44
+不也差不多
+10:44
+现在还没公共wifi了
+Next messages

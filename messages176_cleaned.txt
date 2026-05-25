@@ -1,0 +1,3955 @@
+Esim.Kim中文交流群
+Previous messages
+27 March 2026
+?
+12:14
+𝓚𝓮𝓿𝓲𝓷
+现在不执着于甲骨文了，
+睡不
+12:15
+睡觉 不定时
+注册失败的一天
+?
+12:17
+𝓚𝓮𝓿𝓲𝓷
+In reply to this message
+甲骨文搞得我都不想折腾了，
+睡不
+12:18
+睡觉 不定时
+注册着玩
+?
+12:18
+𝓚𝓮𝓿𝓲𝓷
+In reply to this message
+就这个，我去年测试过。有一个月跑了1T的流量都屁事没有
+ls
+12:23
+li shan
+In reply to this message
+这个是什么
+?
+12:26
+𝓚𝓮𝓿𝓲𝓷
+snippets啊，跟大善人的workers差不多。不过这个好使一点
+12:27
+Deleted Account
+In reply to this message
+啥域名来着？
+12:27
+我不同后缀的，好像挺多的
+12:27
+In reply to this message
+之前也绑过
+?
+12:29
+𝓚𝓮𝓿𝓲𝓷
+[]
+去查吧，
+12:30
+在域名下面，
+斗湿
+12:30
+斗酒 湿百篇
+用这个搭节点吗？
+?
+12:30
+𝓚𝓮𝓿𝓲𝓷
+对啊
+斗湿
+12:31
+斗酒 湿百篇
+不如直接vps
+?
+12:32
+𝓚𝓮𝓿𝓲𝓷
+workers的10万请求够用的，但是woekers有断流的情况
+12:32
+Deleted Account
+是有，但是要会员
+?
+12:32
+𝓚𝓮𝓿𝓲𝓷
+In reply to this message
+snip也可以啊，指定ProxyIP不就行了
+12:34
+In reply to this message
+甲骨文是一门玄学，
+斗湿
+12:35
+斗酒 湿百篇
+我觉得没必要死磕龟壳
+12:35
+开成功也是说不定啥时候寄了
+非
+12:35
+非礼无视
+甲骨文我升级都是ABC
+12:35
+注册的话不用想了
+?
+12:35
+𝓚𝓮𝓿𝓲𝓷
+[]
+这个就是workers部署的节点，断流问题还是有点严重的
+非
+12:36
+非礼无视
+以前升级非常容易，现在升级都难
+12:36
+搞不懂甲骨文为什么不让升级
+12:36
+给他送钱的机会都不要
+C
+12:37
+Crypto
+和原注册IP地区一样应该能升级
+非
+12:37
+非礼无视
+成不成功与卡没关系，只要能扣款就证明卡是正常的
+12:38
+所有的资料都和原注册的IP地区卡保持一致，但升级还是ABC
+12:38
+所以说真是恶心得很
+?
+12:38
+𝓚𝓮𝓿𝓲𝓷
+In reply to this message
+都是去薅羊毛的
+斗湿
+12:38
+斗酒 湿百篇
+也可以搞个aws
+C
+12:38
+Crypto
+厉害了，就算升级成功也有封的概率
+非
+12:38
+非礼无视
+In reply to this message
+这个更恶心，马上水电单警告
+C
+12:39
+Crypto
+所以甲骨文只能嫖，要想资料安全的话，就不要选甲骨文
+G9
+12:39
+Gaara 911
+In reply to this message
+查不到30分钟
+12:39
+Sticker
+Not included, change data exporting settings to download.
+, 42.0 KB
+斗湿
+12:39
+斗酒 湿百篇
+还行吧
+非
+12:39
+非礼无视
+我是过了两天就来了水电单亚马逊的这个
+G9
+12:39
+Gaara 911
+In reply to this message
+之前是可以，最近你新注册试试
+12:39
+Sticker
+Not included, change data exporting settings to download.
+, 13.7 KB
+C
+12:40
+Crypto
+对的
+12:40
+主要是还没办法申诉
+G9
+12:40
+Gaara 911
+In reply to this message
+有人用招行外币卡验证的，上传了对账单也无法解封，就是这么霸道
+非
+12:40
+非礼无视
+In reply to this message
+很正常啊，亚马逊一直这样
+12:41
+只要触发了，基本上就挂
+12:41
+才不管你真实不真实
+斗湿
+12:41
+斗酒 湿百篇
+aws的那5个任务不是让你做的
+非
+12:41
+非礼无视
+我上传了水电单，信用卡账单还是给封了
+斗湿
+12:42
+斗酒 湿百篇
+是让你看的
+12:42
+什么数据库、ai模型
+12:42
+你开了
+12:42
+就是加风险
+非
+12:43
+非礼无视
+我做了五个
+12:43
+但是被封了，白做了也是
+斗湿
+12:44
+斗酒 湿百篇
+不是
+12:44
+我这是去年7月和8月开的
+C
+12:45
+Crypto
+aws直连体验确实无敌
+12:45
+甲骨文就是绕路
+斗湿
+12:45
+斗酒 湿百篇
+一个7刀一个12刀
+G9
+12:48
+Gaara 911
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 42.0 KB
+12:48
+Sticker
+Not included, change data exporting settings to download.
+, 41.7 KB
+C
+12:48
+Crypto
+和银行卡关系不大
+12:49
+运气
+斗湿
+12:49
+斗酒 湿百篇
+In reply to this message
+aws这种就是开号完成后开完机器，设好网络后，就再也不要登录管他了，最好连apikey也别创建
+M
+12:51
+Maruc5
+为什么不用真实信息
+12:52
+我用真实信息提交完水电单直接随便玩（）
+M
+12:52
+ Maki
+In reply to this message
+防止误食
+M
+12:52
+Maruc5
+这个孕妇可以吃吗
+12:52
+Sticker
+Not included, change data exporting settings to download.
+, 23.2 KB
+斗湿
+12:52
+斗酒 湿百篇
+不可以，吃完会放屁
+M
+12:52
+Maruc5
+那宝宝3个月可以吃吗
+12:53
+我家宝宝胎里素，奶都不喝
+12:53
+只吃米油
+12:53
+Sticker
+Not included, change data exporting settings to download.
+, 38.4 KB
+12:53
+快刷新然后显示超过限制
+12:54
+Sticker
+Not included, change data exporting settings to download.
+, 31.8 KB
+12:54
+你的账户名称下面是不是有一堆提示说不能这不能那的
+12:55
+我觉得大概率abc
+Rz
+12:58
+Reb zz
+我第三台一直没成功~
+12:58
+一台四年 一台两年了
+小
+12:59
+小学生
+In reply to this message
+哪里提示的？
+斗湿
+12:59
+斗酒 湿百篇
+那很不幸了
+M
+13:00
+Maruc5
+In reply to this message
+怎么和我猜的一样
+13:00
+Sticker
+Not included, change data exporting settings to download.
+, 151.6 KB
+13:01
+我唯一一次成功是在iPad上，用香港电信蓝卡的热点，修改语言到香港繁体然后用香港debit付款的（）
+13:02
+Sticker
+Not included, change data exporting settings to download.
+, 31.8 KB
+伍六
+13:04
+伍 六柒
+果子的概率高一点
+C
+13:05
+Crypto
+和卡真没关系，能扣款成功的卡都行
+G
+13:05
+GeneralPeople.
+懂了，用U卡
+M
+13:06
+ Maki
+In reply to this message
+支持
+C
+13:06
+Crypto
+啥卡都有成功的，都有失败的
+G
+13:06
+GeneralPeople.
+In reply to this message
+能过我吃
+睡不
+13:07
+睡觉 不定时
+你不要说过了
+G
+13:07
+GeneralPeople.
+cn卡=拒付
+睡不
+13:07
+睡觉 不定时
+下次准备换U卡试试
+人
+13:08
+人生若只
+睡不
+睡觉 不定时 27.03.2026 13:07:14
+你不要说过了
+G
+13:08
+GeneralPeople.
+我卡拒付呀
+C
+13:08
+Crypto
+你们别纠结了，不是卡的原因
+?
+13:08
+𝐖+Ɽ
+看脸的
+C
+13:08
+Crypto
+屁的关系
+?
+13:08
+𝐖+Ɽ
+肯定会啊
+G
+13:08
+GeneralPeople.
+中银借记Visa
+C
+13:08
+Crypto
+主要是符合组织的外币卡，都能行
+13:09
+借记卡也有成功的，存外币进去
+G
+13:09
+GeneralPeople.
+In reply to this message
+对的，我中银莫奈过了
+C
+13:10
+Crypto
+所以我说的不是卡的关系，玄学+运气，还有IP要纯净，就这些，多试试
+13:10
+填中文英文都有过的
+?
+13:11
+𝐖+Ɽ
+祝你好运！
+BL
+13:11
+Bruce Lee
+老哥们，可以激活时不插卡，直接激活成esim吗？
+C
+13:11
+Crypto
+晚上教程这么多，啥组合都列出来了的，依然是运气过
+13:11
+网上
+小
+13:11
+小学生
+In reply to this message
+可以
+?
+13:11
+𝐖+Ɽ
+In reply to this message
+除非你是原生机
+BL
+13:12
+Bruce Lee
+In reply to this message
+有教程吗？
+小
+13:12
+小学生
+没有
+?
+13:12
+𝐖+Ɽ
+嘻嘻
+C
+13:12
+Crypto
+只是最近甲骨文赏饭吃，略微有水
+?
+13:12
+𝐖+Ɽ
+坏坏的小学生
+小
+13:12
+小学生
+教程tb卖188
+G
+13:12
+GeneralPeople.
+不插卡咋激活？
+13:13
+只能写入而已吧
+?
+13:13
+𝐖+Ɽ
+abc正常
+13:13
+习惯就好
+13:14
+坚持就是胜利
+小
+13:14
+小学生
+别撸了，有哪时间赚点钱够买好多服务器了
+c
+13:14
+ccx
+In reply to this message
+只有美国的部分卡有avs验证吧
+13:14
+没见过其他地区卡支持avs验证的
+C
+13:15
+Crypto
+去买AWS吧，直连优化线路
+A
+13:15
+Algae
+In reply to this message
+地址
+C
+13:15
+Crypto
+甲骨文全球绕
+?
+13:15
+𝐖+Ɽ
+小撸怡情
+13:15
+好像不能发英文
+c
+13:15
+ccx
+In reply to this message
+地址验证服务
+?
+13:15
+𝐖+Ɽ
+签到也不可以
+A
+13:16
+Algae
+Address Verification System
+c
+13:16
+ccx
+不支持avs的卡，你账单地址填哪都行
+A
+13:16
+Algae
+In reply to this message
+水个十分钟
+?
+13:16
+𝐖+Ɽ
+我从早上到现在了
+c
+13:17
+ccx
+In reply to this message
+每日一试，说不定哪天就过了
+?
+13:17
+𝐖+Ɽ
+In reply to this message
+对确实
+13:18
+然后又退回来
+13:18
+接着再扣
+13:18
+哈哈哈
+风清
+13:19
+风 清
+那个访问口令是啥？
+E
+13:19
+Esim.Kim
+口令：288646
+?
+13:19
+𝐖+Ɽ
+288646
+13:19
+这个有什么含义吗
+13:20
+三个8
+13:20
+三个6
+13:20
+不是很香吗
+13:20
+In reply to this message
+会成功的
+c
+13:21
+ccx
+In reply to this message
+持之以恒，坚持不懈。我注册流程至少走了八九十次才成功
+?
+13:21
+𝐖+Ɽ
+这段时间论坛好多人都发图庆祝了
+c
+13:21
+ccx
+虽然后来也被封了
+13:22
+Deleted Account
+In reply to this message
+发的条数而已
+13:22
+群聊发了多少条消息，对应的就是多少
+13:23
+你现在点击消息，点击复制链接，那个数字也就是相应的口令
+13:23
+Deleted Account
+笑死，我拿wifi万能钥匙，破解了周围邻居wifi
+13:23
+挂梯子居然能跑到56mbps
+?
+13:23
+𝐖+Ɽ
+In reply to this message
+原来是这样子
+13:23
+初来乍到
+13:24
+还得学习
+13:24
+Deleted Account
+用邻居wifi挂梯子最爽了
+13:24
+出事要找找他
+?
+13:24
+𝐖+Ɽ
+In reply to this message
+破解了吧
+13:24
+Deleted Account
+ios破解的
+13:24
+然后还可以看到密码
+?
+13:24
+𝐖+Ɽ
+In reply to this message
+是哪个ap p
+13:25
+Deleted Account
+wifi万能钥匙
+13:25
+拿普通设备破解，破解完去wifi那边可以查看具体密码
+13:25
+Deleted Account
+那玩意到现在还有用？
+G
+13:25
+GeneralPeople.
+所谓的破解
+13:25
+Deleted Account
+然后拿密码到外版设备登陆
+13:25
+Deleted Account
+所谓的破解，不就是连过的人用过APP？
+13:25
+然后上传呗
+G
+13:25
+GeneralPeople.
+就是把别人把密码共享出来罢了
+13:25
+Deleted Account
+Sticker
+Not included, change data exporting settings to download.
+, 67.0 KB
+13:25
+Deleted Account
+我知道
+13:25
+Deleted Account
+恭喜你，你家的也被上传了
+13:26
+Sticker
+Not included, change data exporting settings to download.
+, 67.0 KB
+G
+13:26
+GeneralPeople.
+可能是知情的也可能是不知情的
+13:26
+Deleted Account
+就是别人上传了他的密码
+13:26
+Deleted Account
+In reply to this message
+下载了，你连过的就会上传
+13:26
+Deleted Account
+我拿流量使用的万能钥匙
+G
+13:26
+GeneralPeople.
+没root拿不到WiFi密码吧
+13:26
+Deleted Account
+你用这个app别连自己wifi
+G
+13:26
+GeneralPeople.
+还是得靠用户输入的
+13:26
+Deleted Account
+In reply to this message
+握手的时候读的来着
+?
+13:26
+𝐖+Ɽ
+恭喜你，你家的也被上传了
+姐
+13:26
+姐姐很咸呢
+abc是什么
+13:26
+Deleted Account
+In reply to this message
+报错
+13:27
+Deleted Account
+In reply to this message
+有没有可能，我没开wifi使用的
+?
+13:27
+𝐖+Ɽ
+In reply to this message
+不通过
+13:27
+完全不可能
+13:28
+Deleted Account
+In reply to this message
+一样可以拿密码，但是别开Wi-Fi，把原Wi-Fi密码清空就行了
+A
+?
+13:28
+𝐖+Ɽ
+是要别人用那个app
+ab
+13:28
+ao baba
+恭喜你，你家的也被上传了
+?
+13:28
+𝐖+Ɽ
+密码就会上传共享
+13:28
+Deleted Account
+是的
+13:28
+但是，别连接自己的wifi就不会
+13:29
+就算上传了，改密码后，万能钥匙也不知道
+13:30
+不一定是泄漏的，我一个老路由器，只要链接wifi，他就知道你目前的密码，改了也知道
+c
+13:30
+ccx
+In reply to this message
+现在的话似乎需要手动上传的
+?
+13:31
+𝐖+Ɽ
+In reply to this message
+以前用过
+13:31
+Deleted Account
+还是ios下用的app
+?
+13:31
+𝐖+Ɽ
+现在不清楚了
+13:31
+Deleted Account
+最稳妥就是开流量
+?
+13:31
+𝐖+Ɽ
+是的，流量都用不完
+13:31
+Deleted Account
+开流量用万能钥匙
+13:32
+[]
+13:32
+然后去设置里查看密码
+13:32
+给其他设备登陆Wi-Fi
+13:33
+然后准备一台二手外版机
+13:33
+链接上去
+?
+13:33
+𝐖+Ɽ
+你设备的好多呀
+13:34
+动作娴熟
+13:34
+流程到位
+13:34
+Deleted Account
+不买这么多设备玩什么
+?
+13:34
+𝐖+Ɽ
+In reply to this message
+你买的是谷歌的吗
+13:35
+Deleted Account
+日版iPhone
+13:35
+se、12、13
+?
+13:35
+𝐖+Ɽ
+业务繁忙啊
+G
+13:36
+GeneralPeople.
+好了，晚上到了，不聊甲骨文也不聊WiFi密码了
+13:36
+聊点黄的
+13:36
+Sticker
+Not included, change data exporting settings to download.
+, 12.1 KB
+?
+13:36
+𝐖+Ɽ
+听你聊
+G
+13:36
+GeneralPeople.
+In reply to this message
+不搞基
+?
+13:36
+𝐖+Ɽ
+灯光师
+13:37
+摄影师
+13:37
+都已就位
+13:37
+请开始你的表演
+13:38
+羡慕死了
+?
+13:39
+𝘡𝘘𝘕𝘕
+没有的呢
+13:40
+拿pp可以吗
+SL
+13:40
+Stan Lee
+牛逼
+?
+13:41
+𝐖+Ɽ
+SL
+Stan Lee 27.03.2026 13:40:35
+牛逼
+SL
+13:42
+Stan Lee
+59668867
+?
+13:42
+🄷🄰🅂🅂🅈
+In reply to this message
+我也一眼
+13:42
+看到这个
+?
+13:42
+𝘡𝘘𝘕𝘕
+拿下
+13:43
+In reply to this message
+都说被别人拿下了
+13:44
+升级一下
+E
+13:45
+Ensoleile
+买不了 没名额了
+13:45
+Sticker
+Not included, change data exporting settings to download.
+, 30.1 KB
+?
+13:45
+𝘡𝘘𝘕𝘕
+6个6
+13:45
+值多少钱
+13:46
+31收了
+13:46
+Deleted Account
+In reply to this message
+假如一台没用过自己社交软件app，且没查过卡sim卡，没绑定imei、mac地址、还开了tor出口节点的外版设备，如何破解
+?
+13:47
+𝘡𝘘𝘕𝘕
+咱们拼不过服务器的
+13:48
+我不追求靓号
+13:48
+不要的给我就好
+小
+13:49
+小学生
+In reply to this message
+新号放出来，总会有一个人先刷到
+W
+13:51
+William
+In reply to this message
+推荐什么。网站都不支持下单。
+13:51
+只能看着你们科技佬自己下单了
+ab
+13:51
+ao baba
+可以抽奖了
+W
+13:51
+William
+60449996 这个其实还不错
+?
+13:52
+𝘡𝘘𝘕𝘕
+只能看着你们科技佬下单了
+ab
+13:52
+ao baba
+你们追求靓号有什么用
+?
+13:52
+𝘡𝘘𝘕𝘕
+咱们小百姓，养养眼就好
+W
+13:53
+William
+有5A记得卖给我啊。
+13:54
+In reply to this message
+我出2000人民币，我要5A。其他都不要了
+13:54
+中间5A好像还没出现过吧
+人
+13:55
+人生若只
+羡慕吃灰
+SL
+13:56
+Stan Lee
+[]
+W
+13:56
+William
+出5A记得卖给我
+13:57
+对4A已经失去兴趣了
+SL
+13:57
+Stan Lee
+In reply to this message
+很少
+13:57
+我还有一个6686开头的号码，自己留了
+W
+13:58
+William
+5566778x这个号就很好啊，谁卖给tnt了
+?
+13:58
+𝘡𝘘𝘕𝘕
+非常养眼
+SL
+13:59
+Stan Lee
+[]
+看到这个号码，立马让我的AI启动了项目
+睡不
+14:00
+睡觉 不定时
+羡慕嫉妒恨
+小
+14:03
+小学生
+抽取白名单幸运儿
+p
+14:03
+pppp
+啊
+G
+14:03
+GeneralPeople.
+啊？
+14:03
+怎么是我
+p
+14:03
+pppp
+啊？
+p
+14:04
+pppp
+Z
+Z 27.03.2026 14:03:59
+怎么是你
+G
+14:04
+GeneralPeople.
+G
+GeneralPeople. 27.03.2026 14:03:55
+怎么是我
+小
+14:04
+小学生
+抽取白名单幸运儿
+p
+14:04
+pppp
+不开心
+E
+14:04
+Ensoleile
+幸运下
+p
+14:04
+pppp
+嘿嘿
+E
+14:04
+Ensoleile
+中一次
+p
+14:04
+pppp
+不幸儿来了
+G
+14:04
+GeneralPeople.
+没关注可还行
+E
+14:04
+Ensoleile
+Sticker
+Not included, change data exporting settings to download.
+, 14.1 KB
+SL
+14:04
+Stan Lee
+In reply to this message
+是6686
+ls
+14:04
+li shan
+In reply to this message
+发短信了
+p
+14:05
+pppp
+不要可以给我啊 不用这样
+小
+14:05
+小学生
+In reply to this message
+截图看看
+W
+14:05
+William
+[]
+我手动刷，和你们科技佬拼了
+G
+14:05
+GeneralPeople.
+In reply to this message
+还有传统手艺人
+SL
+14:05
+Stan Lee
+In reply to this message
+我还有一个6686开头的号码，自己留了
+W
+14:06
+William
+In reply to this message
+哈哈，是的，手艺人，单身30年的手速还是可以的
+p
+14:06
+pppp
+羡慕手艺人
+G9
+14:06
+Gaara 911
+Sticker
+Not included, change data exporting settings to download.
+, 52.9 KB
+人
+14:06
+人生若只
+羡慕手艺人！
+ls
+14:06
+li shan
+[]
+G9
+14:06
+Gaara 911
+我也要冲了
+ab
+14:06
+ao baba
+拿出你撸管时的手速，跟科技佬一绝高下
+Jo
+14:07
+JOJO one
+抽啥
+A
+14:07
+Azure
+In reply to this message
+机器人不反应，是黑名单了吗
+p
+14:07
+pppp
+In reply to this message
+你当电闸分子了？
+ls
+14:07
+li shan
+我就昨天免流测了个速啊
+G
+14:07
+GeneralPeople.
+hk的保号不便宜呀
+p
+14:08
+pppp
+In reply to this message
+抽了
+14:08
+Sticker
+Not included, change data exporting settings to download.
+, 6.4 KB
+G9
+14:08
+Gaara 911
+Sticker
+Not included, change data exporting settings to download.
+, 31.8 KB
+G
+14:08
+GeneralPeople.
+除了那个club
+14:08
+其他都要十几块
+p
+14:08
+pppp
+我的已经凉了
+G
+14:09
+GeneralPeople.
+卖给李嘉诚
+14:09
+他要
+?
+14:09
+𝐖+Ɽ
+跟科技佬一绝高下
+p
+14:09
+pppp
+ben要啊
+14:09
+这不是在问你
+14:10
+In reply to this message
+你手上的voxi也不少啊 凉了一个两个不影响
+G
+14:10
+GeneralPeople.
+In reply to this message
+一个月一杯我也负担不起
+14:10
+一年一杯还说能接受的
+p
+14:11
+pppp
+看来是真爱
+14:11
+可以毕业了
+G
+14:12
+GeneralPeople.
+那就是club
+伍六
+14:12
+伍 六柒
+[]
+p
+14:12
+pppp
+你毕业了就把你的科技拿给我用吧 我还没毕业
+14:12
+Sticker
+Not included, change data exporting settings to download.
+, 6.4 KB
+W
+14:12
+William
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 36.1 KB
+M
+14:12
+ Maki
+In reply to this message
+薅不了了吧
+小
+14:13
+小学生
+In reply to this message
+你发的啥？
+W
+14:13
+William
+In reply to this message
+那个时候群里还没有科技佬
+人
+14:14
+人生若只
+p
+pppp 27.03.2026 14:12:11
+你毕业了就把你的科技拿给我用吧 我还没毕业
+A
+14:14
+Azure
+In reply to this message
+只有以前发过start，应该发什么
+伍六
+14:14
+伍 六柒
+@ben_id 快帮我撸个号
+ls
+14:14
+li shan
+没护照只能看着喜欢的号码买不了
+AA
+14:15
+Ad Astra
+你毕业了就把你的科技拿给我用吧 我还没毕业
+小
+14:15
+小学生
+你没事干你想发什么？
+14:15
+pm
+14:15
+bmd
+p
+14:15
+pppp
+[]
+14:15
+这几把ypt被人拿去当验证卡了？
+小
+14:15
+小学生
+抽取白名单幸运儿
+E
+14:16
+Ensoleile
+In reply to this message
+泄露了
+p
+14:16
+pppp
+我擦
+14:16
+今天又是一个不中吗
+Jo
+14:16
+JOJO one
+6
+E
+14:16
+Ensoleile
+我才是没中过
+p
+14:16
+pppp
+反正里面没钱
+14:16
+无所谓了
+小
+14:16
+小学生
+抽取白名单幸运儿
+人
+14:16
+人生若只
+我才是没中过
+p
+14:16
+pppp
+体验金也没有
+E
+14:16
+Esim.Kim
+恭喜  幸运儿 成为本次送eSIM活动的中奖者
+小
+14:16
+小学生
+抽取白名单幸运儿
+E
+14:16
+Esim.Kim
+恭喜  幸运儿 成为本次送eSIM活动的中奖者
+p
+14:16
+pppp
+又只有羡慕的份了
+小
+14:16
+小学生
+抽取白名单幸运儿
+E
+14:16
+Esim.Kim
+恭喜  幸运儿 成为本次送eSIM活动的中奖者
+p
+14:17
+pppp
+黑幕
+14:17
+居然抽自己
+M
+14:17
+ Maki
+In reply to this message
+……
+E
+14:17
+Ensoleile
+我说 美景白名单中不了
+M
+14:17
+ Maki
+In reply to this message
+黑幕
+G
+14:17
+GeneralPeople.
+我来证明
+14:17
+不是黑幕
+C
+14:17
+Crypto
+羡慕
+G
+14:17
+GeneralPeople.
+因为已经抽到我了
+A
+14:17
+Azure
+中了两个？
+G
+14:17
+GeneralPeople.
+Sticker
+Not included, change data exporting settings to download.
+, 9.8 KB
+Jo
+14:17
+JOJO one
+科技
+p
+14:17
+pppp
+瓦先生连中两个
+?
+14:17
+𝐖+Ɽ
+黑幕
+人
+14:17
+人生若只
+丢给我
+p
+14:17
+pppp
+更黑
+A
+14:17
+Azure
+黑幕
+W
+14:17
+William
+[]
+我这是中了2个？
+小
+14:17
+小学生
+抽取白名单幸运儿
+E
+14:17
+Esim.Kim
+恭喜  幸运儿 成为本次送eSIM活动的中奖者
+E
+14:17
+Ensoleile
+ypt新卡不行
+M
+14:17
+ Maki
+Sticker
+Not included, change data exporting settings to download.
+, 34.0 KB
+p
+14:17
+pppp
+In reply to this message
+是的
+A
+14:17
+Azure
+esim活动是发什么
+E
+14:18
+Ensoleile
+泄露
+C
+14:18
+Crypto
+羡慕
+人
+14:18
+人生若只
+ypt垃圾
+ls
+14:18
+li shan
+终于轮到我了？
+p
+14:18
+pppp
+一点都不黑幕了
+?
+14:18
+𝐖+Ɽ
+羡慕
+p
+14:18
+pppp
+Sticker
+Not included, change data exporting settings to download.
+, 6.4 KB
+E
+14:18
+Ensoleile
+@s89hk 能送一个吗
+K
+14:18
+King
+黑幕了
+E
+14:18
+Ensoleile
+Sticker
+Not included, change data exporting settings to download.
+, 30.1 KB
+W
+14:18
+William
+In reply to this message
+屌爆了。发财了
+人
+14:18
+人生若只
+中一个吧
+C
+14:18
+Crypto
+你们能不能不要中了
+p
+14:18
+pppp
+之前只是看到你们的ypt被盗刷
+14:18
+今天我的就中招了
+AR
+14:18
+An Ran
+让我看看你们在干嘛
+W
+14:19
+William
+In reply to this message
+水群吧少年。
+?
+14:19
+𝐖+Ɽ
+恭喜你
+睡不
+14:19
+睡觉 不定时
+？
+AY
+14:19
+Abraham Yang
+just esim
+人
+14:19
+人生若只
+！
+睡不
+14:19
+睡觉 不定时
+看到你们中了而我没中我很难受啊
+AR
+14:19
+An Ran
+我之前解冻，秒被刷
+人
+14:19
+人生若只
+你昨夜中了
+AY
+14:19
+Abraham Yang
+https://app.justesim.com/?promocode=2S7Y2U2U
+M
+14:19
+ Maki
+送白名单
+14:19
+Sticker
+Not included, change data exporting settings to download.
+, 147.3 KB
+AR
+14:19
+An Ran
+太离谱了
+C
+14:19
+Crypto
+还抽吗，不抽我就碎了
+Jo
+14:19
+JOJO one
+羡慕
+G
+14:19
+GeneralPeople.
+loop是不是有效期就一个月
+p
+14:19
+pppp
+In reply to this message
+这是啥
+睡不
+14:19
+睡觉 不定时
+[]
+AR
+14:19
+An Ran
+羡慕
+M
+14:19
+ Maki
+In reply to this message
+xm什么
+人
+14:20
+人生若只
+机会留给我们吧
+G
+14:20
+GeneralPeople.
+voxi才是300天
+?
+14:20
+𝐖+Ɽ
+xm什么
+AR
+14:20
+An Ran
+不知道是啥
+睡不
+14:20
+睡觉 不定时
+本来想注册个AI玩。。。结果不给注册
+p
+14:20
+pppp
+In reply to this message
+新卡
+AR
+14:20
+An Ran
+我之前是旧卡 visa
+伍六
+14:20
+伍 六柒
+舒服了。连拿三个3hk
+ls
+14:20
+li shan
+In reply to this message
+下单了能用吗
+AR
+14:20
+An Ran
+黑幕
+AY
+14:21
+Abraham Yang
+In reply to this message
+撸3天250m
+p
+14:21
+pppp
+250m
+14:21
+我懒得动手
+14:21
+Deleted Account
+In reply to this message
+正
+14:21
+这种卡多的是
+G
+14:21
+GeneralPeople.
+我ypt也是被盗刷了
+AR
+14:21
+An Ran
+还能撸带号码的卡吗
+G
+14:21
+GeneralPeople.
+还是亚马逊的账单
+人
+14:21
+人生若只
+我ypt也是被盗刷了
+G
+14:21
+GeneralPeople.
+每个月都扣一笔
+睡不
+14:21
+睡觉 不定时
+？
+p
+14:21
+pppp
+In reply to this message
+没给谁啊
+AY
+14:22
+Abraham Yang
+可以无限
+G
+14:22
+GeneralPeople.
+又因为没钱
+AR
+14:22
+An Ran
+没门路
+p
+14:22
+pppp
+In reply to this message
+哪里ip
+G
+14:22
+GeneralPeople.
+所以扣拒付费
+AR
+14:22
+An Ran
+求带带
+G9
+14:22
+Gaara 911
+In reply to this message
+你还放钱啊，不用的时候划转下
+G
+14:22
+GeneralPeople.
+现在快-10u了
+14:22
+没钱的
+G9
+14:22
+Gaara 911
+In reply to this message
+是吗，可惜我开不出来，很坏的
+G
+14:22
+GeneralPeople.
+我也是当验证卡
+AR
+14:22
+An Ran
+刚到了一张 estk
+G9
+14:22
+Gaara 911
+Sticker
+Not included, change data exporting settings to download.
+, 37.9 KB
+p
+14:22
+pppp
+新卡不扣拒付费
+小
+14:22
+小学生
+免流开起来
+p
+14:23
+pppp
+但是感觉很垃圾
+人
+14:23
+人生若只
+In reply to this message
+多少钱
+p
+14:23
+pppp
+In reply to this message
+新卡没有3ds
+AR
+14:23
+An Ran
+好像 0 刀没有
+E
+14:23
+Ensoleile
+In reply to this message
+用起来有点卡
+14:23
+延迟太高了
+p
+14:23
+pppp
+ypt那个新卡voxi验卡都验不过 拿来做啥
+E
+14:24
+Ensoleile
+抖音都不开
+p
+14:24
+pppp
+ben佬那个节点要好些
+G9
+14:24
+Gaara 911
+In reply to this message
+是吗，旧卡是可以的，新卡这么垃圾吗
+14:24
+MD
+E
+14:24
+Ensoleile
+In reply to this message
+可以过谷歌
+AR
+14:24
+An Ran
+用了 85 折优惠
+伍六
+14:24
+伍 六柒
+ypt最多盗刷的
+AR
+14:24
+An Ran
+过年没多带几张
+伍六
+14:24
+伍 六柒
+还有oboc
+G
+14:24
+GeneralPeople.
+In reply to this message
+谷歌的啥？谷歌云？
+G9
+14:24
+Gaara 911
+In reply to this message
+Google one吧。很容易过，
+14:24
+有钱就可以
+ls
+14:24
+li shan
+In reply to this message
+可以，在哪下单，我看3hk.miillk没名额
+G9
+14:24
+Gaara 911
+扣钱的事儿
+G
+14:25
+GeneralPeople.
+Google one有一些账号是要扣钱验证的
+G9
+14:25
+Gaara 911
+In reply to this message
+你咋开这么多新卡呢，你好
+E
+14:25
+Ensoleile
+In reply to this message
+好像是那个满18岁验证啥来着
+AR
+14:25
+An Ran
+u 卡，撸了。发现也没啥用
+E
+14:25
+Ensoleile
+上次我验证了下
+K
+14:25
+King
+In reply to this message
+还绑氦气移动的吗
+14:25
+现在0计划也有税费
+G9
+14:26
+Gaara 911
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 49.1 KB
+p
+14:26
+pppp
+验证的谷歌啥玩意 我不知道是不是我自己绑的了
+ab
+14:26
+ao baba
+我要中奖
+AR
+14:26
+An Ran
+是不是有个签到群可以 loop 的
+K
+14:26
+King
+谷歌学生可以验证
+p
+14:26
+pppp
+这几天没动过那张卡 发展就这一次
+14:27
+In reply to this message
+那个凉了
+未
+14:27
+未实名用户
+我的德国沃达丰终于找回来了
+W
+14:27
+William
+[]
+咋回事，姿势不对么
+G9
+14:27
+Gaara 911
+[]
+这个很简单，很多卡都可以
+G
+14:27
+GeneralPeople.
+In reply to this message
+客服给你了？
+K
+14:27
+King
+[]
+这个每次进去右上角今日名额都是0
+AR
+14:27
+An Ran
+In reply to this message
+好吧
+人
+14:27
+人生若只
+In reply to this message
+被使用了吧
+ls
+14:28
+li shan
+In reply to this message
+我也觉得
+E
+14:28
+Ensoleile
+In reply to this message
+没啥卵用 没名额
+伍六
+14:28
+伍 六柒
+60796073 这个没人要嘛
+未
+14:28
+未实名用户
+In reply to this message
+直接网页就能查询新的了
+G9
+14:28
+Gaara 911
+In reply to this message
+自己kyc啊，不太安全吧
+14:28
+Sticker
+Not included, change data exporting settings to download.
+, 37.9 KB
+K
+14:28
+King
+In reply to this message
+没名额了
+14:28
+咋下单
+E
+14:28
+Ensoleile
+In reply to this message
+这个cn过不了kyc吧
+G
+14:28
+GeneralPeople.
+In reply to this message
+看来沃达丰还没死
+未
+14:29
+未实名用户
+In reply to this message
+收费的
+14:29
+5欧。。。
+睡不
+14:29
+睡觉 不定时
+？？？
+G
+14:29
+GeneralPeople.
+那没事了
+来
+14:29
+来都来了
+有没有单独接码保号的推荐
+AR
+14:29
+An Ran
+接听，问问要干嘛
+p
+14:29
+pppp
+AR
+An Ran 27.03.2026 14:29:20
+接听，问问要干嘛
+来
+14:29
+来都来了
+除了giffgaff
+14:29
+没别的了吗
+G9
+14:29
+Gaara 911
+In reply to this message
+需要P照片吧
+A
+14:29
+Azure
+In reply to this message
+带带吧
+W
+14:29
+William
+In reply to this message
+不是，NLPA M的问题好像。用ESTK APP就安装成功了
+p
+14:29
+pppp
+打过去 尝尝咸淡
+K
+14:29
+King
+沃系
+E
+14:29
+Ensoleile
+In reply to this message
+要人脸
+M
+14:30
+ Maki
+In reply to this message
+问我干嘛，我说群主送的是白名单，不必xm
+睡不
+14:30
+睡觉 不定时
+更蓝瘦了
+M
+14:30
+ Maki
+Sticker
+Not included, change data exporting settings to download.
+, 89.4 KB
+p
+14:30
+pppp
+不能cn资料啊 水卡？
+人
+14:30
+人生若只
+In reply to this message
+好的呢
+未
+14:30
+未实名用户
+9esim的APP真是神奇，鸿蒙的每次打开都提示升级，安卓的检查也没有新版本
+p
+14:30
+pppp
+不就套壳安卓吗 他还能玩出花来
+p
+14:30
+pppp
+A
+Arc 27.03.2026 14:30:28
+有没有二三四手的estk我接盘
+AR
+14:30
+An Ran
+去 ns 问问
+未
+14:31
+未实名用户
+鸿蒙是出境易里的版本
+14:31
+鸿蒙6.0
+14:31
+没试过，就是装上了，一会我试试
+K
+14:31
+King
+3uk免流的host混淆是啥
+未
+14:31
+未实名用户
+理论上和正常的APP一样
+W
+14:32
+William
+In reply to this message
+安卓也经常升级,就是NekokoLPA改了个LOGO吧
+伍六
+14:32
+伍 六柒
+不能再买了，再买携号成本就高了
+AR
+14:32
+An Ran
+这么多
+未
+14:32
+未实名用户
+In reply to this message
+加上了他自己的商城
+K
+14:33
+King
+Sticker
+Not included, change data exporting settings to download.
+, 5.5 KB
+14:33
+好像只能丢了，转别人能行吗
+伍六
+14:34
+伍 六柒
+In reply to this message
+可以
+W
+14:34
+William
+香港我买了起码15个-20个了。只留了2-3个
+伍六
+14:34
+伍 六柒
+把码给他。让他自己实名完转csl
+K
+14:35
+King
+不是说只能同实名账户迁转的吗
+p
+14:35
+pppp
+让他自己实名不就得了
+睡不
+14:35
+睡觉 不定时
+[]
+我谷歌账号不知道怎么跑日本去了。。刚才去改了下
+伍六
+14:35
+伍 六柒
+In reply to this message
+实名携转csl啊
+AR
+14:36
+An Ran
+德沃转移是会给新码吗
+p
+14:36
+pppp
+In reply to this message
+应该是旧码
+AR
+14:36
+An Ran
+那就很神奇了
+14:37
+我删了之后。旧码也下载成功了
+14:37
+结果没信号
+W
+14:37
+William
+59669876 这号不错啊。是不是被下单走了？
+AR
+14:37
+An Ran
+还以为我欠 5 欧不给我用了
+14:37
+赶紧充了 5 欧
+14:37
+还是不行
+14:38
+结果进 app 看，一个新码躺在里面
+p
+14:38
+pppp
+这还能欠费吗
+G9
+14:38
+Gaara 911
+Sticker
+Not included, change data exporting settings to download.
+, 255.9 KB
+W
+14:38
+William
+In reply to this message
+这号可以拿下的。
+伍六
+14:38
+伍 六柒
+In reply to this message
+没了
+W
+14:39
+William
+我太多了。不然这种我肯定要整下来
+p
+14:39
+pppp
+群里3hk选号是谁的网站啊 下不了单
+G9
+14:39
+Gaara 911
+In reply to this message
+改成中国了吗
+14:39
+不错
+14:39
+说明你爱国
+睡不
+14:40
+睡觉 不定时
+In reply to this message
+6啊
+M
+14:40
+ Maki
+In reply to this message
+14:40
+In reply to this message
+http://www.naenara.com.kp/
+AR
+14:40
+An Ran
+要爱国
+ab
+14:40
+ao baba
+呵呵
+p
+14:40
+pppp
+中东佬跑着进货来了
+G9
+14:41
+Gaara 911
+Sticker
+Not included, change data exporting settings to download.
+, 48.6 KB
+伍六
+14:41
+伍 六柒
+网站号码一片黄
+ab
+14:41
+ao baba
+怎么分辨出中东老
+伍六
+14:41
+伍 六柒
+难怪群里人少了
+14:41
+Deleted Account
+In reply to this message
+一开口就看出来了
+B
+14:42
+Big
+In reply to this message
+羡慕onenz和Aldi（虽然我有
+伍六
+14:43
+伍 六柒
+56622113
+56611774
+56644339
+14:45
+In reply to this message
+这不白瞎了，明天给你十块钱，号码给我，哈哈哈
+14:45
+今天最中意的号码64733733
+14:46
+In reply to this message
+买到了
+14:46
+明天转三个去csl
+法
+14:46
+法老-英国
+赛道还没崩吗
+p
+14:46
+pppp
+[]
+伍六
+14:46
+伍 六柒
+In reply to this message
+刚下播，登上去一看，我嘞个乖乖
+14:46
+全是优质号码
+14:47
+可以倒卖去了
+斗湿
+14:47
+斗酒 湿百篇
+羡慕倒卖
+法
+14:47
+法老-英国
+我香港号码已经缩减到2个了
+14:47
+一个3万 一个csl
+伍六
+14:47
+伍 六柒
+59755933
+14:48
+In reply to this message
+容易被上门
+斗湿
+14:48
+斗酒 湿百篇
+94242429
+14:48
+是时候上架了
+ab
+14:48
+ao baba
+怕啥
+14:48
+上门给你送温暖
+14:49
+奥地利是不是封神了
+伍六
+14:50
+伍 六柒
+In reply to this message
+是的
+14:50
+神中神
+斗湿
+14:50
+斗酒 湿百篇
+In reply to this message
+这种号码能在线一个月就不错了
+伍六
+14:50
+伍 六柒
+死了就是
+斗湿
+14:50
+斗酒 湿百篇
+也有可能本月底就清了
+未
+14:51
+未实名用户
+In reply to this message
+正常删除通知运营商，可以用新的esim扫描之前下卡的那个二维码，我是误删除，没有通知运营商，就没办法转移，只能找客服生成新的码，这种就是新的
+人
+14:51
+人生若只
+奥神
+14:53
+大声告诉我们
+AR
+14:53
+An Ran
+后台看看激活状态
+14:53
+我之前就是找客服帮我挂失了
+14:53
+扣了 5 欧
+14:53
+妈耶
+14:54
+之前我用小白卡，删除没给我发。
+未
+14:54
+未实名用户
+In reply to this message
+我这种不是旧，完全就是一个新的二维码和激活码
+ls
+14:54
+li shan
+8943108167002055250
+14:55
+43算号的还有吗
+未
+14:55
+未实名用户
+我刚对比完
+p
+14:55
+pppp
+In reply to this message
+发给机器人
+未
+14:55
+未实名用户
+我的是重新发的新的
+AR
+14:55
+An Ran
++43 678 4988 5535
+ls
+14:55
+li shan
+没毛病，但收不到pdd的验证码
+未
+14:56
+未实名用户
+奥地利那个还能下载么？
+i
+14:56
+incognito
+我2a都没有
+14:56
+你嫌弃他4a
+AR
+14:56
+An Ran
+还可以
+G
+14:57
+GeneralPeople.
+例如
+14:57
+打电话发短信么
+SL
+14:57
+Stan Lee
+In reply to this message
+需要可以去bot下单
+AR
+14:57
+An Ran
+这个好
+p
+14:57
+pppp
+In reply to this message
+bot在哪里
+SL
+14:57
+Stan Lee
+1U告诉你
+AR
+14:57
+An Ran
+哈哈哈
+SL
+14:58
+Stan Lee
+Sticker
+Not included, change data exporting settings to download.
+, 19.7 KB
+p
+14:58
+pppp
+不要了
+14:58
+不要了
+人
+14:58
+人生若只
+Sticker
+Not included, change data exporting settings to download.
+, 154.2 KB
+G
+14:58
+GeneralPeople.
+我咧个现实
+人
+14:58
+人生若只
+In reply to this message
+已经找了
+14:58
+Deleted Account
+话说奥地利关门了没？
+人
+14:58
+人生若只
+0u
+14:58
+Deleted Account
+我都没碰了都
+14:58
+Sticker
+Not included, change data exporting settings to download.
+, 7.3 KB
+p
+14:58
+pppp
+In reply to this message
+关了
+SL
+14:58
+Stan Lee
+In reply to this message
+羡慕赚钱
+14:59
+Deleted Account
+In reply to this message
+没信号，还是咋说？
+p
+14:59
+pppp
+港号对我没啥用 还花钱 不符合我白嫖的气质
+AR
+14:59
+An Ran
++1
+14:59
+我只想白嫖
+p
+14:59
+pppp
+有个3万有个3hk 参与过就够了
+14:59
+In reply to this message
+活动凉了
+人
+14:59
+人生若只
+z佬只有银行
+AR
+15:00
+An Ran
+看不懂
+15:01
+我幼儿园
+15:01
+Sticker
+Not included, change data exporting settings to download.
+, 25.7 KB
+15:01
+中东佬也玩这个
+15:02
+Deleted Account
+In reply to this message
+哦，就界面没了呗，那没事
+15:02
+号没丢就行
+15:02
+还是说已有的也关了？
+p
+15:02
+pppp
+中东佬心里只有免流
+15:03
+已有的正常
+AR
+15:03
+An Ran
+正常吧，刚好我还启用了一个
+15:04
+都没好号码
+G9
+15:04
+Gaara 911
+Sticker
+Not included, change data exporting settings to download.
+, 255.9 KB
+15:04
+In reply to this message
+我给你打
+15:04
+Sticker
+Not included, change data exporting settings to download.
+, 48.6 KB
+G
+15:04
+GeneralPeople.
+这是外国人吧
+SL
+15:04
+Stan Lee
+In reply to this message
+这能过3HK？
+G
+15:05
+GeneralPeople.
+给我干哪来了
+p
+15:05
+pppp
+In reply to this message
+你这对吗
+纸旧
+15:05
+纸船 旧
+In reply to this message
+这个之前用过
+15:05
+还是us的身份证
+15:05
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+伍六
+15:05
+伍 六柒
+选号网站已经没有好号码了
+SL
+15:05
+Stan Lee
+t
+tnt 27.03.2026 15:05:18
+3hk不是傻子
+A
+15:05
+Azure
+In reply to this message
+典中典
+p
+15:05
+pppp
+In reply to this message
+你又活过来了
+A
+15:06
+Azure
+In reply to this message
+话说，你这个名字，是以前天天发技师的那个人吗
+p
+15:06
+pppp
+In reply to this message
+嗯？
+l
+15:06
+lives
+鱼鱼真
+A
+15:06
+Azure
+Sticker
+Not included, change data exporting settings to download.
+, 34.6 KB
+15:07
+那就是我认错了吧
+小
+15:07
+小学生
+In reply to this message
+有么有可能他就是技师
+p
+15:07
+pppp
+小
+小学生 27.03.2026 15:07:26
+有么有可能他就是技师
+斗湿
+15:07
+斗酒 湿百篇
+小
+小学生 27.03.2026 15:07:26
+有么有可能他就是技师
+?
+15:07
+𝐖+Ɽ
+In reply to this message
+同平台不用
+SL
+15:08
+Stan Lee
+今天放了那么多号
+p
+15:08
+pppp
+还有7000多个号 群友们快去买
+伍六
+15:09
+伍 六柒
+In reply to this message
+靓号全黄
+15:09
+ypt的退款已经一周了还没退回来
+15:09
+镇傻逼
+15:10
+2022 250
+p
+15:10
+pppp
+Z
+Z 27.03.2026 15:10:36
+2022年2月50号的群友上
+斗湿
+15:10
+斗酒 湿百篇
+Z
+Z 27.03.2026 15:10:36
+2022年2月50号的群友上
+睡不
+15:10
+睡觉 不定时
+50...
+15:11
+这个生日好特别
+p
+15:12
+pppp
+又bug了
+15:12
+[]
+15:12
+又叠在一起了
+睡不
+15:12
+睡觉 不定时
+..
+小
+15:12
+小学生
+正常
+祭梦
+15:12
+祭司 梦
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 18.2 KB
+小
+15:12
+小学生
+返回重新进
+C
+15:12
+Crypto
+第三方bug多
+p
+15:13
+pppp
+paly商店下的啊
+15:13
+中文包也算是第三方吗
+15:13
+哎卧槽
+15:13
+暴露我没上过学的事实了
+C
+15:14
+Crypto
+neko我也遇到过的
+15:14
+消息错位
+G9
+15:14
+Gaara 911
+In reply to this message
+怎么还玉玉
+p
+15:14
+pppp
+遇到过两次叠在一起
+G
+15:14
+GeneralPeople.
+Sticker
+Not included, change data exporting settings to download.
+, 17.4 KB
+伍六
+15:14
+伍 六柒
+In reply to this message
+沃日，谁给我的那个后缀
+15:14
+我才知道有后缀了
+祭梦
+15:15
+祭司 梦
+In reply to this message
+去
+p
+15:15
+pppp
+你是白帽子 自己设置的吧
+祭梦
+15:15
+祭司 梦
+一别去
+G
+15:15
+GeneralPeople.
+8964！到！
+伍六
+15:15
+伍 六柒
+In reply to this message
+不是啊
+G
+15:15
+GeneralPeople.
+Sticker
+Not included, change data exporting settings to download.
+, 34.3 KB
+p
+15:15
+pppp
+In reply to this message
+你是绿帽子
+G9
+15:15
+Gaara 911
+In reply to this message
+额
+15:15
+绿帽奴
+斗湿
+15:17
+斗酒 湿百篇
+老登还玩tg
+祭梦
+15:17
+祭司 梦
+Sticker
+Not included, change data exporting settings to download.
+, 24.3 KB
+15:17
+不高兴
+G
+15:17
+GeneralPeople.
+还有老资历
+15:17
+Sticker
+Not included, change data exporting settings to download.
+, 29.1 KB
+G9
+15:17
+Gaara 911
+In reply to this message
+看看片是不是会好些
+15:17
+Sticker
+Not included, change data exporting settings to download.
+, 37.9 KB
+p
+15:17
+pppp
+A
+Arc 27.03.2026 15:17:37
+xm老资历
+p
+15:17
+pppp
+In reply to this message
+你这对吗
+15:18
+把车开起来
+斗湿
+15:18
+斗酒 湿百篇
+出来之前都是不好的
+p
+15:18
+pppp
+今天我要当水王
+斗湿
+15:18
+斗酒 湿百篇
+需要狠狠的入
+p
+15:18
+pppp
+昨晚上就差二十条消息
+15:19
+In reply to this message
+萎了就明说
+15:19
+Sticker
+Not included, change data exporting settings to download.
+, 18.3 KB
+15:19
+群友不会笑你的
+睡不
+15:19
+睡觉 不定时
+咳咳
+p
+15:20
+pppp
+E
+Esim.Kim 27.03.2026 15:19:52
+今日发言 371 条 - 排第 3 名 继续加油
+每天第一名可以获得水王头衔
+G
+15:20
+GeneralPeople.
+防萎认证
+p
+15:20
+pppp
+第一是谁
+睡不
+15:20
+睡觉 不定时
+6
+p
+15:20
+pppp
+我才第三
+睡不
+15:20
+睡觉 不定时
+第一是那位
+G
+15:20
+GeneralPeople.
+In reply to this message
+小心社叔叔发力
+15:20
+发太多，被ban也不是没可能
+p
+15:20
+pppp
+不影响
+15:20
+我号多
+G9
+15:21
+Gaara 911
+In reply to this message
+很正常
+G
+15:21
+GeneralPeople.
+羡慕号多
+p
+15:21
+pppp
+坠机了换个号就行
+G9
+15:21
+Gaara 911
+看点儿惊悚、刺激的，可以换心情
+15:21
+你以为是什么
+15:21
+Sticker
+Not included, change data exporting settings to download.
+, 37.9 KB
+伍六
+15:21
+伍 六柒
+In reply to this message
+交保护费就好了
+p
+15:21
+pppp
+交保护费不符合我白嫖的气质
+?
+15:21
+𝐖+Ɽ
+羡慕号多
+ll
+15:22
+ling ling
+?
+𝐖+Ɽ 27.03.2026 15:21:57
+羡慕号多
+?
+15:22
+𝐖+Ɽ
+In reply to this message
+AA
+SL
+15:22
+Stan Lee
+In reply to this message
+9527什么梗？
+伍六
+15:23
+伍 六柒
+[]
+G
+15:23
+GeneralPeople.
+In reply to this message
+广东那一带比较出名的
+15:23
+In reply to this message
+我有个朋友想进，拉一下
+伍六
+15:23
+伍 六柒
+In reply to this message
+自从上了tg 收藏了这么多
+p
+15:23
+pppp
+G
+GeneralPeople. 27.03.2026 15:23:26
+我有个朋友想进，拉一下
+祭梦
+15:23
+祭司 梦
+In reply to this message
+滚
+p
+15:23
+pppp
+我有个朋友
+15:23
+Sticker
+Not included, change data exporting settings to download.
+, 36.4 KB
+G
+15:24
+GeneralPeople.
+@uuuace 说话
+ll
+15:24
+ling ling
+6
+G
+15:24
+GeneralPeople.
+居然没被禁言
+伍六
+15:24
+伍 六柒
+不敢公开频道，我是开了好多群的会员，然后倒腾过来的。
+G
+15:24
+GeneralPeople.
+上次转发了个消息被禁了一天
+ll
+15:25
+ling ling
+临时bmd
+伍六
+15:25
+伍 六柒
+怕碰到屌毛给我炸了
+G
+15:25
+GeneralPeople.
+In reply to this message
+确实，私有的没事
+15:25
+我朋友不会举报的放心，我懂他
+15:25
+Sticker
+Not included, change data exporting settings to download.
+, 9.8 KB
+a
+15:25
+aaaa
+一天才两千五百条消息
+G9
+15:26
+Gaara 911
+Sticker
+Not included, change data exporting settings to download.
+, 255.9 KB
+伍六
+15:26
+伍 六柒
+对啊，就怕遇到那种人
+G9
+15:26
+Gaara 911
+[]
+真是做生意的料
+伍六
+15:26
+伍 六柒
+一个会员群一个会员群搬，搬了三年了，都是精品
+纸旧
+15:27
+纸船 旧
+In reply to this message
+很多都这样
+15:27
+小额的会，有些大额的也会
+p
+15:27
+pppp
+借一部说话
+G9
+15:27
+Gaara 911
+Sticker
+Not included, change data exporting settings to download.
+, 11.4 KB
+纸旧
+15:27
+纸船 旧
+特别是搬x平台的那些
+15:27
+Deleted Account
+In reply to this message
+还好我的第三方没有遇到过
+纸旧
+15:27
+纸船 旧
+Sticker
+Not included, change data exporting settings to download.
+, 13.7 KB
+15:27
+Deleted Account
+我这个比较完善一点
+伍六
+15:27
+伍 六柒
+In reply to this message
+图包
+15:28
+不是片
+G9
+15:28
+Gaara 911
+我没看会员，照样看
+15:28
+没关系的
+睡不
+15:28
+睡觉 不定时
+？
+伍六
+15:28
+伍 六柒
+考死普累的那种
+G9
+15:28
+Gaara 911
+越看号越稳
+15:28
+越不容易封
+G
+15:28
+GeneralPeople.
+我好像确实有个群
+纸旧
+15:28
+纸船 旧
+In reply to this message
+羡慕
+15:28
+这个有free的
+15:28
+Sticker
+Not included, change data exporting settings to download.
+, 20.6 KB
+G
+15:28
+GeneralPeople.
+收会员的，会给各大博主的图包
+15:29
+不过对cosplay无感
+伍六
+15:29
+伍 六柒
+In reply to this message
+原图 10mb一张
+G
+15:29
+GeneralPeople.
+In reply to this message
+对的，1-2g起步
+纸旧
+15:29
+纸船 旧
+In reply to this message
+是
+p
+15:29
+pppp
+A
+Arc 27.03.2026 15:29:27
+ed就ed
+G
+15:29
+GeneralPeople.
+Sticker
+Not included, change data exporting settings to download.
+, 29.1 KB
+15:29
+ed就ed
+p
+15:29
+pppp
+10mb的有多高清
+伍六
+15:29
+伍 六柒
+不过我就是单纯收集，哈哈
+a
+15:30
+aaaa
+G
+GeneralPeople. 27.03.2026 15:29:44
+ed就ed
+a
+15:30
+aaaa
+A
+Arc 27.03.2026 15:29:54
+不要说什么无感
+伍六
+15:30
+伍 六柒
+毛孔是能看清楚
+p
+15:31
+pppp
+ca
+cba a 27.03.2026 15:31:33
+发我
+p
+15:31
+pppp
+我有个朋友
+ca
+Az
+15:31
+AAA z
+ed是什么
+纸旧
+15:32
+纸船 旧
+In reply to this message
+私密群组
+p
+15:32
+pppp
+Sticker
+Not included, change data exporting settings to download.
+, 17.7 KB
+纸旧
+15:32
+纸船 旧
+邀请链接一次性
+伍六
+15:32
+伍 六柒
+等我哪天小号开个频道 拉你们进去
+纸旧
+15:32
+纸船 旧
+In reply to this message
+不开转发不就炸了
+15:32
+Sticker
+Not included, change data exporting settings to download.
+, 30.8 KB
+伍六
+15:34
+伍 六柒
+现在tg是查的很严，动不动就给加标签。然后就不能转发了，要去申诉
+纸旧
+15:34
+纸船 旧
+不知道哪来的
+15:34
+Sticker
+Not included, change data exporting settings to download.
+, 15.0 KB
+伍六
+15:35
+伍 六柒
+In reply to this message
+雨姐不是东北女神吗
+p
+15:36
+pppp
+2.79g
+15:36
+这对吗
+纸旧
+15:36
+纸船 旧
+In reply to this message
+[]
+15:36
+Sticker
+Not included, change data exporting settings to download.
+, 40.1 KB
+15:37
+In reply to this message
+不
+15:37
+转发到pikpak的
+p
+15:37
+pppp
+In reply to this message
+我擦 这对吗
+15:37
+这不得撸秃噜皮了
+伍六
+15:37
+伍 六柒
+In reply to this message
+这都不算大，我之前存过一个 60g的，里面一个视频就30多g
+p
+15:38
+pppp
+好久没存过这些东西了
+15:38
+只有以前爱存点种子
+p
+15:38
+pppp
+Z
+Z 27.03.2026 15:38:20
+群友追求高是真的
+15:38
+Z
+Z 27.03.2026 15:38:25
+看片都得看4k
+纸旧
+15:38
+纸船 旧
+In reply to this message
+最快应该50MB左右
+15:38
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 17.2 KB
+p
+15:39
+pppp
+你们上tg就为了看片吗
+15:39
+存这么多
+伍六
+15:39
+伍 六柒
+In reply to this message
+不看谁来这
+15:40
+国人出来不就是看片，看热图的吗
+p
+15:41
+pppp
+你们看片要求是真高
+15:42
+In reply to this message
+这对吗
+15:42
+悠亚？
+伍六
+15:45
+伍 六柒
+M
+Mostafa 27.03.2026 15:24:23
+https://blinkesim.com/en/my-account?pkey=J8TG5CUE42
+伍六
+15:45
+伍 六柒
+开撸
+祭梦
+15:45
+祭司 梦
+In reply to this message
+。。。
+伍六
+15:46
+伍 六柒
+In reply to this message
+咋了
+牛
+15:46
+牛牛的牛奶
+我的+43都没信号了
+伍六
+15:46
+伍 六柒
+In reply to this message
+我好像有她的微信
+祭梦
+15:46
+祭司 梦
+In reply to this message
+好
+15:46
+好事啊
+ll
+15:47
+ling ling
+看来不用等本月底了
+p
+15:47
+pppp
+In reply to this message
+WhatsApp注册要
+祭梦
+15:47
+祭司 梦
+In reply to this message
+哦
+牛
+15:47
+牛牛的牛奶
+我就撸了一个
+伍六
+15:47
+伍 六柒
+三上之前去香港的时候我加到了她，她弄了个微信群
+15:47
+In reply to this message
+这么靓
+15:47
+赶紧买
+p
+15:47
+pppp
+A
+AA 27.03.2026 15:47:38
+然后呢
+祭梦
+15:48
+祭司 梦
+In reply to this message
+回收号
+伍六
+15:48
+伍 六柒
+In reply to this message
+就没然后了，毕竟我更喜欢斋藤
+ll
+15:48
+ling ling
+有没有粉丝见面会
+p
+15:48
+pppp
+[]
+15:48
+又bug了
+15:48
+他妈的
+15:49
+折叠屏的bug应该是
+15:49
+折回去就会出现这种情况
+祭梦
+15:49
+祭司 梦
+。。。
+伍六
+15:50
+伍 六柒
+In reply to this message
+我还没激活
+15:50
+测试啥
+祭梦
+15:50
+祭司 梦
+。。。
+15:50
+In reply to this message
+哦
+15:50
+喂
+p
+15:50
+pppp
+In reply to this message
+死了？
+伍六
+15:51
+伍 六柒
+In reply to this message
+这个号码太显眼了，就在第一个赶紧拿下
+祭梦
+15:51
+祭司 梦
++43死了，是好事啊
+ll
+15:51
+ling ling
+祭梦
+祭司 梦 27.03.2026 15:51:07
++43死好事啊
+伍六
+15:51
+伍 六柒
+In reply to this message
+？
+p
+15:51
+pppp
+祭梦
+祭司 梦 27.03.2026 15:51:07
++43死了，好事啊
+p
+15:51
+pppp
+我瞅瞅怎么个事
+ll
+15:51
+ling ling
+神3陨落
+G9
+15:51
+Gaara 911
+In reply to this message
+佛洛依梦，你好
+ll
+15:52
+ling ling
+从封神到陨落仅仅1小时
+p
+15:52
+pppp
+果然死了
+祭梦
+15:52
+祭司 梦
+嗯
+p
+15:52
+pppp
+没信号
+伍六
+15:52
+伍 六柒
+垃圾！
+G9
+15:52
+Gaara 911
+我还没有接码呢
+祭梦
+15:52
+祭司 梦
+In reply to this message
+哈哈哈
+15:52
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+G9
+15:52
+Gaara 911
+我还想利用周六日的时间，注册呢
+祭梦
+15:52
+祭司 梦
+In reply to this message
+是谁还说永久的？
+伍六
+15:52
+伍 六柒
+还是玩44和852吧
+p
+15:52
+pppp
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 110.4 KB
+祭梦
+15:52
+祭司 梦
+In reply to this message
+我都说过了，随时会死掉
+G9
+15:52
+Gaara 911
+In reply to this message
+给我憋回去
+祭梦
+15:52
+祭司 梦
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+G9
+15:53
+Gaara 911
+In reply to this message
+永久那是不可能
+15:53
+但是一周都挺不过去，这就很悲伤了
+祭梦
+15:53
+祭司 梦
+Sticker
+Not included, change data exporting settings to download.
+, 113.7 KB
+15:53
+好死
+p
+15:53
+pppp
+我就注册了一个tg
+祭梦
+15:53
+祭司 梦
+当初就不应该公开的
+15:53
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+p
+15:53
+pppp
+一个ws
+ll
+15:53
+ling ling
+这种流量池的号怎么可能长久
+伍六
+15:53
+伍 六柒
+啥也没注册。还好
+ll
+15:53
+ling ling
+3at官网都不能登入
+G9
+15:54
+Gaara 911
+都赖中东佬，可以吗
+15:54
+Sticker
+Not included, change data exporting settings to download.
+, 48.6 KB
+祭梦
+15:54
+祭司 梦
+下次不会公开了
+15:54
+Sticker
+Not included, change data exporting settings to download.
+, 113.7 KB
+G9
+15:54
+Gaara 911
+In reply to this message
+下次私发我，可以吗，用片换
+15:54
+Sticker
+Not included, change data exporting settings to download.
+, 51.9 KB
+祭梦
+15:54
+祭司 梦
+滚
+p
+15:54
+pppp
+下次悄悄告诉我
+G9
+15:54
+Gaara 911
+Sticker
+Not included, change data exporting settings to download.
+, 103.2 KB
+伍六
+15:54
+伍 六柒
+In reply to this message
+大号绑43 这不是闹吗
+ll
+15:54
+ling ling
+p
+pppp 27.03.2026 15:54:46
+下次悄悄告诉我
+p
+15:54
+pppp
+我一个人偷偷刷
+G9
+15:55
+Gaara 911
+p
+pppp 27.03.2026 15:54:46
+下次悄悄告诉我
+祭梦
+15:55
+祭司 梦
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 18.2 KB
+15:55
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+G9
+15:55
+Gaara 911
+In reply to this message
+真的吗
+伍六
+15:55
+伍 六柒
+又活了？
+祭梦
+15:55
+祭司 梦
+In reply to this message
+好的，马上断信号
+p
+15:55
+pppp
+你说儿豁
+祭梦
+15:55
+祭司 梦
+Sticker
+Not included, change data exporting settings to download.
+, 113.7 KB
+伍六
+15:55
+伍 六柒
+继续封神！
+ll
+15:55
+ling ling
+儿豁
+p
+15:55
+pppp
+我这边没信号
+祭梦
+15:55
+祭司 梦
+来买乌龟的加43
+15:55
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+G9
+15:55
+Gaara 911
+In reply to this message
+你还是去重考科目三吧
+p
+15:56
+pppp
+In reply to this message
+不能你一个人翻车是吧
+G
+15:56
+GeneralPeople.
+In reply to this message
+哪个运营商
+祭梦
+15:56
+祭司 梦
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 18.2 KB
+G9
+15:56
+Gaara 911
+Sticker
+Not included, change data exporting settings to download.
+, 103.2 KB
+ll
+15:56
+ling ling
+本来不知道
+15:56
+现在知道了
+p
+15:56
+pppp
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 110.4 KB
+祭梦
+15:56
+祭司 梦
+4367844397770
+SL
+15:57
+Stan Lee
+羡慕3A
+ll
+15:57
+ling ling
+SL
+Stan Lee 27.03.2026 15:57:06
+羡慕3A
+p
+15:57
+pppp
+[]
+15:58
+卵的不能再卵了
+V
+15:58
+Vexlyxon
+今晚还要聊吗
+15:58
+我明天不上班
+p
+15:58
+pppp
+In reply to this message
+不应该是大部分人不承认吗
+V
+15:58
+Vexlyxon
+In reply to this message
+什么xp
+ll
+15:59
+ling ling
+In reply to this message
+不不不，大学生比较放荡
+V
+15:59
+Vexlyxon
+In reply to this message
+可以啊
+SL
+15:59
+Stan Lee
+In reply to this message
+?
+ll
+16:00
+ling ling
+∑(OoO)？
+16:00
+我也要
+祭梦
+16:00
+祭司 梦
+r
+16:00
+In reply to this message
+发了又不买
+p
+16:00
+pppp
+In reply to this message
+意思43得2g了？
+伍六
+16:01
+伍 六柒
+In reply to this message
+发了又不买
+p
+16:01
+pppp
+r是漫游
+16:01
+Sticker
+Not included, change data exporting settings to download.
+, 23.2 KB
+祭梦
+16:01
+祭司 梦
+In reply to this message
+不是
+16:01
+Sticker
+Not included, change data exporting settings to download.
+, 18.2 KB
+p
+16:01
+pppp
+e才是网络图标啊
+祭梦
+16:01
+祭司 梦
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+G
+16:01
+GeneralPeople.
+难绷
+祭梦
+16:01
+祭司 梦
+In reply to this message
+我有两个r，怎么解释？
+伍六
+16:01
+伍 六柒
+In reply to this message
+发出来看看
+祭梦
+16:01
+祭司 梦
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+G9
+16:01
+Gaara 911
+Sticker
+Not included, change data exporting settings to download.
+, 77.9 KB
+p
+16:02
+pppp
+In reply to this message
+我不知道 我瞎说的
+祭梦
+16:02
+祭司 梦
+下次别开放了
+S
+16:02
+Swilder
+In reply to this message
+43容易死号，别换
+祭梦
+16:02
+祭司 梦
+In reply to this message
+。。。
+SL
+16:02
+Stan Lee
+In reply to this message
+7770挺好呀
+祭梦
+16:03
+祭司 梦
+@ACQEE
+16:03
+还敢出来冒泡。。。
+16:03
+Sticker
+Not included, change data exporting settings to download.
+, 18.2 KB
+V
+16:03
+Vexlyxon
+In reply to this message
+clubsim？
+SL
+16:03
+Stan Lee
++43的都死了？
+S
+16:03
+Swilder
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 16.3 KB
+祭梦
+16:03
+祭司 梦
+@ACQEE
+AA
+16:03
+Ad Astra
+In reply to this message
+3HK的界面这是
+G9
+16:04
+Gaara 911
+In reply to this message
+啥号
+伍六
+16:04
+伍 六柒
+csl可以开多少个号码？
+S
+16:04
+Swilder
+我好不容易搬砖回来
+祭梦
+16:04
+祭司 梦
+乌龟的+43有办法有信号
+16:04
+Sticker
+Not included, change data exporting settings to download.
+, 113.7 KB
+S
+16:04
+Setup
+Sticker
+Not included, change data exporting settings to download.
+, 17.7 KB
+Next messages

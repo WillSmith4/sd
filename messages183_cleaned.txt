@@ -1,0 +1,3518 @@
+Esim.Kim中文交流群
+Previous messages
+30 March 2026
+A
+09:35
+Azure
+林
+林文 30.03.2026 09:35:28
+又骚扰买家
+法
+09:35
+法老-英国
+f50小白卡都能用
+09:36
+能用
+09:36
+不能切卡
+09:36
+f32pro只合适蓝牙卡
+09:36
+[]
+09:36
+要这款
+AR
+09:36
+An Ran
+In reply to this message
+这样子，我前几天试了一下，读不到 nekoko
+?
+09:36
+老马哪家店
+09:37
+有蓝牙卡啊
+法
+09:37
+法老-英国
+f50 100%可以用小白卡
+?
+09:37
+我还是想买个蓝牙卡备着玩
+J
+09:37
+JU
+f50 发热大
+09:37
+贼大
+?
+09:37
+In reply to this message
+有改件
+AR
+09:37
+An Ran
+我还有一个 u30 也刷了 f50的固件
+?
+09:37
+改个cnc外壳
+09:37
+加个铜板
+09:38
+或者是直接风扇的了
+09:38
+直接吹
+法
+09:38
+法老-英国
+[]
+09:38
+f50用小白卡
+AR
+09:38
+An Ran
+那我再试试
+法
+09:38
+法老-英国
+都要自己刷
+?
+09:38
+In reply to this message
+高级后台都得刷啊
+09:38
+或者是你找卖家
+09:39
+卖家给你刷好
+09:39
+海鲜市场很多
+法
+09:39
+法老-英国
+让卖家给你刷好root好
+J
+09:39
+JU
+你们都是玩家啊
+?
+09:39
+那你就去实名呗
+09:39
+不想用自己的就去找人实名
+09:39
+那你网上搜索教程呗
+法
+09:39
+法老-英国
+教不了
+09:39
+要自己悟
+?
+09:40
+总不能牺牲别人的时间，利好你的需求吧..
+法
+09:40
+法老-英国
+https://t.me/ufi_tools_chat
+?
+09:40
+这就要看哪位大哥无私奉献了
+法
+09:40
+法老-英国
+自己去这里深造
+AR
+09:41
+An Ran
+In reply to this message
+法老，你的为啥又 vowifi 菜单
+法
+09:41
+法老-英国
+最近刷面具新版
+AA
+09:41
+Ad Astra
+3W 比起 3DIY 的优势在于？
+法
+09:41
+法老-英国
+免费vowifi
+09:42
+电话随便接打
+J
+09:42
+JU
+In reply to this message
+群组中发送贴图，群组在那里
+法
+09:43
+法老-英国
+本来就香港卡香港足够了
+J
+09:43
+JU
+都没群组验证啊
+AA
+09:43
+Ad Astra
+不考虑vowifi 的话，好像内地接电话 0.9 比 DIY 的 8 块便宜；回头弄个 ios18
+的设备吧，主设备升级 26.4 不想退了
+09:44
+In reply to this message
+请问安卓哪些设备好啦？港版小米可以吗
+法
+09:44
+法老-英国
+可以
+l
+AA
+09:46
+等管理员在线的时候再进
+?
+09:50
+Sticker
+Not included, change data exporting settings to download.
+, 144.4 KB
+AR
+09:55
+An Ran
+[]
+09:56
+可以了 感谢 用magisk 模块可以
+A
+09:56
+Azure
+In reply to this message
+带带吧
+流
+09:56
+流芒
+magisk 把我5ber 都复活了
+09:56
+Sticker
+Not included, change data exporting settings to download.
+, 8.2 KB
+S
+09:56
+S"
+基本操作
+09:56
+必須的
+AR
+09:56
+An Ran
+Sticker
+Not included, change data exporting settings to download.
+, 250.4 KB
+法
+09:57
+法老-英国
+f50 u30air 全兼容
+AR
+09:57
+An Ran
+有没有 f50 连wifi 的模块
+09:57
+不然，切卡没网呀
+法
+09:57
+法老-英国
+不支持
+09:58
+完全可以手机连入 f50 adb投屏控制
+AR
+09:58
+An Ran
+好吧，之前找了找 ，说不兼容
+法
+09:58
+法老-英国
+不需要联网
+AR
+09:59
+An Ran
+但是设备在家就不方便了
+流
+09:59
+流芒
+f50更好看
+09:59
+u30air 太丑了
+法
+10:00
+法老-英国
+那需要双层网络
+10:01
+你可能不会
+k
+10:01
+kim
+看看
+法
+10:02
+法老-英国
+放包里无视
+10:02
+出门带个包的事情
+k
+10:02
+kim
+哈哈哈
+AR
+10:03
+An Ran
+In reply to this message
+高深入。我有其他办法了。给他插ikuai软路由上去
+小
+10:11
+小学生
+In reply to this message
+改imei是真的还是？
+10:12
+这不是芯片固定的？
+法
+10:12
+法老-英国
+展锐基带
+10:12
+直接改
+AR
+10:13
+An Ran
+真的把，去年在酷安看到过
+法
+10:13
+法老-英国
+这是芯片决定的
+小
+10:13
+小学生
+整个随机动态imei会不会封卡
+10:13
+直接不给连基站
+?
+10:13
+In reply to this message
+国内的肯定给你封
+10:13
+86有个模型就是换机模型
+C
+10:13
+CD
+In reply to this message
+早没名额了
+?
+10:13
+短时间内插拔变更就给你嘎
+小
+10:14
+小学生
+86肯定会风控
+10:14
+直接冻卡
+10:14
+我的意思外卡漫游
+法
+10:15
+法老-英国
+imei随便换 但是运营商封不封要看运营商
+10:15
+imei修改好能正确上传给运营商
+10:16
+对
+10:16
+芯片一样
+小
+10:16
+小学生
+那个手机？
+法
+10:16
+法老-英国
+基带芯片都一样
+10:16
+吴京那个
+10:17
+只有这款
+p
+10:18
+pppp
+[]
+法
+10:18
+法老-英国
+其他都不行
+p
+10:18
+pppp
+左下角表情图标就能验证啊
+10:18
+Sticker
+Not included, change data exporting settings to download.
+, 10.1 KB
+法
+10:18
+法老-英国
+这款和f50 u30air硬件一摸一样的
+p
+10:18
+pppp
+奇怪的姿势又增加了
+小
+10:23
+小学生
+In reply to this message
+有没有截图
+法
+10:24
+法老-英国
+对
+10:24
+就这一款
+10:25
+root后就修补基带就能愉快的修改imei了
+AR
+10:28
+An Ran
+是随身wifi
+法
+10:28
+法老-英国
+功能和u30air一摸一样的
+10:29
+他能刷的软件它都能
+10:29
+价格便宜一半 缺点就是电池不耐用
+10:30
+还有一款6+128
+AR
+10:30
+An Ran
+好吧
+10:30
+Sticker
+Not included, change data exporting settings to download.
+, 10.3 KB
+10:30
+还多个屏幕 多好
+p
+10:31
+pppp
+这是畅行60
+10:31
+手机
+外
+10:31
+外星人
+带屏幕还更便宜？
+法
+10:31
+法老-英国
+也是随身WiFi
+p
+10:31
+pppp
+u30Air是随身WiFi
+法
+10:31
+法老-英国
+功能一摸一样的
+10:31
+u30air没有的他也有
+p
+10:31
+pppp
+不亏不亏
+外
+10:31
+外星人
+赶紧退了
+法
+10:31
+法老-英国
+比如连wifi
+p
+10:32
+pppp
+u30电池大
+10:32
+这是畅行60不具备的
+香
+10:32
+香港九龙
+tg上+1的全部废了
+法
+10:32
+法老-英国
+3000只能用4小时
+外
+10:32
+外星人
+拿来玩都长期通电的
+p
+10:32
+pppp
++1废了是啥意思
+香
+10:32
+香港九龙
+我20个+1的tg号，全无法联网啊
+法
+10:32
+法老-英国
+dc1
+香
+10:32
+香港九龙
+见鬼了
+p
+10:32
+pppp
+我去瞅瞅
+香
+10:33
+香港九龙
+不知道
+10:33
+怎么查
+外
+10:33
+外星人
+所以说60比u30性价比高吧
+香
+10:33
+香港九龙
++44倒正常
+p
+10:34
+pppp
+[]
+10:34
+好像还真是
+法
+10:34
+法老-英国
+你要会玩
+10:34
+这两个东西都要刷机root面具
+香
+10:34
+香港九龙
++1的好像前2天就这样了
+法
+10:34
+法老-英国
+高级后台
+SL
+10:34
+Stan Lee
+随身WiFi不如直接买个备用机
+p
+10:34
+pppp
+昨天正常
+法
+10:34
+法老-英国
+你出国不出国
+a
+10:34
+aaaa
+好好好 是网络问题
+10:35
+我上来了
+法
+10:35
+法老-英国
+出国肯定是随身WiFi好
+a
+10:35
+aaaa
+吓我一跳
+香
+10:35
+香港九龙
+反正我都用+44或者+46
+p
+10:35
+pppp
+抽
+外
+10:35
+外星人
+666
+香
+10:35
+香港九龙
+Sticker
+Not included, change data exporting settings to download.
+, 6.3 KB
+SL
+10:35
+Stan Lee
+抽
+法
+10:36
+法老-英国
+都可以装小龙虾
+10:36
+没区别
+p
+10:37
+pppp
+Z
+Z 30.03.2026 10:36:17
+？
+10:37
+Z
+Z 30.03.2026 10:36:24
+我怎么不知道
+p
+10:37
+pppp
+错过了一个亿
+法
+10:37
+法老-英国
+谁让你装docker了
+10:37
+手机都是turmax装
+10:38
+我都装mac mini上直接控制多台手机
+p
+10:38
+pppp
+Z
+Z 30.03.2026 10:38:22
+好的
+10:38
+Z
+Z 30.03.2026 10:38:24
+在抽一台
+法
+10:38
+法老-英国
+无用
+10:38
+全是费电低性能的东西
+10:39
+这电费忽略不计
+10:39
+正常1-3w功耗
+J
+10:41
+JU
+畅行60跟u30 air一模一样？除了电池和屏幕
+法
+10:41
+法老-英国
+手机每天不到0.1度
+10:41
+一摸一样的
+J
+10:41
+JU
+手机电池性能肯定低啊
+法
+10:42
+法老-英国
+就是对比30air全球版少了20个频段
+J
+10:42
+JU
+20个频段是主流频段吗
+法
+10:42
+法老-英国
+国外主流
+J
+10:42
+JU
+冷门不常用频段无所谓，主流就等于是阉割了
+法
+10:43
+法老-英国
+你在国内就少个n79
+p
+10:44
+pppp
+户外直播吗
+10:44
+91能看到吗
+简
+10:57
+简
+In reply to this message
+香香
+香
+10:58
+香港九龙
+这群里还有小黑，各国人士藏身之处啊
+10:58
+Sticker
+Not included, change data exporting settings to download.
+, 6.3 KB
+11:00
+[]
+11:01
+移动流量没墙？
+C
+11:03
+Crypto
+-1不是墙吗
+香
+11:03
+香港九龙
+但是Google可以用
+C
+11:03
+Crypto
+GitHub本来就不墙
+11:04
+那你得带刀去运营商
+11:04
+半墙，挂梯子效果更好一点
+香
+11:05
+香港九龙
+DNS显示广州移动和中国移动HK
+11:06
+还有中国移动香港ip地址
+11:06
+1个内地ip4，1个香港ip4及ip6
+11:08
+分流就神奇小部分，分到香港了
+11:12
+[]
+11:12
+太过分了
+11:12
+越来越卡
+11:15
+我受不了，就开了esim了
+睡不
+11:18
+睡觉 不定时
+？
+11:19
+ping0感觉最垃圾
+香
+11:22
+香港九龙
+In reply to this message
+不行
+11:22
+一直火爆
+诶
+11:22
+诶嘿嘿OwO
+大佬们，求大马保号套餐推荐
+G
+11:39
+GeneralPeople.
+送我一个数据中心
+11:39
+我要亚马逊的就行，不贪
+睡不
+11:43
+睡觉 不定时
+11:44
+Deleted Account
+撤回了什么
+SL
+11:58
+Stan Lee
+希
+希 30.03.2026 11:49:41
+Due to a significant increase in upstream supplier costs for China, we
+regret to inform you that ourChina rates are adjusted upward by
+approximately 20% (Effective from Now).This change is unavoidable
+despite our best efforts to absorb the impact.
+G
+12:06
+GeneralPeople.
+奶昔还卖什么？
+12:06
+我印象里就euicc卡吧
+Az
+12:27
+AAA z
+羡慕啊 CTE能达到这个速度就好了
+p
+12:27
+pppp
+你这是3uk吗
+Az
+12:28
+AAA z
+我的CTE 只有不到40
+p
+12:28
+pppp
+我都不想拆穿你
+Az
+12:28
+AAA z
+4G网
+12:28
+In reply to this message
+5G 网络？
+法
+12:29
+法老-英国
+cte4g网络能到100
+12:29
+5g网络能到280
+K
+12:29
+Keil
+有没有老哥给我的德国手机号发个短信
+12:29
+感觉被制裁了
+12:29
+收不到短信
+法
+12:30
+法老-英国
+你不会用b站吗
+12:30
+还要群友发
+K
+12:30
+Keil
+15223353638
+12:30
+In reply to this message
+我注册苹果ID
+法
+12:30
+法老-英国
+这是德国？
+K
+12:30
+Keil
+收不到
+12:30
+是啊
+p
+12:30
+pppp
+拼夕夕 b站啥的随便接个码不就得了
+法
+12:31
+法老-英国
+这号码是德国啊
+12:31
+第一次见
+12:31
+注册苹果id不是这样注册的
+12:31
+先去注册国内apple id
+12:31
+再转到德国
+K
+12:31
+Keil
+我添加电话号码时
+12:31
+收不到验证码
+p
+12:32
+pppp
+86电话不也一样验证
+K
+12:32
+Keil
+发了
+p
+12:32
+pppp
+非要德国电话吗
+K
+12:32
+Keil
+都提示次数多了
+法
+12:32
+法老-英国
+苹果id不要求电话验证
+K
+12:32
+Keil
+我86绑了好几个
+法
+12:32
+法老-英国
+油管看看注册视频
+p
+12:33
+pppp
+我86也绑了很多个啊 好像无所谓吧 只是收个码
+K
+12:33
+Keil
+In reply to this message
+这是我之前注册TG
+12:33
+卡登录邮箱被封了
+12:34
+In reply to this message
+我是这个号注册完了
+12:34
+现在我登录要二步验证
+12:34
+这个手机号一直收不到短信
+12:34
+刚才佬友给我发短信了
+法
+12:34
+法老-英国
+那可以不用德国手机号码
+K
+12:34
+Keil
+能收到
+12:34
+就是收不到苹果验证码
+12:34
+In reply to this message
+我是登录我注册的苹果ID
+法
+12:34
+法老-英国
+谁说一定要德国手机号码验证的
+K
+12:34
+Keil
+之前注册的
+12:34
+用这个手机号
+12:35
+Sticker
+Not included, change data exporting settings to download.
+, 7.4 KB
+12:35
+苹果都提示次数太多
+12:35
+不给我发了
+法
+12:35
+法老-英国
+知道了
+K
+12:35
+Keil
+就是接不到
+法
+12:35
+法老-英国
+你注册的电话是这个无法登陆吧
+K
+12:35
+Keil
+md
+12:35
+86就能收到
+12:35
+之前注册的绑德国
+法
+12:35
+法老-英国
+ip换德国的
+K
+12:35
+Keil
+我86绑了5个了
+12:35
+想着用德国的
+法
+12:35
+法老-英国
+开wifi calling
+12:36
+国内基站拦截
+K
+12:36
+Keil
+好的哥，我去试试
+12:36
+Sticker
+Not included, change data exporting settings to download.
+, 11.7 KB
+12:37
+还没拉过德国的
+12:37
+这个操作和gg一样吗
+G
+12:37
+GeneralPeople.
+In reply to this message
+有验证码吗
+K
+12:37
+Keil
+强制理由
+12:37
+我开wifi call正准备试一下呢
+12:46
+[]
+12:46
+无敌了
+12:46
+重新注册个
+12:46
+不搞了
+12:46
+手机上还是收不到，来电脑用另一个号添加手机号测试，都发不出去
+法
+12:47
+法老-英国
+红字不是写了
+12:47
+你的号码已经黑了
+K
+12:47
+Keil
+不知道什么情况，我环境问题吗
+12:47
+我另一个德国也发不出去
+12:47
+另一个前几天刚开通的
+法
+12:48
+法老-英国
+我美国id都能用中国手机号码绑定
+12:48
+你为啥用德国绑定
+K
+12:48
+Keil
+之前注册的时候就用的那个德国手机号
+12:48
+是啊
+法
+12:48
+法老-英国
+再绑定个其他的
+K
+12:48
+Keil
+现在想改的，登录不上去
+12:48
+Sticker
+Not included, change data exporting settings to download.
+, 9.2 KB
+法
+12:48
+法老-英国
+非死怼这个号码干啥
+12:49
+那没戏
+12:49
+丢了
+K
+12:49
+Keil
+注册新号了
+法
+12:49
+法老-英国
+换个新的
+12:49
+你但凡有台苹果设备登陆着这个账户
+12:49
+都不会死那么冤
+ℤ
+12:49
+ℤ𝕖𝕡𝕙𝕚𝕣𝕦𝕒𝕙
+In reply to this message
+旧的放转转
+K
+12:50
+Keil
+In reply to this message
+没想到啊
+12:50
+当初能接码，谁知道后边登不上了
+SL
+12:59
+Stan Lee
+[]
+睡不
+13:08
+睡觉 不定时
+我美区ID跟内地ID都是用的86.买了个港区ID用的gg卡
+13:10
+我新注册的几个港区全变成美区了
+SL
+13:11
+Stan Lee
+In reply to this message
+要有设备登录 ，不然容易封
+13:12
+我现在就封了一个美区ID
+法
+13:12
+法老-英国
+注册好了放手机
+AR
+13:12
+An Ran
+五六年前的号 都被封完了
+13:12
+我都没登陆
+13:12
+之前 好几个地区都注册了一个
+睡不
+13:12
+睡觉 不定时
+AR
+13:12
+An Ran
+妈耶
+睡不
+13:13
+睡觉 不定时
+是不是需要时不时的登录一下？
+法
+13:13
+法老-英国
+你不登录设备注册干嘛
+13:13
+完全变成不活跃账户
+睡不
+13:13
+睡觉 不定时
+R
+13:16
+Rey (瑞)
+尾插寄到了
+睡不
+13:17
+睡觉 不定时
+哪里买的？
+13:17
+给个链接
+R
+13:17
+Rey (瑞)
+你搜蚊子玩卡
+伍六
+13:19
+伍 六柒
+喵的累了两天，终于把我的小龙虾部署好了。token自由
+R
+13:20
+Rey (瑞)
+是
+13:20
+不过另一台是iOS18
+睡不
+13:21
+睡觉 不定时
+26.3.1可以用吧
+法
+13:21
+法老-英国
+据说26.4可以用
+13:22
+自己实验
+R
+13:22
+Rey (瑞)
+我先插一张英国卡
+诶
+13:22
+诶嘿嘿OwO
+试试看26.4能用么
+13:22
+带带
+R
+13:23
+Rey (瑞)
+我这家是EE，不知道好不好拉
+13:28
+拉不起来
+睡不
+13:29
+睡觉 不定时
+In reply to this message
+这是哪里？
+R
+13:29
+Rey (瑞)
+所以我是要降级吗
+13:29
+现在还有机会
+13:29
+[]
+rx
+13:31
+rw xu
+In reply to this message
+大佬，中兴u60pro可以吗
+法
+13:32
+法老-英国
+不行
+AR
+13:32
+An Ran
+tg 注册 不发短信验证码 试用哪个客户端来着，大佬们
+法
+13:32
+法老-英国
+x
+13:32
+[]
+睡不
+13:32
+睡觉 不定时
+今天用X注册不给注册了
+法
+13:32
+法老-英国
+这个就是
+R
+13:33
+Rey (瑞)
+好吧好吧，那我降一下哈
+13:33
+先备份
+木
+13:33
+木木虎
+[]
+R
+13:33
+Rey (瑞)
+你们看，定位是成功了的
+13:34
+IP也是英国的
+法
+13:34
+法老-英国
+对
+13:34
+然后打开飞行模式
+AR
+13:34
+An Ran
+为啥你们能开这么多
+13:34
+我的小米17就是垃圾
+法
+13:34
+法老-英国
+重启手机
+13:34
+再连一次尾插
+R
+13:34
+Rey (瑞)
+OK
+睡不
+13:38
+睡觉 不定时
+下单了
+13:39
+买的90那个
+13:40
+这个对吧
+13:40
+[]
+13:43
+[]
+13:44
+这让我如何是好
+p
+13:44
+pppp
+扔了 重新买一个
+13:45
+睡不
+13:45
+睡觉 不定时
+为什么让我下单完事了看见这种信息。。
+13:48
+....
+p
+13:48
+pppp
+In reply to this message
+补仓让你玩的明明白白
+法
+13:48
+法老-英国
+去侮辱蚊子
+睡不
+13:48
+睡觉 不定时
+13:50
+xserver这个游戏机你们玩了没
+13:54
+跟风弄了下。。
+13:55
+日本的。。。广播机房IP备用不失联吧
+13:56
+随便进个群法老都在里面
+p
+14:00
+pppp
+WiFicalling仙人
+14:00
+不是开玩笑的
+睡不
+14:00
+睡觉 不定时
+14:01
+[]
+今年不看VPS了。。。已经够了
+14:03
+2026年第一季度末。。。明天吗
+14:04
+R
+14:10
+Rey (瑞)
+不行，必须得降级了
+14:10
+但是TMD我数据还不少呢
+14:10
+我得先备份到 i克劳德
+睡不
+14:12
+睡觉 不定时
+14:12
+@DonsGT 你26.4？
+14:13
+我记得26.4不是说也可以吗
+木
+14:13
+木木虎
+In reply to this message
+Yes
+14:13
+How did you know?
+14:13
+我是升级了别人才跟我说的
+14:13
+不过没事，现在门还开
+睡不
+14:13
+睡觉 不定时
+我26.3.1....没的事吧
+14:15
+可否换个头像
+14:15
+没关闭通道是可以降的吧
+14:15
+这个头像感觉好欠揍
+木
+14:15
+木木虎
+iOS 26.3.1 目前门还没关
+14:16
+我先降了吧
+14:16
+不然尾插白买了
+14:16
+我这一套组合拳打得那么好
+14:16
+结果死在iOS版本上了
+睡不
+14:16
+睡觉 不定时
+W
+14:16
+William
+还是18系统好用
+木
+14:16
+木木虎
+In reply to this message
+我有18
+14:17
+不过那是附属小号
+W
+14:17
+William
+In reply to this message
+17手机出厂就是26也没辙
+14:17
+不过我的16P是不打算升到26了。
+睡不
+14:17
+睡觉 不定时
+木
+14:17
+木木虎
+In reply to this message
+我穷，用不起17
+W
+14:17
+William
+In reply to this message
+谦虚了吧，只是有没必要罢了
+睡不
+14:18
+睡觉 不定时
+我13pro。。。升到了26.3.1我感觉难受了
+木
+14:18
+木木虎
+刚刚问了尾插老板，他说能拉
+W
+14:18
+William
+26指定是不好使的。
+木
+14:18
+木木虎
+叫我私聊他售后
+b
+14:18
+bochii的esim攻略
+cmlink的卡可以改apn强制走sgip吗
+c
+14:18
+ccx
+In reply to this message
+是vsim
+法
+14:21
+法老-英国
+尾插最好的是26.2.1
+14:22
+需要自己琢磨
+睡不
+14:22
+睡觉 不定时
+已经回不去了。。
+法
+14:22
+法老-英国
+26.4重启能拉起来
+14:23
+air有26.0就比较完美了
+S
+14:23
+S"
+港版
+简
+14:33
+简
+6
+ll
+14:33
+ling ling
+800在转转买的二手全损
+14:33
+嘎嘎用
+14:33
+iPhone12嘎嘎好用
+R
+14:43
+Rey (瑞)
+刚刚看了，EE和O2都不行，VOXI秒拉
+14:43
+你们觉得我还应该降级到26.3.1吗
+14:43
+我VOXI连不开飞行模式都直接主动拉起来了。
+14:44
+[]
+P
+14:50
+Padberg
+还是苹果好
+R
+14:50
+Rey (瑞)
+唉。。好吧
+14:50
+我先备份一下
+14:50
+我真是命苦
+B
+14:54
+Botsford
+这
+J
+14:57
+Johnk
+尾插哪里购买？
+N
+14:58
+Nitzsche
+In reply to this message
+卡萨帝
+R
+15:03
+Rey (瑞)
+[]
+15:03
+电话线宽带下载就是慢
+P
+15:11
+Padberg
+有什么客户端能登录超过10个账号
+G
+15:12
+GeneralPeople.
+多开10个电报
+P
+15:13
+Padberg
+In reply to this message
+有没有无上限的
+G
+15:13
+GeneralPeople.
+你要那么电报干嘛
+15:13
+打广告？
+R
+15:13
+Rey (瑞)
+In reply to this message
+网速？我没用他们家漫游
+15:14
+我差不多备份好了，准备重启手机进DFU了
+C
+15:16
+Carlos
+只有162Mbps
+R
+15:18
+Rey (瑞)
+我宽带无公网IP
+15:18
+所以我也弄一台本地的服务器，借用一下公网IP了
+法
+15:27
+法老-英国
+手贱走起
+15:28
+[]
+15:28
+还有机会 升级
+15:30
+vivo 现在手机都反超苹果了？
+睡不
+15:31
+睡觉 不定时
+？
+15:33
+Deleted Account
+谁会查tg聊天记录
+K
+15:34
+Kevin
+尾插哪里买？
+R
+15:40
+Rey (瑞)
+[]
+走起
+15:40
+降级之路
+15:41
+Deleted Account
+啥
+15:41
+你会查吗
+15:42
+推荐下大佬
+c
+16:08
+chensp
+哪里有得撸
+ab
+16:08
+ao baba
+怎么撸
+16:08
+有没有大佬教我撸管
+16:08
+鲁卡
+乾坤
+16:20
+乾 坤
+如果纯聊天看视频的话，白嫖的CF都足够了。
+达鲁
+16:37
+达巴 鲁
+撸撸更健康
+p
+16:40
+pppp
+Sticker
+Not included, change data exporting settings to download.
+, 10.1 KB
+AA
+16:43
+Ad Astra
+后面新的尾插应该有支持 ios26.4+的吧，等科技佬突破下
+木
+16:46
+木木虎
+降好了，开始还原备份了
+16:46
+真累
+16:47
+26.3.1
+16:48
+eSIM都在
+Y
+17:10
+Yecraft
+loop用了群主的免流后多久死号？
+S
+17:11
+Swilder
+隔天
+17:11
+快几个小时
+Y
+17:18
+Yecraft
+注册上2G信号，但已经免不了
+小
+17:26
+小学生
+节点被中东佬关了
+睡不
+17:27
+睡觉 不定时
+小
+17:28
+小学生
+loop玩了就死
+17:28
+没意思了
+17:28
+之前一直可以用
+S
+17:34
+Sss
+In reply to this message
+不是限速嗎
+p
+17:41
+pppp
+大佬们没有新的玩具吗
+17:43
+荷兰牢沃7欧套餐又出了 想开的可以去了
+装
+17:44
+装杯遭雷击
+号段知道是什么号段么
+p
+17:44
+pppp
+那我上哪知道去
+装
+17:45
+装杯遭雷击
+荷兰现在太多垃圾号段了
+p
+17:46
+pppp
+德国o2可以0欧开卡 携转进牢沃可以得10欧 好像可以空手套白狼啊
+简
+17:49
+简
+In reply to this message
+线下开卡嘛
+p
+17:50
+pppp
+o2得收实体卡
+17:55
+找个德国女朋友不就得了
+17:55
+Sticker
+Not included, change data exporting settings to download.
+, 23.2 KB
+17:58
+嗯？
+17:58
+这不是要连当地基站？
+17:59
+应该是不能
+ll
+17:59
+ling ling
+送我
+E
+18:00
+Esim.Kim
+ 今日发言排行榜 
+ 今日发言不够给力，本轮奖励轮空
+ 第1名 - 发言 230 条
+ 第2名 - 发言 221 条
+ 第3名 - 发言 201 条
+ 第4名 - 发言 106 条
+ 第5名 - 发言 92 条
+ 第6名 - 发言 83 条
+ 第7名 - 发言 81 条
+ 第8名 - 发言 74 条
+ 第9名 - 发言 64 条
+ 第10名 - 发言 62 条
+ 因无人发言达到 300 条消息，本轮奖励轮空，请继续努力！
+ll
+18:00
+ling ling
+In reply to this message
+确定不是23nzd
+p
+18:00
+pppp
+In reply to this message
+[]
+18:01
+扔了吧
+林
+18:01
+林文
+Sticker
+Not included, change data exporting settings to download.
+15.8 KB
+p
+18:01
+pppp
+对线客服让他退款
+18:02
+one nz实体卡好像可以国内激活
+ll
+18:02
+ling ling
+富公哦
+p
+18:02
+pppp
+那个人卖的不知道是存货还是新的
+18:02
+没有
+18:02
+140多一张的实体卡
+ll
+18:02
+ling ling
+In reply to this message
+下单29nzd的旅行套
+p
+18:02
+pppp
+买不起
+ll
+18:02
+ling ling
+就是esim
+p
+18:03
+pppp
+新西兰好像都得本地激活 他那个应该也是库存吧
+ll
+18:03
+ling ling
+29nzd就是100r
+p
+18:03
+pppp
+有道理
+18:04
+你找到了帮我搞两张
+ll
+18:04
+ling ling
+[]
+这个不是esim？
+18:04
+100r下单
+p
+18:05
+pppp
+我认识的人在国外的就他妈只有在非洲的
+18:05
+Sticker
+Not included, change data exporting settings to download.
+, 6.5 KB
+18:05
+In reply to this message
+激活不了
+ll
+18:05
+ling ling
+可以激活
+18:05
+2G/3G即可
+p
+18:05
+pppp
+In reply to this message
+可以吗 那不知道了
+ll
+18:06
+ling ling
+我的onenz就是这样激活的
+法
+18:06
+法老-英国
+onenz 能在国内激活？
+ll
+18:06
+ling ling
+可以啊
+法
+18:07
+法老-英国
+啥时候的事情？
+18:07
+我怎么不知道呢
+p
+18:08
+pppp
+A
+AA 30.03.2026 18:08:07
+竟然还有法老不知道的事
+ab
+18:08
+ao baba
+老3发邮箱是不是要进行保号
+ll
+18:08
+ling ling
+A
+AA 30.03.2026 18:08:07
+竟然还有法老不知道的事
+林
+18:08
+林文
+新西兰没有法老
+p
+18:08
+pppp
+In reply to this message
+也有可能是号死了
+林
+18:08
+林文
+法老不知道正常
+p
+18:08
+pppp
+Sticker
+Not included, change data exporting settings to download.
+, 6.5 KB
+18:09
+哎我擦 你这个头像
+18:09
+真的好有喜感
+法
+18:09
+法老-英国
+太久没关注one nz了
+林
+18:09
+林文
+In reply to this message
+我9e卡都可以在estk，xesim，switchesim，euicc，nekoko来回穿梭了
+18:09
+各家都可以用
+法
+18:09
+法老-英国
+可以的
+18:09
+要填ara-m
+18:09
+也可以
+林
+18:10
+林文
+不用填
+18:10
+为什么要填
+18:10
+[]
+18:10
+[]
+18:10
+？
+18:11
+这就是9e
+18:11
+Sticker
+Not included, change data exporting settings to download.
+15.8 KB
+18:11
+你再骂
+ll
+18:11
+ling ling
+听我说
+法
+18:11
+法老-英国
+你是开不同的应用
+ll
+18:11
+ling ling
+不如5ber
+林
+18:11
+林文
+5ber进不去
+法
+18:11
+法老-英国
+我以为你是要一个nekoko 读取所有卡
+林
+18:12
+林文
+卡在第一关登陆了
+18:12
+Sticker
+Not included, change data exporting settings to download.
+15.8 KB
+18:12
+而且他estk卡
+18:12
+本身用estk应用其实就可以了 nekokolpa没有兼容的义务
+法
+18:12
+法老-英国
+你先确定 你是要 一个软件读取所有卡
+18:13
+还是自己多装几个app来分别读取
+林
+18:14
+林文
+其实nekoko可以一个手机控制多设备上的卡
+18:14
+这是其他家做不到的
+法
+18:15
+法老-英国
+[]
+18:15
+全球联网
+林
+18:15
+林文
+法老
+18:16
+那边说你妙瓦底那边的园区出问题了
+18:16
+要你去解决一下
+法
+18:16
+法老-英国
+我伊朗客户都叫不动我
+林
+18:17
+林文
+Sticker
+Not included, change data exporting settings to download.
+15.8 KB
+18:18
+内塔尼亚胡说找你有事
+18:26
+[]
+18:26
+兄弟懂你意思 兄弟
+G9
+18:35
+Gaara 911
+In reply to this message
+需要让他去调停吧
+18:35
+苗瓦底深不见底
+林
+18:38
+林文
+Sticker
+Not included, change data exporting settings to download.
+15.8 KB
+伍六
+18:49
+伍 六柒
+In reply to this message
+蓝牙卡吗
+p
+18:53
+pppp
+In reply to this message
+又在开卡？
+G9
+18:54
+Gaara 911
+各位管理员深夜好
+18:54
+睡觉
+18:54
+Sticker
+Not included, change data exporting settings to download.
+, 13.7 KB
+林
+18:55
+林文
+In reply to this message
+普通卡啊
+官
+18:56
+官方商务合作
+giffgaff卡什么价格了
+扬
+19:00
+扬
+德国沃达丰有这两天新开的吗 还好开吗
+JH
+19:02
+Jason Huang
+In reply to this message
+现在还能开？不是要邮局验证吗？
+扬
+19:03
+扬
+In reply to this message
+看别人都这么评论 邮局验证是干嘛
+JH
+19:04
+Jason Huang
+In reply to this message
+好像要去德国线下验证
+SM
+19:04
+Sakura Miyawaki
+In reply to this message
+可以开
+扬
+19:05
+扬
+In reply to this message
+那大家说的邮局验证是
+小
+19:05
+小学生
+In reply to this message
+不一直10GBP
+SM
+19:05
+Sakura Miyawaki
+我用德国的家宽ip开的
+扬
+19:05
+扬
+In reply to this message
+这两天开的？
+SM
+19:06
+Sakura Miyawaki
+In reply to this message
+对啊
+p
+19:06
+pppp
+德国家宽可以在线验证
+19:06
+前两天亲测
+扬
+19:06
+扬
+In reply to this message
+ok了
+19:06
+In reply to this message
+好的
+官
+19:07
+官方商务合作
+@esimkim 说的是实体卡多少钱一张
+19:07
+全网都没有平台上架了
+JH
+19:08
+Jason Huang
+[]
+p
+19:08
+pppp
+70一张 带张esim白卡 不含余额10磅
+19:08
+Sticker
+Not included, change data exporting settings to download.
+, 6.4 KB
+19:08
+你自己买白卡50一张
+19:09
+Sticker
+Not included, change data exporting settings to download.
+, 23.2 KB
+G
+19:11
+GeneralPeople.
+只能德家宽吗
+19:11
+我上哪找
+19:11
+Sticker
+Not included, change data exporting settings to download.
+, 9.7 KB
+SM
+19:11
+Sakura Miyawaki
+哈哈哈
+19:11
+买啊
+G
+19:12
+GeneralPeople.
+不便宜呀
+19:12
+喜欢蹭群友的
+p
+19:12
+pppp
+不含10磅啊
+19:12
+草 少打两个字
+19:12
+小丑
+SM
+19:12
+Sakura Miyawaki
+是啊。100多呢
+p
+19:13
+pppp
+都转了70给我了我还给卡吗
+19:13
+Sticker
+Not included, change data exporting settings to download.
+, 6.4 KB
+G
+19:13
+GeneralPeople.
+不得70收吃aff的15磅gg
+p
+19:14
+pppp
+这70就是我的aff
+19:14
+Sticker
+Not included, change data exporting settings to download.
+, 6.5 KB
+19:14
+卡不是说了吗 自己买白卡啊 那不是卡嘛
+G
+19:15
+GeneralPeople.
+eid是啥
+19:15
+86？
+p
+19:16
+pppp
+In reply to this message
+推给我 谢谢
+扬
+19:16
+扬
+In reply to this message
+夸张
+p
+19:16
+pppp
+这么便宜了出了86还能有啥
+G
+19:16
+GeneralPeople.
+In reply to this message
+~~想要43~~
+p
+19:17
+pppp
+A
+AA 30.03.2026 19:16:59
+去薅龟佬的43
+扬
+19:17
+扬
+有43转移的么
+G
+19:17
+GeneralPeople.
+上一次43还没弄够嘛
+19:18
+现在都活着，看着像永久了
+扬
+19:18
+扬
+43准备从美版iphone转移到我小白卡上了 不知道可行不
+p
+19:18
+pppp
+可以
+19:18
+五次好像
+扬
+19:18
+扬
+In reply to this message
+删除 直接扫原来的？
+p
+19:18
+pppp
+In reply to this message
+大哥
+19:19
+In reply to this message
+对
+G
+19:19
+GeneralPeople.
+之前不是有人说十次嘛
+19:19
+怎么变五次了
+19:19
+In reply to this message
+带stk不
+扬
+19:19
+扬
+还是群里兄弟懂得多 明天转移去了
+p
+19:19
+pppp
+In reply to this message
+要
+19:20
+In reply to this message
+easyeuicc就不错了 还想啥stk呢
+G
+19:20
+GeneralPeople.
+Sticker
+Not included, change data exporting settings to download.
+, 9.7 KB
+扬
+19:21
+扬
+pdd？
+19:21
+有点眼熟
+p
+19:21
+pppp
+哪个台子大哥 @AA_eSIM
+G
+19:21
+GeneralPeople.
+都搜一下就行了
+19:21
+就那几个平台
+19:21
+~~总不能是亚马逊吧~~
+p
+19:21
+pppp
+拼夕夕
+扬
+19:22
+扬
+这两天刚买的 468kb 带Stk的 18
+19:22
+逛pdd的时候看到这个店了好像所以讲有点眼熟
+p
+19:22
+pppp
+没有这个价格的
+19:22
+我他妈
+19:22
+为什么你们的价格都比我低
+G
+19:22
+GeneralPeople.
+话说之前的esimcc那个卡带不带stk
+p
+19:22
+pppp
+同一家店哎
+扬
+19:22
+扬
+你去开0.1的月卡
+p
+19:22
+pppp
+草
+扬
+19:22
+扬
+In reply to this message
+有时候会给你5元无门槛
+p
+19:23
+pppp
+这家店之前有人推过给我 500k21块
+19:23
+我他妈要25
+扬
+19:23
+扬
+In reply to this message
+就是21
+19:24
+In reply to this message
+21-23吧大概
+p
+19:24
+pppp
+Sticker
+Not included, change data exporting settings to download.
+, 6.5 KB
+19:25
+草 整点抢券又在哪
+19:25
+拼夕夕这么多花样吗
+19:25
+Sticker
+Not included, change data exporting settings to download.
+, 16.4 KB
+19:25
+不咋用
+19:26
+好的 感谢
+19:28
+Deleted Account
+撸的是几把
+G
+19:28
+GeneralPeople.
+还是esimcc的卡香
+19:28
+9.9
+19:28
+能stk，容量也不少
+19:29
+就是兼容性这一块
+p
+19:29
+pppp
+那不是老用户才有吗
+G
+19:29
+GeneralPeople.
+新用户也有的
+扬
+19:29
+扬
+In reply to this message
+9.9？
+G
+19:29
+GeneralPeople.
+当时一个号可以买两三张
+19:29
+对的
+19:29
+不过它都9.9
+扬
+19:29
+扬
+我好像看到过就淘宝给卷是不
+19:29
+也听说是老用户
+G
+19:30
+GeneralPeople.
+还能stk，我真不想吐槽兼容性了
+19:30
+In reply to this message
+京东
+19:30
+我都有点想把giffgaff转出了
+19:30
+10磅开卡费想要回来了
+19:31
+In reply to this message
+之前持续很久呀
+19:31
+半个月好像
+19:31
+又不是一天两天
+p
+19:31
+pppp
+下次9.9的时候记得叫我
+G
+19:31
+GeneralPeople.
+In reply to this message
+可能是周年庆吧
+p
+19:31
+pppp
+我要买一博发
+19:31
+G
+19:31
+GeneralPeople.
+上一次周年庆
+19:32
+9.9v0
+p
+19:32
+pppp
+A
+AA 30.03.2026 19:32:01
+都是affman给力
+G
+19:32
+GeneralPeople.
+香爆
+p
+19:32
+pppp
+上一次是啥时候
+G
+19:32
+GeneralPeople.
+86+stk
+19:32
+就是太难抢了，蹲点也只能弄到两张
+扬
+19:33
+扬
+In reply to this message
+关键词是什么 我去看看
+G
+19:33
+GeneralPeople.
+In reply to this message
+那是限时活动，已经过期了
+19:33
+不过半年之内
+扬
+19:33
+扬
+嗯嗯我是说去了解下这个卡
+G
+19:33
+GeneralPeople.
+9esim又有周年庆了
+19:34
+In reply to this message
+淘宝9esim v0版本
+19:34
+说起来也有点愧疚，薅了那么多9esim卡居然没有原价买过...
+p
+19:34
+pppp
+砸蛋咋了个五折券 只能在那个页面买东西
+G
+19:35
+GeneralPeople.
+Sticker
+Not included, change data exporting settings to download.
+, 6.9 KB
+扬
+19:35
+扬
+看到了
+G
+19:35
+GeneralPeople.
+之前原价买过一个58的读卡器，算补偿一丢丢吧
+扬
+19:35
+扬
+In reply to this message
+现在128去冲吧
+G
+19:36
+GeneralPeople.
+有钱我买v3去了
+19:36
+没钱呀
+19:36
+Sticker
+Not included, change data exporting settings to download.
+, 12.4 KB
+扬
+19:36
+扬
+9.9买不到老老实实小白卡
+G
+19:36
+GeneralPeople.
+反正有钱买9esim没错的
+19:36
+买了就是老用户，福利多得是
+19:37
+如果v4出了我确实会考虑
+p
+19:37
+pppp
+又出了好多白卡
+G
+19:37
+GeneralPeople.
+蓝牙+stk+1.6m
+扬
+19:37
+扬
+老用户福利这块还真是 estk xeism没听有过这种老用户后续福利什么的
+G
+19:38
+GeneralPeople.
+甚至芯片可能还是g+d
+p
+19:38
+pppp
+看到好几个版本不同卡面的
+G
+19:38
+GeneralPeople.
+In reply to this message
+xesim路边一条
+19:38
+estk还能说有技术
+扬
+19:38
+扬
+In reply to this message
+确实
+G
+19:39
+GeneralPeople.
+xesim就跟giffgaff一样
+扬
+19:39
+扬
+我本来想买estk的 后面直买白卡了
+G
+19:39
+GeneralPeople.
+aff宣传起来的
+19:39
+性价比真不高，
+扬
+19:39
+扬
+xeism确实全是aff
+p
+19:39
+pppp
+[]
+19:39
+我日 六折券也要15块多啊
+扬
+19:40
+扬
+卧槽
+19:40
+15
+p
+19:40
+pppp
+看到了 13.8
+扬
+19:40
+扬
+他妈的我怎么没有六折券逆天
+p
+19:40
+pppp
+嘿嘿
+扬
+19:41
+扬
+In reply to this message
+咋俩离得好近
+Az
+19:41
+AAA z
+京爷
+p
+19:41
+pppp
+换号岂不是还能买
+G
+19:41
+GeneralPeople.
+面基一下
+扬
+19:42
+扬
+[]
+G
+19:42
+GeneralPeople.
+互掏靓号
+扬
+19:42
+扬
+nb 我18买的 用的我的5元无门槛
+p
+19:42
+pppp
+能漏给你们看的东西能是真的吗
+扬
+19:42
+扬
+我精挑细选了一万家
+G
+19:42
+GeneralPeople.
+羡慕你们虚拟地址
+p
+19:42
+pppp
+我连护照都是假的
+19:43
+这还能给你们看真的了
+G
+19:43
+GeneralPeople.
+我可是实名上网好市民
+扬
+19:43
+扬
+In reply to this message
+我不信 我要去找你
+G
+19:43
+GeneralPeople.
+快递名字都是真实名字
+p
+19:43
+pppp
+随便去
+G
+19:43
+GeneralPeople.
+Sticker
+Not included, change data exporting settings to download.
+, 8.6 KB
+扬
+19:43
+扬
+In reply to this message
+我比较那种完美主义 第一次用 之前都美版iphone原生
+p
+19:45
+pppp
+[]
+19:45
+[]
+p
+19:45
+pppp
+A
+AA 30.03.2026 19:44:50
+微软都快被你玩坏了
+p
+19:45
+pppp
+9e有天猫店没
+19:46
+我天猫好像还有几十块无门槛的券
+19:46
+不知道过期没
+19:46
+不知道 你们试试水
+扬
+19:46
+扬
+In reply to this message
+1
+19:46
+[]
+u
+p
+19:47
+pppp
+我擦
+扬
+19:47
+扬
+进白名单了 兄弟们
+p
+19:47
+pppp
+[]
+19:47
+过期了我日
+19:48
+白瞎了
+19:49
+In reply to this message
+有天猫店没
+扬
+19:49
+扬
+ESTK有官网
+19:49
+国内发货
+p
+19:50
+pppp
+天猫能薅羊毛啊
+扬
+19:50
+扬
+In reply to this message
+你用优惠码一样的
+p
+19:50
+pppp
+购物车红包 找人刷3折左右
+19:50
+Sticker
+Not included, change data exporting settings to download.
+, 6.4 KB
+19:53
+天猫好像没有estk 有一家贵得飞边子了
+19:53
+后悔没早点玩这个电子鸦片啊
+19:53
+去年刷的天猫无门槛全买铜料去了
+B
+19:57
+Bryton
+沒，買不起
+Y
+19:58
+Yecraft
+下次一定
+l
+19:59
+loop3uk
+其實兩者差不了多少
+P
+20:02
+Padberg
+Y
+Yecraft 30.03.2026 19:58:25
+下次一定
+N
+20:03
+Nitzsche
+Y
+Yecraft 30.03.2026 19:58:25
+下次一定
+p
+20:03
+pppp
+Y
+Yecraft 30.03.2026 19:58:25
+下次一定
+FJ
+20:04
+Franey Jeanne
+Y
+Yecraft 30.03.2026 19:58:25
+下次一定
+LV
+20:04
+Langworth Valerie
+Y
+Yecraft 30.03.2026 19:58:25
+下次一定
+达鲁
+20:23
+达巴 鲁
+刚买的卡，写了12个被拉黑了
+B
+20:28
+Buzz
+GG官方免费啊 咋要6磅？
+G
+20:38
+GeneralPeople.
+In reply to this message
+无
+20:38
+aff都是实体卡
+20:40
+传下去，ben要绕过gg esim开卡费，免费开卡了
+20:40
+Sticker
+Not included, change data exporting settings to download.
+, 9.8 KB
+外
+21:01
+外星人
+In reply to this message
+你在哪里看到的
+C
+21:26
+CD
+apple智能已向国行版推送！
+F
+21:36
+Fika
+In reply to this message
+只有实体卡有payback
+A
+21:39
+Azure
+是6gbp吗，我还以为是10
+p
+22:06
+pppp
+esim不也是10GBP吗
+B
+22:15
+Buat jerami
+对
+31 March 2026
+H
+00:42
+HMH
+我使用 /free 函数获取 eSIM 卡，但系统失败了。我现在应该怎么办？
+00:54
+Deleted Account
+权
+p
+01:02
+pppp
+In reply to this message
+say hello
+A
+01:10
+Anlise
+才发现telega可以直连，无需梯子也可用
+01:12
+是内置了吗？一直显示在俄登录的
+纸旧
+01:14
+纸船 旧
+不然呢
+01:14
+In reply to this message
+速度感人
+SL
+02:05
+Stan Lee
+In reply to this message
+还有码？
+02:05
+怎么这么多
+R
+02:20
+Rey (瑞)
+[]
+26.3.1锁死了
+02:20
+开森
+ll
+02:33
+ling ling
+炫目开森
+j
+02:43
+jiessie
+去年早就有了
+02:44
+这活动
+x
+02:45
+xibiandexi
+没看明白免费怎么免的
+SL
+02:47
+Stan Lee
+13块2张叫做免费领
+02:47
+Sticker
+Not included, change data exporting settings to download.
+, 158.4 KB
+02:47
+20块2张叫做免费领
+l
+02:48
+lex
+什么卡 任纵横吗
+SL
+02:48
+Stan Lee
+不过可以薅
+02:56
+In reply to a message in another chat
+又有羊毛了
+02:56
+流量用不完
+zj
+03:08
+zhe jiang
+In reply to this message
+高铁票什么鬼
+03:09
+买两张这个 然后从3hk转过去 可行嘛？
+AS
+03:11
+Arcoo SBGEN
+In reply to this message
+可以
+AR
+03:16
+An Ran
+In reply to this message
+你们这么多流量用的完吗
+j
+03:20
+jiessie
+之前免费领，现在收费了？
+l
+03:22
+lex
+2账20hkd 还有70的余额
+j
+03:23
+jiessie
+CM
+03:28
+Chris Martin
+id mobile能cn激活不
+SL
+03:38
+Stan Lee
+In reply to this message
+用不完，感觉便宜的没买就是亏
+AR
+03:42
+An Ran
+Sticker
+Not included, change data exporting settings to download.
+, 10.3 KB
+03:42
+买
+AA
+03:46
+Ad Astra
+Jetpac那个自己用2个号邀请自己，可以同一台手机吗？还是必须用不同的手机？
+G
+03:55
+Gnaiqux
+可以网页注册
+玄
+玄
+03:58
+玄幽魔王
+这个eSIM不激活有效期多久
+AR
+03:59
+An Ran
+90
+04:13
+Deleted Account
+jetpac这个用9.9的cc卡会不会卡死
+法
+04:14
+法老-英国
+试试就知道了
+04:16
+Deleted Account
+这价格良心，比国内流量都良心
+PM
+乾坤
+04:31
+乾 坤
+只有免费才能勾起我的欲望
+04:32
+Deleted Account
+免费没有那么多流量
+i
+04:33
+incognito
+免费的早死了
+乾坤
+04:34
+乾 坤
+现在流量根本用不完
+法
+04:35
+法老-英国
+免费体验才是重点
+云慕
+04:36
+云海 慕容
+IP是哪个的
+伍六
+04:37
+伍 六柒
+你们买了吗
+04:37
+快不快
+睡不
+04:38
+睡觉 不定时
+什么
+P
+伍六
+04:39
+伍 六柒
+7美元80g那个
+伍六
+04:40
+伍 六柒
+奶
+奶昔论坛 Pro 31.03.2026 02:42:19
+[]
+Jetpac 3刀：30天30GB
+中港澳台eSIM（内地：联通/香港：3hk/澳门：3mo/台湾：台哥大）
+1、下载Jetpac App并完成注册和登录，必须是新用户
+2、点击 https://s.ee/jetpac 跳转App兑换，领5刀下次用（可选）
+3、选择Packs，Regional，China-Taiwan-HongKong-Macau，往下拉到Most
+popular，找到30GB 30days USD7。拉到最底下，点结算
+4、输入优惠码ESIMDB4OFF减4刀（如果不可用说明停了，那就退而求其次换ESIM15打85折）
+5、跳转Stripe结算然后获取二维码写入就能用了，IP是新加坡，跟mwc2026那个maya一样是Telna
+为什么第2步是可选呢？其实不用优惠码，原价7USD能直接买80G
+30天，他家不激活有效期90天。
+即注册两个账号AB， A账号给一个邀请码给B， B获得5刀优惠，A获得10刀优惠，
+AB账号再分别购买11刀40G（从原来的30G升级）套餐，优惠后7刀。
+04:40
+奶
+奶昔论坛 Pro 31.03.2026 02:42:19
+[]
+04:40
+奶
+奶昔论坛 Pro 31.03.2026 02:42:19
+[]
+04:40
+奶
+奶昔论坛 Pro 31.03.2026 02:42:19
+[]
+伍六
+04:41
+伍 六柒
+买了的说说速度，快的话我也买一下
+XD
+04:47
+XN D
+giffgaff怎么转esim
+04:48
+Deleted Account
+新加坡延迟应该不会很高吧
+U
+04:52
+Umi
+新加坡肯定比欧洲的快
+KK
+04:52
+Kiwi Ka
+In reply to this message
+联通NSA能跑600M
+伍六
+04:53
+伍 六柒
+In reply to this message
+好。直接下单买两个
+04:53
+7刀80g用两个月
+KK
+04:54
+Kiwi Ka
+In reply to this message
+我不配在这里发图，你买完自己测吧
+04:54
+Sticker
+Not included, change data exporting settings to download.
+, 23.8 KB
+04:55
+Deleted Account
+In reply to this message
+2刀30G
+伍六
+04:56
+伍 六柒
+In reply to this message
+2刀30g又是咋来的
+04:57
+Deleted Account
+setup折扣码买的
+04:57
+Sticker
+Not included, change data exporting settings to download.
+, 14.9 KB
+KK
+04:58
+Kiwi Ka
+In reply to this message
+找一个人走你aff你就可以2刀买了
+04:58
+Sticker
+Not included, change data exporting settings to download.
+, 31.2 KB
+CW
+04:58
+CR World
+能不能自己注册多个号
+伍六
+04:58
+伍 六柒
+In reply to this message
+我走了自己aff，但是没给我5刀卷
+CW
+04:59
+CR World
+Sticker
+Not included, change data exporting settings to download.
+, 6.1 KB
+KK
+04:59
+Kiwi Ka
+In reply to this message
+结账页面有一个输入优惠码，在那里输
+伍六
+04:59
+伍 六柒
+In reply to this message
+输了，不让用只有买11刀那个才给我用
+KK
+05:00
+Kiwi Ka
+In reply to this message
+对啊
+05:00
+7U那个就是不能用
+伍六
+05:00
+伍 六柒
+买11刀－5
+AN
+05:00
+Andres Nava
+我現在是走了自己的AFF 大號沒收到10USD
+KK
+05:00
+Kiwi Ka
+In reply to this message
+那你很惨了
+伍六
+05:01
+伍 六柒
+In reply to this message
+要走aff那个号优惠劵买了流量才能得到10刀优惠劵
+法
+05:01
+法老-英国
+全是套路
+伍六
+05:01
+伍 六柒
+所以怎么都是7刀得80
+05:02
+第一个号aff 第二个号用第一个号的aff 11-5=6 第一个号11-10=1 6+1
+05:02
+就是这样
+KK
+05:02
+Kiwi Ka
+In reply to this message
+后续的aff是给邀请者5u，所以拉足够的人头就能买2u/30g
+05:02
+Sticker
+Not included, change data exporting settings to download.
+, 29.6 KB
+05:02
+2u/30g就是这么来的
+05:02
+Deleted Account
+Sticker
+Not included, change data exporting settings to download.
+, 14.9 KB
+05:03
+找人省心又省钱
+KK
+05:03
+Kiwi Ka
+In reply to this message
+卖完了你怎么不说
+ll
+05:03
+ling ling
+不买立省
+KK
+05:03
+Kiwi Ka
+Sticker
+Not included, change data exporting settings to download.
+, 8.4 KB
+05:03
+Deleted Account
+Sticker
+Not included, change data exporting settings to download.
+, 9.0 KB
+05:03
+还有个40g的没送呢
+05:03
+万一呢
+伍六
+05:03
+伍 六柒
+算了，不买了
+05:03
+太费脑子
+W
+05:04
+William
+In reply to this message
+一看就不是4A8，不然肯定不盖后面
+伍六
+05:04
+伍 六柒
+还是继续用梯子吧
+ab
+05:04
+ao baba
+我们要白嫖，花钱的事不干
+05:04
+Deleted Account
+In reply to this message
+去掉+号 改成86然后送我
+AN
+05:08
+Andres Nava
+In reply to this message
+坏
+KL
+05:08
+那我A號還啥都沒買就用B號走了AFF
+05:09
+那是不是毛都沒有了
+伍六
+05:13
+伍 六柒
+In reply to this message
+有啊
+05:13
+你b走的a不是吗
+睡不
+05:39
+睡觉 不定时
+你们又在撸什么
+林
+05:41
+林文
+刁
+一
+05:42
+一只胖锦鲤
+不如我的tt
+玛巴
+06:13
+玛卡 巴卡
+佬们有没有定位尾插推荐，iPhone能用的？
+A
+06:15
+Anlishy
+置顶的奥地利+43号码，一个激活过的号还在，另外一个安装后未激活流量的号貌似没有了
+06:19
+后台esim显示无了，但是手机上暂时还有信号
+06:22
+本来想着晚几天激活的，后来给忘了
+06:28
+反正tg已经注册好了，无所谓了，这种号迟早玩完
+Y
+06:28
+Yecraft
+In reply to this message
+情况不一样？昨天新下载一个，刚才激活的，测试了能接短信，没登录网站查看
+06:29
+500MB的流量确实不能用了
+A
+06:29
+Anlishy
+In reply to this message
+什么时候下的单？
+Y
+06:30
+Yecraft
+3.21
+A
+06:30
+Anlishy
+比我还早，我是3.22下的单。竟然还可以下卡？
+06:31
+之前没下过卡？还是可以重复下卡？
+Y
+06:31
+Yecraft
+In reply to this message
+我测试的是没下过的
+A
+06:32
+Anlishy
+下单之后多长时间下卡貌似没要求，下卡之后要7天内激活
+Y
+06:33
+Yecraft
+昨天还试了2个转移到其他设备，一个成功转移，另一个转移失败，下回原卡提示超过有效期
+A
+06:35
+Anlishy
+转移失败的就彻底丢号了吧
+rx
+06:36
+rw xu
+大佬们，奥地利号码还能领吗
+A
+06:37
+Anlishy
+早就没了
+rx
+06:38
+rw xu
+好吧
+Y
+06:47
+Yecraft
+In reply to this message
+丢就丢了，现在设备黑了，注册一个tg就封一个
+06:47
+In reply to this message
+就注册2个号就黑
+LS
+06:50
+Lalo Salamanca
+换设备
+06:51
+Deleted Account
+送我设备
+Y
+06:51
+Yecraft
+设备黑了后，之前群主抽的loop和之前活动的3uk注册都是直接封
+06:52
+A
+06:54
+Anlishy
+In reply to this message
+我注册两个tg都还在。新号前一个周要养号的，不能换设备登录，不要加人，更不要私聊
+LS
+06:54
+Lalo Salamanca
+In reply to this message
+没有就不玩了
+Y
+06:55
+Yecraft
+In reply to this message
+没换设备，没加人，没加群，没加频道，没发过消息，没换IP，注册完就封
+06:56
+只能判断为设备黑了
+A
+06:57
+Anlishy
+还没碰到过
+06:58
+最早的时候，用接码平台的号码注册的秒封
+R
+06:59
+Rey (瑞)
+为什么现在tg和wa老让我添加email？
+LS
+07:03
+Lalo Salamanca
+够才让绑
+M
+07:08
+Morty
+随便绑个域名邮箱就行了
+07:09
+号多的 绑邮箱挺好的 不然别人接个码 你号就没了
+07:10
+有人登陆邮箱也会提醒
+07:10
+何乐而不为
+Y
+07:10
+Yecraft
+ws绑不绑邮箱好像都可以直接验证码登录
+NF
+XD
+07:20
+XN D
+置顶的奥地利+43还能领吗
+JC
+07:23
+Jessie C
+没了吧
+k
+07:29
+kyn
+没了
+B
+07:31
+Bryton
+沒了
+V
+07:32
+Voxen
+没了
+l
+07:33
+loop3uk
+沒了
+F
+07:33
+Fisgo
+沒了
+AR
+07:33
+An Ran
+没了
+A
+07:34
+Apratisthita
+没了
+S
+07:34
+S"
+啥玩意
+G9
+07:48
+Gaara 911
+In reply to this message
+现在都需要家宽了吗。好严格；额
+07:48
+之前都不需要
+睡不
+08:12
+睡觉 不定时
+反正俺怎么都不能验证
+法
+08:22
+法老-英国
+看到一个号码就知道亏了几十刀
+G9
+08:54
+Gaara 911
+[]
+我这个号才收到邀请
+08:54
+MD
+睡不
+08:55
+睡觉 不定时
+这啥
+G9
+08:55
+Gaara 911
+YPT ya
+睡不
+08:56
+睡觉 不定时
+木有木有
+G9
+08:56
+Gaara 911
+Sticker
+Not included, change data exporting settings to download.
+, 51.9 KB
+G
+08:56
+GeneralPeople.
+开卡码能不能跨号的？
+扬
+08:56
+扬
+In reply to this message
+现在还能吗
+G
+08:56
+GeneralPeople.
+跨卡的开不了
+08:56
+我开完发现又给了一个，但一个号只能一张卡
+G9
+08:57
+Gaara 911
+In reply to this message
+不能的
+08:57
+很抱歉
+G
+08:57
+GeneralPeople.
+不知道能不能跨号，跨号就送了
+G9
+08:57
+Gaara 911
+不行的
+G
+08:57
+GeneralPeople.
+那不好玩
+08:57
+In reply to this message
+你登一下估计也给你
+扬
+08:58
+扬
+In reply to this message
+我之前没注册过
+G
+08:58
+GeneralPeople.
+那没有
+扬
+09:01
+扬
+In reply to this message
+你转移的啥 43吗
+A
+09:05
+Anlishy
+In reply to this message
+是我这句话前面这位转移了
+XD
+09:19
+XN D
+置顶消息在哪里打开啊
+简
+09:20
+简
+结束了
+夏
+09:24
+夏特
+中东佬是真能撸
+09:25
+可惜了 给club给撸坏了
+09:25
+要是他们不能撸还能玩好久
+p
+09:26
+pppp
+羡慕撸
+09:26
+LS
+09:29
+Lalo Salamanca
+In reply to this message
+来码了嘛
+p
+09:41
+pppp
+In reply to this message
+无码
+乾坤
+09:48
+乾 坤
+这几天不抽奖都没有人出来聊天了
+伍六
+09:52
+伍 六柒
+In reply to this message
+开卡免费，删卡5u
+PM
+09:52
+Pling Mooran
+我还不是白名单
+Next messages

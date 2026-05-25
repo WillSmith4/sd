@@ -1,0 +1,3760 @@
+Esim.Kim中文交流群
+Previous messages
+25 March 2026
+伍六
+13:16
+伍 六柒
+In reply to this message
+自己实名不难吧
+13:17
+Deleted Account
+@tntwi 网站展示的基本就是左右靓号了吧
+伍六
+13:17
+伍 六柒
+In reply to this message
+办一个啊，那么简单
+13:17
+In reply to this message
+护照通行证吧
+十
+13:17
+十年非梦
+csl和3万能在大陆要实名不
+13:18
+不实名能收到短信和用流量不
+J
+13:18
+JU
+澳门的卡都要去澳门激活，什么时候hk也学习下澳门
+Y
+13:18
+Yecraft
+chatgpt工作空间被关了，界面加载不出来怎么搞
+伍六
+13:18
+伍 六柒
+In reply to this message
+没啥感觉
+十
+13:19
+十年非梦
+In reply to this message
+被封了不
+13:19
+Deleted Account
+4a号一般什么时候出
+Y
+13:19
+Yecraft
+In reply to this message
+没，就网页登着工作空间那边的号
+应该是工作空间被关了
+13:19
+Deleted Account
+派出所加急就完事了
+13:20
+有啥久的
+13:20
+电子版次日出
+J
+13:20
+JU
+In reply to this message
+什么是料子
+13:20
+澳门的卡都要去澳门激活，什么时候hk也学习下澳门
+伍六
+13:20
+伍 六柒
+@xiguazh 这个等级
+十
+13:20
+十年非梦
+In reply to this message
+3hk diy是不是和3万能不是一个卡
+13:20
+这两有啥区别不
+J
+13:21
+JU
+In reply to this message
+澳门要去澳门营业厅
+13:25
+Deleted Account
+找德国人弄
+13:26
+买这个干什么？
+13:27
+德国卡有什么实际用途吗
+p
+13:30
+pppp
+德国沃达丰啊 免费半
+N
+13:33
+Nace
+In reply to this message
+所以，申请开发者，不敢实名？
+p
+13:33
+pppp
+N
+Nace 25.03.2026 13:33:31
+所以，申请开发者，不敢实名？
+N?
+13:34
+Natu 
+公司要交材料的
+N
+13:34
+Nace
+拿你老板
+13:34
+或者买小黑的
+p
+13:34
+pppp
+Z
+Z 25.03.2026 13:34:50
+哥们你们公司不会是干灰产的吧
+p
+13:35
+pppp
+B
+Ben 25.03.2026 13:34:55
+让你老板把护照+正面+上下左右的料子叫出来
+p
+13:35
+pppp
+营业执照打出来不是更好
+R
+14:04
+Rey (瑞)
+终于用上有线电话线宽带了
+14:05
+[]
+14:05
+今天刚配置好的
+14:05
+宽带员工上门安装
+p
+14:05
+pppp
+澳洲还在用电话线上网？
+R
+14:06
+Rey (瑞)
+In reply to this message
+对呀，电话线不是很正常吗
+14:06
+In reply to this message
+不给了
+ab
+14:06
+ao baba
+不买个马斯克的星链
+R
+14:06
+Rey (瑞)
+[]
+ab
+14:06
+ao baba
+匿名澳元算下来也不归
+R
+14:07
+Rey (瑞)
+给不给公网IP
+14:07
+要看运营商的
+14:07
+有些运营商会给
+14:07
+In reply to this message
+不是拨号
+法
+14:07
+法老-英国
+星链啊
+R
+14:07
+Rey (瑞)
+你是指PPPoE吗
+14:08
+其实你家光猫也是PPPoE拨号上网
+法
+14:08
+法老-英国
+电话线不就是adsl吗
+R
+14:08
+Rey (瑞)
+我的不用拨号
+法
+14:08
+法老-英国
+还有比这更差的？
+p
+14:08
+pppp
+ADSL啊电话线我记得是
+R
+14:08
+Rey (瑞)
+In reply to this message
+ADSL是老技术了，现在是VDSL
+14:08
+速度可以达到500M
+法
+14:08
+法老-英国
+一个意思
+14:09
+都是用电话线路传输
+14:09
+ftth
+14:09
+fttr
+R
+14:09
+Rey (瑞)
+In reply to this message
+国内那个是FTTH/FTTR
+p
+14:09
+pppp
+我记得最开始电话线上网有电话进来还会断网
+R
+14:09
+Rey (瑞)
+澳洲看区，不同区用不同技术
+14:09
+有FTTC/FTTN/FTTB/FTTP
+14:09
+和HFC
+14:09
+你住哪决定了你用什么类型
+14:09
+我的是FTTN
+14:10
+相当于光纤到节点，然后最后一公里走电话线，用的是VDSL
+14:10
+省钱
+14:10
+但是我VDSL，延迟6ms也行了啊
+14:11
+如果我能用FTTP，同城1ms
+14:11
+[]
+14:11
+FTTP这里直接是1ms了
+14:12
+国内好像是每个运营商自己拉线
+14:12
+你要几个宽带就拉几根线进家里
+14:13
+澳洲直接一根线到家，你要哪家运营商直接切换就行
+14:13
+In reply to this message
+可以用自己买的猫吗
+14:14
+In reply to this message
+但是运营商提供的猫权限给不够啊
+14:14
+然后还有后门远控
+l
+14:18
+lives
+abbcca算靓号
+14:18
+Sticker
+Not included, change data exporting settings to download.
+, 4.5 KB
+R
+14:19
+Rey (瑞)
+我用的是小运营商
+14:19
+便宜
+14:19
+月付$58
+14:19
+但是不给公网IP
+14:20
+...
+14:20
+我这个地段你称为农村？
+14:21
+悉尼方圆20公里内你去找一套海景房给我，谢谢
+蚊
+14:24
+蚊子酱
+无货啦
+ca
+14:24
+Sticker
+Not included, change data exporting settings to download.
+, 31.1 KB
+槐枝
+14:24
+槐 枝
+悲
+六三
+14:24
+六 三京
+有没有便宜的手机卡
+14:24
+接受验证码就行
+14:24
+其他不需要
+14:24
+难
+槐枝
+14:24
+槐 枝
+其他群管理有货吗
+R
+14:26
+Rey (瑞)
+[]
+14:26
+这是我们教室的网速
+槐枝
+14:26
+槐 枝
+nb
+R
+14:26
+Rey (瑞)
+勉强能接受吧？
+14:27
+我也不知道为什么不能满速
+槐枝
+14:28
+槐 枝
+不是我这个屌毛6g也没这么快
+B
+14:28
+Big
+In reply to this message
+羨慕
+p
+14:30
+pppp
+你水不够多
+14:31
+多发两句话再发
+乾坤
+R
+14:31
+Rey (瑞)
+家宽真是太贵了
+槐枝
+14:31
+槐 枝
+In reply to this message
+R
+14:31
+Rey (瑞)
+我要找邻居分网了
+p
+14:32
+pppp
+可以发了 快发
+R
+14:32
+Rey (瑞)
+In reply to this message
+自住
+睡不
+14:32
+睡觉 不定时
+？
+槐枝
+14:32
+槐 枝
+我没找到
+14:32
+我要
+14:32
+p
+14:32
+pppp
+In reply to this message
+找小学生
+睡不
+14:32
+睡觉 不定时
+啥
+p
+14:33
+pppp
+In reply to this message
+哪里买的
+睡不
+14:33
+睡觉 不定时
+你们又在说什么
+14:34
+卡？还是IP啊
+p
+14:34
+pppp
+看来钱到位了
+14:34
+花钱的不要
+14:35
+你那两张是德国o2和德国电信吗
+14:35
+比德沃稀有
+睡不
+14:35
+睡觉 不定时
+这是啥
+R
+14:36
+Rey (瑞)
+[]
+自己买宽带，只能买$64的丐版，如果能找人分网，可以用$89的豪华版
+睡不
+14:36
+睡觉 不定时
+一会儿不看信息你们就几百条过去了
+R
+14:36
+Rey (瑞)
+拉线我来拉
+睡不
+14:37
+睡觉 不定时
+...
+R
+14:37
+Rey (瑞)
+In reply to this message
+[]
+14:38
+In reply to this message
+对，就是自己偷偷拉线
+14:38
+不仅价格便宜了，速度从50M变成800M
+睡不
+14:38
+睡觉 不定时
+星链。。。。你们厉害了
+R
+14:39
+Rey (瑞)
+[]
+对MAX版的解释
+14:40
+[]
+Starlink mini for travel就是这两小盒车载用的
+AR
+14:40
+An Ran
+群友太高大上，而跟不上节奏
+p
+14:40
+pppp
+净整些我没见过的东西
+R
+14:40
+Rey (瑞)
+延迟我朋友测了，大概45-105ms
+十
+14:41
+十年非梦
+In reply to this message
+买的代实名的？
+R
+14:42
+Rey (瑞)
+In reply to this message
+嗯，你买MAX版会直接送你一套，但
+14:42
+服务费额外算
+十
+14:42
+十年非梦
+In reply to this message
+多少
+14:43
+In reply to this message
+哥们介意我私聊问问你不
+睡不
+14:52
+睡觉 不定时
+啥
+C
+14:55
+Crypto
+今天有抽奖吗，没有我就去睡了
+睡不
+14:56
+睡觉 不定时
+额
+14:56
+6
+C
+14:56
+Crypto
+抽妹子
+睡不
+14:57
+睡觉 不定时
+什么？
+C
+14:57
+Crypto
+囤号的危险
+睡不
+14:57
+睡觉 不定时
+因为啥
+C
+14:57
+Crypto
+我是良民，我认罪
+14:58
+有内鬼，终止交易
+睡不
+14:58
+睡觉 不定时
+14:59
+我几张卡还真就GG卡是咸鱼买的。。
+C
+14:59
+Crypto
+国际刑警协查吗，英国叔叔别抓我
+睡不
+14:59
+睡觉 不定时
+不过买的是没激活的实体卡
+Az
+14:59
+AAA z
+关半年？
+睡不
+14:59
+睡觉 不定时
+我现在自己转的ESim
+C
+15:00
+Crypto
+有点危险了
+乾坤
+15:01
+乾 坤
+建议你们悠着点
+C
+15:01
+Crypto
+半夜注意把门锁好，别被偷了
+睡不
+15:01
+睡觉 不定时
+我就薅了两张..
+祭梦
+15:02
+祭司 梦
+In reply to this message
+GG?
+15:02
+Sticker
+Not included, change data exporting settings to download.
+, 15.2 KB
+C
+15:02
+Crypto
+管的，缅北就被军队轰炸了
+15:02
+锁好门，你们的都是靓号，我的正宗电话号码，没人来偷
+15:03
+赶紧把gg都发给我，我先替你们保管靓号
+B
+睡不
+15:03
+睡觉 不定时
+...
+乾坤
+15:04
+乾 坤
+只要在国内平台交易的自己掂量
+C
+15:05
+Crypto
+被按头也没事，帮信罪赔钱的话基本都是监外执行
+15:05
+基本就是帮信罪
+G9
+15:06
+Gaara 911
+Sticker
+Not included, change data exporting settings to download.
+, 26.4 KB
+C
+15:06
+Crypto
+小梦囤这么多号赶紧拿出来抽了吧，到时候我被抓不会供你的
+15:08
+难怪我朋友玩esim叔叔找他，电话没打通直接打给我们
+15:08
+他用的pixel，还吹多安全，结果叔叔直接找他
+15:09
+也是以为搞电闸
+15:09
+小梦快出来抽奖
+15:11
+In reply to this message
+小梦被吓住了，现在被被子按头
+15:12
+接下来esim开放，被玩坏的话很有可能有相关法规出台
+k
+15:13
+kofx
+买卖esim条子给的罪名是什么
+Az
+15:13
+AAA z
+86 插上上去 马上到
+C
+15:13
+Crypto
+都能找，信号溯源
+LS
+15:13
+Lalo Salamanca
+In reply to this message
+是的 都在这薅
+C
+15:14
+Crypto
+帮信罪，前提是有人拿去犯罪
+15:14
+直接按人
+15:14
+上门排查更恐怖
+p
+15:15
+pppp
++44滞销了
+15:15
+我要把手机扔了 草
+C
+15:15
+Crypto
+好找的，以小区为单位
+15:15
+基站具体到楼栋
+15:16
+真是犯了大罪的话，叔叔会布点
+15:17
+那你就想的太简单了
+15:17
+叔叔破案立功
+15:17
+嗜血的程度
+p
+15:17
+pppp
+Sticker
+Not included, change data exporting settings to download.
+, 6.4 KB
+C
+15:18
+Crypto
+小区排查对叔叔来说不是啥难事
+W
+15:19
+William
+可难可不难，看你干了什么事
+C
+15:19
+Crypto
+你在哪个基站注册的，布控人员流动
+乾坤
+15:20
+乾 坤
+连接基站就容易找到人
+p
+15:20
+pppp
+In reply to this message
+不是该你给我买发BTC吗
+15:20
+Sticker
+Not included, change data exporting settings to download.
+, 13.7 KB
+C
+15:20
+Crypto
+小梦快出来
+15:21
+被被子按头吓得不轻
+N?
+15:21
+Natu 
+基站找人还不容易
+p
+15:21
+pppp
+小梦都吓哭了 躲在被子里瑟瑟发抖
+N?
+15:21
+Natu 
+就看你值不值得找
+S
+15:21
+S"
+In reply to this message
+/q
+C
+15:21
+Crypto
+快艾特小梦出来抽奖了
+N?
+15:21
+Natu 
+三五个基站轮流关一下三角定位就来了
+S
+15:21
+S"
+Sticker
+Not included, change data exporting settings to download.
+, 58.6 KB
+睡不
+15:21
+睡觉 不定时
+..
+p
+15:21
+pppp
+总之还是一句话 看你值不值得找
+C
+15:22
+Crypto
+群友的财产不能外流，最好的办法就是群内流转
+p
+15:22
+pppp
+你值得找把地犁三遍都要把你翻出来
+C
+15:22
+Crypto
+In reply to this message
+你不知道每栋楼都有设备么
+育高
+15:22
+育良 高
+In reply to this message
+正确的
+p
+15:22
+pppp
+In reply to this message
+夸张了
+C
+15:22
+Crypto
+接入的哪个olt口子，都能查
+Az
+15:23
+AAA z
+In reply to this message
+这可以定位到那一层楼
+育高
+15:23
+育良 高
+只要你在地球 就能抓到
+N?
+15:23
+Natu 
+除非你从不出门
+育高
+15:23
+育良 高
+暗网创始人不是被国际刑警给抓了
+乾坤
+15:23
+乾 坤
+连一次基站，手机基本信息都记录下来了，然后一比对这台手机之前用过哪些国内卡就可以关联上了。
+育高
+15:23
+育良 高
+In reply to this message
+本拉登
+N?
+15:23
+Natu 
+就看你值不值得了
+Az
+15:24
+AAA z
+In reply to this message
+每一层 一台RRU
+乾坤
+15:24
+乾 坤
+In reply to this message
+然后顺着国内号码就定位到了
+N?
+15:24
+Natu 
+从不出门的意义是 没人知道你存在啊
+15:25
+得看你看啥黄片了
+C
+15:25
+Crypto
+小梦已吓尿
+育高
+15:25
+育良 高
+In reply to this message
+直接空降你家后院
+C
+15:25
+Crypto
+不会已经关机了吧
+p
+15:25
+pppp
+小梦还是学生 问题不大
+15:26
+刚刚不是冒了泡吗
+C
+15:26
+Crypto
+小梦快出来玩
+N?
+15:26
+Natu 
+看你值不值得呗
+p
+15:26
+pppp
+群主也是学生啊
+15:26
+小学生吗不是
+Az
+15:27
+AAA z
+学生的话 等18岁再查
+15:27
+先不立案 等你18岁
+p
+15:27
+pppp
+In reply to this message
+到十八岁反手把户口注销了
+N?
+15:28
+Natu 
+FBI 天天警告你是吧 
+Az
+15:28
+AAA z
+身份证 在吧
+乾坤
+15:28
+乾 坤
+反正我也是被传唤过了，我用这些外卡他们都知道。
+简
+15:29
+简
+In reply to this message
+是一周没上线的吗
+育高
+15:29
+育良 高
+定位这个人不能关了吗
+乾坤
+15:29
+乾 坤
+我现在连说话都小心翼翼生怕说错一句
+C
+15:29
+Crypto
+快疏导一下小梦，小梦被你们吓尿了，都不出来了
+育高
+15:30
+育良 高
+管理呢
+Az
+15:30
+AAA z
+她已经说她要消失几天了
+p
+15:30
+pppp
+In reply to this message
+她是提前得到消息了
+C
+15:30
+Crypto
+小梦刚刚出来问了一句就消失了
+N?
+15:30
+Natu 
+In reply to this message
+纠结这个干嘛 你大概率不值得被用这个方式抓
+蚊
+15:30
+蚊子酱
+In reply to this message
+不用关
+15:30
+都会记录的
+p
+15:30
+pppp
+N?
+Natu  25.03.2026 15:30:41
+纠结这个干嘛 你大概率不值得被用这个方式抓
+简
+15:30
+简
+别买卖就没事
+育高
+15:31
+育良 高
+不是 我是说群里这个
+p
+15:31
+pppp
+龟总都没担心 你们在担心什么
+育高
+15:31
+育良 高
+黑入
+p
+15:31
+pppp
+Sticker
+Not included, change data exporting settings to download.
+, 23.2 KB
+蚊
+15:31
+蚊子酱
+疫情的时候，轨迹都能给你拉出来，还怕拉不出来这个？
+简
+15:31
+简
+自己玩别想着赚钱
+蚊
+15:31
+蚊子酱
+全民都完全不是技术问题
+N?
+15:31
+Natu 
+你要开关基站的话精度能提升不少
+15:31
+但是有什么意义吗
+15:31
+用得着这么找你的话，你也不应该担心这个
+p
+15:31
+pppp
+In reply to this message
+龟总正规买的人不正规呢
+C
+15:32
+Crypto
+抓你的方法千千万，主要是你干啥了
+N?
+15:32
+Natu 
+来，跟我念圣经，出埃及记 (Exodus 5:10)
+C
+15:32
+Crypto
+不必惊慌
+p
+15:32
+pppp
+龟总卖的卡比群友卖的多多了
+15:32
+Sticker
+Not included, change data exporting settings to download.
+, 6.4 KB
+N?
+15:32
+Natu 
+[]
+蚊
+15:32
+蚊子酱
+In reply to this message
+6
+N?
+15:32
+Natu 
+多读读经典
+乾坤
+15:32
+乾 坤
+龟总在日本吧
+N?
+15:32
+Natu 
+别想有的没的
+简
+15:33
+简
+In reply to this message
+我知道了
+M
+15:33
+ Maki
+In reply to this message
+N?
+15:33
+Natu 
+[]
+15:33
+给出圣经中文和合本下，Exodus 5:10 中法老说的话。
+M
+15:33
+ Maki
+In reply to this message
+简
+15:33
+简
+In reply to this message
+之前我还问过他靓号，囤的比较多
+Az
+15:34
+AAA z
+In reply to this message
+Exodus 不是钱包吗
+C
+15:34
+Crypto
+单纯卖号要抓你的话你也跑不掉，非法经营
+15:34
+但是没啥意义
+N?
+15:34
+Natu 
+中文叫 出埃及记
+S
+15:34
+S"
+督工的和官長出來對百姓說：「法老這樣說：『我不給你們草。』」
+N?
+15:34
+Natu 
+法老都不给你们草了
+15:35
+你怎么还中出
+p
+15:35
+pppp
+埃及记是谁 你要中出他
+N?
+15:35
+Natu 
+Sticker
+Not included, change data exporting settings to download.
+, 10.5 KB
+蚊
+15:35
+蚊子酱
+群友太污了
+Az
+15:35
+AAA z
+谁要草 法老
+p
+15:35
+pppp
+Az
+AAA z 25.03.2026 15:35:22
+谁要草 法老
+S
+15:35
+S"
+In reply to this message
+/q
+15:35
+In reply to this message
+/q
+蚊
+15:35
+蚊子酱
+In reply to this message
+/q
+S
+S
+15:35
+S"
+Sticker
+Not included, change data exporting settings to download.
+, 14.0 KB
+15:35
+Sticker
+Not included, change data exporting settings to download.
+, 42.8 KB
+N?
+15:35
+Natu 
+法老在这群吗
+Az
+15:36
+AAA z
+在的
+p
+15:36
+pppp
+有关esim的群哪个群法老不是座上宾
+15:36
+Sticker
+Not included, change data exporting settings to download.
+, 6.4 KB
+C
+15:38
+Crypto
+就怕小梦扛不住
+S
+15:38
+Setup
+Sticker
+Not included, change data exporting settings to download.
+, 9.5 KB
+C
+15:39
+Crypto
+你们就薅点羊毛，叔叔不感兴趣
+S
+15:40
+Setup
+还好我不买卖
+15:40
+Sticker
+Not included, change data exporting settings to download.
+, 23.5 KB
+15:40
+Sticker
+Not included, change data exporting settings to download.
+, 8.3 KB
+纸旧
+15:40
+纸船 旧
+In reply to this message
+骗你的其实根本没隐藏
+15:40
+好几个了
+15:41
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+乾坤
+15:41
+乾 坤
+2021年我就用86号码开过tg
+LS
+15:41
+Lalo Salamanca
+什么样的叫实名上网
+W
+15:44
+William
+真是人均a级通缉犯么，搞得神叨叨的
+15:44
+In reply to this message
+你这号都不是自己的
+乾坤
+15:45
+乾 坤
+Sticker
+Not included, change data exporting settings to download.
+, 18.8 KB
+C
+15:45
+Crypto
+没那么恐怖
+S
+15:45
+Setup
+Sticker
+Not included, change data exporting settings to download.
+, 8.7 KB
+15:45
+我丢
+15:45
+我也自爆
+15:45
+等着
+C
+15:45
+Crypto
+叔叔为啥要找你，不会无缘无故
+W
+15:45
+William
+所以啊，不怕，开了passkey不会丢号
+何意
+15:45
+何 意 味
+In reply to this message
+最高
+纸旧
+15:45
+纸船 旧
+In reply to this message
+可能被号商接烂了
+15:45
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+.
+15:45
+....
+In reply to this message
+C
+15:45
+Crypto
+注册点软件不算事
+S
+15:46
+Setup
+开我吧
+15:46
+Sticker
+Not included, change data exporting settings to download.
+, 16.2 KB
+15:46
+[]
+LS
+15:46
+Lalo Salamanca
+到咸鱼卖tg的不更危险
+S
+15:46
+Setup
+In reply to this message
+哼，被你看出来了
+LS
+15:46
+Lalo Salamanca
+我每次到小红书 咸鱼都刷的到卖tg的
+.
+15:47
+....
+In reply to this message
+C
+15:47
+Crypto
+小梦呢
+h
+15:47
+huaifree
+这群为啥如此热闹
+S
+15:48
+S"
+水多
+C
+15:48
+Conan
+In reply to this message
+专业
+S
+15:48
+S"
+記得做好防洪
+C
+15:48
+Conan
+匿名性还是要做好的
+p
+15:49
+pppp
+还好还好 我办不了护照
+PM
+15:50
+Pling Mooran
+早实名了..…..全是护照实名
+C
+15:50
+Conan
+实名没事，你别干啥坏事就行
+C
+15:51
+Crypto
+本群人人都在吹犯罪，本人谁敢去犯罪
+PM
+15:51
+Pling Mooran
+普通人也没料子吧...
+C
+15:51
+Conan
+正常的跟你没多大关系
+15:51
+正常不干啥，一点事都没有的哈
+C
+15:52
+Crypto
+翻个墙就刷人的话，东大监狱够用吗
+C
+15:52
+Conan
+Animation
+Not included, change data exporting settings to download.
+210.0 KB
+PM
+15:52
+Pling Mooran
+说起GV，最近总是有人给我打电话和语音留言
+C
+15:53
+Crypto
+其实群主就是内鬼，在刻意引导你们，培育犯罪，他一抓一个准，好立功
+M
+15:54
+ Maki
+In reply to this message
+？
+p
+15:55
+pppp
+最近真的在广撒网吗
+15:55
+我用86注册tg万人骑都可以收短信
+C
+15:55
+Crypto
+未来打炮可以通过网络传播，虽然相隔异地，但可以有真实的性体验
+N?
+15:56
+Natu 
+所以你在纠结什么
+15:56
+觉得你值得吗
+p
+15:56
+pppp
+[]
+A
+15:56
+Aiden
+不是
+15:57
+咋申请Esimde
+p
+15:57
+pppp
+我不值
+15:57
+我都穷到用万人骑了 不知道他们浪费精力
+S
+15:57
+Setup
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+15:57
+十分风险，等于不风险
+AA
+15:58
+Ad Astra
+不乱讲话谁有功夫来抓你。。
+p
+16:04
+pppp
+你也可以
+16:05
+哎卧槽 我最爱的那个撸管表情包不见了
+C
+16:05
+Crypto
+完了，你们真把小梦吓到了，昨天张雪峰猝死，直击小梦心灵，今天又聊倒卡犯罪，更是惊出小梦一身冷汗，两连击，小梦还扛得住吗
+S
+16:06
+Setup
+Sticker
+Not included, change data exporting settings to download.
+, 29.2 KB
+p
+16:06
+pppp
+Sticker
+Not included, change data exporting settings to download.
+, 10.1 KB
+16:08
+GV
+曦
+16:10
+曦灵
+In reply to this message
+？
+m
+16:11
+momo
+16:11
+哈日人
+S
+16:14
+Setup
+准备睡了
+16:14
+张老师前车之鉴
+16:16
+gv
+16:16
+free嘛
+16:17
+I need pls!
+B
+p
+16:19
+pppp
+S
+Setup 25.03.2026 16:16:52
+gv
+16:19
+free嘛
+16:19
+I need pls!
+m
+16:33
+momo
+偷偷问一下
+16:34
++43还能收到短信吗
+16:34
+Deleted Account
+In reply to this message
+可以
+p
+16:34
+pppp
+能
+16:35
+有请下一位追梦人
+G9
+16:35
+Gaara 911
+In reply to this message
+你好，我就是
+16:35
+Sticker
+Not included, change data exporting settings to download.
+, 8.3 KB
+p
+16:36
+pppp
+请开始你的表演
+k
+16:37
+kofx
+In reply to this message
+86本来就可以收
+p
+16:38
+pppp
+In reply to this message
+之前我收不到 漫游流量都收不到
+G9
+16:38
+Gaara 911
+In reply to this message
+现在不行了吧
+16:38
+In reply to this message
+现在可以吗，你好
+k
+16:38
+kofx
+In reply to this message
+可以
+G9
+16:38
+Gaara 911
+Sticker
+Not included, change data exporting settings to download.
+, 13.7 KB
+p
+16:38
+pppp
+可以 秒收 万人骑秒收
+k
+16:38
+kofx
+联通电信都能收
+16:38
+我有个移动收不到
+G9
+16:39
+Gaara 911
+据说是分区域拦截
+A
+16:39
+Apratisthita
+In reply to this message
+现在注册没得领了吧
+p
+16:40
+pppp
+[]
+16:40
+移动号
+16:40
+我的852还没试过 我试试去
+香
+16:40
+香港九龙
+[]
+16:40
+这个怎么样
+p
+16:41
+pppp
+境外号码发给86大部分都默认拦截了
+香
+16:41
+香港九龙
+[]
+p
+16:42
+pppp
+我打开了都拦截了
+k
+16:42
+kofx
+In reply to this message
+有这个？话术是什么
+G9
+16:43
+Gaara 911
+In reply to this message
+你好，我有一键去马赛克软件，一会儿分享你
+16:43
+Sticker
+Not included, change data exporting settings to download.
+, 8.3 KB
+p
+16:44
+pppp
+好的
+16:44
+[]
+16:44
+852是卵的
+16:48
+怎么这么多卖GV的
+法
+16:50
+法老-英国
+可以试试用x
+16:50
+或者老毛子那个
+E
+16:50
+Ensoleile
+In reply to this message
+用x注册43容易死
+p
+16:51
+pppp
+In reply to this message
++44也容易死
+16:51
+法
+16:51
+法老-英国
+那是你ip不行吧
+E
+16:51
+Ensoleile
+44不会啊，我44注册了七八个死了一个
+p
+16:51
+pppp
+我用x注册了个44的 第二天就死了
+法
+16:51
+法老-英国
+我前天还注册了几个
+E
+16:51
+Ensoleile
+43注册三个死了2个，妈的
+p
+16:51
+pppp
+正版倒是没事
+法
+16:51
+法老-英国
+就香港不行
+p
+16:52
+pppp
+我所有号都是万人骑注册的啊
+E
+16:52
+Ensoleile
+我44用的正版秒来
+p
+16:52
+pppp
+玄学就
+E
+16:53
+Ensoleile
+43换绑不知道耐用不
+p
+16:53
+pppp
+管理干活了
+16:53
+还有一个
+V
+16:53
+Vexlyxon
+uu wallet的开卡10u怎么返还有大佬知道吗
+p
+16:53
+pppp
+In reply to this message
+这个好像不返吧
+E
+16:53
+Ensoleile
+In reply to this message
+联系客服返
+16:54
+uu卡好像野鸡吧，一张图就可以
+V
+16:54
+Vexlyxon
+In reply to this message
+对
+p
+16:54
+pppp
+我感觉他很野啊
+V
+16:54
+Vexlyxon
+In reply to this message
+是的，但是我有集卡癖
+16:54
+能免费开卡就开呗
+p
+16:55
+pppp
+网页做得就跟小作坊一样
+E
+16:55
+Ensoleile
+我开过另外一个uu，那个才是野鸡。啥支付都拒绝。还好只丢了2刀打水漂
+V
+16:55
+Vexlyxon
+In reply to this message
+你以为APP就做的很好吗
+16:55
+In reply to this message
+uu pay 吧
+E
+16:55
+Ensoleile
+对
+16:55
+Animation
+Not included, change data exporting settings to download.
+210.0 KB
+p
+16:55
+pppp
+这俩都很野
+16:55
+E
+16:55
+Ensoleile
+1刀开返，白嫖
+V
+16:56
+Vexlyxon
+In reply to this message
+kyc比wallet难
+E
+16:56
+Ensoleile
+我以为捡漏，结果拉一坨我去接了。
+16:57
+In reply to this message
+我找人弄的30过人脸
+V
+16:57
+Vexlyxon
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+E
+16:57
+Ensoleile
+血亏30
+V
+16:58
+Vexlyxon
+[]
+我已经变成e卡的形状了
+E
+16:58
+Ensoleile
+In reply to this message
+你用的u卡那个比较丝滑，最好不用kyc的
+X
+16:59
+XUWU
+In reply to this message
+不用kyc都是野鸡平台
+E
+16:59
+Ensoleile
+用了也是野鸡
+X
+16:59
+XUWU
+不是手续费爆炸就是容易跑路的
+E
+17:00
+Esim.Kim
+ 今日发言排行榜 
+ 第1名 - 发言 437 条 【今日水王】
+ 第2名 - 发言 394 条 再接再厉
+ 第3名 - 发言 324 条 再接再厉
+ 第4名 - 发言 304 条 再接再厉
+ 第5名 - 发言 251 条 再接再厉
+ 第6名 - 发言 228 条 再接再厉
+ 第7名 - 发言 213 条 再接再厉
+ 第8名 - 发言 158 条 再接再厉
+ 第9名 - 发言 144 条 再接再厉
+ 第10名 - 发言 131 条 再接再厉
+ 恭喜今日水王！数据已重置。明天继续加油
+V
+17:00
+Vexlyxon
+In reply to this message
+在下一没有成年
+二没有护照，但是在下认为FIAT24的bitget，byEU，etherfi，是比较好用的卡，虽然我没用过就是了
+X
+17:00
+XUWU
+还有支持支付宝和微信直充的这种，手续费更炸裂
+17:00
+e是目前最好的了
+V
+17:01
+Vexlyxon
+In reply to this message
+wildcard
+X
+17:01
+XUWU
+e还是去年全部u卡里面消费最多的（好像吧，有图不知真假）
+E
+17:01
+Ensoleile
+[]
+我的by澳大利亚又可以用了
+17:01
+绑定的微信
+X
+17:01
+XUWU
+会玩e的，左手倒右手都能赚钱
+V
+17:03
+Vexlyxon
+我目前只有ypt和redotpay的卡，e卡有号但是还没开卡
+17:03
+等过几天发工资了开卡
+祭梦
+17:03
+祭司 梦
+In reply to this message
+no
+X
+17:03
+XUWU
+In reply to this message
+开卡又不要钱
+V
+17:04
+Vexlyxon
+In reply to this message
+要入金，BN最少提10u，我干脆直接入200cny
+X
+17:04
+XUWU
+Sticker
+Not included, change data exporting settings to download.
+, 5.4 KB
+V
+17:05
+Vexlyxon
+要是e卡有bsc链就更好了
+X
+17:05
+XUWU
+你开个by
+17:05
+币安提到by
+17:05
+by到e
+17:05
+手续费0.01
+17:06
+Sticker
+Not included, change data exporting settings to download.
+, 11.6 KB
+V
+17:06
+Vexlyxon
+In reply to this message
+没成年
+17:06
+In reply to this message
+啥链0.01u
+17:06
+In reply to this message
+回头买个by号
+X
+17:07
+XUWU
+by还是别买号吧？不知道提现那些操作会不会有人脸
+17:07
+（没整过）
+V
+17:07
+Vexlyxon
+反正我by是要买号的就是没想好买EU的还是其他区的
+17:08
+想搞个by卡玩玩
+X
+17:08
+XUWU
+In reply to this message
+币安的0.01
+17:08
+by那0手续费
+17:08
+[]
+V
+17:08
+Vexlyxon
+In reply to this message
+甚好甚好
+17:08
+这个链BN都没有
+X
+17:09
+XUWU
+In reply to this message
+[]
+17:09
+In reply to this message
+我之前也是
+AA
+17:10
+Ad Astra
+3国际那个选号的，看了半天刷出来一个，一下单显示号码无效了
+X
+17:10
+XUWU
+后面18了，而且有护照了搞了一大堆
+V
+17:10
+Vexlyxon
+In reply to this message
+搞了啥，我回头当任务栏刷掉
+X
+17:11
+XUWU
+em，有些都要地址证明
+17:11
+我p的
+17:11
+Sticker
+Not included, change data exporting settings to download.
+, 11.6 KB
+17:11
+现在只用e了
+V
+17:11
+Vexlyxon
+不慌
+X
+17:11
+XUWU
+其他基本没动过
+17:11
+In reply to this message
+你n26有不？
+17:11
+（没满18应该没）
+17:11
+Sticker
+Not included, change data exporting settings to download.
+, 5.4 KB
+V
+17:12
+Vexlyxon
+In reply to this message
+没有，不过p个n26的地址证明
+17:12
+问题不大
+X
+17:12
+XUWU
+可惜，这玩意走邀请能薅钱钱
+17:12
+走邀请能给你100欧
+17:12
+Sticker
+Not included, change data exporting settings to download.
+, 11.6 KB
+V
+17:13
+Vexlyxon
+我记得是要预存
+祭梦
+17:13
+我都快穷死了
+X
+17:13
+XUWU
+入金30欧
+17:13
+绑定支付宝套出来就好了
+17:13
+Sticker
+Not included, change data exporting settings to download.
+, 16.6 KB
+V
+17:13
+Vexlyxon
+[]
+天天吃面条子
+17:13
+In reply to this message
+正在加仓面条子
+X
+17:13
+XUWU
+啊不对，注册个hk支付宝，一次性把30欧套出来
+V
+17:14
+Vexlyxon
+怎么套，n26又不是卡
+X
+17:14
+XUWU
+有卡啊
+17:14
+账户+卡的
+V
+17:14
+Vexlyxon
+n26还能开卡？
+17:14
+门槛很高吧
+X
+17:14
+XUWU
+开n26自带一张万事达
+M
+17:15
+Monitor
+n26随便开
+X
+17:15
+XUWU
+无手续费，万事达官方汇率
+17:15
+In reply to this message
+对
+V
+17:15
+Vexlyxon
+In reply to this message
+需要什么材料
+X
+17:15
+XUWU
+护照
+17:15
+没了
+V
+17:15
+Vexlyxon
+我擦
+X
+17:16
+XUWU
+（选奥地利注册能跳过视频验证，你英语nb的话选德国）
+V
+17:16
+Vexlyxon
+真的假的，我等下去搜教程去
+X
+17:16
+XUWU
+要视频验证
+M
+17:16
+Monitor
+不用
+17:16
+我选的是奥地利
+V
+17:16
+Vexlyxon
+In reply to this message
+我背英语课文都背不下来
+M
+17:16
+Monitor
+通过秒改德国
+X
+17:16
+XUWU
+对啊奥地利可以跳过
+M
+17:16
+Monitor
+德国信用
+X
+17:16
+XUWU
+后面改不改看你咯
+V
+17:17
+Vexlyxon
+In reply to this message
+可以随便改的吗
+M
+17:17
+Monitor
+看人
+X
+17:17
+XUWU
+我没改过不知道
+17:17
+Sticker
+Not included, change data exporting settings to download.
+, 16.6 KB
+M
+17:17
+Monitor
+有些人说要地址证明
+17:17
+但是我没要
+17:17
+随便改
+V
+17:17
+Vexlyxon
+In reply to this message
+你是啥区(不是骂人
+祭梦
+17:17
+祭司 梦
+Sticker
+Not included, change data exporting settings to download.
+, 18.2 KB
+X
+17:17
+XUWU
+改不改无所谓，我就为了有个iban和薅邀请
+17:17
+In reply to this message
+奥地利
+17:18
+Sticker
+Not included, change data exporting settings to download.
+, 11.6 KB
+V
+17:18
+Vexlyxon
+改不改好像没什么区别吧
+X
+17:18
+XUWU
+上面那个说有德国信用
+17:18
+Sticker
+Not included, change data exporting settings to download.
+, 16.6 KB
+V
+17:18
+Vexlyxon
+In reply to this message
+使用体验上来讲的话
+X
+17:18
+XUWU
+（能贷款嘛）
+17:18
+Sticker
+Not included, change data exporting settings to download.
+, 11.6 KB
+V
+17:19
+Vexlyxon
+In reply to this message
+不能应该
+K
+17:19
+Kioa
+https://3hk.miillk.com/
+这网站是挂了么？
+p
+17:19
+pppp
+In reply to this message
+小梦活过来了
+何意
+17:19
+何 意 味
+还有502（
+V
+17:19
+Vexlyxon
+不过我还是想知道uu怎么返开卡费
+X
+17:19
+XUWU
+开卡消费就有吧
+17:20
+Sticker
+Not included, change data exporting settings to download.
+, 16.6 KB
+祭梦
+17:20
+祭司 梦
+In reply to this message
+对
+17:20
+In reply to this message
+我准备盯着了
+17:20
+Sticker
+Not included, change data exporting settings to download.
+, 18.2 KB
+K
+17:20
+Kioa
+会活过来吗
+M
+17:22
+Monitor
+能申请信用卡
+17:22
+17:22
+我上次申请了个2000欧的还给我同意了
+X
+17:22
+XUWU
+In reply to this message
+6
+M
+17:23
+Monitor
+但是只能寄德国地址
+17:23
+X
+17:23
+XUWU
+In reply to this message
+怎么改地址来着
+17:23
+Sticker
+Not included, change data exporting settings to download.
+, 13.5 KB
+M
+17:23
+Monitor
+设置
+ab
+17:23
+ao baba
+我奥地利注册tg,输入号码后直接跳邮箱
+X
+17:23
+XUWU
+In reply to this message
+（想玩搞个转运走起）
+ab
+17:23
+ao baba
+你们是怎么注册的
+X
+17:23
+XUWU
+In reply to this message
+我看他们说放几个月再改
+17:24
+Sticker
+Not included, change data exporting settings to download.
+, 13.5 KB
+V
+17:24
+Vexlyxon
+In reply to this message
+邮箱 验证码 手机号验证码 成功注册
+17:24
+In reply to this message
+容易被冻结
+ab
+17:24
+ao baba
+我以前+86直接手机号注册，发个验证码都ok
+17:25
+现在还要绑个邮箱
+p
+17:25
+pppp
+In reply to this message
+现在都行 不用以前
+V
+17:25
+Vexlyxon
+那是以前了只能手机号登录，现在可以邮箱登录，passkey登录
+p
+17:26
+pppp
+[]
+17:26
+Sticker
+Not included, change data exporting settings to download.
+, 6.4 KB
+刘
+17:30
+刘斩仙
+现在只要开了passkey和2fa手机号码没了也无所谓是吧
+V
+17:33
+Vexlyxon
+In reply to this message
+差不多
+刘
+17:34
+刘斩仙
+我的tg是用talkatone注册的
+V
+17:34
+Vexlyxon
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+17:34
+垃圾玩意
+刘
+17:34
+刘斩仙
+没办法，其它的号收不到验证码
+17:35
+giffgaff也收不到
+V
+17:35
+Vexlyxon
+随便找一个买号平台也比折腾tt这个变态强
+刘
+17:35
+刘斩仙
+总不能用自己的86去注册
+V
+17:35
+Vexlyxon
+我折腾tt的时候验证码自动屏蔽
+17:35
+In reply to this message
+咋不能
+刘
+17:36
+刘斩仙
+不怕上门喝茶
+V
+17:36
+Vexlyxon
+In reply to this message
+肉身在你就瞒不住
+17:36
+就看他们想不想找你
+17:37
+而且tg的86验证码是代理商发的，其实不能推测出是注册tg
+G9
+17:38
+Gaara 911
+In reply to this message
+唯一的办法就是肉身成圣
+17:38
+Sticker
+Not included, change data exporting settings to download.
+, 8.3 KB
+刘
+17:38
+刘斩仙
+那+852的也是代理商发的？
+p
+17:39
+pppp
+[]
+17:39
+外国佬用tg撩骚吗
+17:39
+V
+17:39
+Vexlyxon
+In reply to this message
+境外一般是直发
+刘
+17:40
+刘斩仙
+谷歌账号，我倒是用自己的86账号注册的
+V
+17:40
+Vexlyxon
+我发现外国有些验证码都是没有号码的，不知道啥原理
+p
+17:40
+pppp
+转发的
+ab
+17:41
+ao baba
+谷歌账号没事
+p
+17:41
+pppp
+羡慕5a
+ab
+17:41
+ao baba
+Tg不一样，这个玩意可是灰黑重灾区
+V
+17:41
+Vexlyxon
+In reply to this message
+没啥不一样的
+ab
+17:42
+ao baba
+在国内搞这玩意基本被打击的差不多了
+刘
+17:42
+刘斩仙
++49是哪里的？
+p
+17:42
+pppp
+de
+H
+17:42
+Haki
+In reply to this message
+ab
+17:42
+ao baba
+被打击的都是养肥了一锅端
+刘
+17:42
+刘斩仙
+whatsapp也是灰黑重灾区吧
+17:43
+德国Vodafone的？
+p
+17:44
+pppp
+[]
+17:44
+就一个4a
+17:45
+还是活不长的美国号
+V
+17:46
+Vexlyxon
+In reply to this message
+留个勾巴
+刘
+17:46
+刘斩仙
+whatsapp也是黑灰的重灾区吗
+p
+17:47
+pppp
+In reply to this message
+你的绿帽子为什么每天都在变
+V
+17:47
+Vexlyxon
+e卡的卡bin是多少
+刘
+17:48
+刘斩仙
+我的line一直提示发生未知错误
+p
+17:49
+pppp
+[]
+17:49
+这个吗
+S
+17:49
+S"
+港區?
+刘
+17:49
+刘斩仙
+对
+S
+17:49
+S"
+Sticker
+Not included, change data exporting settings to download.
+, 10.6 KB
+p
+17:50
+pppp
+In reply to this message
+ip挂哪就是哪
+S
+17:50
+S"
+想太多了
+p
+17:50
+pppp
+把手机号国家码改了就能进了
+17:51
+确实是啊
+S
+17:51
+S"
+那是沒綁號 而且不是帳號所屬區
+p
+17:51
+pppp
+我挂日本节点就是日本内容
+17:51
+就是没绑号
+S
+17:51
+S"
+S
+S" 25.03.2026 17:51:14
+那是沒綁號 而且不是帳號所屬區
+p
+17:51
+pppp
+没绑手机号 邮箱登录的
+17:52
+广告是真几把多
+17:52
+没意思
+17:52
+纯好奇
+26 March 2026
+简
+00:08
+简
+In reply to this message
+负数是还没有激活 连一下Wi-Ficall 就正常了
+木
+00:52
+木木虎
+[]
+飞行模式下实现双拉了
+蓝（
+01:03
+蓝颜不是菜鸡 （蓝颜小号）
+In reply to this message
+俺也一样
+所
+01:04
+所長
+In reply to this message
+过来 开热点给你
+01:04
+Sticker
+Not included, change data exporting settings to download.
+, 35.0 KB
+蓝（
+01:04
+蓝颜不是菜鸡 （蓝颜小号）
+前天晚上一次昨天下午一次
+zj
+01:10
+zhe jiang
+[]
+这机器人咋还活着
+GN
+01:13
+Gaga Nakamoto
+是哪个管理搞得
+01:13
+Sticker
+Not included, change data exporting settings to download.
+, 36.9 KB
+ls
+01:19
+li shan
+voxi烂大街了吗
+GN
+01:20
+Gaga Nakamoto
+In reply to this message
+烂了
+01:20
+开始杀号了
+ls
+01:20
+li shan
+我还没呢
+睡不
+01:20
+睡觉 不定时
+木有
+l
+01:27
+lives
+Sticker
+Not included, change data exporting settings to download.
+, 22.0 KB
+AR
+01:29
+An Ran
+早
+01:29
+Sticker
+Not included, change data exporting settings to download.
+, 250.4 KB
+k
+01:40
+kofx
+In reply to this message
+小概率吧
+01:40
+目前也就一个人发帖
+SL
+01:57
+Stan Lee
+In reply to this message
+广东省深圳市南山区青青世界
+01:59
+这是DNS泄漏造成的吗？
+02:00
+送中了？
+AA
+02:10
+Ad Astra
+之前有个香港靓号的网站，看了一个 800
+块的号过了一两年都还在。感觉也没那么容易卖出去
+02:11
+不如买群友昨天的 30 元靓号 哈哈
+02:13
+今日名额
+0
+SL
+02:19
+Stan Lee
+牛逼呀
+02:20
+群里科技多了去了
+法
+02:25
+法老-英国
+给你科技2027年都不一定有你想要的号
+睡不
+02:26
+睡觉 不定时
+对靓号感觉无所谓
+斗湿
+02:27
+斗酒 湿百篇
+In reply to this message
+这平台真能卖号？
+02:27
+挑个小破号卖个试试
+02:30
+[]
+你看我还有机会吗
+02:30
+看看能不能卖
+W
+02:31
+William
+In reply to this message
+这号200?20群友都不要把
+斗湿
+02:31
+斗酒 湿百篇
+In reply to this message
+都说了试试
+02:32
+他这看起来是价格随意商议
+W
+02:33
+William
+也不好卖。随你挂。
+斗湿
+02:33
+斗酒 湿百篇
+卖不出就是损失5蚊
+W
+02:33
+William
+得按3折去砍价
+AN
+02:35
+Andres Nava
+這種東西主打一個挂著玩的
+斗湿
+02:35
+斗酒 湿百篇
+我看也是
+02:35
+封面上的号码还不如我这个
+02:36
+挂2888蚊
+AN
+02:36
+Andres Nava
+我在深水埗那裡看到一堆賣靚號的店
+02:36
+動不動就 1888 28888
+02:36
+能賣出去嗎
+AA
+02:37
+Ad Astra
+In reply to this message
+你下次再去说不定那些号都还在
+AN
+02:37
+Andres Nava
+那些牌子一看就是風吹雨打多少年了
+AA
+02:37
+Ad Astra
+靚號王
+AN
+02:37
+Andres Nava
+賣出去的用馬克筆劃掉
+W
+02:37
+William
+不含4的尾号4A实际价也就1-2w港币
+斗湿
+02:39
+斗酒 湿百篇
+没事
+02:39
+卖不出就是血亏5hkd
+E
+02:40
+Esim.Kim
+ 65025200 由simWorld锁单成功
+睡不
+02:54
+睡觉 不定时
+港卡是不是都需要通行证或者护照的？
+法
+02:55
+法老-英国
+携号转网需要护照 通行证无法使用
+SL
+02:57
+Stan Lee
+In reply to this message
+30收
+睡不
+03:00
+睡觉 不定时
+护照通行证通通木有
+SL
+03:00
+Stan Lee
+去办
+斗湿
+03:05
+斗酒 湿百篇
+In reply to this message
+你要这个？
+03:07
+话说之前卖的几个4A还有俩在我邮箱上
+03:07
+是还没转走吗
+SL
+03:08
+Stan Lee
+过年的4A原来是你拿的？改名了？
+03:09
+Sticker
+Not included, change data exporting settings to download.
+, 19.7 KB
+斗湿
+03:09
+斗酒 湿百篇
+是我下单的
+SL
+03:09
+Stan Lee
+In reply to this message
+算了，要来也没啥用
+睡不
+03:10
+睡觉 不定时
+斗湿
+03:11
+斗酒 湿百篇
+In reply to this message
+是那个号没进白名单
+SL
+03:11
+Stan Lee
+退烧了
+斗湿
+03:11
+斗酒 湿百篇
+被踢了
+SL
+03:11
+Stan Lee
+Sticker
+Not included, change data exporting settings to download.
+, 18.1 KB
+睡不
+03:11
+睡觉 不定时
+哈？？
+SL
+03:12
+Stan Lee
+In reply to this message
+找Z佬解一下
+ll
+03:15
+ling ling
+来了
+W
+03:15
+William
+In reply to this message
+如果有不带4的4A，给我留着，我的朋友还需要
+03:15
+科技盯上3HK
+03:16
+有4A就不要带4的了
+AA
+03:16
+Ad Astra
+In reply to this message
+确实还可以 不带 4 肯定被抢购了
+W
+03:17
+William
+都用代理IP的安全吧。Z佬这么容易被群友忽悠。
+AA
+03:18
+Ad Astra
+3HK 回收号倒也是蛮多的，3HK 之前换的号去注册 theclub
+结果绑定了别人的邮箱。。。
+M
+03:18
+ Maki
+Sticker
+Not included, change data exporting settings to download.
+, 81.5 KB
+睡不
+03:18
+睡觉 不定时
+In reply to this message
+真6
+W
+03:18
+William
+现在都是毫秒级自动保存的，还手动保存么？
+SL
+03:19
+Stan Lee
+Photo
+962×96
+W
+03:20
+William
+In reply to this message
+而且还得是多个代理池吧，不然不是一会就封了么
+SL
+03:21
+Stan Lee
+代理IP怕什么
+W
+03:22
+William
+而且买的代理池子也不是实名的。一般不会为了这点事情去大动干戈查你
+j
+03:23
+jiessie
+W
+03:23
+William
+In reply to this message
+GG靓号哥咋了？怎么几个月不见上线了
+简
+03:24
+简
+In reply to this message
+这咋寄到国内的
+03:24
+In reply to this message
+被逮捕了
+睡不
+03:24
+睡觉 不定时
+AA
+03:25
+Ad Astra
+这个只能慢慢刷新么 不能直接搜索https://esim.kim/3W
+W
+03:25
+William
+In reply to this message
+昨天才按头？
+睡不
+03:25
+睡觉 不定时
+应该是昨天出来吧
+简
+03:25
+简
+In reply to this message
+一般就教育一下 关几个月案情比较大？
+W
+03:26
+William
+我去年找他买号码时候就说我在小红书看到过他的帖子卖号的。我让他搞差异点，别让人知道是一个人。不然有坏人要举报的话还真麻烦
+SL
+03:26
+Stan Lee
+GG靓号哥？我都不知道是谁
+W
+03:27
+William
+在外网卖卖还好，在国内平台风险就大了
+简
+03:27
+简
+In reply to this message
+老早的
+SL
+03:27
+Stan Lee
+最近的一系列动作，小心为好
+简
+03:27
+简
+人都几个月没出来了
+睡不
+03:27
+睡觉 不定时
+现在鱼上面是不是都没gg卡了？都下架了吧
+简
+03:27
+简
+In reply to this message
+去年还能看到
+W
+03:27
+William
+国内平台都没了GG卡了
+03:28
+一个月前还好多把。京东，淘宝都一片
+M
+03:28
+ Maki
+又不是绝版了，你不会开esim啊
+03:28
+Sticker
+Not included, change data exporting settings to download.
+, 81.5 KB
+W
+03:29
+William
+很多小白不知道也没有ESIM手机。堵住一个缺口就行了
+03:29
+In reply to this message
+没有。热闹不？
+SL
+03:29
+Stan Lee
+giffgaff全网下架， redteago 中国IP看不到中国套餐， cmhk
+大陆地址无法上台，cuhk 取消身份证实名86等等一系列动作
+S
+03:29
+Setup
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+M
+03:29
+ Maki
+In reply to this message
+刚搜不热闹
+SL
+03:30
+Stan Lee
+感觉这次针对外卡的管控再加大
+M
+03:30
+ Maki
+In reply to this message
+随手一翻就到22号
+03:30
+Sticker
+Not included, change data exporting settings to download.
+, 81.5 KB
+简
+03:30
+简
+小红书 闲鱼搞得太过了 一上去全是解封tg 卖tg esim流量的
+SL
+03:30
+Stan Lee
+In reply to this message
+是的
+W
+03:31
+William
+In reply to this message
+嗯。那就算了。不去逛了
+03:32
+In reply to this message
+国行扫不了外面的ESIM。不过ESIM这个东西让更多人知道了都疯狂去买国外ESIM了。老爷们一看不得了。得封
+AA
+M
+03:33
+ Maki
+In reply to this message
+我们只需要乖乖被剥夺权利就好了，而老爷们要考虑的就多了
+AA
+03:33
+Ad Astra
+主要是rednote
+l
+03:34
+lives
+Sticker
+Not included, change data exporting settings to download.
+, 24.9 KB
+03:34
+安卓esim怎么限制
+M
+03:34
+ Maki
+Sticker
+Not included, change data exporting settings to download.
+, 81.5 KB
+SL
+03:34
+Stan Lee
+之前抖音还出现了一阵晒国外软件的，google youtube 啥的
+W
+03:35
+William
+还是不自信。这封那堵的。官媒天天赢麻了
+SL
+03:35
+Stan Lee
+下面就在讨论怎么下载啥的
+简
+03:35
+简
+都是沙雕 还教人注册
+SL
+03:36
+Stan Lee
+In reply to this message
+大家长
+M
+03:36
+ Maki
+In reply to this message
+基本成功
+SL
+03:36
+Stan Lee
+什么都要管
+03:36
+什么都管不好
+LS
+03:37
+Lalo Salamanca
+哈哈哈哈哈
+AA
+03:37
+Ad Astra
+big 胆
+SL
+03:37
+Stan Lee
+Sticker
+Not included, change data exporting settings to download.
+, 8.9 KB
+法
+03:37
+法老-英国
+大胆
+W
+03:37
+William
+ESTK这种卖ESIM卡的估计也要被打
+LS
+03:37
+Lalo Salamanca
+马上心肌梗塞
+SL
+SL
+03:37
+Stan Lee
+话说有没有人3HK转cuhk月神卡的？
+W
+03:38
+William
+如果想封堵的话。
+LS
+03:38
+Lalo Salamanca
+In reply to this message
+岂不是又要涨价
+法
+03:38
+法老-英国
+LS
+03:38
+Lalo Salamanca
+赶紧囤点
+法
+03:38
+法老-英国
+不可能涨价
+M
+03:38
+ Maki
+Sticker
+Not included, change data exporting settings to download.
+, 147.3 KB
+法
+03:38
+法老-英国
+9.9买了差不多50张
+W
+03:38
+William
+In reply to this message
+涨价不可能吧。都不给卖还涨价呢
+AA
+03:38
+Ad Astra
+In reply to this message
+之前有考虑，但还是转到了 csl 和 club
+法
+03:38
+法老-英国
+然后就等蓝牙卡了
+l
+03:38
+lives
+小白卡不root有办法手机写卡吗
+LS
+03:39
+Lalo Salamanca
+现在卖小白卡的 到处都有
+W
+03:39
+William
+只是说可能。可能概率还是比较低的
+SL
+03:39
+Stan Lee
+In reply to this message
+问了客服是可以的
+W
+03:39
+William
+我现在有4张ESTK，一张9.9,怎么用都用不完了。
+03:39
+2张ESTK ECO，快2年了。一直不坏。。
+SL
+03:39
+Stan Lee
+[]
+LS
+03:39
+Lalo Salamanca
+李嘉诚绝对靠谱
+法
+03:40
+法老-英国
+小白卡要啥root
+03:40
+早就有带aram的小白卡了
+LS
+03:40
+Lalo Salamanca
+In reply to this message
+都没见过eism卡坏的
+法
+03:40
+法老-英国
+你怕是买了早期的小白卡
+W
+03:40
+William
+In reply to this message
+都说ECO容易扎卡。其实还好。
+法
+03:40
+法老-英国
+概率问题
+LS
+03:40
+Lalo Salamanca
+In reply to this message
+小白卡可以estk 固件嘛
+03:40
+法
+03:41
+法老-英国
+用个屁estk固件
+W
+03:41
+William
+In reply to this message
+还挺耐用的
+法
+03:41
+法老-英国
+人家estk自带双芯
+03:41
+小白卡都是单芯
+AA
+03:41
+Ad Astra
+In reply to this message
+等于说还得跑门店去办理 Port in
+LS
+03:41
+Lalo Salamanca
+想直接写入
+法
+03:41
+法老-英国
+小白卡一样能直接写入
+SL
+03:41
+Stan Lee
+In reply to this message
+对
+AA
+03:42
+Ad Astra
+还是深圳居民好呀 坐个地铁就去了
+LS
+03:42
+Lalo Salamanca
+还是深圳居民好呀 坐个地铁就去了
+法
+03:42
+法老-英国
+苹果那个系统限制只有蓝牙卡能稳稳一战
+LS
+SL
+03:43
+Stan Lee
+GY
+Gavin Yang 26.03.2026 03:42:18
+还是深圳居民好呀 坐个地铁就去了
+LS
+03:43
+Lalo Salamanca
+In reply to this message
+好吧
+SL
+03:44
+Stan Lee
+In reply to this message
+你上台的可以随便转入
+03:44
+联系你的客户经理转呀
+03:44
+都不用去线下
+法
+03:44
+法老-英国
+上台卡根本玩不起
+LS
+03:45
+Lalo Salamanca
+In reply to this message
+6的
+W
+03:46
+William
+不过我的GG也解决好多了。就留了2个靓号了
+c
+03:47
+changed
+In reply to this message
+我前几年申请的都还有一柜子
+03:47
+两三百张
+W
+03:48
+William
+In reply to this message
+你是真多啊。准备卖的吧
+c
+03:48
+changed
+In reply to this message
+没卖过
+03:48
+申请着玩
+SL
+03:48
+Stan Lee
+In reply to this message
+这几个都不支持线上改的
+03:48
+Sticker
+Not included, change data exporting settings to download.
+, 18.1 KB
+W
+03:48
+William
+In reply to this message
+太多了用不着。留个二三十张救炸卡就行了
+法
+03:49
+法老-英国
+香港一张汇丰卓越足够了
+c
+03:49
+changed
+In reply to this message
+邮表格就能改
+03:49
+不需要去香港
+SL
+03:49
+Stan Lee
+邮寄多麻烦，不如直接到港
+c
+03:49
+changed
+In reply to this message
+可以吧印象里的签名全写上
+03:49
+试过可以
+03:50
+连续签三个都行
+03:50
+他会给你选一个对的
+SL
+03:50
+Stan Lee
+In reply to this message
+是的
+03:51
+Sticker
+Not included, change data exporting settings to download.
+, 18.1 KB
+c
+03:51
+changed
+In reply to this message
+我怕你记不住
+03:51
+写名字最好
+aC
+03:51
+anon Chihaya
+哈哈哈哈，我甚至根本没去留签名，，，
+SL
+03:52
+Stan Lee
+我好像就bochk 中信国际 汇丰留了签名
+03:52
+ccb是线上开的，没有留
+c
+03:52
+changed
+In reply to this message
+他会提示的
+03:53
+不
+03:53
+你可以问他
+03:53
+你的签名啥样子
+03:53
+会给你形容
+SL
+03:53
+Stan Lee
+真麻烦
+LS
+03:53
+Lalo Salamanca
+难道不是签自己名字？
+SL
+03:54
+Stan Lee
+线上开的都没签名
+03:54
+中信国际我去线下申请了提款卡。留了签名
+03:55
+In reply to this message
+不都写自己的中文名？
+A
+03:55
+Anlishes
+43号现在还能收短信，才注册了个Google账号，用来短信验证还好使
+LS
+03:56
+Lalo Salamanca
+还可以薅嘛
+SL
+03:57
+Stan Lee
+CITIC密码不是不能线下改吗？线下也是重新邮寄？
+03:58
+我的都收到了
+c
+03:58
+changed
+In reply to this message
+从来没有指纹
+03:58
+是静脉
+03:58
+你看清楚那个设备
+03:58
+澳门中银也有
+03:59
+In reply to this message
+老人
+03:59
+没法签名
+03:59
+还有残疾人
+03:59
+身体原因记不住签名的样式
+04:00
+值得推广
+04:00
+挺方便的
+G
+04:04
+Gnaiqux
+红茶国内漫游套餐 是按地区显示了 还是下架了？
+04:05
+搜噶
+04:05
+我看了下 也用到了电子围栏
+04:05
+anyGo改完也看不到 也就是说能看到说明突破了电子围栏
+E
+04:06
+Esim.Kim
+ 53317007 由simWorld锁单成功
+SL
+04:06
+Stan Lee
+In reply to this message
+国内IP不显示了
+G
+04:07
+Gnaiqux
+改定位也没用咯 还要看是不是国内IP
+04:08
+貌似看接入IP的 搞个梯子就看到了
+SL
+04:08
+Stan Lee
+In reply to this message
+不看定位
+04:09
+说是上面给压力了
+G
+04:10
+Gnaiqux
+[]
+看到了
+SL
+04:10
+Stan Lee
+只要在中国运营的话，他的数据肯定会给上面
+G
+04:10
+Gnaiqux
+看来esim普及更难了
+04:10
+这个本身就很冲突。
+04:11
+终于知道为啥要限制写2张卡了。
+SL
+04:12
+Stan Lee
+还是深圳公司
+04:12
+[]
+04:14
+高通（中国）控股有限公司 还是股东
+S
+04:21
+S"
+第一名多少條
+04:21
+落差不大
+SL
+04:22
+Stan Lee
+最近没见水王林文了
+S
+04:23
+S"
+已被馬子扣押
+04:25
+他最近日夜顛倒了 你沒發現
+i
+04:35
+incognito
+进了温柔乡
+04:35
+出不来了
+04:36
+没办法一个小时的快乐了
+04:36
+可能要24小时的快乐
+SL
+04:41
+Stan Lee
+Sticker
+Not included, change data exporting settings to download.
+, 200.8 KB
+04:41
+Sticker
+Not included, change data exporting settings to download.
+, 158.4 KB
+云慕
+04:42
+云海 慕容
+3HK网站不卖了吗
+SL
+04:43
+Stan Lee
+不放名额了
+p记
+04:52
+px休息中 记得催我睡觉
+我这垃圾csl还要不要保号了
+04:52
+去香港也没网 要不转走得了
+J
+04:52
+JU
+In reply to this message
+要啊，留着接码
+04:52
+不需要接码就换3w
+?₿
+04:53
+🅴 ₿in
+呜呼
+p记
+04:53
+px休息中 记得催我睡觉
+In reply to this message
+保号是一年6块？
+04:53
+csl
+J
+04:53
+JU
+In reply to this message
+csl保号平均4.5吧
+04:53
+club才是6元保号
+04:54
+csl还能付费接打电话，发短信
+p记
+04:54
+px休息中 记得催我睡觉
+In reply to this message
+一年吗
+J
+04:54
+JU
+club只能接码
+04:54
+In reply to this message
+5年平均
+p记
+04:54
+px休息中 记得催我睡觉
+啊
+04:54
+Sticker
+Not included, change data exporting settings to download.
+, 8.6 KB
+04:54
+这么便宜
+J
+04:55
+JU
+@tntwi 我想找一个英国或者德区地区的esim
+ip原生家宽流量，在中国使用，有没有啊？
+04:55
+只能cte呀
+云慕
+04:57
+云海 慕容
+大湾区的实体卡可以打电话也有流量
+l
+04:59
+lives
+cte
+J
+05:00
+JU
+[]
+这个价格通常什么时候才有优惠呀？
+p记
+05:01
+px休息中 记得催我睡觉
+@JU_U9 要发短信保吗
+S
+05:02
+S"
+互搧
+伍六
+05:03
+伍 六柒
+真羡慕群友，什么靓号都有
+J
+05:03
+JU
+In reply to this message
+不需要
+05:04
+充值或者买套餐保号，去爬楼看看昨天的信息
+p记
+05:04
+px休息中 记得催我睡觉
+In reply to this message
+不是 我说csl 不是cte
+SL
+05:12
+Stan Lee
+靓号王肯定是群友开的
+斗湿
+05:29
+斗酒 湿百篇
+因为在狱犯罪人员没有参保权
+木
+05:31
+木木虎
+In reply to this message
+靓号王的价格还是挺便宜的，良心王
+十
+05:51
+十年非梦
+In reply to this message
+三万能在大陆用要实名不
+05:51
+要实名溜了
+05:52
+Sticker
+Not included, change data exporting settings to download.
+, 14.3 KB
+05:52
+能不实名就不实名
+诶
+05:56
+诶嘿嘿OwO
+大佬们
+K
+05:56
+King
+现在没不实名能用的港卡了吧
+诶
+05:56
+诶嘿嘿OwO
+申请新eSIM失败：官方内部服务器错误进群反馈问题
+05:56
+这个是啥问题呀
+J
+06:11
+JU
+今天怎么这么安静了
+06:11
+昨天冲了一天的3w，爆单，今天客服被冷落了，不习惯
+q
+06:12
+qziewzx
+想买的已经买了
+J
+06:13
+JU
+In reply to this message
+放了新号也被你们的code抢走了
+q
+06:13
+qziewzx
+In reply to this message
+你这啥手机？
+06:13
+状态栏怎么那么像iPhone的ui
+诶
+06:17
+诶嘿嘿OwO
+还没有
+06:17
+我打算换成app了
+06:17
+刚刚试了一下还是一样的报错
+06:18
+大佬后台有日志嘛，可以帮忙查一下原因么
+睡不
+06:18
+睡觉 不定时
+今天有什么好撸的吗
+诶
+06:18
+诶嘿嘿OwO
+In reply to this message
+就是置顶的app
+06:19
+是的
+06:19
+刚充钱的
+SL
+06:20
+Stan Lee
+In reply to this message
+28一个月的86，不划算呀
+诶
+06:21
+诶嘿嘿OwO
+In reply to this message
+大佬，hotlink破解的app是不是可以非原生esim直接下卡
+JC
+06:23
+Jack Chung
+各位的dtcpay的esim都装哪里了，占用多大空间呢
+一
+06:24
+一只胖锦鲤
+原生
+06:24
+话说苹果原生上限是多少
+JC
+06:25
+Jack Chung
+In reply to this message
+只是流量，不太想装原生
+一
+06:25
+一只胖锦鲤
+20个都没上限
+JC
+06:25
+Jack Chung
+In reply to this message
+你裤裆这么厉害
+SL
+06:25
+Stan Lee
+Dtcpay的esim界面一直打不开，有一样的吗？
+JC
+06:26
+Jack Chung
+In reply to this message
+我一开始也是，后来能打开了
+06:26
+In reply to this message
+没人装9esim的吗？
+SL
+06:26
+Stan Lee
+[]
+JC
+06:26
+Jack Chung
+In reply to this message
+一开始也是这样
+SL
+06:26
+Stan Lee
+In reply to this message
+多久好的？问客服也解决不了
+JC
+06:27
+Jack Chung
+In reply to this message
+关闭程序，重新打开，我的就好了
+SL
+06:27
+Stan Lee
+没用，好几天了
+JC
+06:27
+Jack Chung
+In reply to this message
+你是用梯子？还是直连
+SL
+06:28
+Stan Lee
+香港流量卡
+JC
+06:28
+Jack Chung
+In reply to this message
+我也相关流量卡
+SL
+06:28
+Stan Lee
+直联打不开吧
+JC
+06:28
+Jack Chung
+没试过直连
+SL
+06:29
+Stan Lee
+半个月了，没打开过，客服也解决不了
+06:29
+应该不是网络问题
+06:29
+试过机场也打不开
+JC
+06:30
+Jack Chung
+In reply to this message
+卸载试试？
+Next messages
