@@ -1,0 +1,3538 @@
+Esim.Kim中文交流群
+Previous messages
+25 April 2026
+?
+17:48
+直接电口10G lan
+法
+17:48
+法老-英国
+N1 搭配ec20刚好
+17:48
+省电
+?
+17:48
+路由背板40G
+法
+17:48
+法老-英国
+还经济
+?
+17:48
+拿来跑PCDN贼爽
+17:49
+我日常没什么远程管理的需求
+17:49
+纯转发通知
+法
+17:49
+法老-英国
+完全不玩
+?
+17:49
+yes
+17:49
+每天上班 都没精力啊
+17:49
+不年轻了
+17:50
+原来每天都可以折腾到半夜
+17:50
+工作朝九晚五
+法
+17:50
+法老-英国
+我的cpe 专门给我的ups 转发断电通知
+?
+17:50
+666666666666
+法
+17:50
+法老-英国
+一年断电1-2次
+17:51
+[]
+17:51
+省电才是王道
+?
+17:52
+您的信用卡于2026年04月25日，在CLUB S消费HKD58.00元。【中国银行】
+发件号码: 95566
+发件时间: 26/04/25,22:02:07+32
+#SMS
+本机号码:
+开机时长: 553:03:34
+运营商: 中国电信
+信号: -98dBm
+频段: B3
+温度: 22.50℃
+电压: 3.728V
+17:52
+Sticker
+Not included, change data exporting settings to download.
+, 14.9 KB
+17:53
+这玩意没啥电
+17:53
+基本上一个月就几M
+17:53
+给林文那个还支持Wi-Fi
+W
+17:55
+William
+In reply to this message
+这还用cpe通知吗。我的群辉直接通知了
+?
+17:55
+确实
+17:55
+群晖自动通知+自动恢复
+17:55
+家里还塞ups
+17:56
+...我是新房子有光伏 日常用不完..
+17:56
+但是也不想并网
+W
+17:56
+William
+UPS是必须的。
+?
+17:56
+南方电泳不多
+W
+17:56
+William
+不然哪次断电给硬盘干坏了，不值当
+?
+17:56
+电压啥的稳
+17:57
+我们是双线供电
+法
+17:57
+法老-英国
+不断电我硬盘都干坏好几个
+W
+17:57
+William
+稳不稳都要啊。
+法
+17:57
+法老-英国
+不过都是m2 256g系统盘
+17:57
+基本两年一坏
+17:58
+不过都是小厂便宜货
+?
+17:58
+...
+17:58
+我m2 都是缓存盘
+法
+17:58
+法老-英国
+就是重装系统麻烦
+?
+17:58
+你PC当软路由么
+E
+18:00
+Esim.Kim
+ 今日发言排行榜 
+ 今日发言不够给力，本轮奖励轮空
+ 第1名 - 发言 212 条
+ 第2名 - 发言 105 条
+ 第3名 - 发言 95 条
+ 第4名 - 发言 73 条
+ 第5名 - 发言 61 条
+ 第6名 - 发言 55 条
+ 第7名 - 发言 55 条
+ 第8名 - 发言 49 条
+ 第9名 - 发言 49 条
+ 第10名 - 发言 47 条
+ 因无人发言达到 300 条消息，本轮奖励轮空，请继续努力！
+W
+18:00
+William
+我前阵子提醒我有一块缓存M2有故障，最近又正常了。奇怪。
+今
+18:37
+今天太忙
+3hk是要本地激活吗？搞了一张，用上有信号，没有给我发激活短信，也不知道号码多少？
+Az
+18:38
+AAA z
+In reply to this message
+买了多少
+今
+18:45
+今天太忙
+In reply to this message
+没给我发短信激活啊，也不知道那里去实名，号码都不知道，怎么实名啊
+b
+18:59
+bird
+现在申请esim之后 sim卡就没法用了？不能共存啦？
+D
+18:59
+Deleted Account
+不能
+b
+19:00
+bird
+我看群主给的那个转换工具，说以后也没法再转回去？
+19:00
+19:02
+之前搜索的时候看到的
+19:03
+好嘟
+19:04
+不过我有白卡，写进去应该比原版sim方便好用？
+l
+19:10
+lives
+In reply to this message
+新卡可以复用？
+19:10
+Sticker
+Not included, change data exporting settings to download.
+, 59.3 KB
+19:16
+哦
+19:16
+我理解错了
+b
+19:16
+bird
+新卡好像可以把旧esim卡号绑到新sim卡上？
+19:17
+那算了，我都备用机了，，卡槽还有多的，还是不转了
+l
+19:17
+lives
+In reply to this message
+卖完了
+19:17
+Sticker
+Not included, change data exporting settings to download.
+, 24.9 KB
+19:17
+吃爽了
+19:18
+Sticker
+Not included, change data exporting settings to download.
+, 48.8 KB
+19:18
+最近在玩梯子了
+19:19
+[]
+19:19
+感觉esim就是纯花钱
+19:19
+Sticker
+Not included, change data exporting settings to download.
+, 48.8 KB
+19:19
+梯子折腾起来有意思
+19:19
+In reply to this message
+ix专线
+19:19
+不过墙
+19:19
+Sticker
+Not included, change data exporting settings to download.
+, 17.9 KB
+19:20
+走深港专线
+19:20
+绕开gfw了
+19:20
+所以上述的全不是问题
+19:20
+你在运营商眼里就是在访问国内服务器
+19:21
+Sticker
+Not included, change data exporting settings to download.
+, 24.9 KB
+19:21
+确实
+19:21
+esim是最后手段了
+b
+19:22
+bird
+esim海外流量卡
+G
+19:37
+GeneralPeople.
+羡慕深圳
+19:37
+我在山卡拉
+匿U
+小
+19:45
+小学生
+你们的voxi还有信号吗？
+19:46
+没开玩笑
+19:47
+奇怪，我切所有apn都不来信号了
+19:48
+我正准备测试免流，结果不来信号
+19:50
+难道是因为voxi太久了
+19:50
+最早那些还有信号吗？
+19:51
+我这是今年的
+19:51
+In reply to this message
+发我一个
+19:51
+还可以直连？
+26 April 2026
+木
+01:43
+木木虎
+[]
+01:43
+Sticker
+Not included, change data exporting settings to download.
+, 7.1 KB
+SL
+02:20
+Stan Lee
+In reply to this message
+局域网来了
+YY
+02:28
+YUE YIN
+难怪我最近这段时间节点全都显示超时，连上wifi就用不了
+02:28
+我流量都不够用了
+02:29
+想连wifi，用节点怎么破，换节点吗
+今
+02:35
+今天太忙
+56692295刷了3个小时搞了个这个号。
+SL
+02:36
+Stan Lee
+上头了，可以刷个更好的号的
+02:37
+上科技
+今
+02:39
+今天太忙
+手动刷的，esimkim3w工具，发送不了验证码，就手动刷的。
+木
+02:43
+木木虎
+Sticker
+Not included, change data exporting settings to download.
+, 7.1 KB
+02:43
+是你自己没实名收不到吧
+今
+02:55
+今天太忙
+In reply to this message
+实名了哦，28的换号费也充值了，官网都能收到验证码登录，群选号工具/不是收不到验证码/是一直提示，验证码发送失败。
+02:56
+5 669 229 5，手动刷新选的，感觉还行，将就用了。
+木
+03:25
+木木虎
+In reply to this message
+鳄鱼叔叔我要4a
+03:25
+Sticker
+Not included, change data exporting settings to download.
+, 15.2 KB
+03:28
+In reply to this message
+你把ben手上那个2222偷过来
+03:28
+把他的2222的二维码抓包了悄悄发给我
+AA
+03:29
+Ad Astra
+还有4a么 哪位好心人来一个～
+木
+03:29
+木木虎
+自己退群吧
+03:31
+202 202
+W
+03:31
+William
+In reply to this message
+这个1111怎么又到你手里了
+木
+03:31
+木木虎
+Sticker
+Not included, change data exporting settings to download.
+, 7.1 KB
+03:31
+咋了
+03:32
+见不得我拿号？
+W
+03:32
+William
+没咋的，不是Z的么
+木
+03:32
+木木虎
+Sticker
+Not included, change data exporting settings to download.
+, 15.2 KB
+03:32
+进行了py交易
+W
+03:32
+William
+这个我不稀罕，我稀罕你的5A
+木
+03:33
+木木虎
+给你们看看我的1949
+03:33
+Sticker
+Not included, change data exporting settings to download.
+, 81.5 KB
+SL
+03:33
+Stan Lee
+t
+tnt 26.04.2026 03:32:55
+看到你们有靓号比杀了我还难受
+W
+03:33
+William
+In reply to this message
+4个2和你的5个2挺般配啊，去拿下啊
+木
+03:34
+木木虎
+5个2我还有5个
+03:34
+Sticker
+Not included, change data exporting settings to download.
+, 7.1 KB
+W
+03:34
+William
+有没有尾的，出我一个
+木
+03:35
+木木虎
+弄黑号也不给你
+03:35
+Sticker
+Not included, change data exporting settings to download.
+, 15.4 KB
+SL
+03:36
+Stan Lee
+Sticker
+Not included, change data exporting settings to download.
+, 13.5 KB
+W
+03:36
+William
+那就是没有
+木
+03:36
+木木虎
+In reply to this message
+那你退群吧
+03:36
+Sticker
+Not included, change data exporting settings to download.
+, 81.5 KB
+伍六
+03:38
+伍 六柒
+In reply to this message
+这又是哪个网站
+03:38
+看到了
+木
+03:38
+木木虎
+这次放出来的号
+03:38
+有我的二手号
+03:38
+Sticker
+Not included, change data exporting settings to download.
+, 81.5 KB
+03:38
+我一眼看到了
+伍六
+03:39
+伍 六柒
+不能下单啊
+今
+03:40
+今天太忙
+In reply to this message
+这里面的号码怎么拿到，靠运气吗？
+木
+03:40
+木木虎
+本来就没让你下单
+伍六
+03:41
+伍 六柒
+能下单就好了
+SL
+03:41
+Stan Lee
+In reply to this message
+靠科技
+木
+03:41
+木木虎
+扔了都不给你下
+W
+03:42
+William
+给林文这B投票投出去。搞的科技是他开发的一样
+木
+03:43
+木木虎
+威廉这小子最精了
+03:43
+当初5个5不给他
+03:43
+记恨我到现在
+SL
+03:43
+Stan Lee
+1U代下单自己支付开卡费
+2U代下单代付开卡费
+木
+03:43
+木木虎
+Sticker
+Not included, change data exporting settings to download.
+, 81.5 KB
+SL
+03:43
+Stan Lee
+W
+William 26.04.2026 03:42:58
+给林文这B投票投出去。搞的科技是他开发的一样
+木
+03:43
+木木虎
+In reply to this message
+这小子最精了 当初收我5u
+伍六
+03:44
+伍 六柒
+In reply to this message
+忘记了初心
+木
+03:44
+木木虎
+这小子忘了初心了
+SL
+03:44
+Stan Lee
+In reply to this message
+一直收你2U好吧
+W
+03:44
+William
+对的，我就是惦记你的5A。快点出给我
+SL
+03:44
+Stan Lee
+Sticker
+Not included, change data exporting settings to download.
+, 158.4 KB
+木
+03:44
+木木虎
+有5
+03:44
+Sticker
+Not included, change data exporting settings to download.
+, 15.2 KB
+SL
+03:44
+Stan Lee
+5是特殊号码
+木
+03:45
+木木虎
+多特殊
+SL
+03:45
+Stan Lee
+特殊靓号
+木
+03:45
+木木虎
+遇到4a你也不给我啊
+SL
+03:45
+Stan Lee
+4A 10U
+木
+03:45
+木木虎
+Sticker
+Not included, change data exporting settings to download.
+, 16.9 KB
+W
+03:46
+William
+In reply to this message
+不带4吧
+伍六
+03:46
+伍 六柒
+我们要回归初心啊，家人们
+木
+03:46
+木木虎
+In reply to this message
+他没有
+SL
+03:46
+Stan Lee
+初心是啥
+03:47
+初心就是搞钱
+木
+03:47
+木木虎
+你老婆怀孕了
+03:47
+快回家
+W
+03:48
+William
+In reply to this message
+我也不要，就问问。我现在只要HK 5A
+03:48
+我让BEN给我盯着了
+木
+03:48
+木木虎
+Sticker
+Not included, change data exporting settings to download.
+, 81.5 KB
+木
+03:51
+木木虎
+Q
+QuotLy 23.04.2026 05:39:00
+Sticker
+Not included, change data exporting settings to download.
+, 37.7 KB
+SL
+03:54
+Stan Lee
+t
+tnt 26.04.2026 03:49:32
+群里开始分化了科技佬想搞钱 违背了初衷
+SL
+03:54
+Stan Lee
+In reply to this message
+初心呢？初心是4A尾
+03:55
+In reply to this message
+贪心了
+W
+03:56
+William
+In reply to this message
+4A尾得花大价钱啊。缺票子
+法
+04:04
+法老-英国
+特殊号码至少50u
+04:04
+才是兄弟
+今
+04:14
+今天太忙
+问下，携号转台到club
+sim快不快，大概需要多长时间?第一次转台不知道所以问问
+B
+04:15
+Big
+为什么要Clubsim
+04:15
+Sticker
+Not included, change data exporting settings to download.
+, 24.8 KB
+AA
+04:17
+Ad Astra
+In reply to this message
+15 天
+伍六
+04:20
+伍 六柒
+N
+NodeSeek官方频道 26.04.2026 04:03:22
+esim 哈萨克斯坦 2.5u 一张 手里大量现货 需要的来 收一手合作 开卡 eSIM
+渠道 偷撸渠道, 负责开发软件，合作共赢
+伍六
+04:20
+伍 六柒
+尝尝咸淡？
+04:20
+2.5*7=17.5
+JC
+04:22
+Jack Chung
+In reply to this message
+他这应该是料子开的，如果能给到完整的料子信息，包括护照，可以试试，给不到建议放弃
+伍六
+04:24
+伍 六柒
+那算了
+B
+05:30
+Big
+[]
+05:30
+Sticker
+Not included, change data exporting settings to download.
+, 233.4 KB
+SL
+05:58
+Stan Lee
+天星改个名更像野鸡了
+睡不
+06:01
+睡觉 不定时
+06:03
+Deleted Account
+[]
+06:03
+这玩意终于可以改了
+06:03
+SL
+06:10
+Stan Lee
+还好不是qq123456789@gmail.com
+06:10
+不然我也要改
+06:11
+有多少是以qq号做邮箱号的
+06:12
+Deleted Account
+In reply to this message
+我主要是想改小号的
+06:12
+这是gv的
+06:12
+买的是随机生成的
+06:12
+终于能改了
+SL
+06:13
+Stan Lee
+GV转到自己主号呗
+06:16
+地区要美国的
+SL
+06:49
+Stan Lee
+In reply to this message
+是的，认邮箱号的
+初
+06:53
+初一
+In reply to this message
+3HK不能自助下单咯吗
+06:55
+06:57
+Sticker
+Not included, change data exporting settings to download.
+, 10.0 KB
+G
+06:58
+GeneralPeople.
+18.7.7 都不给我推
+初
+06:59
+初一
+死咯买新的手机
+ss
+07:00
+see see
+iPhone12: 一把抓过，顷刻炼化
+睡不
+07:00
+睡觉 不定时
+26.3.1不继续更了
+07:00
+初
+07:01
+初一
+Sticker
+Not included, change data exporting settings to download.
+, 25.9 KB
+G
+07:02
+GeneralPeople.
+In reply to this message
+我就在18.7.2，打开就是提示无更新
+法
+07:11
+法老-英国
+真烦老更新
+SL
+07:22
+Stan Lee
+[]
+还是CTM爽
+07:23
+Sticker
+Not included, change data exporting settings to download.
+, 13.5 KB
+07:24
+测个速差点把我疯狂星期天流量用完了
+07:31
+Deleted Account
+In reply to this message
+它会变成备用的邮箱啊
+07:31
+好像还能接着用来着
+07:31
+我反正已经改了，我试一下能不能用的
+07:33
+可以，还能正常用
+07:33
+原邮箱会保存正常接码
+07:33
+@ben_id
+07:33
+当时改的时候界面也是提示共存的
+07:34
+还在灰度测试
+蚊
+07:34
+蚊子酱
+Sticker
+Not included, change data exporting settings to download.
+, 24.5 KB
+07:34
+Deleted Account
+我大号也改不了
+07:34
+而且暂时只有美国
+VT
+07:37
+Vick Tang
+In reply to this message
+真的支持sa漫游吗
+07:38
+不在国内测试不了哈哈哈
+木
+07:55
+木木虎
+ee和o2规则不一样
+07:57
+好
+07:57
+什么数据
+07:57
+看片的吗
+07:57
+Sticker
+Not included, change data exporting settings to download.
+, 81.5 KB
+07:59
+？
+B
+08:03
+Big
+没那么少
+j
+08:06
+jiessie
+[]
+Z
+08:06
+速度还行
+DD
+08:33
+David Dowell
+求问下telegram是最多三个号吗，多个号咋管理的都
+G
+08:35
+GeneralPeople.
+我们一般不管理
+08:35
+注册完就放生
+DD
+08:35
+David Dowell
+草，这样子
+G
+08:36
+GeneralPeople.
+In reply to this message
+开玩笑，是用第三方客户端管理啦
+08:36
+nagram 可以十个
+懒
+08:39
+懒蛋
+用swiftgram啦
+K
+08:39
+King
+然后加上多开，有多少号都能管理
+08:40
+Deleted Account
+In reply to this message
+三方
+08:40
+一般可以登录十到15个
+G
+08:41
+GeneralPeople.
+In reply to this message
+这个貌似是无上限的是吧
+DD
+08:41
+David Dowell
+好
+懒
+08:41
+懒蛋
+好像是吧
+木
+08:46
+木木虎
+nice是100个
+a
+08:50
+alm25
+谷歌的Pixel活动是到什么时候结束啊
+法
+08:52
+法老-英国
+每年新款pixel都有gemini活动
+08:52
+第三方app
+08:52
+有些可以10个有些可以100个有些可以255个
+08:53
+玩wificalling就买16代以内的苹果 ios18
+a
+08:54
+alm25
+In reply to this message
+等快结束时候去搞一个
+SL
+09:04
+Stan Lee
+In reply to this message
+研究4A都不研究中东局势
+a
+09:11
+alm25
+啥时候能退休
+B
+09:29
+Big
+[]
+09:29
+Sticker
+Not included, change data exporting settings to download.
+, 195.2 KB
+SL
+09:30
+Stan Lee
+In reply to this message
+羡慕
+09:31
+你还有码？
+09:31
+还是充了5才有信号吧？
+09:33
+Sticker
+Not included, change data exporting settings to download.
+, 33.8 KB
+09:33
+除了家人聊天，微信我都不看了
+09:34
+In reply to this message
+恶心
+B
+09:34
+Big
+In reply to this message
+[]
+09:34
+Sticker
+Not included, change data exporting settings to download.
+, 233.4 KB
+SL
+09:35
+Stan Lee
+羡慕都用原生esim
+09:37
+[]
+p
+09:42
+pppp
+In reply to this message
+羡慕几万个
+09:42
+又有隐藏款了？
+水
+09:45
+水無憐奈
+In reply to this message
+这是Cmlink?
+09:47
+我去
+j
+09:47
+jiessie
+cte啊
+p
+09:47
+pppp
+ee
+09:47
+CTE啊
+水
+09:47
+水無憐奈
+这么快
+09:47
+我这都没5g
+09:48
+看看晚上能有多少
+j
+09:49
+jiessie
+速度快，流量顶不住
+09:49
+又不是无限流量
+水
+09:51
+水無憐奈
+月付很爽哈哈
+夢
+09:51
+夢
+有人知道象象银行的新卡卡bin吗？
+09:51
+安心卡
+09:51
+[]
+SL
+10:03
+Stan Lee
+每张20hkd，没开
+10:04
+就开了那张白金卡，实体卡都没拿
+10:05
+对，没啥用
+p
+10:17
+pppp
+B
+Ben 26.04.2026 10:17:20
+有钱开啥都一样
+c
+10:17
+chan
+有钱开啥都一样
+夢
+10:19
+夢
+B
+Ben 26.04.2026 10:17:20
+有钱开啥都一样
+10:19
+B
+Ben 26.04.2026 10:17:26
+没钱开啥都一样
+木
+10:25
+木木虎
+In reply to this message
+我的2222什么时候给我
+10:25
+Sticker
+Not included, change data exporting settings to download.
+, 7.1 KB
+SL
+10:26
+Stan Lee
+t
+tnt 26.04.2026 10:26:00
+扔了都不给你
+SL
+10:26
+Stan Lee
+喂狗都不给你
+10:32
+羡慕又赚钱了
+10:33
+今天到处有消息说移动5G连不上梯子
+10:33
+流量特征拦截
+水
+10:38
+水無憐奈
+In reply to this message
+不是只有北京吗
+SL
+10:44
+Stan Lee
+In reply to this message
+迟早全国推广
+SL
+10:44
+Stan Lee
+B
+Ben 26.04.2026 10:37:16
+最好连外卡漫游信号都全部掐掉，反清复明
+AA
+10:47
+Ad Astra
+请问新加坡singtel的纯数据套餐hi! Tourist
+Plan​的esim可以在中国大陆激活么？
+水
+10:48
+水無憐奈
+In reply to this message
+我就只有一个移动卡
+R
+10:49
+Rogers
+In reply to this message
+应该是可以，我看到有人发贴
+AA
+j
+10:53
+jiessie
+有人用过吗
+10:53
+速度如何
+R
+10:54
+Rogers
+singtel本家。估计不会太差吧
+10:55
+我在用dtcpay的esim 也是singtel。还行
+SL
+10:58
+Stan Lee
+dtcpay的5G送多久？
+10:58
+Singtel确实还可以
+10:58
+不过只能漫游联通
+j
+10:58
+jiessie
+6个月
+R
+10:59
+Rogers
+送6个月 流量不固定，每个月都在变
+10:59
+4月送了5+5G
+j
+11:00
+jiessie
+还要护照实名啊新加坡这个流量
+SL
+11:01
+Stan Lee
+不固定？dtcpay我才用一个月
+11:02
+160 80G确实还不错
+11:03
+80G一个月随便造
+AA
+11:03
+Ad Astra
+160RMB 80GB是亚太地区 15GB全球漫游 这个价格确实不错
+哎
+11:05
+哎呦喂
+羡慕
+七な
+11:06
+七海 ななみ
+In reply to this message
+可以
+AA
+11:06
+我现在就在用这个
+AA
+SL
+11:06
+Stan Lee
+羡慕
+VT
+11:06
+Vick Tang
+In reply to this message
+有5G吗
+11:07
+为啥我只能注册4G
+SL
+11:07
+Stan Lee
+要实名？
+VT
+11:07
+Vick Tang
+是我apn设置问题嘛
+11:07
+In reply to this message
+要的
+七な
+11:07
+七海 ななみ
+In reply to this message
+本来就不支持
+11:07
+要5g得去新加坡线下护照认证
+SL
+11:07
+Stan Lee
+看当地联通吧
+七な
+11:07
+七海 ななみ
+才能解锁
+VT
+11:08
+Vick Tang
+In reply to this message
+所以其实游客可以长期用 但是5G漫游要去一趟sg
+11:08
+In reply to this message
+客服说的吗
+11:08
+我问客服说不支持
+SL
+11:08
+Stan Lee
+纯流量还是带号码？
+七な
+11:08
+七海 ななみ
+In reply to this message
+是的
+11:08
+In reply to this message
+不认证只能流量
+11:08
+要收验证码只能去一趟新加坡线下门店
+VT
+11:08
+Vick Tang
+In reply to this message
+下次回国转机一趟sg吧
+11:09
+In reply to this message
+去线下是激活号码还是能激活5G 还是说两个一起？
+11:09
+游客也能长期用号码吗
+七な
+11:09
+七海 ななみ
+In reply to this message
+激活了号码就能用5g
+SL
+11:09
+Stan Lee
+游客也可以用号码？
+VT
+11:09
+Vick Tang
+really？
+七な
+11:09
+七海 ななみ
+第一个月开都还没人
+VT
+11:09
+Vick Tang
+Sticker
+Not included, change data exporting settings to download.
+, 7.5 KB
+七な
+11:09
+七海 ななみ
+测试出来
+VT
+11:10
+Vick Tang
+In reply to this message
+这套餐是新的对吧 之前没有？我记得之前开sg卡都要去线下
+七な
+11:10
+七海 ななみ
+In reply to this message
+也是这两天才有人发
+11:10
+反正要全功能都要去线下
+VT
+11:10
+Vick Tang
+In reply to this message
+几个月前就看到过了 哈哈哈 但是以为要落地才有网 像eight一样
+11:10
+结果不是
+SL
+11:11
+Stan Lee
+In reply to this message
+Cmlinkuk我都删卡了等过期
+七な
+11:11
+七海 ななみ
+In reply to this message
+我前天才在在别的群看到的
+AA
+11:11
+Ad Astra
+In reply to this message
+降价了耶 感觉价格还行
+SL
+11:12
+Stan Lee
+一样的wc偷渡激活
+11:12
+可以5G
+11:12
+In reply to this message
+看下年套餐
+七な
+11:12
+七海 ななみ
+In reply to this message
+只能nsa
+SL
+11:13
+Stan Lee
+CTExcel UK好像只能4G吧
+七な
+11:15
+七海 ななみ
+而且移动网比电信好
+SL
+11:15
+Stan Lee
+10.8GBP 30G，比起国内的一些套餐还便宜
+11:16
+移动的一些坑人套餐都要138
+AA
+11:19
+Ad Astra
+In reply to this message
+这个月套餐可以，而且能香港激活，但是他好像是号里面没有套餐之后30天就失效了
+11:19
+适合一直使用才行
+SL
+11:21
+Stan Lee
+您的“Chill
+Sunday”全速數據用量已使用完畢，數據傳輸﹙上載及下載﹚速度會被限制至不低於1Mbps。
+Your Full Speed Data Usage of "Chill Sunday" has been used out. The data
+transmission speed (upload & download) will be limited to no less than
+1Mbps.
+11:21
+我的cmlinkuk号码还在，但是我已经删除了esim
+11:22
+不然买一个月试试
+Az
+11:22
+AAA z
+买了 激活了 没信号
+SL
+11:22
+Stan Lee
+WC激活的？
+Az
+11:22
+AAA z
+对
+11:22
+等会看看 有没有
+懒
+11:24
+懒蛋
+有四张激活的放那吃灰
+11:24
+去香港激活
+SL
+11:24
+Stan Lee
+In reply to this message
+对，拉屎的时候才能激活
+AA
+11:25
+Ad Astra
+In reply to this message
+客服说不能发短信保号，只能购买保号套餐。。
+—————————————————
+关于保号套餐：
+一次性套餐365天1GB中国内地流量包-1GB英国流量，100分钟英国语音；1GB中国内地漫游流量365天£15套餐失效后一个月如无其他套餐，卡会销户
+但办理该套餐需要办理月/年套餐（当前有或曾办理过月/年套餐均可）
+11:26
+感觉灵活性不如CTE
+SL
+11:28
+Stan Lee
+所以我扔掉了
+11:29
+Singtel 30SGD那个，听说是月抛？
+SL
+11:30
+Stan Lee
+ア
+アーミヤ 26.04.2026 11:28:06
+坡县你要长期续期，得 Singpass
+AA
+11:30
+Ad Astra
+In reply to this message
+月抛卡，如果没有Singpass
+11:31
+是的 所以说还不如CTE
+SL
+11:31
+Stan Lee
+等你们用一个月再看
+SL
+11:31
+Stan Lee
+Z
+Z 26.04.2026 11:31:24
+每个月用的话 100多感觉还是上台cmhk吧
+SL
+11:31
+Stan Lee
+In reply to this message
+什么时候去上台CMHK
+Az
+11:32
+AAA z
+In reply to this message
+[]
+激活了，没信号丢一边了。过一会再切过去看看
+七な
+11:32
+七海 ななみ
+In reply to this message
+cmhk主要是不能用ai
+SL
+11:33
+Stan Lee
+用superalink吧，6块多用5天，用完换一张
+七な
+11:34
+七海 ななみ
+In reply to this message
+100块一次
+SL
+11:34
+Stan Lee
+In reply to this message
+上台用户可以换，100/次
+11:34
+可以选号
+11:34
+有4A
+SL
+12:07
+Stan Lee
+先去上台
+AA
+12:08
+Ad Astra
+In reply to this message
+这个需另外加钱么 还是统统100
+SL
+12:08
+Stan Lee
+统统100
+AA
+今
+12:13
+今天太忙
+问下，soSIM转台最低价格多少？
+SL
+12:15
+Stan Lee
+看转到哪里
+法
+12:19
+法老-英国
+转出不要钱
+12:19
+转入看运营商
+SL
+12:35
+Stan Lee
+这不是你的档次呀
+?
+12:36
+In reply to this message
+ai不是伪需求么
+AA
+12:40
+Ad Astra
+HKIP grok和gemini可以用
+法
+13:03
+法老-英国
+不要
+13:04
+保号玩不起
+木
+13:04
+木木虎
+In reply to this message
+给我吧
+13:06
+Sticker
+Not included, change data exporting settings to download.
+, 7.1 KB
+13:06
+拿给我呗
+13:06
+咋了，5元sosim？
+13:06
+Sticker
+Not included, change data exporting settings to download.
+, 7.1 KB
+13:06
+你真把sosim弄出5元了？
+13:07
+空的吗
+13:07
+空的就不要
+13:07
+Sticker
+Not included, change data exporting settings to download.
+, 16.9 KB
+13:07
+Sticker
+Not included, change data exporting settings to download.
+, 7.1 KB
+13:07
+约等于空吧
+13:08
+话说威廉给了你多少
+13:08
+2222
+13:09
+[]
+13:09
+[]
+13:09
+16.8英镑等于135
+13:09
+谁教他的
+13:09
+In reply to this message
+我上次给你的那个，超过这个数了
+13:09
+Sticker
+Not included, change data exporting settings to download.
+, 81.5 KB
+13:09
+本来可以给你60刀的，可惜了
+13:10
+93522221
+13:10
+一说到靓号z就探出龟头了
+13:10
+Sticker
+Not included, change data exporting settings to download.
+, 7.1 KB
+LV
+13:11
+Langworth Valerie
+木
+13:12
+木木虎
+Sticker
+Not included, change data exporting settings to download.
+, 16.1 KB
+FJ
+13:12
+Franey Jeanne
+还好
+木
+13:13
+木木虎
+Sticker
+Not included, change data exporting settings to download.
+, 7.1 KB
+13:13
+给你pac吗
+13:13
+行
+13:13
+我找找
+13:14
+10连7，+447777777777给你放白金汉宫了
+13:14
+过去拿就行了
+13:15
+[]
+13:15
+In reply to this message
+给你放英国电信局了，座机号+444444444401
+13:17
+这个是stk写卡固件吧
+13:17
+Sticker
+Not included, change data exporting settings to download.
+, 7.1 KB
+13:18
+给iPhone写卡用的
+13:18
+你要是不喜欢就在estk右滑删除
+SL
+13:18
+Stan Lee
+In reply to this message
+等更新固件
+木
+13:18
+木木虎
+或者进nekokolpa长按删除
+SL
+13:19
+Stan Lee
+这个无法删除
+木
+13:19
+木木虎
+给estk root了
+13:20
+把他root了
+小
+13:20
+小学生
+In reply to this message
+可以删啊
+法
+13:20
+法老-英国
+最新的openeuicc可以直接全删
+小
+13:20
+小学生
+用estk最新的app
+木
+13:20
+木木虎
+实在不行你进nekokolpa给他自定义个图标和名称
+法
+13:20
+法老-英国
+缺点就是清空卡片数据
+木
+13:20
+木木虎
+Sticker
+Not included, change data exporting settings to download.
+, 16.1 KB
+13:20
+In reply to this message
+好
+法
+13:21
+法老-英国
+记住清空卡片数据
+13:21
+约等于清空卡片
+SL
+13:21
+Stan Lee
+清数据的方法早就可以
+木
+13:21
+木木虎
+没事，ben发现卡没了会自己回来
+13:21
+Sticker
+Not included, change data exporting settings to download.
+, 15.4 KB
+法
+13:21
+法老-英国
+对
+木
+13:21
+木木虎
+对
+小
+13:21
+小学生
+现在estk的最新app可以单独删除
+法
+13:21
+法老-英国
+那就用最新的app
+木
+13:22
+木木虎
+手慢无
+W
+13:23
+William
+ESTK老板说3月底出固件能正常删除那自带的，到现在还没上
+木
+13:23
+木木虎
+z给你发了个号，你要给我说一声@Jensen_US
+13:23
+In reply to this message
+2027年3月
+W
+13:24
+William
+我也看这个很不爽，想删但是一堆卡。早知道写卡前就删了
+SL
+13:24
+Stan Lee
+3月底？现在4月底了
+小
+13:24
+小学生
+都不看我说的？
+W
+13:24
+William
+In reply to this message
+ESTK现在也不更新了啊。好久了
+木
+13:24
+木木虎
+不过为什么我的estk没有
+小
+13:24
+小学生
+我的都单独删除了
+木
+13:24
+木木虎
+Sticker
+Not included, change data exporting settings to download.
+, 7.1 KB
+W
+13:24
+William
+In reply to this message
+最新APP是哪个啊？
+SL
+13:24
+Stan Lee
+还好我的卡全部都没有bootstrap
+小
+13:24
+小学生
+去官网看呗
+木
+13:24
+木木虎
+去Applestore或者googleplay
+13:25
+大概率有更新
+SL
+13:25
+Stan Lee
+In reply to this message
+搜Estk
+木
+13:25
+木木虎
+In reply to this message
+etsk
+DD
+13:25
+David Dowell
+In reply to this message
+不占啥空间吧
+木
+13:25
+木木虎
+tesk
+13:25
+tske
+13:25
+stke
+W
+13:25
+William
+我一直在用啊ESTKME吧
+木
+13:26
+木木虎
+不过，estk在iPhone
+13:26
+APP可以读卡？
+13:26
+Sticker
+Not included, change data exporting settings to download.
+, 7.1 KB
+DD
+13:26
+David Dowell
+不行
+木
+13:26
+木木虎
+[]
+13:26
+那没事了
+13:26
+领先一步
+13:27
+Sticker
+Not included, change data exporting settings to download.
+, 15.4 KB
+DD
+13:27
+David Dowell
+为啥是塞十个，不就一个嘛
+W
+13:27
+William
+删掉了么？
+法
+13:27
+法老-英国
+蓝牙卡搞起
+木
+13:27
+木木虎
+Sticker
+Not included, change data exporting settings to download.
+, 15.4 KB
+W
+13:27
+William
+In reply to this message
+小学生你怎么操作的啊
+木
+13:28
+木木虎
+为什么你们那么想删
+法
+13:28
+法老-英国
+小学生不会是刚收到就删了吧
+木
+13:28
+木木虎
+我的estk都没有这东西
+小
+13:28
+小学生
+不是啊
+木
+13:28
+木木虎
+Sticker
+Not included, change data exporting settings to download.
+, 7.1 KB
+小
+13:28
+小学生
+前端时间一点就删除了
+法
+13:28
+法老-英国
+app版本
+SL
+13:28
+Stan Lee
+In reply to this message
+打个寂寞的码
+13:28
+谁不知道
+木
+13:28
+木木虎
+In reply to this message
+就打
+小
+13:29
+小学生
+试试飞行模式在删除
+SL
+13:29
+Stan Lee
+In reply to this message
+打飞机
+木
+13:29
+木木虎
+Sticker
+Not included, change data exporting settings to download.
+, 15.4 KB
+13:29
+就打
+小
+13:29
+小学生
+我也忘了，反正我就是用的estk的app直接给删除了
+法
+13:29
+法老-英国
+这个软件还是最早的45
+13:30
+用读卡器试试win端
+木
+13:30
+木木虎
+Sticker
+Not included, change data exporting settings to download.
+, 15.4 KB
+小
+13:31
+小学生
+In reply to this message
+你这是什么手机？
+W
+13:31
+William
+ESTK是不是卡最近卖的不好，老板没动力。固件这么久还不上
+小
+13:32
+小学生
+没有问题更新个啥啊？
+13:32
+瓶颈了
+13:32
+用安卓手机啊
+法
+13:32
+法老-英国
+试试安卓
+小
+13:32
+小学生
+你什么版本的？
+法
+13:32
+法老-英国
+等客服更新吧
+13:32
+估计是5.8.11
+13:33
+最新的固件是防删除的
+小
+13:34
+小学生
+我只知道之前听说不能删
+?
+13:34
+In reply to this message
+送我
+13:34
+阿文
+13:34
+你花这么多钱
+13:34
+不如请我吃个汉堡
+W
+13:34
+William
+对，小学生估计是旧的固件吧
+小
+13:34
+小学生
+前段时间一点就给删除了
+?
+13:35
+每天更新固件..
+小
+13:35
+小学生
+In reply to this message
+times
+?
+13:35
+等会固件一炸 那岂不是美滋滋
+W
+13:35
+William
+In reply to this message
+Time旧的
+小
+13:35
+小学生
+那时候就听说不能删除
+W
+13:35
+William
+Max和start到货是新固件
+SL
+13:37
+Stan Lee
+Times没有bootstrap呀
+法
+13:37
+法老-英国
+times
+13:37
+max可不是这样的
+小
+13:37
+小学生
+有
+法
+13:38
+法老-英国
+你只要升级固件到最新就不能删了
+13:38
+13:38
+就是45的软件
+13:38
+用pc端升级
+小
+13:38
+小学生
+从来不升级
+13:39
+这种东西就是越升问题越多
+SL
+13:39
+Stan Lee
+In reply to this message
+不用pc也可以了，蓝牙升级
+小
+13:39
+小学生
+没有遇到问题就没必要升级
+法
+13:39
+法老-英国
+买了个老头乐
+13:39
+到了又能玩耍一天
+?
+13:40
+确实
+13:40
+In reply to this message
+你按照当前的方案..直接无限堆叠呗
+13:40
+一堆芯片
+小
+13:40
+小学生
+In reply to this message
+1w一张，先打钱
+?
+13:40
+做一张银行卡
+法
+13:40
+法老-英国
+手里30张esim.cc完事
+小
+13:41
+小学生
+电诈法老
+13:41
+SL
+13:41
+Stan Lee
+A
+Arc 26.04.2026 13:40:58
+急需一张装有一个亿的银行卡
+SL
+13:41
+Stan Lee
+小
+小学生 26.04.2026 13:41:06
+电诈法老
+?
+13:41
+In reply to this message
+全部小白卡
+13:41
+然后搭配模组
+13:42
+然后UI远程管理
+13:42
+直接当地无线电中心 拿个单兵设备
+13:42
+来扫描你
+SL
+13:43
+Stan Lee
+In reply to this message
+扔掉就行了
+素
+13:44
+素晴らしい
+In reply to this message
+这不随便干，爽死了(
+?
+13:44
+In reply to this message
+有的有的
+13:44
+背一根光缆
+13:45
+直接核心网直接改号
+素
+13:45
+素晴らしい
+Sticker
+Not included, change data exporting settings to download.
+, 6.6 KB
+?
+13:45
+你想要啥 就可以是啥
+13:45
+每天96110
+DD
+13:45
+David Dowell
++96110
+?
+13:46
+伪基站没啥用啊
+13:46
+就一定范围
+13:47
+给你灌入泡芙
+13:47
+电子垃圾
+13:47
+之前有运营商卖号码
+13:47
+把政府大院的号码全买个98场了
+13:47
+真关门了
+W
+13:51
+William
+HKMobile是能线上换eSIM ？
+13:52
+你试试啊，我没玩过。
+素
+13:54
+素晴らしい
+In reply to this message
+？，祛湿？
+p记
+14:00
+px休息中 记得催我睡觉
+羡慕了
+14:00
+明天我的dtc就到了
+14:01
+狠狠刷
+14:01
+Sticker
+Not included, change data exporting settings to download.
+, 7.3 KB
+W
+14:10
+William
+TW客服都不屌免费用户了我的985号码转出没戏了啊
+木
+14:17
+木木虎
+hkmobile就是csl啊
+14:17
+csl都是要门市
+14:17
+同一个网络怎么可能换esim方法不一样
+ss
+14:19
+see see
+急需一个eid自动变化，每次写入可指定可随机，空间1TB的实体esim卡
+YP
+14:19
+Yūkishirō Plēnīlūne
+In reply to this message
+不能
+14:19
+In reply to this message
+csl除了club，预付卡都滚线下
+W
+14:19
+William
+嗯，那保号28你们是真有钱。CSL 6元保号不香吗
+14:19
+YP
+14:20
+Yūkishirō Plēnīlūne
+In reply to this message
+也不知道csl脑子里装了什么东西
+14:20
+club都能线上
+14:20
+自己本家的反而不行
+B
+14:24
+Big
+In reply to this message
+Csl共用的
+14:24
+Club我记得也是csl亲儿子吧
+R
+14:31
+Rey (瑞)
+In reply to this message
+羡慕人人都有一个纯净的IP
+W
+14:32
+William
+进群2月以上的群友没有纯净IP就是不合格了
+G
+14:37
+GeneralPeople.
+In reply to this message
+没有
+14:38
+纯净cnip算不算
+W
+14:38
+William
+In reply to this message
+m
+14:40
+mi
+大佬们，小弟犯了一个逆天大错，把实体giffgaff卡和装有clubsim vodafone de
+O2三个运营商的小白卡也弄丢了，求还能有救的手段嘛
+14:42
+全都可以找客服补回来嘛，我记得clubsim一年可以换一次设备，但是vodafone和o2没办法在不删除原卡的情况下补回来把，giffgaff更是收不到验证码转不了esim
+DD
+14:43
+David Dowell
+那没办法吧
+14:43
+后面俩是不是重新申请一个就行
+m
+14:44
+mi
+求邪门歪招
+14:44
+In reply to this message
+不需要原卡收验证码直接换新卡就可以嘛
+14:45
+那现在还得找一个实体卡秽土转生，现在好像国内都没有卖卡的了
+DD
+14:45
+David Dowell
+但是也需要买个白板卡
+m
+14:45
+mi
+群主开价如何
+14:46
+只转卡
+14:47
+giffgaff解决了，clubsim可以用老安装包再转到其它设备上
+14:47
+那德国o2和vodafone佬们直接怎么补回来嘛
+14:47
+我上一个vodafone没补回来直接新开了
+14:47
+14:47
+德国佬太死板了
+14:48
+就不能重扫二维码转到新设备
+14:48
+如果再开vodafone我就得4个以上的号了
+14:48
+德国人不把我追杀
+14:48
+一个人开6个vodafone de
+DD
+14:49
+David Dowell
+？全都在一个小白卡上吗
+m
+14:49
+mi
+In reply to this message
+小邮件写起来，我真给他们写信真回嘛，家下面有信箱
+14:49
+In reply to this message
+是啊，全军覆没
+14:49
+W
+14:49
+William
+鸡蛋不放在一个篮子这么简单的道理啊
+14:49
+鸡飞蛋打。。
+m
+14:49
+mi
+卡太小了不好管理
+DD
+14:49
+David Dowell
+那你得反思一下保管策略
+m
+14:50
+mi
+关键我觉得一个卡片也不少钱
+14:50
+一个卡一个卡片
+14:50
+那我得一大堆卡片了
+W
+14:50
+William
+起码2张啊。一个风险太大，特别不能重写的
+m
+14:50
+mi
+而且卡片小还不好放，容易忘地方或者直接掉了
+14:50
+14:51
+In reply to this message
+老大可以教教我嘛
+14:51
+我可以写信battle
+14:51
+我之前vodafone掉的时候是发邮件给他们了
+14:51
+结果不回我
+14:51
+德国人就没有真人回的，他们机器人永远打不出人工，邮件也是回公式化模版
+14:52
+不知道o2补卡是不是也得写邮件或者发信件了
+14:56
+In reply to this message
+我去问问gpt让他给我一套真诚的话术
+14:56
+不行我就去探究怎么发信件给他们了
+14:56
+德国人也太
+14:57
+不能电子化一些
+14:57
+我甚至还没有把那两个沃达丰的号码加到我的账号里
+14:57
+14:58
+干脆不要了再开两张？
+14:58
+那就直接6张了
+14:59
+那我再去开两张卡可以嘛，直接6张了
+s
+14:59
+second
+我有个问题，我沃达丰和giffgaff都在我的xesim里面，如果以后换原生esim手机怎么转移呢？
+15:00
+额，啥意思
+m
+15:01
+mi
+In reply to this message
+要真寄信我也可以寄，把我的卡拿回来就好了
+15:01
+真不想再多开卡了
+s
+15:01
+second
+很多人推xesim
+DD
+15:01
+David Dowell
+我还没入坑的时候看博主全在推xesim就感觉不太对劲，后面自己翻到了estk
+s
+15:01
+second
+没说不能转移吧
+DD
+15:01
+David Dowell
+转移只要官方允许都行的吧
+15:02
+重新发码就可以？
+s
+15:03
+second
+没研究过，还不太清楚
+15:03
+反正现在xesim正常使用的
+15:04
+不知道沃达丰能不能转
+DD
+15:04
+David Dowell
+xesim主要对iPhone单持的用户太黑了，绑定死220+那档
+m
+15:06
+mi
+clubsim是一年可以免费换一次设备嘛
+G
+15:06
+GeneralPeople.
+又寸
+m
+15:07
+mi
+clubsim不用担心了，giffgaff有群主大佬的渠道
+15:07
+就德国佬的o2和沃达丰
+15:07
+难搞
+G
+15:07
+GeneralPeople.
+建议下次再丢一次
+W
+15:07
+William
+德国的不要绑定重要账号就行了
+m
+15:07
+mi
+一生入集卡圈，一世丢遍集卡圈
+15:08
+In reply to this message
+这是第二次了
+G
+15:08
+GeneralPeople.
+还不长记性
+法
+15:08
+法老-英国
+德国沃达丰还行
+15:08
+我写卡失败对线6小时
+R
+15:08
+Rey (瑞)
+买德国卡的好处是什么？
+法
+15:08
+法老-英国
+直接发了新qr
+m
+15:08
+mi
+In reply to this message
+我是真容易丢东西啊，手机卡我塞在一个透明小袋子里，说话就丢了
+15:08
+这次就是搬家途中没有
+15:09
+现在找起来哪里都找不到
+G
+15:09
+GeneralPeople.
+建议给我保管
+15:09
+要接码就跟我说
+法
+15:09
+法老-英国
+你丢手机吗
+m
+15:09
+mi
+In reply to this message
+大佬不要拷打我了
+DD
+15:09
+David Dowell
+买个装sim的银行卡卡套，然后和银行卡一起放
+木
+15:09
+木木虎
+我问了一下
+m
+15:09
+mi
+In reply to this message
+这个还真不丢
+木
+15:09
+木木虎
+ctm删除重新扫就行 如果esim坏了要去澳门
+m
+15:10
+mi
+可以把这个手机卡放在手机后面壳里，怎么都不丢
+法
+15:10
+法老-英国
+出门带手机卡的确实不应该
+15:11
+上10卡10待
+DD
+15:11
+David Dowell
+[]
+m
+15:11
+mi
+In reply to this message
+这个好
+DD
+15:11
+David Dowell
+这个和银行卡放一起，铁不丢
+m
+15:11
+mi
+我新的小白卡到手
+15:11
+就买个这个
+15:11
+最近上班了
+15:12
+考虑要不要直接买estk
+15:12
+上班有钱玩卡更费
+15:12
+In reply to this message
+得去买台港版iPhone
+15:12
+但是我国内是双卡的
+15:12
+没法用
+DD
+15:12
+David Dowell
+主要86不支持原生
+m
+15:13
+mi
+告别港版
+15:13
+无忧行真的好用嘛
+15:13
+我之前出国的时候
+15:13
+用无忧行
+法
+15:13
+法老-英国
+今年应该都支持了
+15:13
+不过最大2张限制
+DD
+15:13
+David Dowell
+无忧行往外打搞不了啊
+m
+15:13
+mi
+接接短信可以，接电话完全不行
+SL
+15:13
+Stan Lee
+In reply to this message
+托管86号码好用
+DD
+15:13
+David Dowell
+对
+15:13
+电话接不太到
+SL
+15:13
+Stan Lee
+m
+mi 26.04.2026 15:13:27
+接接短信可以，接电话完全不行
+m
+15:13
+mi
+无忧行接电话不行的
+15:13
+接短信可以
+SL
+15:14
+Stan Lee
+电话随缘
+法
+15:14
+法老-英国
+用开源
+DD
+15:14
+David Dowell
+往外打也不行
+m
+15:14
+mi
+而且不能打电话发短信
+法
+15:14
+法老-英国
+随便接
+SL
+15:14
+Stan Lee
+短信丝滑
+法
+15:14
+法老-英国
+语音转发
+m
+15:14
+mi
+好复杂啊
+15:14
+我还是用双卡双待吧
+15:15
+据说香港不是出来2实体+esim的手机了
+15:15
+安卓的
+SL
+15:16
+Stan Lee
+接电话我选择呼叫转移到月神卡的86
+W
+15:23
+William
+In reply to this message
+我就有，不爱用
+15:23
+Sim 2和eSIM 只能有一个开启
+15:24
+并不是2实体卡和eSIM 都同时在线
+15:24
+据说非洲卖的传音4卡4待？
+九
+15:25
+九九成稀罕物
+还能继续冲O2
+W
+15:25
+William
+In reply to this message
+你别忽悠我，我文化低
+SL
+15:27
+Stan Lee
+2个实体esim其中一个还是1卡两号，2个无忧行，1个gv，算不算5卡6待
+G
+15:30
+GeneralPeople.
+29 号过期的 team 要不要
+15:30
+Sticker
+Not included, change data exporting settings to download.
+, 8.2 KB
+15:30
+免费
+15:30
+发邮箱
+m
+15:32
+mi
+In reply to this message
+找到注册在账号上的号码了，求和客服沟通技巧
+15:32
+我也有个差不多快过期的team
+15:33
+In reply to this message
+过完这两天还需要佬可以找我
+15:34
+In reply to this message
+录的
+15:34
+In reply to this message
+那我也邀请你这个了可以嘛
+15:35
+Ok
+15:35
+求大佬授予怎么和vodafone对线技巧
+K
+15:38
+King
+3香港的出新号了吗
+15:39
+[]
+ben佬这个网址看到个4a
+15:41
+这是最近放号了吗
+15:41
+5a/6a是不是大佬们科技撸完了
+15:41
+Sticker
+Not included, change data exporting settings to download.
+, 8.7 KB
+L
+15:42
+L.L.
+德国沃达丰客服是在哪里找到的
+Az
+15:46
+AAA z
+所以你能帮我抢个5A吗
+K
+15:46
+King
+Az
+AAA z 26.04.2026 15:46:08
+所以你能帮我抢个5A吗
+G
+15:46
+GeneralPeople.
+@ben_id 拉了
+15:46
+给你管理员，你自己再拉小号
+15:46
+Sticker
+Not included, change data exporting settings to download.
+, 15.0 KB
+Az
+15:47
+AAA z
+Sticker
+Not included, change data exporting settings to download.
+, 21.8 KB
+G
+15:47
+GeneralPeople.
+我也没想到能活一个月
+m
+15:48
+mi
+我草，升企业的被拒绝了
+15:48
+我的卡可以开pro没法开team
+15:48
+明明说免费试用一个月
+15:49
+15:49
+你们都是用的什么卡过得验证
+K
+15:53
+King
+PayPal不是说可以一直撸吗
+m
+15:55
+mi
+可以撸pro
+15:55
+但是team不行
+15:56
+In reply to this message
+求问大佬用的什么卡过的team验证
+DD
+15:59
+David Dowell
+为啥我发了一句就被强制退群了
+G
+15:59
+GeneralPeople.
+In reply to this message
+我用什么卡过？奥特曼就在我床上，直接拿 py 过的
+15:59
+Sticker
+Not included, change data exporting settings to download.
+, 8.2 KB
+DD
+15:59
+David Dowell
+这啥法则
+m
+16:00
+mi
+In reply to this message
+Py交易大法好
+16:00
+我用的万里汇绑PayPal过了pro
+16:00
+但是pro升business就不行了，必须要用银行卡直接付
+哎
+16:00
+哎呦喂
+不是plus吗 ？
+m
+16:01
+mi
+哦对对
+16:01
+Plus
+16:01
+可以升级到business
+16:01
+但是要挑卡
+16:01
+我的卡都过不去
+16:02
+In reply to this message
+感觉技术挺强的啊
+K
+16:03
+King
+说是和estk一样的芯片
+小
+16:03
+小学生
+In reply to this message
+英文有个违禁词
+K
+16:03
+King
+便宜很多
+AA
+16:04
+Ad Astra
+In reply to this message
+别发纯英文的
+小
+16:04
+小学生
+In reply to this message
+eid是一样的，客服说是拆机芯片
+DD
+16:04
+David Dowell
+没有纯英文原话是“coopnov意大利你们有没有开过
+16:05
+不知道啥情况
+K
+16:05
+King
+发了那个意大利运营商名称纯英文的
+小
+16:05
+小学生
+而且跟estk一样的功能
+DD
+16:05
+David Dowell
+那可能我回车误触了
+K
+16:05
+King
+可惜出的晚了
+小
+16:05
+小学生
+不知道会不会炸卡
+K
+16:05
+King
+现在都在开发蓝牙版的
+DD
+16:05
+David Dowell
+In reply to this message
+是不是就是旧版的estk的基础版
+小
+16:05
+小学生
+如果不稳定就头大
+16:06
+正常来说他开始卖了应该没问题
+DD
+16:06
+David Dowell
+他一个人能测试多少
+小
+16:06
+小学生
+等吧，看看后面反馈
+DD
+16:07
+David Dowell
+就是看低价抄值不值 48一张卡
+小
+16:07
+小学生
+68-100
+16:07
+哪有48
+DD
+16:07
+David Dowell
+现关注店铺可得满68减20优惠券 算下来一张 420K 版本的 eLink Card 大概
+48左右
+16:07
+帖子说的
+法
+16:08
+法老-英国
+明显等新技术
+小
+16:08
+小学生
+好吧
+K
+16:08
+King
+[]
+看到个评论
+DD
+16:08
+David Dowell
+真稳定的话，备一张还行
+法
+16:08
+法老-英国
+这种卡都玩了2年了
+DD
+16:08
+David Dowell
+草，那不就是小白卡
+小
+16:09
+小学生
+In reply to this message
+肯定不是啊，他这个可以改aram适配所有app
+16:09
+而且跟ios原生eSIM同eid
+16:09
+小白卡太垃圾了，限制多
+C
+16:09
+CD
+In reply to this message
+支持iPhone下卡
+m
+16:10
+mi
+In reply to this message
+成本真这么低不得不搞一张了
+C
+16:10
+CD
+[]
+小
+16:10
+小学生
+我就看中可以改aram
+法
+16:10
+法老-英国
+不是原生下卡
+16:10
+estk是双芯技术
+K
+16:10
+King
+现在不是减20吗
+法
+16:10
+法老-英国
+他这个是可编程控制
+小
+16:11
+小学生
+In reply to this message
+任何人都可以改底层代码？
+DD
+16:11
+David Dowell
+他这个iPhone得买读卡器
+16:11
+话说读卡器各家的都一样吗
+法
+16:11
+法老-英国
+他说是编程技术
+DD
+16:11
+David Dowell
+有区别没
+法
+16:11
+法老-英国
+如果不是双芯炸卡率会下降
+简
+16:11
+简
+In reply to this message
+-20
+小
+16:11
+小学生
+In reply to this message
+如果可以话，拿来研究还行
+C
+16:12
+CD
+[]
+今
+16:12
+今天太忙
+转号到Club sim只能转成实体卡吗？
+法
+16:12
+法老-英国
+那不是一代rlpa吗
+16:12
+怀疑就是抄袭改名
+K
+16:13
+King
+应该就是
+法
+16:13
+法老-英国
+rlpa2不开源
+小
+16:13
+小学生
+啥抄袭不抄袭的
+法
+16:13
+法老-英国
+其他家拿不到
+K
+16:13
+King
+之前estk下载服务不是有开源的吗
+小
+16:13
+小学生
+能给大家带来快乐就可以了
+K
+16:14
+King
+学习来的
+小
+16:14
+小学生
+一看就是有点碰瓷estk的
+16:14
+这不得不承认
+K
+16:15
+King
+这叫竞品
+16:15
+价格优势还是可以的
+C
+16:15
+CD
+In reply to this message
+有没有一种可能是eSTK开的小号，这个420k的容量，还有这一个卡的样式都好像啊
+小
+16:15
+小学生
+只要稳定性价比，大家就支持
+法
+16:15
+法老-英国
+蓝牙卡才能夺回苹果端的份额
+K
+16:15
+King
+确实，现在都在出蓝牙卡了
+小
+16:15
+小学生
+In reply to this message
+我也猜像，但是estk也没有必要这样做
+DD
+16:15
+David Dowell
+In reply to this message
+啥意思，estk双芯片炸卡率反而更高吗
+法
+16:15
+法老-英国
+当然
+YP
+16:15
+Yūkishirō Plēnīlūne
+In reply to this message
+还有这个熟悉的8904932
+法
+16:16
+法老-英国
+estk一直是双芯
+YP
+16:16
+Yūkishirō Plēnīlūne
+In reply to this message
+但是问题是
+16:16
+estk 他开小号干嘛呢
+C
+16:16
+CD
+In reply to this message
+是的，毕竟eSTK那么久没动静了
+YP
+16:16
+Yūkishirō Plēnīlūne
+他又没被封
+K
+16:16
+King
+出的晚了，玩这个的也基本手持不少个了
+DD
+16:16
+David Dowell
+你这说的我都不敢再往estk里面写卡了
+YP
+16:16
+Yūkishirō Plēnīlūne
+难道是旧款产品去库存？
+K
+16:16
+King
+estk都没动静了
+16:16
+不推新了
+YP
+16:16
+Yūkishirō Plēnīlūne
+In reply to this message
+这logo一眼幻视estk
+16:17
+In reply to this message
+主要传统卡领域没啥活了 还能干嘛
+小
+16:17
+小学生
+可能在憋大的
+法
+16:17
+法老-英国
+新赛道是蓝牙写卡 omapi切卡读卡
+C
+16:17
+CD
+有一种可能就是，这玩意儿是eSTK员工自己出来开的
+16:17
+风格全面仿照
+小
+16:17
+小学生
+意淫啥呢
+16:17
+K
+16:18
+King
+9e现在卖的那个蓝牙卡是1m的吗
+C
+16:18
+CD
+In reply to this message
+STK可以保留，不做下卡就行
+YP
+16:18
+Yūkishirō Plēnīlūne
+In reply to this message
+所有这种卡都叫可编程euicc
+16:18
+其实
+C
+16:18
+CD
+In reply to this message
+那个应该还在做调整吧，好像是说有一定缺陷在改，但是老用户可以先买小容量的那一款
+DD
+16:23
+David Dowell
+优惠券到5.30，先看看第一批的反馈
+哎
+16:23
+哎呦喂
+我已经下单了
+DD
+16:23
+David Dowell
+所以他这个读卡器和estk可以通用吗
+A
+16:24
+Aiden
+@ayow88 dent给你反馈
+哎
+16:24
+哎呦喂
+尝尝咸淡
+DD
+16:24
+David Dowell
+不太懂
+A
+16:24
+Aiden
+等你
+C
+16:24
+CD
+In reply to this message
+应该是通用的
+简
+16:24
+简
+读卡器都是通用的
+哎
+16:24
+哎呦喂
+这个读卡器是9ESIM公版方案吧
+16:25
+批量做成本很低
+16:26
+有人说是拆机卡？ 所以我很好奇
+小
+16:28
+小学生
+要不要福利，给你们安排半价的elink card
+16:28
+哎
+16:28
+哎呦喂
+In reply to this message
+尊嘟假嘟
+K
+16:28
+King
+半价整个1m的
+哎
+16:28
+哎呦喂
+50拿下1M卡？
+j
+16:28
+jiessie
+安排
+DD
+16:28
+David Dowell
+读卡器+卡能不能半价
+简
+16:29
+简
+9.9
+j
+16:31
+jiessie
+29.9
+小
+16:32
+小学生
+需要的报数
+K
+16:32
+King
+9.9 +1
+M
+16:32
+Morty
+抽
+L
+16:33
+L.L.
++1
+哎
+16:33
+哎呦喂
+In reply to this message
+哪个啊？
+16:33
+1M卡+1
+小
+16:33
+小学生
+你不是买了
+哎
+16:34
+哎呦喂
+我不能退了吗
+G
+16:35
+GeneralPeople.
+111
+16:35
+Sticker
+Not included, change data exporting settings to download.
+, 13.9 KB
+DD
+16:35
+David Dowell
++1
+M
+16:35
+Morty
+1
+DD
+16:36
+David Dowell
+我可以自己解决运费
+C
+16:38
+Chris
+1
+K
+16:38
+King
+半价 103/2
+G
+16:39
+GeneralPeople.
+拆机芯片
+K
+16:40
+King
+[]
+16:41
+和estk一样吧，estk只有max好像是pixel拆机芯片
+简
+16:42
+简
+Sticker
+Not included, change data exporting settings to download.
+, 9.8 KB
+16:42
+难道不是iPhone
+哎
+16:43
+哎呦喂
+是吗
+九
+16:43
+九九成稀罕物
+是吗
+16:43
+我发的
+16:43
+有毒这机器人
+简
+16:43
+简
+在发
+九
+16:44
+九九成稀罕物
+[]
+16:44
+这个厂家是iphone拆机？
+G
+16:44
+GeneralPeople.
+estk 现在又不用拆机的了
+16:44
+定制的
+16:44
+以前才是拆机的
+简
+16:44
+简
+Sticker
+Not included, change data exporting settings to download.
+, 8.1 KB
+K
+16:45
+King
+max不一样吧
+简
+16:45
+简
+In reply to this message
+这就是max
+G
+16:45
+GeneralPeople.
+后来因为有概率炸卡，改用定制
+M
+16:47
+Morty
+In reply to this message
+有啥区别吗
+K
+16:47
+King
+小学生谈价去了
+G
+16:47
+GeneralPeople.
+In reply to this message
+不容易炸卡
+K
+16:48
+King
+所以说这个elink即使方案相同，和9e/estk还是有区别的
+素
+16:48
+素晴らしい
+曾经买过一个小白卡，用了10天，炸了
+16:48
+Sticker
+Not included, change data exporting settings to download.
+, 8.5 KB
+16:49
+然后那个老板一个劲的让我退款，然后拒绝了我的新的订单
+G
+16:49
+GeneralPeople.
+那我运气挺好
+16:49
+目前没一个炸的
+M
+16:49
+Morty
+In reply to this message
+有没有用读卡器
+G
+16:50
+GeneralPeople.
+当然也可能是没那么多卡给我写
+M
+16:50
+Morty
+我也没一个炸的
+G
+16:50
+GeneralPeople.
+Sticker
+Not included, change data exporting settings to download.
+, 11.9 KB
+素
+16:50
+素晴らしい
+In reply to this message
+没，那款是免读卡器的，后来炸掉了，用读卡器也没反应了
+M
+16:50
+Morty
+一般用读卡器 还能救
+素
+16:50
+素晴らしい
+炸掉后，用读卡器，没反应了
+16:51
+Sticker
+Not included, change data exporting settings to download.
+, 14.1 KB
+16:51
+在我退款的快递发出去的一瞬间，商家就把我的退款打回来了，并且商家在微信拉黑了我
+16:51
+Sticker
+Not included, change data exporting settings to download.
+, 8.5 KB
+16:52
+他说我问题太多了
+小
+16:54
+小学生
+活动只限本群白名单成员，明天抽奖
+16:55
+没有进白名单的抓紧了
+16:55
+简
+16:55
+简
+抽
+素
+16:55
+素晴らしい
+In reply to this message
+大佬，怎么进白名单
+K
+16:55
+King
+这。。。
+素
+16:55
+素晴らしい
+Sticker
+Not included, change data exporting settings to download.
+, 19.6 KB
+K
+16:56
+King
+得水不少条才行
+16:56
+白名单应该没几个吧
+L
+16:56
+L.L.
+怎么看是不是白名单
+小
+16:56
+小学生
+In reply to this message
+半价活动
+哎
+16:57
+哎呦喂
+怎么看白名单？
+K
+16:57
+King
+In reply to this message
+看上一条消息
+DD
+16:58
+David Dowell
+还抽奖吗
+K
+16:58
+King
+抽
+简
+16:58
+简
+抽
+哎
+16:58
+哎呦喂
+原来我还不是白名单
+16:58
+Sticker
+Not included, change data exporting settings to download.
+, 9.1 KB
+K
+16:58
+King
+小学生说明天
+L
+16:58
+L.L.
+机器人是不是坏了
+K
+16:58
+King
+1m半价？
+16:58
+还是420k
+DD
+16:58
+David Dowell
+那没搞头了，水不到
+素
+16:59
+素晴らしい
+Sticker
+Not included, change data exporting settings to download.
+, 10.3 KB
+忆
+16:59
+忆雨
+抽什么
+Next messages

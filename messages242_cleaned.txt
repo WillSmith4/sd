@@ -1,0 +1,3722 @@
+Esim.Kim中文交流群
+Previous messages
+15 May 2026
+I
+18:42
+Ivanky
+[]
+18:42
+[]
+哎
+18:42
+哎呦喂
+Sticker
+Not included, change data exporting settings to download.
+, 13.4 KB
+I
+18:42
+Ivanky
+毕竟都是一批
+.
+18:44
+.
+奶昔那个原帖在哪里呢
+I
+18:44
+Ivanky
+我支持enlink
+18:45
+只要固件更新
+18:45
+我一直买
+.
+18:46
+.
+我折腾eSIM三年了，两三百块钱的estk等‘高贵卡’我买了三年。房子折腾没了，家人被我买垮了，现在好不容易有了便宜的elink卡，你们非说他是低价倾销、搞黑产，那卡好不好用、香不香，我能不知道吗？那卡才卖7美金一张，光芯片出厂价就5美金了，人家做卡的根本就没赚咱们几个钱！谁家玩机能不遇上个需要eSIM的时候，你能保证你一辈子都舍得花高价买溢价卡吗？你们呼吁抵制他、把他搞黄了，我们都得回去接着被高价卡割韭菜。我不想被割韭菜，我只想便宜用个卡
+秋
+18:47
+秋阳
+？
+哎
+18:47
+哎呦喂
+@ivanmn9 500k的也刷一手
+?
+18:49
+In reply to this message
+没有吧…red？
+I
+18:49
+Ivanky
+我直接用主力卡刷
+蚊
+18:49
+蚊子酱
+Sticker
+Not included, change data exporting settings to download.
+, 28.8 KB
+18:49
+群友们早呀
+I
+18:49
+Ivanky
+Estk研发店500k的
+18:49
+雷420首先成功
+蚊
+18:50
+蚊子酱
+In reply to this message
+额，原来他家这个叫1M
+A
+18:50
+AA
+In reply to this message
+蚊子早
+蚊
+18:50
+蚊子酱
+我一直喊860K
+18:50
+xs
+哎
+18:50
+哎呦喂
+In reply to this message
+研发店的1m是elink的880k
+I
+18:50
+Ivanky
+雷的读卡器用划痕
+哎
+18:50
+哎呦喂
+对应
+I
+18:50
+Ivanky
+[]
+蚊
+18:51
+蚊子酱
+In reply to this message
+所以真有1000K的么
+?
+18:51
+[]
+哎
+18:51
+哎呦喂
+In reply to this message
+有，但塞不满
+?
+18:51
+俺是这个
+蚊
+18:51
+蚊子酱
+In reply to this message
+Mega实际可用空间多少？
+?
+18:51
+现在estk固件啥版本啊
+蚊
+18:51
+蚊子酱
+In reply to this message
+那其实也没啥意思
+?
+18:51
+等会刷刷
+18:52
+In reply to this message
+没试过啊…..我上次准备用测试码塞一下的
+18:52
+太累了
+18:52
+没时间
+蚊
+18:52
+蚊子酱
+In reply to this message
+hhh
+?
+18:52
+就没扫了
+I
+18:52
+Ivanky
+主力卡成功
+哎
+18:53
+哎呦喂
+[]
+1M卡
+蚊
+18:53
+蚊子酱
+现在群友玩的都这么厉害么
+18:53
+vowifi在线，xs
+A
+18:55
+AA
+都是vohive玩家
+ca
+18:55
+cba a
+话说
+18:56
+移远模块网上教程实在太少了
+18:56
+其实我想整个玩玩
+18:56
+但是怕没教程竹篮子打水一场空
+18:56
+Sticker
+Not included, change data exporting settings to download.
+, 28.9 KB
+I
+18:56
+Ivanky
+给钱教你
+ca
+18:56
+20块的电视盒子+ec20
+ca
+18:56
+cba a
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 27.0 KB
+18:56
+Sticker
+Not included, change data exporting settings to download.
+, 25.5 KB
+I
+18:56
+Ivanky
+就能运行
+ca
+18:56
+cba a
+Sticker
+Not included, change data exporting settings to download.
+, 24.9 KB
+18:57
+Sticker
+Not included, change data exporting settings to download.
+, 29.5 KB
+哎
+18:57
+哎呦喂
+In reply to this message
+20块盒子都出来了
+A
+18:57
+AA
+哎
+哎呦喂 15.05.2026 18:57:20
+20块盒子都出来了
+.
+18:58
+.
+什么电视盒子这么便宜
+I
+18:58
+Ivanky
+你办iptv送的盒子就行
+18:58
+前些年
+18:59
+晶晨系列芯片s905
+19:00
+带百兆网口 hdmi 两个usb口
+19:00
+没尝试usb外接千兆网卡
+19:01
+刷个armbian 部署docker 和容器 毫无压力
+19:01
+[]
+?
+19:01
+要啥子教程啊
+19:01
+这都有ai了
+19:01
+直接报错直接问
+19:01
+简简单单
+19:02
+我是nanopineo2
+19:03
+openwrt运行的..没搞docker了
+19:03
+有二进制文件还是很方便部署
+ca
+19:03
+cba a
+In reply to this message
+遇到小众问题瞎编一大堆
+19:03
+反正我就是有点怕了
+I
+19:05
+Ivanky
+没事
+19:05
+都是指令反而简单
++
+20:05
++503 78745555
+感觉我深深拉低了本群的档次
+20:06
+你们说的都听不懂
+p
+20:06
+pppp
++
++503 78745555 15.05.2026 20:05:54
+感觉我深深拉低了本群的档次
+20:06
+你们说的都听不懂
+外
+20:06
+外星人
+建议下次他们发语音，这样你就能听懂了
+希
+20:07
+希
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 31.3 KB
+20:07
+没啥其实
+20:07
+就单纯说一下，600u是那个广告位，但大部分选择赞助换取
+20:07
+至今穷得叮当响，还希望有钱人投点
+外
+20:08
+外星人
+我愿作为奶昔的精神股东
+?
+20:33
+？9.9的elink车开完了么
+20:33
+Sticker
+Not included, change data exporting settings to download.
+, 37.2 KB
+.
+20:35
+.
+都没开起来
+G
+20:36
+GeneralPeople.
+还有 9.9？
+20:36
+什么时候的事
+小
+21:28
+小学生
+明天
+G
+21:29
+GeneralPeople.
+In reply to this message
+那边的群里搞么
+小
+21:49
+小学生
+你还真信了
+21:49
+?
+22:20
+In reply to this message
+你为什么要摧毁希望
+外
+22:34
+外星人
+希望越大，失望越大
+22:34
+赶紧冲雷家的44+读卡器
+22:35
+目前性价比最高的一家
+16 May 2026
+x
+00:25
+x9394
+雷家是哪个？
+R
+01:26
+Rey (瑞)
+In reply to this message
+没事了刚才广告君
+x
+01:31
+x9394
+雷家那个卡eid跟estk一样？
+01:32
+正缺一个不容易封的，小白卡第二次红茶买了套餐下卡就封
+01:33
+89086030是东信和平吧？
+K
+01:58
+Ko
+介绍一下你的价格
+Z
+02:16
+Z
+[]
+02:16
+LS
+02:19
+Lalo Salamanca
+In reply to this message
+在 9esim 拒绝了这个方案之后，这批卡（或者说这个项目）辗转到了原 estk
+大中华区总代理（刘洋）的手里，并开始对外销售。
+操盘手接管后，eLink团队上游也对这张卡进行了多次固件更新，修补了早期的一堆漏洞，在此过程中又参考了某其他商家的固件方案进行打磨。最后，换了个壳子，以“eLink”的名字重新出现在了大家面前。
+02:19
+Sticker
+Not included, change data exporting settings to download.
+, 207.0 KB
+02:25
+M-Pay
+In reply to this message
+龟总送了，不用自己买
+02:26
+K
+02:29
+Ko
+In reply to this message
+送我几张
+简
+02:30
+简
+In reply to this message
+这种卡还没有白卡稳定
+伍六
+02:38
+伍 六柒
+人要有自己的认知，不要人云亦云。好不好用大伙不知道？
+02:42
+貌似也许也是1m吧，来自下水道消息~
+简
+02:43
+简
+等出了就知道了
+伍六
+02:44
+伍 六柒
+芯片有啥区别？不是同一家的芯片？
+SL
+02:45
+Stan Lee
+In reply to this message
+应该不是，不然和现在的T3系有什么区别
+伍六
+02:46
+伍 六柒
+In reply to this message
+那为啥难产了
+SL
+02:47
+Stan Lee
+再说现在elink像estk T1系列
+02:47
+用的rlpa1
+A
+02:48
+Amanda
+In reply to this message
+没测试好，就出售，坑的是用户
+伍六
+02:49
+伍 六柒
+那为何之前说的是第二天上？能上因该是全流程都完了吧，突然发现的？
+A
+02:50
+Amanda
+啥时候的事
+X
+02:51
+XUWU
+1t？
+02:51
+Sticker
+Not included, change data exporting settings to download.
+, 247.1 KB
+伍六
+02:53
+伍 六柒
+卖便宜了就真不行？12号那个帖子，同型号产品不能卖低于59
+是那个人说的吧。老款为什么还会有这个限制？那不是更因该低价清库存
+02:53
+这帮人都撸昏了头，前后话打架
+A
+02:54
+Amanda
+In reply to this message
+官方有消息嘛
+伍六
+02:54
+伍 六柒
+In reply to this message
+e师傅自己说的啊
+SL
+02:54
+Stan Lee
+相信e师傅能研发出更新颖的产品，而不是这种同质化的产品，走高端路线
+02:54
+伍六
+02:55
+伍 六柒
+又高端上了
+02:55
+遥遥领先是吧
+SL
+02:55
+Stan Lee
+人家不就是这么定位吗
+M
+02:55
+Morty
+In reply to this message
+产品不一样吧
+伍六
+02:55
+伍 六柒
+我现在看到的就是标准华为打法
+M
+02:56
+Morty
+最简单的鉴别方法是看 EID。如果你的 EID 中包含
+888，那么大概率你拿到的是早期的拆机芯片（炸卡风险较高，需谨慎）。如果不包含，那基本就是后来换上的
+Bug芯片。当然，更严谨的方法是直接使用
+MiniLPA软件去查看具体的芯片底层信息。
+伍六
+02:59
+伍 六柒
+买了的自己去查查啊
+M
+02:59
+Morty
+我的就是EID 中包含 888
+伍六
+03:01
+伍 六柒
+可是从一开始elink说的自己就是拆机片啊
+03:03
+Sticker
+Not included, change data exporting settings to download.
+, 64.8 KB
+SL
+03:04
+Stan Lee
+上次在手机上切语言，卡就卡死了，刷了新固件不知道有没有解决
+M
+03:05
+Morty
+同一家购买，两种eid
+SL
+03:05
+Stan Lee
+STK上切语言
+伍六
+03:05
+伍 六柒
+In reply to this message
+你不是也买了吗。升级下试试
+M
+03:05
+Morty
+In reply to this message
+肯定偏向于不容易炸的
+SL
+03:06
+Stan Lee
+In reply to this message
+我升级了，卡在公司没带回来
+伍六
+03:07
+伍 六柒
+我没有针对谁，只能说人家都说明了，也没摁着你买，是自己想要便宜的，人家也没说是哪一个eid段。不行就退，自己问题记得给人家邮费报一下
+03:07
+[]
+03:08
+七天无理由 极速退款
+03:14
+几家除了蚊子的我全买了。新品，固件刚出来有点问题很正常，只要他后续能修复
+，有售后我就觉得没毛病。无论是esim圈还是别的圈。
+.
+03:14
+.
+In reply to this message
+这个原贴在哪里了
+伍六
+03:16
+伍 六柒
+现在各大帖子我看到的就是利益分配的问题。有人想卖高价，有人想实惠价卖。喜欢贵的就去买贵的，喜欢实惠的就去买实惠的
+SL
+03:25
+Stan Lee
+我没有说elink不好，我是说estk难产可能不是这个原因
+B
+03:25
+Bowen
+谁有 linxdo 邀请链接，求一个
+伍六
+03:27
+伍 六柒
+我也没说好呀。那你倒是说说原因，这个节骨眼上尤其是奥特曼发言，很难不让人联想到一块
+SL
+03:30
+Stan Lee
+我也不知道原因呀，我也只是说应该不是
+03:31
+我也说出了我觉得不是的理由，elink用的rlpa1的服务
+03:32
+estk难道要走t1老路？
+03:32
+个人观点
+伍六
+03:33
+伍 六柒
+从来没人说主控一样吧
+03:33
+我们说的是这个1m芯片的问题
+03:33
+主控都一样，固件一样。那e师傅还能活？
+SL
+03:33
+Stan Lee
+芯片供货问题有可能
+03:35
+芯片同一家，那大概率是了
+伍六
+03:37
+伍 六柒
+In reply to this message
+所以说还是这句话
+SL
+03:37
+Stan Lee
+猜也没用，等出来吧
+伍六
+03:37
+伍 六柒
+不针对谁。
+YP
+03:37
+Yūkishirō Plēnīlūne
+芯片同一家没啥问题
+03:37
+In reply to this message
+主要是，首发是所谓的bug芯片
+03:37
+然后后面是拆机芯片
+03:37
+那e师傅这两种不也都用过
+03:38
+In reply to this message
+自己黑自己吗是
+伍六
+03:46
+伍 六柒
+现在的esim实体卡给我的感觉就是十几年前的手机圈，大家本来都卖的好好的给芯片划分好了价位，突然杀入了一个小米。现在就看低价的这几家谁能顶住做esim实体卡里的小米了
+SL
+03:49
+Stan Lee
+打吧，我们能拿到低价好用的就可以
+C
+03:56
+CT
+In reply to this message
+羡慕CTM
+A
+03:57
+AA
+都说公版estk了
+03:57
+能有多大区别
+03:58
+Sticker
+Not included, change data exporting settings to download.
+, 6.0 KB
+简
+03:58
+简
+有钱就上max
+03:59
+没钱随便买
+A
+03:59
+AA
+t
+tnt 16.05.2026 03:58:49
+区别就是 我买贵了 我不服 低价就是黑心厂家
+A
+03:59
+AA
+t
+tnt 16.05.2026 03:59:16
+有钱就上原生手机
+简
+03:59
+简
+能上原生最好不过
+A
+03:59
+AA
+买什么实体卡，有电信许可证吗
+03:59
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+简
+04:00
+简
+max我用到现在反正没啥问题
+C
+04:00
+CT
+买台原生三星几百块搞定
+04:00
+老玩实体eSIM
+X
+04:01
+Xiao_Ha
+请教雷的卡是多大的内存和EID，有人知道吗？
+04:01
+读卡器套餐的那个卡
+简
+04:02
+简
+现在大家都是人手几个esim实体卡 买新出的卡也就是玩玩
+伍六
+04:10
+伍 六柒
+In reply to this message
+480kb
+04:10
+eid不清楚，群里唯一买了的漏发了卡
+A
+04:15
+AA
+不止吧
+04:15
+昨晚他不是刷了elink的固件
+04:15
+成功了
+04:15
+4p也买了
+K
+04:17
+Ko
+算了，不配发英文
+04:17
+Sticker
+Not included, change data exporting settings to download.
+, 13.1 KB
+A
+04:18
+AA
+你加文字不就行
+04:18
+eid都一样
+SL
+04:18
+Stan Lee
+下次换手机买个港版1p+1e不折腾了
+04:18
+玩玩原生
+A
+04:19
+AA
+还用下次
+04:19
+一直用的就是港版原生eSIM
+04:19
+Sticker
+Not included, change data exporting settings to download.
+, 6.0 KB
+SL
+04:19
+Stan Lee
+我的12还能再战两年
+04:19
+Sticker
+Not included, change data exporting settings to download.
+, 158.4 KB
+法
+04:20
+法老-英国
+原生和实体的竞争
+04:20
+都买不就完了
+A
+04:21
+AA
+纠结那么多干嘛，有钱就买原生，没钱小黑卡小白卡都能使
+04:22
+就等9.9的小黑卡了
+SL
+04:22
+Stan Lee
+A
+AA 16.05.2026 04:21:39
+纠结那么多干嘛，有钱就买原生，没钱小黑卡小白卡都能使
+简
+04:22
+简
+小白卡稳定性还是不错的，我用的没一个炸的
+04:22
+Sticker
+Not included, change data exporting settings to download.
+, 72.1 KB
+法
+04:23
+法老-英国
+9块9秒杀一切
+A
+04:23
+AA
+天天嫌弃这个嫌弃那个，东信都没嫌你没钱
+04:23
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+简
+04:23
+简
+Sticker
+Not included, change data exporting settings to download.
+, 72.1 KB
+A
+04:23
+AA
+我支持9.9把价格打下来
+SL
+04:29
+Stan Lee
+t
+tnt 16.05.2026 04:29:24
+618活动 来个6.18 把价格打下来
+i
+04:29
+incognito
+t
+tnt 16.05.2026 04:29:24
+618活动 来个6.18 把价格打下来
+W
+04:30
+William
+天天整这些白卡黑卡的干啥。。
+木
+04:31
+木木虎
+没啥用
+SL
+04:34
+Stan Lee
+2张9.9在吃灰
+04:34
+Elink也在吃灰
+木
+04:34
+木木虎
+卡一多都没用
+SL
+04:34
+Stan Lee
+过度消费了
+04:34
+用不上那么多
+W
+04:36
+William
+我除了买过张5ber和estk外只撸过一张9esim
+9.9还放那里只试了下。用最好的就行了，去试那些乱七八糟的没必要啊
+Z
+04:39
+Z
+t
+tnt 16.05.2026 03:58:49
+区别就是 我买贵了 我不服 低价就是黑心厂家
+木
+04:41
+木木虎
+[]
+04:41
+羡慕客户经理
+j
+SL
+04:42
+Stan Lee
+面签招行？
+04:42
+办事
+04:42
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+i
+04:46
+incognito
+ban？
+木
+04:48
+木木虎
+[]
+04:48
+好简单
+A
+04:49
+AA
+办银联干啥
+04:49
+你不说办万事达
+木
+04:49
+木木虎
+他好像强制有一张银联
+04:49
+万事达后加就好了
+A
+04:50
+AA
+万事达现在都是单标了
+͏͏
+04:53
+͏ ͏
+In reply to this message
+不允许了
+04:53
+新卡都单标
+04:53
+两个卡行的就发两个卡 ，少数没停的旧卡才有双标
+木
+04:53
+木木虎
+我是说后申请多一张万事达
+04:54
+先下卡
+04:54
+没啥用
+A
+04:54
+AA
+没啥用
+Z
+04:55
+Z
+羡慕大专
+伍六
+04:58
+伍 六柒
+In reply to this message
+？？能互刷？
+A
+05:01
+AA
+他都刷了几张小黑卡
+05:01
+你翻下聊天记录就知道了
+伍六
+05:08
+伍 六柒
+In reply to this message
+都刷的elink固件？
+05:08
+企业研发店的也能刷吗
+W
+05:08
+William
+In reply to this message
+estk就很稳定和好用了，其他都是垃圾了。我有1x estk max,1 x estk start,1 x
+estk times,2 x estk eco，1 x 5ber,1 x 9.9 9esim
+S
+05:10
+Setup
+Sticker
+Not included, change data exporting settings to download.
+, 12.5 KB
+A
+05:10
+AA
+S
+Setup 16.05.2026 05:10:02
+Sticker
+Not included, change data exporting settings to download.
+, 12.5 KB
+EL
+05:13
+Erika Lottery
+In reply to this message
+怎么搞的啊
+05:13
+Sticker
+Not included, change data exporting settings to download.
+, 17.4 KB
+KM
+05:13
+K Mox 𝕏⁠⁠⁠⁠⁠ ⁧
+S
+Setup 16.05.2026 05:10:02
+Sticker
+Not included, change data exporting settings to download.
+, 12.5 KB
+.
+05:21
+.
+我买小黑卡
+05:21
+给我发 kke
+05:23
+神了
+K
+05:23
+Keil
+佬友们，是不是O2转网沃达丰，提前发的esim不能扫
+.
+05:23
+.
+[]
+K
+05:23
+Keil
+否则到激活日就扫不成功了吗
+.
+05:24
+.
+[]
+A
+05:24
+AA
+等第二封eSIM邮件通知激活再扫
+05:24
+买到就是赚到，现在可不止59了
+K
+05:24
+Keil
+已经扫了
+05:24
+Sticker
+Not included, change data exporting settings to download.
+, 7.4 KB
+05:24
+完蛋，这卡废了
+KM
+05:25
+K Mox 𝕏⁠⁠⁠⁠⁠ ⁧
+In reply to this message
+这家特么不是涨价了吗？
+A
+05:25
+AA
+等到时间再试一下
+.
+05:25
+.
+涨价之前买的
+A
+05:25
+AA
+如果最后实在不行，就找客服重新下发二维码
+K
+05:26
+Keil
+嗯嗯，只能这样了
+A
+05:26
+AA
+送的10欧可以抵扣补卡费
+K
+05:26
+Keil
+Sticker
+Not included, change data exporting settings to download.
+, 11.7 KB
+KM
+05:26
+K Mox 𝕏⁠⁠⁠⁠⁠ ⁧
+不过怎么这么多划痕？
+K
+05:26
+Keil
+实在不行，我还有个O2
+05:26
+继续转
+.
+05:27
+.
+不知道了
+05:27
+等会插上看看
+Z
+05:28
+Z
+没信号的还能转吗
+05:28
+Sticker
+Not included, change data exporting settings to download.
+, 123.2 KB
+A
+05:28
+AA
+一直都能转
+L
+05:30
+L.L.
+In reply to this message
+他家不同价位都是一种卡
+.
+05:30
+.
+都是 kke？
+A
+05:31
+AA
+你要让他给你发estk？
+05:31
+那你得拍estk的链接
+KM
+05:52
+K Mox 𝕏⁠⁠⁠⁠⁠ ⁧
+@ivanmn9 91的v3什么eid
+伍六
+05:53
+伍 六柒
+说了一周发的kke…
+KM
+05:53
+K Mox 𝕏⁠⁠⁠⁠⁠ ⁧
+Sticker
+Not included, change data exporting settings to download.
+, 29.2 KB
+伍六
+05:53
+伍 六柒
+还内置estk同款内置卡
+SL
+06:07
+Stan Lee
+羡慕去澳门
+A
+06:13
+AA
+梭哈一半不就少赢一半
+06:13
+全压 单车变摩托
+伍六
+06:20
+伍 六柒
+estk企业研发能刷estk的固件还是elink的
+06:22
+我的elink刷固件好像出问题了
+SL
+06:26
+Stan Lee
+出啥问题了
+A
+06:27
+AA
+SL
+Stan Lee 16.05.2026 06:26:16
+出啥问题了
+JC
+06:27
+Jack Chung
+In reply to this message
+这还能出问题，看的我都不敢刷了
+06:29
+In reply to this message
+你是多大容量的？
+伍六
+06:31
+伍 六柒
+[]
+06:31
+咋回事，读不出来
+A
+06:31
+AA
+@老板
+伍六
+06:32
+伍 六柒
+重新拔插好了
+A
+06:33
+AA
+差点又给论坛加素材了
+JC
+06:34
+Jack Chung
+In reply to this message
+确实是，目前对于某些商家来说，有点风就是雨，不过我最近确实看到几个人说刷坏了的，也不知道真假
+伍六
+06:36
+伍 六柒
+[]
+06:36
+下哪一个
+K
+06:37
+Ko
+你是什么就下哪一个啊
+伍六
+06:37
+伍 六柒
+win
+06:37
+没找到啊
+K
+06:37
+Ko
+因為你沒展開全部
+伍六
+06:38
+伍 六柒
+尴尬了
+06:38
+哈哈哈哈
+K
+06:38
+Ko
+Sticker
+Not included, change data exporting settings to download.
+, 20.2 KB
+伍六
+06:42
+伍 六柒
+企业研发，开刷
+I
+06:42
+Ivanky
+@KKSK7 89044045(GB): Kigen
+06:44
+现在谈黑卡稳不稳定没意义
+06:44
+需要时间验证
+KM
+06:45
+K Mox 𝕏⁠⁠⁠⁠⁠ ⁧
+伍六
+06:46
+伍 六柒
+成功
+06:46
+蚊子的固件因该也可以
+06:47
+叫蚊子把固件也发出来玩一下
+A
+06:50
+AA
+Sticker
+Not included, change data exporting settings to download.
+, 6.0 KB
+p
+06:54
+pppp
+In reply to this message
+我也买了啊
+06:54
+eid是00001
+伍六
+06:58
+伍 六柒
+就是只有480 不然买一手
+p
+06:58
+pppp
+反正我几块钱成本嫖的 无所谓了
+秋
+06:59
+秋阳
+啊这
+j
+06:59
+julia
+几块钱？给个购买链接
+06:59
+p
+07:00
+pppp
+就是你们看到的链接啊
+j
+07:00
+julia
+In reply to this message
+那种机器太卡了，骁龙7系列
+p
+07:00
+pppp
+我是叠了红包
+j
+07:00
+julia
+In reply to this message
+再发一下
+p
+07:00
+pppp
+In reply to this message
+flip系列
+07:01
+8系的处理器啊
+K
+07:10
+Keil
+In reply to this message
+哪里搞
+伍六
+07:22
+伍 六柒
+In reply to this message
+闲鱼
+07:23
+In reply to this message
+搞好了
+07:23
+全部刷了
+07:24
+37=79
+07:24
+四舍五入又赚了一半
+A
+07:24
+AA
+Sticker
+Not included, change data exporting settings to download.
+, 6.0 KB
+伍六
+07:24
+伍 六柒
+In reply to this message
+37研发店＝79elink
+07:25
+家人们，谁懂啊
+A
+07:25
+AA
+研发店现在88
+07:25
+M-Pay
+In reply to this message
+7=7 3=√9=3，那个厂他离职了，所以没有
+所以37=79
+A
+07:25
+AA
+牛逼
+07:25
+原来是厂离职了
+07:26
+M-Pay
+A
+07:26
+AA
+现在是又进厂了所以涨价了
+伍六
+07:26
+伍 六柒
+In reply to this message
+我37买的
+07:26
+让你们前几天不买
+07:26
+M-Pay
+我现在已经不剁手了
+伍六
+07:26
+伍 六柒
+拍大腿了吧
+A
+07:26
+AA
+不买
+07:26
+M-Pay
+太多了，都快生锈了
+07:26
+A
+07:26
+AA
+俩台原生都没写完
+07:27
+不能买了，最近卡荒
+07:27
+M-Pay
+In reply to this message
+1mb都没写多少
+伍六
+07:27
+伍 六柒
+In reply to this message
+一样的。但是忍不住
+07:27
+Sticker
+Not included, change data exporting settings to download.
+, 58.1 KB
+A
+07:27
+AA
+1.2的小白卡都还有1.06
+07:27
+都说卡荒了
+07:28
+M-Pay
+In reply to this message
+我现在已经忍住了，前段时间就忍不住
+伍六
+07:28
+伍 六柒
+现在谁买。88
+07:28
+bybit eu 审核好久啊
+07:29
+抓了两个小老弟来帮我kyc
+07:29
+M-Pay
+In reply to this message
+去抓个黑子
+伍六
+07:29
+伍 六柒
+饭都吃完了，还没审核通过
+A
+07:29
+AA
+多抓点
+07:29
+M-Pay
+EU的贵一点，要十多刀
+07:29
+不值
+伍六
+07:30
+伍 六柒
+我小老弟还敢要钱？打断他们的腿
+07:35
+In reply to this message
+沃日了， 痛苦
+07:37
+In reply to this message
+小老弟随叫随到
+A
+07:48
+AA
+Sticker
+Not included, change data exporting settings to download.
+, 10.9 KB
+07:48
+在广东待了这么多年都没吃过这玩意
+PM
+07:48
+Pling Mooran
+In reply to this message
+黑暗料理
+A
+07:48
+AA
+tnt去吃钟村三宝吧
+j
+07:50
+julia
+芥末肠粉
+07:50
+p
+07:51
+pppp
+在广东不应该吃叫三声吗
+K
+07:57
+Keil
+In reply to this message
+在哪获得邀请码啊
+07:59
+U卡
+07:59
+那个
+07:59
+我的白名单怎么没了
+哎
+08:00
+哎呦喂
+In reply to this message
+bybit eu 邀请码：6ROGNGK
+K
+08:02
+Keil
+发了，等回复吧
+08:02
+是不是不经常发言，白名单就掉了
+简
+08:03
+简
+现在没有白名单了
+??
+08:03
+𝑾𝒊𝒏𝒔 𝑻𝒚𝒏𝒆
+In reply to this message
+广东人看到了直接飞升了
+K
+08:03
+Keil
+原来如此
+L
+08:07
+L.L.
+In reply to this message
+37的也能刷elink固件？
+伍六
+08:07
+伍 六柒
+In reply to this message
+可以
+PM
+08:09
+Pling Mooran
+33%是什么？返现33%？
+哎
+08:11
+哎呦喂
+全球区 返现有用
+PM
+08:12
+Pling Mooran
+已经有bybit eu还能用吗？
+哎
+08:12
+哎呦喂
+eu区 高返现的邀请码不如 普通的
+赛
+08:12
+赛小西
+Sticker
+Not included, change data exporting settings to download.
+, 12.4 KB
+哎
+08:12
+哎呦喂
+普通码充值100欧能送25欧,返现码没有
+08:13
+并且EU区没合约 高返现没用发挥余地
+08:13
+Sticker
+Not included, change data exporting settings to download.
+, 10.1 KB
+PM
+08:14
+Pling Mooran
+In reply to this message
+充值claude ,gpt会员
+哎
+08:14
+哎呦喂
+In reply to this message
+这个返现是 交易手续费返现,不是消费卡返现
+PM
+08:14
+Pling Mooran
+In reply to this message
+明白了
+08:14
+In reply to this message
+羡慕tnt
+08:15
+条件十分苛刻，根本刷不到这么多钱，返现全浪费了。
+赛
+08:16
+赛小西
+Sticker
+Not included, change data exporting settings to download.
+, 12.4 KB
+08:17
+[]
+M
+08:18
+ Maki
+In reply to this message
+送我
+08:45
+M-Pay
+In reply to this message
+毒死我算了
+08:46
+In reply to this message
+这么多星星送点礼物给我
+伍六
+09:09
+伍 六柒
+又去偷撸了吗，怎么这么安静
+09:09
+我害怕
+j
+09:21
+jiong
+In reply to this message
+注册教程呢
+J
+10:24
+Jacob
+哪里可以网飞账号
+纸旧
+10:25
+纸船 旧
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+10:26
+In reply to this message
+官网
+J
+10:27
+Jacob
+Animation
+Not included, change data exporting settings to download.
+169.2 KB
+K
+10:34
+Keil
+dc客服，让我发完钱包地址后就不理我了
+10:34
+这个邀请码真难得
+.
+10:42
+.
+有什么好玩的安卓手机
+L
+10:42
+L.L.
+有大佬知道OpenEUICC 不知道设置了什么荣悦e5变成单卡了，识别不到卡2
+SL
+10:42
+Stan Lee
+感觉superalink这个的网络不如jetpac的
+10:43
+Jetpac的供应商是啥来着
+法
+10:44
+法老-英国
+拔掉卡2 换一张其他卡进去
+10:44
+然后再换回来
+I
+10:47
+Icyauto
+linux.do有人或有工具去爬论坛，做一个新贴提示类似的功能吗？我没兴趣去捧臭脚，又不想凑过内容，怎么说
+10:47
+如果有现成的轮子我就不搓了
+伍六
+10:52
+伍 六柒
+In reply to this message
+丢给ai搓一个
+I
+10:54
+Icyauto
+重复搓轮子放在ai时代前后都是能避免就避免的行为
+10:54
+以前就不爱搓了，现在是个人都能搓，就更不爱搓了，万不得已不搓
+C
+11:01
+Conan
+In reply to this message
+你这发言，本职要么开发，要么也是互联网行当的，还是要么转行了要么转管理了
+I
+11:04
+Icyauto
+怎么猜的
+C
+11:10
+Conan
+[]
+PM
+A
+11:10
+AA
+Sticker
+Not included, change data exporting settings to download.
+, 6.0 KB
+11:10
+群里有的是科技佬
+云
+11:11
+云吞超人
+科技佬跟本职是两码事，ai时代当科技佬难度不高
+11:12
+ai时代前的科技佬跟ai时代后的科技佬
+I
+11:14
+Icyauto
+那我算上古科技佬，已经转业了，开发，狗都不当
+云
+11:14
+云吞超人
+你这明显是被优化的样子啊
+11:15
+被时代浪潮冲击到了？
+A
+11:15
+AA
+35毕业正常
+11:15
+不过也挣够了应该
+11:15
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+I
+11:16
+Icyauto
+还好吧，在阿里干了几年出来的，现在做其他的了。
+11:16
+In reply to this message
+事实上，不用35
+云
+11:17
+云吞超人
+In reply to this message
+tg还真人才多，你是被裁的？
+I
+11:18
+Icyauto
+In reply to this message
+想多了你
+C
+11:20
+Conan
+我有个去年搓的没用了，你拿去改一改
+I
+11:21
+Icyauto
+好，我私你了
+L
+11:25
+L.L.
+In reply to this message
+换回来又识别不到esim
+九
+11:27
+九九成稀罕物
+重启手机
+L
+11:30
+L.L.
+回复出厂设置，重新刷机都没用
+Z
+11:45
+Z
+打算把 3hk 的 45g 用用完
+11:45
+不然又要浪费了
+SL
+11:45
+Stan Lee
+蹬，用力蹬
+伍六
+11:45
+伍 六柒
+In reply to this message
+刷流刷起来
+Z
+11:45
+Z
+刷流量就算了
+11:45
+正常使用就行了
+我
+11:49
+我不是丁蟹
+In reply to this message
+[]
+11:49
+不经用 一点也不经用
+11:49
+In reply to this message
+CTM快乐星期天开起来
+11:49
+明天在开
+p
+11:50
+pppp
+卡荒了兄弟萌
+11:50
+四五张卡没卡写啊
+KM
+11:51
+K Mox 𝕏⁠⁠⁠⁠⁠ ⁧
+Sticker
+Not included, change data exporting settings to download.
+, 17.7 KB
+11:51
+六个随便写
+p
+11:52
+pppp
+这写来占内存吗
+A
+11:54
+AA
+卡不都是占内存
+p
+11:56
+pppp
+有道理
+KM
+11:56
+K Mox 𝕏⁠⁠⁠⁠⁠ ⁧
+不如9.9出给群友
+p
+11:56
+pppp
+那把你占内存的卡送给我吧
+11:56
+我免费回收
+KM
+11:56
+K Mox 𝕏⁠⁠⁠⁠⁠ ⁧
+Sticker
+Not included, change data exporting settings to download.
+, 29.2 KB
+A
+12:04
+AA
+我还等着你手搓送我
+B
+12:05
+Bowen
+还有可以白嫖的esim吗
+M
+12:16
+ Maki
+In reply to this message
+没有
+12:18
+M-Pay
+In reply to this message
+白嫖的每两天都被群友艹了
+12:18
+你只有随时注意，才有可能拿上
+PM
+12:18
+Pling Mooran
+In reply to this message
+阿里毕业的，太强了
+M
+12:19
+ Maki
+In reply to this message
+知道的不会告诉你
+Z
+12:19
+Z
+M
+ Maki 16.05.2026 12:19:08
+知道的不会告诉你
+法
+12:27
+法老-英国
+@When_the_Day_Comes 那是你配置文件不兼容用stk切到正常配置文件
+L
+12:30
+L.L.
+In reply to this message
+感觉是OpenEUICC 挤占了一个端口
+法
+12:30
+法老-英国
+是你卡切卡不兼容的配置文件而已
+12:30
+你就说你用的啥实体卡
+12:31
+不兼容
+12:31
+你正常之前是那个配置文件切回来
+12:31
+再试
+L
+12:31
+L.L.
+我用联通和电信卡双卡也只能读取一张卡
+法
+12:32
+法老-英国
+你不是之前正常吗
+L
+12:33
+L.L.
+adb shell settings put global euicc_provisioned 0
+adb shell settings put global esims_manager_enabled
+0用了这个代码后正常了
+12:33
+一插入esim又变单卡
+12:34
+然后用联通电信卡也又变成单卡
+??
+12:35
+𝑹𝒆𝒊𝒅 𝑬𝒍𝒊𝒏𝒐𝒓
+In reply to this message
+3hk的45G用完后，还能上网吗
+12:35
+我记得之前宣传是不限量限速啊
+秋
+12:37
+秋阳
+最高384kb
+??
+12:38
+𝑹𝒆𝒊𝒅 𝑬𝒍𝒊𝒏𝒐𝒓
+In reply to this message
+我去年连谷歌都打不开
+秋
+12:40
+秋阳
+因为低速就这么多，128kb，384kb或者512kb
+12:52
+M-Pay
+已用上行：18.23GB
+已用下行：111.93GB
+我用的也是真少啊，只聊天和下载一些东西，真用不多
+秋
+12:52
+秋阳
+似乎还不错
+伍六
+12:52
+伍 六柒
+In reply to this message
+我猜你是ios
+L
+12:53
+L.L.
+荣悦e5
+伍六
+12:53
+伍 六柒
+那就不清楚了
+12:53
+我estk 的gogo卡在ios上就读不出来
+秋
+12:54
+秋阳
+啊这
+13:01
+问问estk客服看看
+L
+13:03
+L.L.
+升级固件后荣悦e5读不出来esim
+秋
+13:04
+秋阳
+哈？
+伍六
+13:08
+伍 六柒
+In reply to this message
+客服在哪里
+13:08
+反正很久了。我现在estk都不插ios了
+13:10
+Etherfi 现在要20u沃日
+秋
+13:10
+秋阳
+买别人成品号
+纸旧
+13:11
+纸船 旧
+Sticker
+Not included, change data exporting settings to download.
+, 9.3 KB
+伍六
+13:13
+伍 六柒
+我的都是用我小老弟身份注册的
+13:13
+Sticker
+Not included, change data exporting settings to download.
+, 31.7 KB
+13:15
+自己注册不了的就钞能力呗。最多就是kyc没了，号又不会没
+13:19
+M-Pay
+In reply to this message
+自动翻译，你猜翻译的什么？
+13:19
+[]
+13:19
+In reply to this message
+不是抢劫呢
+伍六
+13:21
+伍 六柒
+In reply to this message
+不是抢，以前便宜是因为能kyc的国家多（那些小国也可以）
+13:21
+现在那些便宜国家都不行了，价格自然就高了
+秋
+13:23
+秋阳
+确实
+13:26
+M-Pay
+In reply to this message
+xesim一张我记得是0.07元，可太好了
+秋
+13:29
+秋阳
+啊这
+小
+13:30
+小学生
+In reply to this message
+6666
+秋
+13:30
+秋阳
+量大管饱是吧
+13:30
+M-Pay
+In reply to this message
+又是谁的靓号？
+A
+13:30
+AA
+In reply to this message
+6666
+秋
+13:31
+秋阳
+不错的号码
+小
+13:31
+小学生
+没有那个4就牛逼了
+13:31
+隐藏的那个是8
+13:31
+秋
+13:31
+秋阳
+确实
+13:33
+M-Pay
+In reply to this message
+88896666也已经很好了
+13:33
+够顺眼了
+秋
+13:33
+秋阳
+那可太顺眼了
+SL
+13:34
+Stan Lee
+谁的4A6
+AA
+13:38
+Ad Astra
+是谁那天给我说T-Mobile新开的3刀套餐没有30分钟/30短信来这，新开3刀，亲测有30的额度
+秋
+13:38
+秋阳
+不知道
+13:38
+你找找聊天记录就知道了
+A
+13:39
+AA
+秋
+秋阳 16.05.2026 13:38:50
+不知道
+13:39
+秋
+秋阳 16.05.2026 13:38:58
+你找找聊天记录就知道了
+A
+13:39
+AA
+我好像看见你发几次了
+13:40
+要找你就翻聊天记录
+13:40
+Sticker
+Not included, change data exporting settings to download.
+, 6.0 KB
+AA
+13:40
+Ad Astra
+In reply to this message
+现在也有
+Z
+13:40
+Z
+In reply to this message
+玄学罢了
+13:40
+有些人有 有些人就是没了
+13:41
+避免连基站，
+秋
+13:41
+秋阳
+奇怪的概率问题
+AA
+13:42
+Ad Astra
+前提是使用Wi-Fi Calling～
+伍六
+13:42
+伍 六柒
+兄弟们先吃蛋糕
+Z
+13:43
+Z
+In reply to this message
+废话
+AA
+AA
+13:43
+Ad Astra
+最好是蛋糕
+13:44
+M-Pay
+In reply to this message
+不是你一个人吃这么多蛋糕
+B
+13:45
+Bowen
+能加我一个吃吗？
+B
+13:48
+Ben
+In reply to this message
+狗屎运
+13:48
+随机开出4a尾
+13:48
+M-Pay
+In reply to this message
+你到底什么狗屎运，怎么啥都开出来了？
+13:49
+地球online修改器发我一份 @ben_id
+13:49
+我要调一下爆率
+Z
+13:49
+Z
+这个是 ben 的？
+B
+13:50
+Ben
+不是
+A
+13:50
+Arc V3
+In reply to this message
+这么强
+B
+13:52
+Ben
+[]
+13:52
+CCTV报道的
+13:52
+真吗
+BR
+13:52
+Been Reall
+In reply to this message
+英国靓号人手一个了吧，之前twilio都薅了不少
+伍六
+13:54
+伍 六柒
+In reply to this message
+0月租 最低消费39
+W
+13:54
+William
+In reply to this message
+卧槽。牛逼
+B
+13:54
+Ben
+艹
+W
+13:54
+William
+我要试试。
+B
+13:56
+Ben
+就像你们的女朋友说：“我们就结婚，39万彩礼，不同房可以吗”
+BR
+13:56
+Been Reall
+In reply to this message
+还有人传，官网不能躺平转3刀了呢。你的是啥时候转成功的啊
+秋
+13:56
+秋阳
+还不如传统月租
+扬
+13:58
+扬
+In reply to this message
+这种开的是啥卡？
+Az
+13:59
+AAA z
+置顶的卡英国GG
+Z
+14:00
+Z
+In reply to this message
+感觉都是媒体宣传的
+14:01
+我没看到过联通说自己是 0 元
+小
+14:04
+小学生
+In reply to this message
+收短信一元一条
+x
+14:04
+xtl147369
+666那玩个蛋，收短信还收费
+米
+14:08
+米哈游
+最低消费39
+14:08
+没个玩
+KM
+14:09
+K Mox 𝕏⁠⁠⁠⁠⁠ ⁧
+In reply to this message
+魔方就这个套餐？
+Z
+14:09
+Z
+Sticker
+Not included, change data exporting settings to download.
+, 123.2 KB
+KM
+14:09
+K Mox 𝕏⁠⁠⁠⁠⁠ ⁧
+Sticker
+Not included, change data exporting settings to download.
+, 37.0 KB
+14:09
+M-Pay
+Video file
+Not included, change data exporting settings to download.
+00:21, 2.2 MB
+ss
+14:47
+see see
+1m就要4块了吗？
+14:47
+贵死了
+14:47
+不如蒂普萨卡
+U
+14:58
+UK_JPCD
+In reply to this message
+这是ns卖出的哪两个之一吗
+15:01
+200+，我看见了没想要
+伍六
+15:11
+伍 六柒
+没激活的怎么先看到号码啊
+15:11
+M-Pay
+In reply to this message
+简单啊
+伍六
+15:11
+伍 六柒
+这会有空，我想拿我的卡板来看看有没有靓号
+U
+15:11
+UK_JPCD
+In reply to this message
+成交价不知道多少，4A8比这个4A6贵10块，好像
+伍六
+15:11
+伍 六柒
+In reply to this message
+确定？那我去插一下来。小米可以不
+15:12
+M-Pay
+In reply to this message
+我是通过谷歌短信rcs
+15:12
+这个100%通用
+伍六
+15:12
+伍 六柒
+In reply to this message
+这又是啥
+15:12
+M-Pay
+啥机型都适用
+伍六
+15:12
+伍 六柒
+大佬，发一下
+15:12
+我自己都还没靓号。唉
+15:13
+M-Pay
+In reply to this message
+我都没刷
+伍六
+15:13
+伍 六柒
+要刷机？
+15:13
+M-Pay
+要想靓号，我之前早就刷了
+15:13
+In reply to this message
+不是啊，我是说要想英国靓号之前早就刷了，主要是不太想去搞
+15:13
+加上强kyc
+￴牛
+15:14
+￴ 牛奶
+3hk要实名们嘛
+伍六
+15:14
+伍 六柒
+In reply to this message
+看不到
+15:14
+M-Pay
+In reply to this message
+只用流量的话，不用
+伍六
+15:14
+伍 六柒
+插了一下
+15:14
+M-Pay
+In reply to this message
+用我那个方法100%可以
+￴牛
+15:15
+￴ 牛奶
+保号 接验证码
+15:15
+M-Pay
+In reply to this message
+要kyc
+伍六
+15:15
+伍 六柒
+In reply to this message
+具体那个软件
+15:15
+M-Pay
+In reply to this message
+我不说了嘛
+15:15
+谷歌短信
+伍六
+15:15
+伍 六柒
+[]
+15:15
+这个？
+15:15
+M-Pay
+In reply to this message
+y
+伍六
+15:17
+伍 六柒
+[]
+15:17
+貌似不太行
+15:17
+gg也没出信号
+15:17
+M-Pay
+In reply to this message
+不太能在群里说
+15:17
+怕泛滥了
+M
+15:17
+ Maki
+In reply to this message
+已经泛滥了
+15:17
+Sticker
+Not included, change data exporting settings to download.
+, 81.5 KB
+15:18
+M-Pay
+In reply to this message
+[]
+15:18
+这怎么说？
+伍六
+15:18
+伍 六柒
+In reply to this message
+6 我去关一下，哈哈
+15:18
+M-Pay
+哈哈
+15:18
+Sticker
+Not included, change data exporting settings to download.
+, 222.9 KB
+A
+15:18
+AA
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+M
+15:18
+ Maki
+In reply to this message
+你谷歌账号自动获取号码都能直接给它调出来
+15:18
+Sticker
+Not included, change data exporting settings to download.
+, 81.5 KB
+M
+15:18
+ Maki
+M
+ Maki 16.05.2026 15:17:54
+已经泛滥了
+￴牛
+15:19
+￴ 牛奶
+我vx港卡注册的。要验证 接语音电话
+15:19
+M-Pay
+In reply to this message
+接
+15:19
+这有啥好怕的
+￴牛
+15:19
+￴ 牛奶
+我用的鸭寮家接不了电话
+A
+15:20
+AA
+换个能接的不就行
+15:20
+转台这么方便
+￴牛
+15:20
+￴ 牛奶
+没有港卡了
+15:20
+M-Pay
+In reply to this message
+买个好点的，行不？
+15:20
+你运气怎么这么差？买个最拉的
+￴牛
+15:21
+￴ 牛奶
+朋友给的
+15:21
+M-Pay
+In reply to this message
+买张好点的
+15:21
+才不到几个钱
+A
+15:22
+AA
+去香港都能免费领
+￴牛
+15:22
+￴ 牛奶
+想弄个eaim
+A
+15:22
+AA
+5元的DIY我记得能接码
+￴牛
+15:22
+￴ 牛奶
+我养着几个美国虚拟号呢 也是要发短信活跃
+A
+15:23
+AA
+都要去马耳他上课吗
+FY
+15:23
+Fish Yu
+话说群里那群靓号怎么来的？
+15:23
+Sticker
+Not included, change data exporting settings to download.
+, 36.7 KB
+JC
+15:23
+Jack Chung
+elink固件更新，怎么查看有没有更新成功？我更新过程，那个软件自动退出了
+15:23
+M-Pay
+In reply to this message
+好搞
+JC
+15:24
+Jack Chung
+我两张1M卡都含8888
+简
+15:24
+简
+In reply to this message
+很多 twilio
+A
+15:24
+AA
+都是tw来的
+15:24
+M-Pay
+但是这里不卖eaim，只有esim
+FY
+15:24
+Fish Yu
+Sticker
+Not included, change data exporting settings to download.
+, 36.7 KB
+￴牛
+15:24
+￴ 牛奶
+打错了
+FY
+15:24
+Fish Yu
+为什么你们有头衔？
+A
+15:24
+AA
+他发eSIM被禁言了
+15:24
+Sticker
+Not included, change data exporting settings to download.
+, 6.0 KB
+￴牛
+15:24
+￴ 牛奶
+这个pixel输入法不好用
+15:25
+M-Pay
+In reply to this message
+回你信息也不看啊
+￴牛
+15:25
+￴ 牛奶
+看了
+伍六
+15:25
+伍 六柒
+In reply to this message
+运气好，去买彩票
+15:25
+M-Pay
+In reply to this message
+拆机卡
+15:25
+哪里运气好了？
+A
+15:25
+AA
+本来就是拆机卡啊
+简
+15:25
+简
+In reply to this message
+这是好还是坏
+15:26
+M-Pay
+都是888呀
+JC
+15:26
+Jack Chung
+In reply to this message
+8888真有问题？
+伍六
+15:26
+伍 六柒
+我买了4张全是000
+15:26
+In reply to this message
+没啥问题啊
+JC
+15:26
+Jack Chung
+In reply to this message
+我不知道
+伍六
+15:26
+伍 六柒
+都一样的用
+15:26
+别听他们瞎逼逼
+?
+15:26
+將✧軍
+Sticker
+Not included, change data exporting settings to download.
+, 12.0 KB
+简
+15:26
+简
+不过同一产品 发不同货
+伍六
+15:26
+伍 六柒
+运气好用一辈子，运气不好estkmax也炸
+A
+15:27
+AA
+反正苹果拆机芯片的品质绝对第一
+15:27
+炸都一样的炸
+15:27
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+JC
+15:27
+Jack Chung
+In reply to this message
+嗯
+15:27
+M-Pay
+In reply to this message
+怕什么？
+伍六
+15:27
+伍 六柒
+实在不行那就七天无理由
+A
+15:27
+AA
+一般炸的也不会是euicc芯片
+15:27
+M-Pay
+苹果拆机芯片再烂也比那些破烂强
+JC
+15:27
+Jack Chung
+怎么查看固件有没有更新成功？
+15:27
+MiniLPA好像没变化
+A
+15:27
+AA
+你看版本就行了
+简
+15:28
+简
+我觉得拆机还不如东信稳定
+A
+15:28
+AA
+I
+Ivanky 15.05.2026 18:39:53
+[]
+15:28
+[]
+15:28
+[]
+JC
+15:28
+Jack Chung
+MiniLPA吗？
+简
+15:28
+简
+是的
+伍六
+15:28
+伍 六柒
+我可能不适合查看gg号码，不出信号啊。rcs也没反应
+15:28
+小米也不出
+Z
+15:29
+Z
+不应该呀
+JC
+15:29
+Jack Chung
+In reply to this message
+我的没有显示成功，Updater自动关闭了
+A
+15:29
+AA
+那你查看版本啊
+15:29
+要说几遍？
+JC
+15:30
+Jack Chung
+In reply to this message
+那就是没成功
+p
+15:47
+pppp
+我的拆机芯片拆焊反复很多遍了也没见炸啊
+15:47
+芯片都缺了
+哎
+15:47
+哎呦喂
+[]
+15:48
+雷擎家的小黑卡
+15:48
+到手先刷elink
+15:48
+Sticker
+Not included, change data exporting settings to download.
+, 12.0 KB
+A
+15:48
+AA
+420k？
+p
+15:48
+pppp
+420
+哎
+15:48
+哎呦喂
+嗯
+p
+15:48
+pppp
+雷擎就是420啊
+15:48
+说了好多遍了
+A
+15:49
+AA
+你寄给我就行
+15:49
+不然记不住
+p
+15:49
+pppp
+意法的参数是2m 但是拆机下来读出来只有1m
+15:50
+剩下的空间哪去了
+A
+15:51
+Aiden
+In reply to this message
+怎么都刷ELINK啊
+15:51
+其他厂家的也可以刷ELINK？
+15:52
+刷了有啥好处？
+哎
+15:52
+哎呦喂
+GD小黑卡都能刷,一个方案的
+A
+15:52
+AA
+刷蚊子的
+15:52
+Sticker
+Not included, change data exporting settings to download.
+, 6.0 KB
+哎
+15:52
+哎呦喂
+In reply to this message
+elink的固件有修bug呗
+A
+15:54
+Aiden
+哦
+p
+15:54
+pppp
+小黄卡不能刷
+15:54
+Sticker
+Not included, change data exporting settings to download.
+, 9.5 KB
+伍六
+16:10
+伍 六柒
+小白卡能刷不
+16:10
+哈哈。来个大佬试一下
+KM
+16:12
+K Mox 𝕏⁠⁠⁠⁠⁠ ⁧
+In reply to this message
+用minilpa刷的么
+16:12
+Sticker
+Not included, change data exporting settings to download.
+, 11.3 KB
+O
+16:15
+Outsider
+这里能发图吗
+16:16
+实体卡转esim后发不出短信是需要等吗
+伍六
+16:16
+伍 六柒
+只能发色图
+O
+16:16
+Outsider
+有信号，官网余额Not available
+16:16
+求解
+伍六
+16:17
+伍 六柒
+截图发给我的机器人，我帮你发出来
+16:18
+In reply to this message
+尽量等24小时吧
+L
+16:18
+L.L.
+In reply to this message
+但是有新bug荣悦e5读取不了sim卡
+伍六
+16:18
+伍 六柒
+[]
+16:18
+他的问题。啥原因
+K
+16:18
+Ko
+没充钱的原因
+VL
+16:19
+Vitor Lee
+这是封号了
+16:19
+没充过钱不会有这栏
+O
+16:20
+Outsider
+什么原因被封
+A
+16:20
+AA
+Sticker
+Not included, change data exporting settings to download.
+, 6.0 KB
+伍六
+16:20
+伍 六柒
+In reply to this message
+封号了
+16:20
+节哀
+A
+16:20
+AA
+谁能知道你干啥了
+VL
+16:20
+Vitor Lee
+什么原因发邮件问客服
+O
+16:20
+Outsider
+实体卡刚转过来esim
+VL
+16:21
+Vitor Lee
+你找客服吧，猜是猜不到
+O
+16:22
+Outsider
+啥也没干，看看客服咋说吧
+VL
+16:22
+Vitor Lee
+要么充钱的渠道有问题，要么aff主的卡出问题
+16:23
+还有人地址瞎填被封号
+O
+16:23
+Outsider
+买的号商的卡，代激活好了我才接过来的
+16:24
+M-Pay
+In reply to this message
+我卖出去这么多张卡，也只见过一个人封号
+16:24
+还是因为换太多次号码
+16:24
+In reply to this message
+应该是你搞来的，不靠谱
+16:24
+可能是拿那些乱七八糟的卡激活
+VL
+16:25
+Vitor Lee
+之前有个客服回邮件说不能确定地址信息，然后他截了个图，地址信息ABCD一格填一个字母
+A
+16:25
+AA
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+16:25
+所以说干了啥只有自己清楚
+16:26
+这群只有一个封号的案例
+伍六
+16:26
+伍 六柒
+In reply to this message
+不来找我买
+O
+16:26
+Outsider
+Sticker
+Not included, change data exporting settings to download.
+, 8.9 KB
+VL
+16:26
+Vitor Lee
+只有问客服才能知道为啥封，封号也是存在的，只是不存在大面积无理由封号而已
+16:27
+M-Pay
+In reply to this message
+两个。有一个群友，帮他朋友买，然后换号换太多次
+16:27
+In reply to this message
++1
+16:27
+不来找我买
+A
+16:27
+AA
+不信任你俩
+16:27
+号商有诚信
+16:27
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+16:27
+M-Pay
+In reply to this message
+咸鱼比我们靠谱，随处可见的盗刷CVV
+16:27
+包有诚信的
+A
+16:28
+AA
+哈哈哈哈
+16:28
+M-Pay
+In reply to this message
+收你的钱全是净赚
+16:28
+死了，就说你自己搞废的
+A
+16:28
+AA
+没有成本全是利润
+16:28
+M-Pay
+In reply to this message
+还是有点转运成本的
+16:28
+不过早就包含在aff里面了
+16:29
+等于一单至少赚15英镑起步
+SL
+16:30
+Stan Lee via @a_card_bin_bot
+BIN: 53990021
+发卡行: Fly Wallet Pty Ltd
+卡类型: Debit
+卡品牌: MASTERCARD
+卡产品: Prepaid MasterCard Card
+卡标记: Consumer
+预付卡: 是
+发卡国家: AUSTRALIA (AU)
+A
+16:33
+AA
+Sticker
+Not included, change data exporting settings to download.
+, 32.0 KB
+纸旧
+16:33
+纸船 旧
+Sticker
+Not included, change data exporting settings to download.
+, 42.7 KB
+16:33
+Sticker
+Not included, change data exporting settings to download.
+, 32.0 KB
+16:35
+M-Pay
+In reply to this message
+然后大部分人因为麻烦，真正去找他的，还没利益的1/100
+A
+16:35
+AA
+这不是很正常
+A
+16:35
+AA
+A
+AA 16.05.2026 16:27:30
+不信任你俩
+16:35
+号商有诚信
+A
+16:35
+AA
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+16:35
+M-Pay
+In reply to this message
+买东西不想的群友出了事，又不知道哪头的问题
+16:35
+M-Pay
+M-Pay 16.05.2026 16:27:52
+咸鱼比我们靠谱，随处可见的盗刷CVV
+B
+16:36
+Ben
+CN最大的暗网
+16:37
+M-Pay
+In reply to this message
+那不是派出所门口吗？
+16:37
+这个只能排第二
+Z
+16:37
+Z
+说起来
+16:38
+这个月应该激活张新的
+16:38
+自己邀请自己不等于白嫖
+A
+16:38
+AA
+不如卖卡加aff
+16:39
+M-Pay
+In reply to this message
+还有银行卡手续费
+16:40
+还得确保2<开卡<15个人
+16:40
+加上贝宝提现，砍死你的手续费
+Z
+16:41
+Z
+那只能 paypal 消费了不过得邀请两个太麻烦了
+16:41
+M-Pay
+In reply to this message
+你去查你有的卡的号码
+16:41
+查到888，我陪跑一张
+Z
+16:41
+Z
+验证码
+16:41
+M-Pay
+正好闲着没事
+Z
+16:41
+Z
+我看过了
+B
+16:42
+Ben
+bitget钱包的地址，要分流的可以加
+哎
+16:46
+哎呦喂
+In reply to this message
+自己改一下amr-a看看
+B
+16:46
+Ben
+bitgetapps.com
+krbitget.com
+bitgetapp.com
+bitget.com
+bitkeep.biz
+bitkeep.app
+bitapi.vip
+bitkeep.top
+bitkeep.life
+bitkeep.fun
+bitkeep.com
+16:46
+M-Pay
+In reply to this message
+整套打包9块9
+16:46
+解君愁
+A
+16:47
+AA
+我出9.99
+L
+16:47
+L.L.
+我刷回旧版固件正常了
+A
+16:47
+AA
+那得@一下老板
+16:48
+反馈一下固件的问题
+L
+16:48
+L.L.
+反馈了
+Z
+17:13
+Z
+老年机战神
+17:27
+M-Pay
+不是今天这群里怎么那么安？
+S
+17:39
+Setup
+Sticker
+Not included, change data exporting settings to download.
+, 13.7 KB
+17:39
+周末都去赚BTC了
+⁣⁣
+17:49
+⁣supervipx ⁣
+In reply to this message
+多少钱
+17:50
+M-Pay
+小学生出来来生意了
+17:50
+@esimkim
+B
+17:50
+Ben
+In reply to this message
+给群主看弟弟免费
+17:50
+M-Pay
+给群组看弟弟免费
+⁣⁣
+17:51
+⁣supervipx ⁣
+女群主？
+纸旧
+17:51
+纸船 旧
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+17:54
+M-Pay
+In reply to this message
+男女皆可
+木
+17:54
+木木虎
+一男一女
+17:54
+看运气
+小
+17:54
+小学生
+可男可女
+17:54
+⁣⁣
+17:55
+⁣supervipx ⁣
+夯
+17:56
+M-Pay
+In reply to this message
+要蒜薹不？
+⁣⁣
+17:57
+⁣supervipx ⁣
+这个梗不太懂
+B
+17:57
+Ben
+In reply to this message
+damn！看看逼
+小
+17:58
+小学生
+b
+17:58
+B
+17:59
+In reply to this message
+看不了啊
+K
+17:59
+King
+Sticker
+Not included, change data exporting settings to download.
+, 13.5 KB
+E
+18:00
+Esim.Kim
+ 今日发言排行榜 
+ 今日发言不够给力，本轮奖励轮空
+ 第1名 - 发言 149 条
+ 第2名 - 发言 120 条
+ 第3名 - 发言 99 条
+ 第4名 - 发言 55 条
+ 第5名 - 发言 53 条
+ 第6名 - 发言 40 条
+ 第7名 - 发言 38 条
+ 第8名 - 发言 30 条
+ 第9名 - 发言 25 条
+ 第10名 - 发言 24 条
+ 因无人发言达到 300 条消息，本轮奖励轮空，请继续努力！
+K
+18:00
+King
+把google信息设置成默认，RCS就能获取号码了
+G
+18:00
+GeneralPeople.
+落魄了这个群
+18:00
+M-Pay
+In reply to this message
+所以要蒜薹不？
+小
+18:00
+小学生
+In reply to this message
+试了，没用
+18:00
+M-Pay
+In reply to this message
+前段时间还能用啊
+18:00
+不应该啊
+18:00
+你卡激活了没有？
+18:00
+得卡完激活再去拉
+小
+18:01
+小学生
+激活了我还看个球？
+18:01
+M-Pay
+In reply to this message
+卡他激活的bug
+K
+18:01
+King
+小
+小学生 16.05.2026 18:01:20
+激活了我还看个球？
+小
+18:01
+小学生
+In reply to this message
+啥玩意
+18:01
+M-Pay
+不充钱卡他的激活
+18:01
+然后再查号码
+K
+18:01
+King
+应该可以的啊，不过得有信号
+小
+18:01
+小学生
+怎么卡？
+18:01
+M-Pay
+才有用
+小
+18:02
+小学生
+有信号啊
+K
+18:02
+King
+有信号就能
+18:02
+M-Pay
+有信号就能
+小
+18:02
+小学生
+看不了一点
+18:02
+M-Pay
+rcs有信号就能连上
+小
+18:03
+小学生
+看不了
+⁣⁣
+18:03
+⁣supervipx ⁣
+In reply to this message
+来50斤
+K
+18:03
+King
+不应该啊，我前几天还看了几张呢
+18:03
+M-Pay
+In reply to this message
+好，150kg一位
+18:03
+In reply to this message
+可以啊，应该没问题
+18:03
+你要知道一直都是这样的
+小
+18:03
+小学生
+移动
+S
+18:03
+Setup
+刷了20次就出了两次
+18:03
+M-Pay
+应该是小学生卡的不对
+S
+18:03
+Setup
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+小
+18:04
+小学生
+你们是联通还是？
+18:04
+M-Pay
+In reply to this message
+移不动，联不通，电不信
+小
+18:04
+小学生
+In reply to this message
+有信号啊，开了默认短信
+K
+18:04
+King
+不记得了，我找一张试试
+小
+18:05
+小学生
+其他正常的卡，可以看到号码
+18:05
+gg没有激活的看不了
+N
+18:11
+Nace
+可以啊
+18:11
+M-Pay
+In reply to this message
+我反正都得去官网卡一遍激活，然后才能连上
+18:11
+但是有时候不卡也能
+18:11
+有点看脸
+小
+18:11
+小学生
+In reply to this message
+你确定你看的是giffgaff卡？
+18:12
+M-Pay
+In reply to this message
+可
+18:12
+确定一定以及肯定
+小
+18:12
+小学生
+激活码拿去填一遍？
+N
+18:13
+Nace
+就是gg 啊，这个没必要造假
+18:13
+就是得开梯子才能连上
+小
+18:14
+小学生
+我用的cmlink漫游流量
+18:14
+一直显示正在连接
+18:15
+没毛病啊，你运营商是哪家？
+N
+18:16
+Nace
+移动
+小
+18:16
+小学生
+我也是
+N
+18:16
+Nace
+它会收到一条短信
+小
+18:16
+小学生
+难不成跟地区有关系
+K
+18:16
+King
+[]
+小
+18:16
+小学生
+收到了啊
+K
+18:16
+King
+还可以
+N
+18:16
+Nace
+收到了一般就是成了
+K
+18:16
+King
+连接的中国移动
+小
+18:16
+小学生
+In reply to this message
+为什么第一张不显示？
+K
+18:17
+King
+第一张是estk里的esim
+18:17
+好像就获取不到
+N
+18:17
+Nace
+有时候识别不及时它一直卡住
+18:17
+M-Pay
+In reply to this message
+对
+18:17
+而且插拔还没用，一直卡在那里
+N
+18:17
+Nace
+重启一下会好，但它失败会延长下次尝试的时间
+K
+18:18
+King
+[]
+小
+18:18
+小学生
+我是每次都显示正在连接
+18:18
+M-Pay
+谷歌那个破逻辑有点问题
+K
+18:18
+King
+esim也能被获取到
+18:18
+M-Pay
+In reply to this message
+他连接逻辑有问题，一旦连不上，就会一直重复卡死在那里
+K
+18:18
+King
+不过esim都激活了
+18:18
+Sticker
+Not included, change data exporting settings to download.
+, 10.7 KB
+18:18
+M-Pay
+谁扫到靓号，发给我
+N
+18:18
+Nace
+我都放闲置机上
+18:19
+手机也有差
+18:19
+红米的以前的有的不行
+小
+18:24
+小学生
+换了几个手机和网络都没用
+18:24
+M-Pay
+In reply to this message
+那应该就是你脸黑了
+N
+18:24
+Nace
+给它放一晚上
+18:24
+M-Pay
+多卡两下，基本都能上你脸黑
+N
+18:25
+Nace
+我是插拔一两轮它就反应不过来，得重启
+K
+18:25
+King
+显示正在连接就换换网络试试
+18:26
+M-Pay
+In reply to this message
+他把他那个好像有毒
+小
+18:26
+小学生
+换了也不行
+N
+18:26
+Nace
+难道谷歌套件不行？
+小
+18:29
+小学生
+但是其他卡没问题
+N
+18:32
+Nace
+哈哈，也有可能卡的问题，我遇到过好几张卡都识别不了的，也有死活连不上的
+小
+18:33
+小学生
+试了几张卡
+N
+18:33
+Nace
+就是那种新卡，手机卡连识别都识别不到
+18:33
+卧槽，我至少读了300张
+K
+18:33
+King
+Sticker
+Not included, change data exporting settings to download.
+, 20.2 KB
+N
+18:34
+Nace
+有段时间集中读了一百多张备用，结果过了几个月没信号了
+K
+18:34
+King
+插300张？
+N
+18:34
+Nace
+换着来，玩这卡两年多
+18:34
+读个300张也不过分
+K
+18:35
+King
+太耗时主要
+18:35
+有的插上要连接好一会儿
+N
+18:35
+Nace
+闲的时候搞，你在打飞机，我在插卡
+K
+18:36
+King
+蚊子不是￥60吗
+18:36
+1m的好像
+小
+18:36
+小学生
+我怀疑是不是网络问题
+N
+18:36
+Nace
+以前我都是打电话，但是25年2g基站拆了
+小
+18:36
+小学生
+你们用的哪里的ip
+K
+18:36
+King
+In reply to this message
+应该是的
+18:36
+M-Pay
+In reply to this message
+我们这里就只剩联通有3g了
+K
+18:36
+King
+[]
+18:36
+M-Pay
+其他的都拆光了
+小
+18:36
+小学生
+我用澳门跟uk都不行
+N
+18:36
+Nace
+我都随便，有时候不挂梯它偶尔能上
+K
+18:37
+King
+我用的大妈的美国机
+N
+18:37
+Nace
+香港，台湾，美国，日本，新加坡
+18:37
+M-Pay
+In reply to this message
+不用挂梯子啊
+N
+18:37
+Nace
+主要用的就这些
+18:37
+M-Pay
+挂梯子就连不上了
+K
+18:37
+King
+以前连的GCP的英国也读过卡
+N
+18:37
+Nace
+我都是挂梯连上的，西吧
+18:38
+每个人都不一样嚓
+K
+18:39
+King
+蚊子不是在群里说弄了小黑卡了吗，￥60/1m
+N
+18:39
+Nace
+蚊子小店不是上链接了嘛
+小
+18:40
+小学生
+In reply to this message
+漫游
+N
+18:40
+Nace
+In reply to this message
+这
+K
+18:40
+King
+In reply to this message
+直接电报联系他，可能链接下了
+A
+18:41
+AA
+@MrvicaMaksim 搜蚊子玩卡c1
+18:41
+目前最低的1m
+18:41
+但是没有售后
+18:41
+Sticker
+Not included, change data exporting settings to download.
+, 6.0 KB
+K
+18:41
+King
+他的店铺里好像没有直接显示产品
+A
+18:42
+AA
+蚊
+蚊子酱 13.05.2026 07:53:01
+https://shop.wenziwanka.com/buy/42
+N
+18:42
+Nace
+我不是给你回复那条链接了嘛
+A
+18:42
+AA
+In reply to this message
+这
+蚊
+18:45
+蚊子酱
+In reply to this message
+嗯呢，因为是团购，暂时没有打算这个价格对外零售
+18:45
+Sticker
+Not included, change data exporting settings to download.
+, 27.0 KB
+18:45
+哈？
+Next messages

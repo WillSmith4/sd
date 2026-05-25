@@ -1,0 +1,3801 @@
+Esim.Kim中文交流群
+Previous messages
+4 May 2026
+I
+11:48
+Ivanky
+Elink 的优势是eid
+A
+11:49
+AA
+In reply to this message
+5.8的我实测啊，
+11:49
+25的东信和平我还没上车
+W
+11:49
+Ww
+In reply to this message
+5.8元的在哪买
+B
+12:03
+Ben
+@i_i321 佬
+12:04
+[]
+12:04
+现在登录提示要开这个
+G
+12:06
+GeneralPeople.
+已经没了呀
+12:06
+team 过期了
+B
+12:06
+Ben
+In reply to this message
+有，可以用的
+G
+12:06
+GeneralPeople.
+真的假的
+B
+12:06
+Ben
+In reply to this message
+还在可以用
+12:06
+真的，昨晚我都还用呢
+G
+12:06
+GeneralPeople.
+哪个邮箱来着
+B
+12:07
+Ben
+admin@112211.eu.cc
+G
+12:07
+GeneralPeople.
+ok
+B
+12:07
+Ben
+可能得按照他的提示开一下那玩意
+G
+12:08
+GeneralPeople.
+大家好，我是新人
+B
+12:08
+Ben
+G
+GeneralPeople. 04.05.2026 12:08:08
+大家好，我是新人
+G
+12:11
+GeneralPeople.
+In reply to this message
+你把那个开启链接发我一下，找不到入口
+B
+12:12
+Ben
+[]
+L站上面的图
+12:13
+我刚刚用Hermes 授权登录的时候要
+12:13
+但是龙虾授权就不要
+12:13
+稀奇
+G
+12:14
+GeneralPeople.
+[]
+我这里显示没有
+S
+12:15
+Setup
+正常
+12:16
+codex有两个授权方式
+12:16
+一个是本地token，一个的codex设备码
+12:16
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+G
+12:16
+GeneralPeople.
+你应该也可以开
+12:16
+我给你管理员了
+S
+12:16
+Setup
+你们没用过官方CODEX吗
+G
+12:17
+GeneralPeople.
+官方 codex Windows 端近期才有吧
+12:17
+之前都没
+S
+12:17
+Setup
+linux
+12:17
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+G
+12:17
+GeneralPeople.
+Sticker
+Not included, change data exporting settings to download.
+, 8.2 KB
+S
+12:17
+Setup
+用过后就知道有两种授权方式
+B
+12:21
+Ben
+In reply to this message
+关键是，我搞不懂设备码怎么配置
+S
+12:21
+Setup
+你在页面打开安全开关后
+B
+12:21
+Ben
+哈马斯授权的时候，发给我了一个链接一个设备码
+S
+12:22
+Setup
+终端会给你地址+代码
+12:22
+打开地址登录后输入代码
+12:22
+终端会回调登录成功
+B
+12:23
+Ben
+[]
+12:23
+佬指导一下，从哪儿进去设置
+S
+12:23
+Setup
+[]
+12:23
+你不是截图了吗
+12:23
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+12:23
+[]
+B
+12:24
+Ben
+[]
+12:24
+12:24
+没有那玩意
+S
+12:25
+Setup
+我是plus
+12:25
+Sticker
+Not included, change data exporting settings to download.
+, 233.4 KB
+12:26
+我重新装下看看
+B
+12:26
+Ben
+刚刚薅了个glm4.7的畅饮token
+S
+12:26
+Setup
+我记得这个可以选择的
+B
+12:30
+Ben
+关键是哈马斯的配置页面只有一个：OpenAI Codex
+12:30
+没有OpenAI 的常规配置
+12:31
+[]
+选了 OpenAI Codex直接出设备验证码了
+S
+12:31
+Setup
+看到了
+12:31
+好像只有这个办法
+12:31
+你切回个人空间
+12:31
+点设置
+12:32
+[]
+12:32
+[]
+12:32
+荣悦E5官改系统V3
+改动：
+精简了一些APP
+更换了桌面
+支持多任务切换
+预装小桃工具箱，抖音精简版，一键锁屏等实用APP
+侧键改为睡眠键
+更改确认键（返回键另一边的按钮）为多任务切换键
+取消APP安装限制
+更改开机动画为布卡娘
+默认解锁BL
+默认解除AVB
+解锁BL没有10秒等待，开机更快
+解锁BL没有第一屏文字提示，更清爽
+之前刷过去除DATA加密的官改的话，可以点里面的更新脚本，其余情况直接普通脚本刷入即可
+@全体成员
+A
+12:34
+AA
+有没有一键启用自毁模式
+12:34
+Sticker
+Not included, change data exporting settings to download.
+, 6.0 KB
+S
+12:35
+Setup
+[]
+12:35
+Sticker
+Not included, change data exporting settings to download.
+, 15.0 KB
+x
+12:35
+xtl147369
+xmsl
+12:35
+我的还没到
+S
+12:39
+Setup
+二
+二号机 04.05.2026 12:35:07
+你好！我是
+Hermes，可以帮你查资料、写代码、处理文件、设置提醒/定时任务等；输入
+/help 可以查看可用命令。
+S
+12:39
+Setup
+@ben_id
+12:39
+先切个人空间
+B
+12:40
+Ben
+S
+12:40
+Setup
+Sticker
+Not included, change data exporting settings to download.
+, 233.4 KB
+B
+12:40
+Ben
+不知道怎么切
+S
+12:41
+Setup
+[]
+B
+12:41
+Ben
+yes
+12:41
+进去后呢？
+S
+12:41
+Setup
+切到个人了吗
+B
+12:41
+Ben
+[]
+12:41
+切不鸟
+12:42
+S
+12:42
+Setup
+点第一个
+12:42
+切不了？
+B
+12:42
+Ben
+点不了呀
+12:42
+我知道你说的啥，就是点我的邮箱
+12:42
+点不了捏
+S
+12:42
+Setup
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+12:42
+那就不懂了
+B
+12:43
+Ben
+我最早的账号登录的时候可以选的，但是我这个账号授权选不了
+12:44
+In reply to this message
+就是授权龙虾的时候，以前的账号会让你选使用哪一个空间登录，个人的还是team的
+12:44
+但是我这个号没得选
+12:44
+稀奇吧
+GN
+12:44
+Gaga Nakamoto
+Sticker
+Not included, change data exporting settings to download.
+, 36.9 KB
+纸旧
+12:45
+纸船 旧
+In reply to this message
+我感觉这个是真比小龙虾快了不少
+12:45
+速度
+S
+12:45
+Setup
+本来小龙虾就是石山
+B
+12:45
+Ben
+In reply to this message
+小龙虾也快
+蚊
+12:46
+蚊子酱
+小龙虾也快
+12:46
+不过Hermes用起来如何
+B
+12:46
+Ben
+我之前使用腾讯的快速部署的龙虾，基本秒回复
+12:46
+但是不知道为啥，我自己部署的小龙虾，回复要半天
+蚊
+12:46
+蚊子酱
+龙虾比较吃配置和模型速度
+B
+12:46
+Ben
+拉屎前我问的问题，等我拉好才回我
+蚊
+12:47
+蚊子酱
+In reply to this message
+你那是bug
+B
+12:47
+Ben
+In reply to this message
+坑
+纸旧
+12:49
+纸船 旧
+In reply to this message
+一样，mimimax2.7/gpt5.4都很慢
+蚊
+12:49
+蚊子酱
+@wenzijiang_ai_bot 查一下openclaw github
+仓库的issue，说一下2026.4.23-2026.4.29版本异常卡顿的issue有多少条和具体表现
+B
+12:49
+Ben
+In reply to this message
+不觉得
+12:49
+我使用的5.4快的一批
+12:49
+这好像和设置有关
+纸旧
+12:50
+纸船 旧
+或许吧
+12:50
+B
+12:50
+Ben
+就是他回答你之前的检索范围
+12:50
+可以设
+S
+12:50
+Setup
+Sticker
+Not included, change data exporting settings to download.
+, 233.4 KB
+蚊
+12:50
+蚊子酱
+In reply to this message
+别的不知道，4.23-4.29，有bug
+12:50
+造成回复任何内容都要一分钟
+12:50
+哪怕是很简单的问题
+S
+12:50
+Setup
+其实
+12:51
+不要定时任务和TG通道的话
+12:51
+直接终端用codex
+12:51
+简单
+B
+12:51
+Ben
+我用腾讯服务器给我部署的就快，但是我自己部署后就慢了
+蚊
+12:51
+蚊子酱
+In reply to this message
+claudecode更好
+12:52
+有一说一
+12:52
+hermes好用嘛
+12:53
+反正，是bug，最近的新版本又好了
+B
+12:53
+Ben
+我好像知道我刚刚的GPT bug怎么产生的了
+蚊
+12:53
+蚊子酱
+@wenzijiang_ai_bot 最快的速度回我一句
+B
+12:54
+Ben
+如果一个账号先注册，然后再加入team，就会有个人空间和团队空间
+12:54
+但是，如果邀请了一个没有注册过gpt的账户，然后用这个账户直接登录
+12:54
+就只有team空间
+12:54
+切换不了个人
+12:58
+我再验证一下
+12:59
+[]
+13:00
+猜想正确
+13:00
+这是gpt的BUG
+13:00
+[]
+13:01
+切换为个人就有这个设置了
+G
+13:03
+GeneralPeople.
+Sticker
+Not included, change data exporting settings to download.
+, 8.2 KB
+B
+13:10
+Ben
+我靠还是一样的
+13:11
+[]
+LA
+13:11
+Li Alix
+@esimkim_bot 口令
+B
+13:12
+Ben
+In reply to this message
+佬方便的话帮我换这个管理员吧
+boxid_au@outlook.com
+A
+13:12
+AA
+看来猜错了
+B
+13:12
+Ben
+那个号没有个人空间，估计费了
+S
+13:17
+Setup
+Sticker
+Not included, change data exporting settings to download.
+, 233.4 KB
+B
+13:25
+Ben
+[]
+13:25
+涨到1.2没有平，又回落0.8了
+13:27
+0.2开的仓
+PM
+13:33
+Pling Mooran
+羡慕
+p
+13:35
+pppp
+t
+tnt 04.05.2026 13:28:18
+羡慕有几个btc
+S
+13:39
+Setup
+E50 V3撤包了
+13:40
+桌面程序打架
+13:40
+不过我已经解决了
+13:40
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+云
+13:52
+云吞超人
+In reply to this message
+等你出二手
+S
+13:52
+Setup
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+13:52
+150
+C
+13:53
+Conan
+In reply to this message
+188，不能再少了
+S
+13:53
+Setup
+真的吗
+13:53
+打钱马上发你
+x
+13:54
+xtl147369
+真的是假的
+B
+13:54
+Ben
+In reply to this message
+啊？
+13:54
+原作者开发的还是你开发的
+S
+13:55
+Setup
+不是，它默认桌面工具有BUG
+13:55
+开机就死机
+13:55
+得去设置页面自己设定
+13:55
+[]
+13:55
+[]
+13:56
+不过现在已经撤包了
+13:56
+估计修复了重新发出。
+p
+13:56
+pppp
+你居然用华为
+法
+13:56
+法老-英国
+之前都版本不是没问题吗
+13:57
+这玩意能用就不更新
+蚊
+13:57
+蚊子酱
+In reply to this message
+所以好玩吗
+S
+13:57
+Setup
+In reply to this message
+不是我的图
+法
+13:57
+法老-英国
+只能顺
+13:57
+性价比拉满
+S
+13:57
+Setup
+In reply to this message
+问题不大
+法
+13:57
+法老-英国
+还是双卡双待 带n79
+B
+13:57
+Ben
+S
+13:57
+Setup
+In reply to this message
+我现在当接码机器，等后面搞个流量卡开热点
+13:58
+可惜换卡得扣电池
+B
+13:58
+Ben
+小姑娘别玩这个
+法
+13:58
+法老-英国
+解码流量一点问题没有
+B
+13:58
+Ben
+这是老头玩的
+L
+13:58
+L.L.
+n79有用吗，移动都没有多少n79基站吧
+法
+13:58
+法老-英国
+只要你搭配一个tr3000
+C
+13:58
+Conan
+In reply to this message
+价格涨了
+法
+13:58
+法老-英国
+手机插电丢一边
+13:58
+永远不用碰
+B
+13:59
+Ben
+In reply to this message
+e5怎么搭配tr3000
+法
+13:59
+法老-英国
+可以
+B
+13:59
+Ben
+为了充电？
+蚊
+13:59
+蚊子酱
+In reply to this message
+不过这手机不好看倒是真的
+B
+13:59
+Ben
+还是其他用途
+蚊
+13:59
+蚊子酱
+装个telegram sms或者sms forward倒是不错
+法
+13:59
+法老-英国
+tr3000可以同时接入5-10台e5老头乐
+O
+13:59
+Olivi
+haha sim 在哪里买实体卡
+p
+14:00
+pppp
+香港
+B
+14:00
+Ben
+In reply to this message
+说说咋玩
+14:00
+我只知道插上充电
+O
+14:00
+Olivi
+In reply to this message
+对，在香港玩了几天，今天回内地
+法
+14:00
+法老-英国
+我现在tr3000接入了个u30 一个老头了一个小米手机
+p
+14:01
+pppp
+香港不满大街都是卖卡的
+法
+14:01
+法老-英国
+打开你的wifi 扫描老头乐的信号
+14:01
+接入就行
+O
+14:01
+Olivi
+In reply to this message
+无，haha sim 问了几家都没有
+14:01
+7-11 掏出一个 MySIM
+法
+14:01
+法老-英国
+接入后不要设置路由模式
+O
+14:01
+Olivi
+OK
+法
+14:02
+法老-英国
+回头给你个截图就懂了
+S
+14:03
+Setup
+法老的玩法感觉越来越刑了
+14:03
+Sticker
+Not included, change data exporting settings to download.
+, 14.9 KB
+O
+14:03
+Olivi
+In reply to this message
+一定要现金吗
+14:03
+我刚刚被禁言了
+B
+14:03
+Ben
+In reply to this message
+老头乐我不用来上网呀，收短信而已
+法
+14:03
+法老-英国
+要啥现金
+14:03
+不需要上网
+C
+14:03
+Conan
+In reply to this message
+这样主要是实现什么需求
+法
+14:03
+法老-英国
+老头乐不需要网络就能控制
+14:04
+不管你老头乐啥状态
+C
+14:04
+Conan
+集群短信？
+法
+14:04
+法老-英国
+就算断网也能控制
+B
+14:04
+Ben
+In reply to this message
+我老头乐就是连的tr3000的wifi，然后我现在局域网访问老头乐的UFI
+A
+14:04
+AA
+S
+Setup 04.05.2026 14:03:11
+法老的玩法感觉越来越刑了
+B
+14:04
+Ben
+是这样的操作吗？
+法
+14:05
+法老-英国
+不是
+B
+14:05
+Ben
+细嗦
+C
+14:05
+Conan
+这样的，基站那跟猫池的指纹会一样吗
+法
+14:05
+法老-英国
+是tr3000主动联老头乐
+14:05
+不是老头乐连tr3000
+B
+14:05
+Ben
+老头乐开热点？
+?
+14:06
+666
+B
+14:06
+Ben
+但是我tr3000使用无线连的路由器
+云
+14:06
+云吞超人
+In reply to this message
+应该是不一样
+B
+14:07
+Ben
+tr3000算是我家里的二级路由，上一级有光猫，我用tr3000的无线连的光猫
+C
+14:09
+CT
+o2已经不能换设备了
+云
+14:09
+云吞超人
+闲鱼卖家说有款移动的跟这个e5一样的，法老佬知道是指什么嘛？ @FaLaoUK
+C
+14:09
+CT
+一直提示错误
+法
+14:09
+法老-英国
+看样子你完全没理解
+14:09
+看我截图
+14:09
+[]
+蚊
+14:09
+蚊子酱
+In reply to this message
+可能是非全网通？
+法
+14:10
+法老-英国
+老头乐热点始终打开
+14:10
+先点连接创建E5 热点
+涛
+14:10
+涛
+有在美国，加拿大，墨西哥，法国，泰国，英国，阿联酋的吗？免费送流量卡3天无限流量
+B
+14:10
+Ben
+你不是插着的嘛，线是必连的嘛
+14:11
+法
+14:11
+法老-英国
+[]
+14:11
+我插着电源啊
+14:11
+tr3000 用 无线连入 老头乐
+14:11
+默认网关关闭 网络不走老头乐
+B
+14:11
+Ben
+OKK，也就是说线只是起到充电的作用
+法
+14:11
+法老-英国
+走本地有线网络
+14:12
+你登录tr3000的设备 都能直接访问192.168.43.1：2333 操作
+14:12
+老头乐就变客户端了 断网也没事 随便操作
+云
+14:13
+云吞超人
+In reply to this message
+看意思不是同一个型号，估计不是
+蚊
+14:15
+蚊子酱
+那就不清楚了
+B
+14:22
+Ben
+直接给我干断网
+法
+14:22
+法老-英国
+设备登录tr3000
+14:22
+接口那边关闭网关
+14:22
+截图都给你了
+14:22
+[]
+14:22
+那么大的红字看不懂啊
+B
+14:23
+Ben
+是按照你操作的呀
+14:23
+怎么可能看不懂
+法
+14:23
+法老-英国
+重启设备
+14:23
+你的tr3000 正常连的有线网络
+B
+14:24
+Ben
+我连的无线
+法
+14:25
+法老-英国
+理解能力不行啊
+B
+14:25
+Ben
+我连路由器也是通过扫描添加，路由器的信号就是：Client
+法
+14:25
+法老-英国
+创建2个wan 啊
+B
+14:26
+Ben
+是两个，e5的wan口是独立的，默认网关也取消勾选了
+法
+14:27
+法老-英国
+[]
+14:27
+看接口
+B
+14:28
+Ben
+是的，没错
+14:28
+法
+14:28
+法老-英国
+点首页
+B
+14:28
+Ben
+能看懂，我的也是这样
+法
+14:28
+法老-英国
+网络有几个
+B
+14:29
+Ben
+我等会再研究一会吧，我添加就得断网
+14:29
+刚刚断了我删除了重启才恢复的
+睡不
+14:45
+睡觉 不定时
+都在玩老头乐
+哎
+14:45
+哎呦喂
+[]
+第二张elink 塞到这不能塞了
+睡不
+14:47
+睡觉 不定时
+羡慕
+14:47
+一张都没
+哎
+14:47
+哎呦喂
+[]
+最后再塞了张BR 体质好一些
+G
+14:51
+GeneralPeople.
+In reply to this message
+给了
+14:51
+In reply to this message
+切卡没内存，炸卡就老实了
+B
+14:51
+Ben
+好谢谢佬
+哎
+14:52
+哎呦喂
+In reply to this message
+几十K够了
+B
+14:52
+Ben
+In reply to this message
+为啥测试的LPA的ICCID你都打码
+14:52
+Sticker
+Not included, change data exporting settings to download.
+, 23.2 KB
+哎
+14:53
+哎呦喂
+In reply to this message
+vohive打码功能默认打码
+睡不
+14:53
+睡觉 不定时
+A
+14:53
+Arc
+Sticker
+Not included, change data exporting settings to download.
+, 21.7 KB
+可吨
+14:59
+可乐 吨吨桶
+到第三步之后 三个选项，加入 telegram，查看旧 esim 二维码，申请新 esim
+二维码，选哪个
+x
+15:18
+xtl147369
+？
+15:18
+那个隐藏的是7吗
+B
+15:23
+Ben
+啥呀
+G
+15:24
+GeneralPeople.
+口令
+15:24
+Sticker
+Not included, change data exporting settings to download.
+, 19.1 KB
+x
+15:24
+xtl147369
+In reply to this message
+ 077*7774214 实体SIM转eSIM成功
+B
+15:33
+Ben
+羡慕gg
+15:34
+小学生其实可以把那个项目写成bot，在bot里转更加方便
+育高
+15:38
+育良 高
+有没有激活码了
+15:39
+In reply to this message
+这是什么
+哎
+15:40
+哎呦喂
+In reply to this message
+vohive压测elink
+玛
+15:44
+玛丽蘑菇
+有没有出低余额的 GG卡
+15:46
+现在还有什么便宜的卡吗
+纸旧
+15:48
+纸船 旧
+In reply to this message
+自己开esim
+木
+15:55
+木木虎
+说白了就是不想花100块钱
+15:55
+想要几十块收一个
+I
+16:04
+Ivanky
+没有又便宜又好的东西
+B
+16:04
+Ben
+GG如果有5英镑的充值渠道，就可以直接官网开esim自个充
+木
+16:04
+木木虎
+去打一发然后睡觉
+16:05
+In reply to this message
+你咋不说充值0.01
+B
+16:05
+Ben
+In reply to this message
+小心打出人命
+木
+16:05
+木木虎
+In reply to this message
+打出来了不算吧
+16:05
+还不算是人
+B
+16:05
+Ben
+死了的话没人给你收尸
+木
+16:05
+木木虎
+那太好了
+16:06
+可以臭到别人了
+小
+16:12
+小学生
+In reply to this message
+啥？
+16:12
+In reply to this message
+字面意思还看不懂？
+B
+16:12
+Ben
+esim.kim/giffgaff
+小
+16:13
+小学生
+可以搞机器人，有局限性啊
+木
+16:13
+木木虎
+单独给我用就行了
+小
+16:13
+小学生
+别人没有tg的咋整？
+B
+16:13
+Ben
+Sticker
+Not included, change data exporting settings to download.
+, 23.2 KB
+16:13
+你管他们的
+木
+16:13
+木木虎
+什么时候帮我整一个86自动转换esim
+16:13
+支持一下
+B
+16:13
+Ben
+你又不收费
+小
+16:13
+小学生
+这样别人就收费了
+16:13
+木
+16:14
+木木虎
+In reply to this message
+不是五分钟一块吗
+睡不
+16:14
+睡觉 不定时
+德沃我怎么用手机号登录app登录不上，有啥要求？
+16:15
+[]
+一直弹这个
+SK
+16:15
+ShiWen K
+那个 simhub 兑换码不是说群里还有吗
+木
+16:16
+木木虎
+IP不干净
+16:16
+登陆失败
+16:16
+你不会自己翻译嘛
+睡不
+16:18
+睡觉 不定时
+是只能用德国IP还是其他也可以的？尴尬的TAG只有俩德国IP好像都不行
+16:19
+不能在群里发图了，发一次禁我一次
+小
+16:22
+小学生
+多聊几句头衔就成水手了
+16:22
+随便发
+Z
+16:22
+Z
+In reply to this message
+一个个试
+16:23
+没有那就是没了
+睡不
+16:23
+睡觉 不定时
+好吧，有人O2转了沃达丰知道认证完了多久发二维码邮件吗？
+16:25
+木有白名单了，今天信息比前几天多了哇
+?
+16:26
+In reply to this message
+你这个琳是不是青霉素的淋
+G
+16:26
+GeneralPeople.
+帮我看看我有没有头衔了
+16:26
+我发个测试都被禁言了
+16:26
+Sticker
+Not included, change data exporting settings to download.
+, 17.0 KB
+睡不
+16:26
+睡觉 不定时
+@i_i321 潜水员
+G
+16:26
+GeneralPeople.
+那不有了嘛
+睡不
+16:26
+睡觉 不定时
+咱们是一样滴
+G
+16:27
+GeneralPeople.
+为啥还被禁言
+睡不
+16:27
+睡觉 不定时
+升级了应该才可以发吧
+16:28
+我不也是潜水员。。。发图就禁我
+G
+16:28
+GeneralPeople.
+还要升级成啥
+木
+16:28
+木木虎
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 15.2 KB
+睡不
+16:28
+睡觉 不定时
+水手？
+?
+16:28
+潜水员又不是水手
+16:29
+三十条
+16:29
+你就是好汉了
+睡不
+16:29
+睡觉 不定时
+三十条就升级了？
+16:30
+机器人昨天还说我没标签，也是发图就禁
+B
+16:30
+Ben
+[]
+@i_i321
+https://chatgpt.com/#settings/Security
+切换为Team >设定>安全性>啟用 Codex 裝置代碼授權
+16:30
+Sticker
+Not included, change data exporting settings to download.
+, 9.5 KB
+16:31
+还是得你来，我没有权限
+睡不
+16:32
+睡觉 不定时
+科技佬最近在玩什么科技
+B
+16:32
+Ben
+hermes的配置好扯，和龙虾走的不是同一种授权方式
+Z
+16:33
+Z
+没有好玩的
+16:33
+最近又没有新的可以办
+睡不
+16:33
+睡觉 不定时
+买港卡那个网址是啥来着？
+p记
+16:33
+px休息中 记得催我睡觉
+Sticker
+Not included, change data exporting settings to download.
+, 9.1 KB
+16:33
+Sticker
+Not included, change data exporting settings to download.
+, 9.1 KB
+B
+16:33
+Ben
+不买立省100%
+p
+16:33
+pppp
+B
+Ben 04.05.2026 16:33:40
+不买立省100%
+木
+16:34
+木木虎
+good
+B
+16:35
+Ben
+上周粗略估计售出3000多个号
+睡不
+16:35
+睡觉 不定时
+等8号TNT给我那个卡才转club
+sim。。。转过去是不是有效期是延续我开始买的那张卡的有效期？
+蚊
+16:35
+蚊子酱
+In reply to this message
+好玩么
+B
+16:35
+Ben
+In reply to this message
+相当nice
+G
+16:35
+GeneralPeople.
+In reply to this message
+[]
+真没有呀
+木
+16:35
+木木虎
+烂号还携转club
+16:35
+浪费钱
+B
+16:35
+Ben
+建议卸载龙虾
+蚊
+16:35
+蚊子酱
+In reply to this message
+这么夸张么
+牛
+16:36
+牛牛的牛奶
+有没有代实名的club
+Z
+16:36
+Z
+花钱啥买不到
+德
+16:36
+德国税号(SteuerID)认证
+In reply to this message
+自己实名啊 护照或者通行证
+睡不
+16:36
+睡觉 不定时
+德
+16:37
+德国税号(SteuerID)认证
+谁敢给别人实名哦
+牛
+16:37
+牛牛的牛奶
+护照过期了 不想去换
+B
+16:37
+Ben
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 9.5 KB
+p
+16:37
+pppp
+p
+B
+16:37
+Ben
+难道哈马斯没法使用GPT的Team吗
+牛
+16:37
+牛牛的牛奶
+之前自己实名那个卡不见了 过期的护照转不了esim
+G
+16:38
+GeneralPeople.
+In reply to this message
+你再试试看
+16:38
+我开了个人空间的codex了
+蚊
+16:38
+蚊子酱
+In reply to this message
+如果直接api呢？
+16:38
+套一层就完事了
+罗
+16:38
+罗拉
+有没有礼品码
+A
+16:39
+AA
+搜一下就行了
+B
+16:39
+Ben
+In reply to this message
+看来可以断定了，
+“請聯絡你的工作空間管理員以啟用裝置代碼驗證”
+A
+16:39
+AA
+Se
+S erein 29.04.2026 09:53:05
+HMF7L3FXPNP9
+FMP4HFNEKR9E
+MLMEERFEAH93
+YLA9LT3F9J9Y
+TJXYFYTKR44N
+WYNMJXHK99YN
+3R44HMK3YR9E
+WY6PEKT47JJL
+9J3YL3T6YA3N
+W7XPJJAYRLXA
+EPNYYL7X9YM6
+XX99T66RFKFF
+JE344W3KK7AT
+6TXJFHPAPM73
+FK7M9L349ARX
+TF4LKENHW63L
+9J6W6X9RN3J6
+XLW9XHXF7AXK
+4H4E3Y9A7FXW
+E3FA3NJJPA9T
+WTEJ4YYWTXA7
+YNPTNA74REM3
+9NK9KJFL3TXN
+W6T76YFERYL6
+R9KLPYW79YL7
+M6HFYX3WKRRE
+WPXFJAJWK3YM
+4NHHXTXXLY4N
+MT9P9PNE4MWT
+XAJXJ9NFE343
+HF4KTKNWKLK6
+KLYLRT43JXWA
+XRM93M47KXTF
+3PAR9FT3AWLH
+PHA64XXYXRPW
+FFHERWFT96YW
+AY3JLNT9HF79
+6K3XAEPLT9ML
+9MN449EMLRN4
+9H36AYENN4ER
+9JYF4TP4L9HE
+R34LK4KWYWHK
+N9X6RYAART7M
+X4HETJ7FKF44
+9RLLK66NY9EW
+罗
+16:39
+罗拉
+在哪里搜啊
+睡不
+16:40
+睡觉 不定时
+我GPT好像账号很黑，之前plus那个搞不过认证。。几个号都是
+B
+16:40
+Ben
+要么是官方的BUG，要么就是Team不支持在hermes中使用
+G
+16:40
+GeneralPeople.
+In reply to this message
+我工作空间没有这个选项，个人空间才有
+16:40
+可能是过期了的原因吧
+B
+16:40
+Ben
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 23.2 KB
+16:40
+有可能
+G
+16:40
+GeneralPeople.
+过期还能用几天的
+16:40
+只是给你转出
+KM
+16:40
+K Mox 𝕏⁠⁠⁠⁠⁠ ⁧
+In reply to this message
+这是什么？
+16:40
+Sticker
+Not included, change data exporting settings to download.
+, 10.4 KB
+G
+16:40
+GeneralPeople.
+Sticker
+Not included, change data exporting settings to download.
+, 17.0 KB
+木
+16:40
+木木虎
+In reply to this message
+你退群吧
+A
+16:41
+AA
+木
+木木虎 04.05.2026 16:40:53
+你退群吧
+蚊
+16:41
+蚊子酱
+In reply to this message
+这是什么？
+p
+16:41
+pppp
+木
+木木虎 04.05.2026 16:40:53
+你退群吧
+B
+16:41
+Ben
+我还以为K是林文
+AH
+16:41
+Alice Hall
+木
+木木虎 04.05.2026 16:40:53
+你退群吧
+纸旧
+16:41
+纸船 旧
+木
+木木虎 04.05.2026 16:40:53
+你退群吧
+木
+16:41
+木木虎
+In reply to this message
+你也退
+B
+16:41
+Ben
+原来是我不认的
+A
+16:41
+AA
+In reply to this message
+早就说不是了
+B
+16:41
+Ben
+Sticker
+Not included, change data exporting settings to download.
+, 23.2 KB
+木
+16:41
+木木虎
+In reply to this message
+我觉得他很*b
+16:41
+你居然觉得是我
+B
+16:42
+Ben
+啥时候混的管理员
+p
+16:42
+pppp
+淋彪这个淋对吗
+B
+16:42
+Ben
+淋病的淋
+A
+16:42
+AA
+淋病的淋
+木
+16:42
+木木虎
+Sticker
+Not included, change data exporting settings to download.
+15.8 KB
+KM
+16:42
+K Mox 𝕏⁠⁠⁠⁠⁠ ⁧
+A
+AA 04.05.2026 16:42:24
+淋病的淋
+A
+16:42
+AA
+Sticker
+Not included, change data exporting settings to download.
+, 6.0 KB
+p
+16:42
+pppp
+B
+Ben 04.05.2026 16:42:23
+淋病的淋
+?
+16:42
+Sticker
+Not included, change data exporting settings to download.
+, 62.2 KB
+16:42
+永远健康
+A
+16:42
+AA
+这个字要不得
+育高
+16:43
+育良 高
+In reply to this message
+[]
+PHA64XXYXRPW 已用勿念
+A
+16:43
+AA
+你还是改成101得了
+木
+16:43
+木木虎
+降解石得了
+育高
+16:43
+育良 高
+In reply to this message
+这是什么时候发的
+B
+16:43
+Ben
+兄弟还没有换上我的app 图标吗
+A
+16:43
+AA
+好多没用的，我今天一试，第二个就没用
+?
+16:43
+嗯
+B
+16:43
+Ben
+[]
+A
+16:43
+AA
+In reply to this message
+发几天了
+B
+16:44
+Ben
+专为IOS 26兼容设计的
+?
+16:44
+In reply to this message
+不够高级
+睡不
+16:44
+睡觉 不定时
+发了那么多吗。我好像是第一次发的时候兑换的
+?
+16:44
+建议找库克在研究一下
+育高
+16:44
+育良 高
+你是作者吗
+A
+16:44
+AA
+In reply to this message
+附议
+16:45
+我转发的是作者
+16:45
+也在群里啊
+育高
+16:45
+育良 高
+In reply to this message
+直接APP里设置自己选
+B
+16:45
+Ben
+AA是推荐官
+罗
+16:46
+罗拉
+有没有 好的信用卡 卡台啊
+B
+16:46
+Ben
+In reply to this message
+？
+育高
+16:46
+育良 高
+In reply to this message
+[]
+这样
+cJ
+睡不
+16:46
+睡觉 不定时
+溜了溜了。
+罗
+16:46
+罗拉
+就是 虚拟银行卡
+A
+16:46
+AA
+没必要
+B
+16:46
+Ben
+咱们这里应该很少有人玩卡台
+?
+16:46
+这不得让你买个tg大会员
+16:46
+才让你换图标
+B
+16:46
+Benjamin Shary
+In reply to this message
+这种我只做过安卓的，那安卓的好写
+?
+16:46
+对不起杜叔叔
+B
+16:46
+Benjamin Shary
+苹果的软件没写过
+B
+16:46
+Ben
+这里只玩U卡和电闸卡
+B
+16:47
+Benjamin Shary
+In reply to this message
+我只知道安卓做这种效果很简单，苹果的没写过
+罗
+16:47
+罗拉
+In reply to this message
+u卡 有吗
+?
+16:47
+有
+育高
+16:47
+育良 高
+In reply to this message
+应该也不难 很多APP都可以了
+?
+16:47
+esim.kim卡
+罗
+16:47
+罗拉
+Sticker
+Not included, change data exporting settings to download.
+, 24.4 KB
+B
+16:47
+Ben
+有aff的丢出来给他
+B
+16:47
+Benjamin Shary
+In reply to this message
+没写过，主要是学一下，应该可以
+?
+16:47
+入金10折优惠券
+木
+16:47
+木木虎
+为什么不用esim.gg卡
+罗
+16:47
+罗拉
+也太给力了吧
+A
+16:47
+AA
+搞那么多图标没意义，不如让群友多开发点想要的功能
+罗
+16:48
+罗拉
+11折才好
+木
+16:48
+木木虎
+In reply to this message
+没那么低
+?
+16:48
+In reply to this message
+直接和快捷联动 自动计划任务完成续费
+16:48
+是吧
+育高
+16:48
+育良 高
+In reply to this message
+对于强迫症患者很重要
+木
+16:48
+木木虎
+第二次开始刷卡是30折
+A
+16:48
+AA
+In reply to this message
+有快捷指令了啊
+16:48
+你没更新？
+木
+16:49
+木木虎
+goodmorning gpt
+?
+16:49
+我没有要续费的
+木
+16:49
+木木虎
+帮我注销群友们的账号
+?
+16:49
+就没去用这个app
+KM
+16:51
+K Mox 𝕏⁠⁠⁠⁠⁠ ⁧
+Sticker
+Not included, change data exporting settings to download.
+, 95.9 KB
+木
+16:51
+木木虎
+In reply to this message
+你86靓号的合约续一下，再续500年
+育高
+16:52
+育良 高
+作者在吗 下次加个gv和talkatone
+蚊
+16:52
+蚊子酱
+我是直接用了telegram bot
+16:52
+所以也没太关注这个app
+木
+16:52
+木木虎
+我一般用telegram gay
+?
+16:53
+In reply to this message
+我们直接免费的
+16:53
+不辞职一直免费
+16:53
+不要自己花钱的
+木
+16:53
+木木虎
+羡慕
+16:53
+可以给我一个吗
+16:53
+过户给我就行
+KM
+16:54
+K Mox 𝕏⁠⁠⁠⁠⁠ ⁧
+木
+木木虎 04.05.2026 16:53:55
+过户给我就行
+CS
+16:54
+Coder Seven
+Esimhub是哪个图标
+A
+16:54
+AA
+木
+木木虎 04.05.2026 16:53:55
+过户给我就行
+蚊
+16:54
+蚊子酱
+我当初运气不错，拿到几个还可以的号码，也没有靓号合约
+育高
+16:55
+育良 高
+木
+木木虎 04.05.2026 16:53:55
+过户给我就行
+SK
+16:55
+ShiWen K
+有能用的
+蚊
+16:55
+蚊子酱
+群友应该不少都知道，
+?
+16:55
+过户给你不就收费了
+16:55
+那个节点跟着客户资料走的
+A
+16:55
+AA
+In reply to this message
+不过户也行
+木
+16:55
+木木虎
+In reply to this message
+那我们私聊吧
+A
+16:55
+AA
+京东到付给我用用
+木
+16:55
+木木虎
+下次我去你那
+?
+16:55
+Sticker
+Not included, change data exporting settings to download.
+, 13.2 KB
+木
+16:56
+木木虎
+Sticker
+Not included, change data exporting settings to download.
+, 7.9 KB
+?
+16:56
+你直接去886开不好么
+16:56
+886开靓号
+16:56
+林文
+16:56
+完美
+木
+16:56
+木木虎
+886哪有靓
+16:56
+刷过了
+蚊
+16:56
+蚊子酱
+木
+木木虎 04.05.2026 16:56:34
+886哪有靓
+木
+16:56
+木木虎
+蒋介石的号码
+A
+16:57
+AA
+台妹靓就行
+16:57
+号码可以不靓
+木
+16:57
+木木虎
+黑笔怎么办
+蚊
+16:58
+蚊子酱
+In reply to this message
+对台湾女孩子说这个，怕是要被揍，hhh
+木
+16:58
+木木虎
+Sticker
+Not included, change data exporting settings to download.
+, 14.2 KB
+A
+16:58
+AA
+In reply to this message
+那你看阿彪说啥
+16:58
+Sticker
+Not included, change data exporting settings to download.
+, 6.0 KB
+木
+16:59
+木木虎
+[]
+16:59
+说话
+A
+17:00
+AA
+我不要
+KM
+17:00
+K Mox 𝕏⁠⁠⁠⁠⁠ ⁧
+木
+木木虎 04.05.2026 16:59:53
+说话
+?
+17:00
+高级
+17:00
+打过去吧
+17:00
+林文
+17:01
+福建省省长就是你
+17:01
+收复台湾
+17:01
+育高
+17:01
+育良 高
+In reply to this message
+又逗你彪叔笑
+?
+17:01
+每个人发一个886eSIM
+17:02
+全员跟你横渡海峡
+木
+17:02
+木木虎
+给你发福建省esim
+A
+17:02
+AA
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+木
+17:03
+木木虎
+给你发+101
+17:03
++101 010 1949 1001
+?
+17:03
+你从南边飞
+A
+17:03
+AA
+In reply to this message
+我预定了
+?
+17:03
+降落乌兰巴托么
+KM
+17:03
+K Mox 𝕏⁠⁠⁠⁠⁠ ⁧
+Sticker
+Not included, change data exporting settings to download.
+, 14.3 KB
+木
+17:04
+木木虎
+对
+?
+17:04
+Sticker
+Not included, change data exporting settings to download.
+, 15.3 KB
+木
+17:04
+木木虎
+降落休息一下
+A
+17:04
+AA
+他怕是不敢朝北飞了
+?
+17:04
+Sticker
+Not included, change data exporting settings to download.
+, 64.2 KB
+A
+17:04
+AA
+101敢不敢再拼一次
+木
+17:05
+木木虎
+好
+A
+17:05
+AA
+那位子他坐得我做不得？
+木
+17:05
+木木虎
+都私发我名字和坐标
+17:05
+我制定一下战略方针
+A
+17:05
+AA
+你先开第一枪
+木
+17:06
+木木虎
+在开了
+小
+17:07
+小学生
+In reply to this message
+那不是有手就行吗
+木
+17:08
+木木虎
+万一是残疾人呢
+17:08
+你们怎么这样
+B
+17:10
+Benjamin Shary
+In reply to this message
+有舌头就行
+?
+17:11
+为啥这么喜欢代实名…
+17:11
+那么多不用实名的
+17:11
+Sticker
+Not included, change data exporting settings to download.
+, 41.6 KB
+17:12
+丧德要顶着别人id丧么
+17:12
+@CA1949 把你身份证给我
+木
+17:12
+木木虎
+干嘛
+?
+17:12
+我用你的去kyc
+17:12
+出了事抓你
+黄柚
+17:15
+黄油小子 柚子厨
+simhub有安卓的吗？
+木
+17:16
+木木虎
+Sticker
+Not included, change data exporting settings to download.
+, 14.2 KB
+育高
+17:16
+育良 高
+作者加个gv
+睡不
+17:20
+睡觉 不定时
+？
+?
+17:26
+𝐿𝑦𝑎𝑣𝑎
+大佬们。还有兑换码吗
+?
+17:37
+onez现在啥资费..
+17:37
+还能玩一天 回去前买张卡 激活一下再回国
+17:37
+Sticker
+Not included, change data exporting settings to download.
+, 64.2 KB
+17:38
+…90多个
+17:38
+你直接试就是
+17:40
+往前翻翻
+17:40
+有
+A
+17:44
+AA
+In reply to this message
+你的gv加不进去？？
+EL
+17:46
+Erika Lottery
+In reply to this message
+只有苹果才有的嘛？
+育高
+17:57
+育良 高
+In reply to this message
+[]
+运营商加个gv
+A
+17:57
+AA
+？？
+17:57
+你直接加个图标不就行了
+育高
+17:57
+育良 高
+虚商也是商
+?
+17:57
+哈哈哈哈
+A
+17:58
+AA
+那得多少，得加死了
+育高
+17:58
+育良 高
+也不是虚商 虚号
+A
+17:58
+AA
+？
+17:59
+怎么工商登记来了
+ℤ
+17:59
+ℤ𝕖𝕡𝕙𝕚𝕣𝕦𝕒𝕙
+可以搜商店图标了，加不加运营商无所谓了
+A
+17:59
+AA
+是啊
+育高
+17:59
+育良 高
+In reply to this message
+才发现 可以AppStore加
+A
+17:59
+AA
+运营商图标都有
+17:59
+还加个屁
+cJ
+育高
+17:59
+育良 高
+作者太强了
+A
+17:59
+AA
+加什么都改变不了还是+1
+E
+18:00
+Esim.Kim
+ 今日发言排行榜 
+ 第1名 - 发言 345 条 【今日水王】
+ 第2名 - 发言 341 条 再接再厉
+ 第3名 - 发言 296 条 再接再厉
+ 第4名 - 发言 122 条 再接再厉
+ 第5名 - 发言 93 条 再接再厉
+ 第6名 - 发言 92 条 再接再厉
+ 第7名 - 发言 88 条 再接再厉
+ 第8名 - 发言 82 条 再接再厉
+ 第9名 - 发言 56 条 再接再厉
+ 第10名 - 发言 48 条 再接再厉
+ 恭喜今日水王！数据已重置。明天继续加油
+?
+18:01
+可以
+18:01
+变水王有啥好
+A
+18:02
+AA
+绿帽子啊
+18:02
+还不好吗
+育高
+18:02
+育良 高
+水多
+?
+18:02
+可以
+18:03
+Sticker
+Not included, change data exporting settings to download.
+, 20.7 KB
+A
+18:03
+AA
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+?
+18:06
+In reply to this message
+等会就把你网线拔了
+蚊
+18:06
+蚊子酱
+不过，它还真没网线
+18:07
+Wi-Fi接入网络的，xs
+18:07
+就接了一根电源线
+A
+18:07
+AA
+应该把自毁模式加进去
+?
+18:08
+给你区域断电
+B
+19:14
+Ben
+小助理真好玩
+19:15
+Sticker
+Not included, change data exporting settings to download.
+, 9.5 KB
+19:15
+token是哪家的？
+19:15
+我也要玩
+?
+19:44
+In reply to this message
+米boy
+I
+19:52
+Ivanky
+加上油了哈哈哈
+K
+19:53
+King
+这机器人不办正事啊
+B
+19:53
+Benjamin Shary
+In reply to this message
+可惜现在我没水王可以干他了
+19:53
+机器人愣愣的
+19:54
+Sticker
+Not included, change data exporting settings to download.
+, 15.0 KB
+木
+19:54
+木木虎
+已解决
+yt
+20:07
+yvan tienshao
+为啥荷兰沃达丰n26也拒付真就要找个荷兰梯子吗
+B
+20:10
+Benjamin Shary
+In reply to this message
+跟梯子没关系
+M
+ca
+21:10
+cba a
+In reply to this message
+vdf nl实在太垃圾
+21:11
+还不如simyo
+哎
+21:13
+哎呦喂
+In reply to this message
+simyo没vowifi
+ca
+21:17
+cba a
+Sticker
+Not included, change data exporting settings to download.
+, 31.2 KB
+B
+21:53
+Ben
+In reply to this message
+军儿的
+G
+21:54
+Gar
+请问SIMHUB的兑换码还有吗
+小
+22:05
+小学生
+In reply to this message
+1
+B
+22:06
+Ben
+睡觉睡觉
+22:06
+再不睡要猝死了
+小
+23:04
+小学生
+木
+23:15
+木木虎
+Sticker
+Not included, change data exporting settings to download.
+, 15.2 KB
+5 May 2026
+玛
+02:14
+玛丽蘑菇
+In reply to this message
+这个有什么用
+蚊
+02:15
+蚊子酱
+In reply to this message
+订阅管理
+玛
+02:17
+玛丽蘑菇
+在哪兑换的 IOS 上面好像要付钱
+02:24
+In reply to this message
+好像没了
+一…
+02:52
+一天天的 …
+In reply to this message
+一刀。。。早付款买了，但是好像没用
+NN
+03:31
+Nox Nox
+都用完了，能补发一下吗
+Se
+03:56
+S erein
+HT9XHLREXLF4
+7JRENT6EYW74
+LPTYX7M9HFHA
+EFNLAHW3T6JL
+3WMJHHW66JYH
+3HLKATRE649A
+JNTNW9YFAFYX
+96FNRMNEMTX9
+3TLEAFHT6MKL
+A9L7HYHWW46E
+PXLARF9FRE9F
+TFWNNNNT643J
+HA9MPN79766R
+W7PEAA9HNPA6
+TEW7KTTJM4WA
+7T3T7XAEL44Y
+H7J7MTLTKA64
+NH6XMWAY3LKF
+EPWYRJKHWLY3
+4P4HX33PK9NX
+j
+04:06
+jiong
+就是那个app图片？
+Se
+04:07
+S erein
+OK
+j
+04:13
+jk.luya
+现在哪里买卡，需要在国内收到卡才行吗
+SL
+04:14
+Stan Lee
+什么卡
+小
+04:14
+小学生
+In reply to this message
+看置顶
+SL
+04:17
+Stan Lee
+刚才是不是有人艾特我
+ca
+04:18
+cba a
+In reply to this message
+是
+04:18
+但是没事了
+SL
+04:18
+Stan Lee
+是你吗
+ca
+04:18
+cba a
+如果他已经买了的话
+04:18
+In reply to this message
+对
+L
+04:24
+L.L.
+转网到沃达丰的号码用APP查不到赠送的10欧
+睡不
+04:39
+睡觉 不定时
+@When_the_Day_Comes 多久收到邮件的？
+04:40
+二维码那个
+小
+04:40
+小学生
+发财的事交给群友冲
+小
+04:40
+小学生
+阿
+阿威 05.05.2026 04:32:33
+有没有大哥可以注册swisscom账号给我用？我自己充值买套餐。费用50u
+睡不
+04:40
+睡觉 不定时
+04:41
+这是啥东西都不知道。。
+小
+04:41
+小学生
+瑞士电信
+L
+04:41
+L.L.
+In reply to this message
+4月22申请转网，5月4日收到
+小
+04:41
+小学生
+信不信我到现在还没有睡觉
+04:42
+超神了
+睡不
+04:42
+睡觉 不定时
+那我还早着呢，昨天才认证
+04:42
+666你为什么不睡觉
+小
+04:42
+小学生
+准备升仙
+睡不
+04:47
+睡觉 不定时
+今
+04:48
+今天太忙
+giffgaff有没有低于10英镑的充值方案，用了一点点流量余额8英镑给我扣完了。
+小
+04:48
+小学生
+没有
+M
+04:48
+ Maki
+In reply to this message
+完全没有
+小
+04:48
+小学生
+重新开卡吧，充10得20
+04:48
+今
+04:49
+今天太忙
+In reply to this message
+可不可以重新开卡，弄到20后，把号码转过去替换。
+M
+04:50
+ Maki
+In reply to this message
+可以
+小
+04:51
+小学生
+你得先转出去别的运营商才能再转回吧
+今
+04:53
+今天太忙
+就开了下流量，看TG能不能收到换号验证码，试了几次还是不行，结果余额8全没了，太他妈贵了
+04:54
+之前三四年才用了几英镑
+04:55
+这次一会就用了8
+04:55
+B
+04:56
+Benjamin Shary
+In reply to this message
+voxi
+今
+04:58
+今天太忙
+谁知道，哪里有卖+44靓号的，我去看看，要是有随便把号换了，不充值了。
+小
+04:59
+小学生
+昨天群里不是还有一个管理员要卖
+A
+05:01
+Arc
+5块钱收了
+AL
+05:01
+Alen Lee
+短信转发有哪些方案呀？
+今
+05:01
+今天太忙
+我喜欢5结尾，没有147数字的
+05:02
+第一个7没办法避免
+IB
+05:03
+Ivy Brown
+In reply to this message
+多少钱出？
+M
+05:09
+Marsk
+有没有代收短信的 +86 一次短信5U
+05:09
+Sticker
+Not included, change data exporting settings to download.
+, 108.4 KB
+B
+05:15
+Benjamin Shary
+In reply to this message
+来错群了
+W
+05:16
+William
+In reply to this message
+你来迟了，我刚出一个985结尾的
+育高
+05:16
+育良 高
+羡慕
+M
+05:16
+ Maki
+In reply to this message
+去外挂群找小学生
+育高
+05:17
+育良 高
+什么时候才能有群友的实力
+05:17
+In reply to this message
+给我找几个
+M
+05:18
+Marsk
+想在网上买个东西
+05:18
+不想用自己的号码
+B
+05:19
+Benjamin Shary
+In reply to this message
+海外号码写里面
+M
+05:19
+Marsk
+地区国内，他只支持国内的号码
+05:19
+estk
+05:19
+买卡
+B
+05:19
+Benjamin Shary
+EsTK好像不止支持国内号码吧
+B
+05:21
+Big
+In reply to this message
+骗你的
+小学生没手机号
+05:21
+In reply to this message
+那个是快递的
+B
+05:21
+Benjamin Shary
+In reply to this message
+发的快递肯定得填你号码
+05:21
+其他人号码是可以改地址的哦
+05:22
+到时候他直接跟物流说改地址，你就炸了
+育高
+05:23
+育良 高
+In reply to this message
+幽默 只要用国内基站 就能查你
+小
+05:26
+小学生
+In reply to this message
+来
+p记
+05:37
+px休息中 记得催我睡觉
+上次去香港 临时办了个3hk用流量
+05:37
+这个怎么保号呢
+B
+05:38
+Big
+In reply to this message
+充值/买套餐
+B
+05:38
+Benjamin Shary
+In reply to this message
+一卡双号的是吧？
+SL
+05:38
+Stan Lee
+In reply to this message
+充200保一年
+p记
+05:38
+px休息中 记得催我睡觉
+In reply to this message
+太贵了
+SL
+05:39
+Stan Lee
+In reply to this message
+那就扔掉
+B
+05:39
+Big
+In reply to this message
+转台
+p记
+05:40
+px休息中 记得催我睡觉
+[]
+t
+05:40
+thsrite
+In reply to this message
+大佬还发兑换码吗
+SL
+05:40
+Stan Lee
+国际万能呀，那就是充50保一年
+YP
+05:42
+Yūkishirō Plēnīlūne
+万能卡可以充值券充50
+05:42
+In reply to this message
+充值券只要四十多港币
+05:42
+然后自己再充10
+05:42
+等到第二年快过期的时候再买个60块的包
+05:42
+又能保一年
+05:42
+所以实际保号成本是20多一年
+B
+05:42
+Big
+In reply to this message
+两个不一样....
+?
+06:16
+Sticker
+Not included, change data exporting settings to download.
+, 20.7 KB
+06:16
+太卷了
+A
+06:18
+Ami
+In reply to this message
+你这是盗图还是刚拍的?
+06:18
+小姐姐长的好啊
+A
+06:19
+AA
+tnt天天骗我漫游流量
+?
+06:19
+In reply to this message
+骗了你又不能咋样
+06:19
+Sticker
+Not included, change data exporting settings to download.
+, 144.4 KB
+A
+06:19
+AA
+把他禁了
+06:19
+不让他发
+06:19
+Sticker
+Not included, change data exporting settings to download.
+, 6.0 KB
+?
+06:21
+这群能发nsfw么
+06:21
+多看涩涩 有益身心
+简
+06:21
+简
+Sticker
+Not included, change data exporting settings to download.
+, 72.1 KB
+蚊
+06:21
+蚊子酱
+…
+A
+06:22
+AA
+蚊
+蚊子酱 05.05.2026 06:21:54
+…
+A
+06:22
+AA
+Sticker
+Not included, change data exporting settings to download.
+, 27.3 KB
+?
+06:23
+还得是林文
+06:23
+91大神
+KM
+06:24
+K Mox 𝕏⁠⁠⁠⁠⁠ ⁧
+?
+  05.05.2026 06:23:40
+91大神
+A
+06:26
+AA
+Sticker
+Not included, change data exporting settings to download.
+, 37.2 KB
+伍六
+06:35
+伍 六柒
+In reply to this message
+这个码还有不
+06:35
+大佬们
+06:39
+作者是哪个大佬
+Se
+06:40
+S erein
+等会儿，我在外面回来发码
+伍六
+06:40
+伍 六柒
+In reply to this message
+好的，感谢大佬
+06:40
+试了一堆，发现都使用过了
+A
+06:41
+AA
+今天不是还发了新的
+EL
+06:42
+Erika Lottery
+In reply to this message
+这是苹果才有的嘛
+伍六
+06:42
+伍 六柒
+In reply to this message
+没了已经
+A
+06:43
+AA
+这么快
+06:43
+之前90个几天都没用完
+伍六
+06:43
+伍 六柒
+In reply to this message
+对啊，我昨天晚上看还有
+06:43
+今天用17pm兑换就都没了
+A
+06:44
+AA
+那90个我昨天试了第二个都没用过
+伍六
+06:44
+伍 六柒
+In reply to this message
+无了
+A
+06:44
+AA
+多试一试吧，可能有漏网之鱼
+伍六
+06:45
+伍 六柒
+有一个漏网之鱼
+?
+06:45
+突然就开始兑换了
+06:45
+隔壁10个抽奖不知道抽完没
+A
+06:45
+AA
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+?
+06:46
+还是得饥饿营销啊
+A
+06:46
+AA
+10个还要抽半天
+?
+06:46
+xhs一下
+06:46
+集美就地即刻炼化
+A
+06:46
+AA
+就是tnt从小红书转过来的
+06:47
+然后发现作者在群里
+06:50
+给你个三星note7
+06:51
+跟着101去北伐
+睡不
+06:51
+睡觉 不定时
+LA
+06:54
+Li Alix
+直接付款8块不更快。。
+玛
+06:54
+玛丽蘑菇
+这个软件有什么用吗
+LA
+06:55
+Li Alix
+舒服
+A
+06:55
+AA
+问一下豆包
+蚊
+07:06
+蚊子酱
+In reply to this message
+我这就告诉你最真实最不容易出错的答案
+07:06
+hhh
+?
+07:07
+In reply to this message
+可以跟随淋彪去北方
+A
+07:10
+AA
+看来101的团伙越来越大了
+?
+07:17
+In reply to this message
+直接意大利炮做动力
+哎
+07:25
+哎呦喂
+先发五个字
+07:25
+[]
+拿下3HK
+Z
+07:31
+Z
+牛的
+B
+08:00
+Ben
+把csl拿下
+木
+08:00
+木木虎
+[]
+08:00
+Sticker
+Not included, change data exporting settings to download.
+, 7.1 KB
+?
+08:01
+别发了
+08:01
+删除吧
+木
+08:01
+木木虎
+昨天还在想这个月要不要接着续cte
+?
+08:01
+不是7a
+木
+08:01
+木木虎
+然后发现流量马上过期
+08:01
+我就两个4a尾 一个5a
+08:01
+怎么了
+?
+08:02
+你这样怎么反攻
+08:02
+你直接冲余额不就好了
+08:02
+想用就用
+08:02
+买流量包你又不常用
+木
+08:02
+木木虎
+我这是之前20买的
+奇
+08:04
+奇衡三
+有没有便宜又好用点，不用实名的国外流量卡
+?
+08:04
+esim.gg
+08:04
+记得用我的aff boring
+蚊
+08:04
+蚊子酱
+In reply to this message
+不，就用wenzi
+08:04
+hhh
+S
+08:05
+Setup
+Sticker
+Not included, change data exporting settings to download.
+, 3.9 KB
+08:05
+还可以用setup
+?
+08:05
+In reply to this message
+你都aff吃这么多了
+08:05
+让我们也有口汤
+蚊
+08:05
+蚊子酱
+[]
+08:06
+In reply to this message
+我都不主动推广的
+08:06
+In reply to this message
+亮点自己找，hhh
+?
+08:06
+有效期
+08:06
+id不重要
+08:07
+开了几年了
+08:07
+这有效期直接地老天荒了
+A
+08:08
+AA
+羡慕哭了
+G
+08:08
+GeneralPeople.
+我记得当初用流量的 +10 年
+A
+08:08
+AA
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 13.7 KB
+G
+08:08
+GeneralPeople.
+原来老资历是 +100 年呀
+蚊
+08:09
+蚊子酱
+Sticker
+Not included, change data exporting settings to download.
+, 15.6 KB
+G
+08:09
+GeneralPeople.
+Sticker
+Not included, change data exporting settings to download.
+, 12.8 KB
+A
+08:11
+AA
+Sticker
+Not included, change data exporting settings to download.
+, 31.5 KB
+哎
+08:11
+哎呦喂
+In reply to this message
+csl没有 本地通话套餐啊
+08:12
+用手机都倒腾不出来
+08:20
+In reply to this message
+HKmobi 你试了手机能拉起？
+叶
+08:31
+叶
+In reply to this message
+你的为什么这么久
+08:31
+Sticker
+Not included, change data exporting settings to download.
+, 11.0 KB
+08:31
+送给我
+B
+08:54
+Ben
+[]
+Z
+08:54
+Z
+没买过推荐半天
+B
+08:54
+Ben
+竟然送了我50g的对象存储
+Z
+08:54
+Z
+还得是你们
+B
+08:55
+Ben
+但是送了我也用不到
+89
+09:00
+88 99
+谁有美国号码帮我注册个ws给20红包
+KM
+09:01
+K Mox 𝕏⁠⁠⁠⁠⁠ ⁧
+In reply to this message
+有的
+09:02
+Sticker
+Not included, change data exporting settings to download.
+, 7.8 KB
+89
+09:02
+88 99
+pm
+KM
+09:03
+K Mox 𝕏⁠⁠⁠⁠⁠ ⁧
+In reply to this message
+找我频道去
+09:05
+In reply to this message
+4g千兆了吧
+B
+09:05
+Big
+In reply to this message
+~~再快也不是你的~~
+KM
+09:09
+K Mox 𝕏⁠⁠⁠⁠⁠ ⁧
+[]
+国行iPhone Air/17e在中国大陆境内下载境外eSIM教程
+使用Anygo专业模式（蓝牙连接）或者修改定位的尾插，把定位改到境外，且位置需要是移动的，不可以是静态的
+关闭定位模式和Wi-Fi至少10秒后重新打开，确保定位已经成功修改，且Apple
+Maps左下角的“高德地图”字样已经消失
+使用路由代理/安卓设备境外卡开热点给iPhone，并手动忘记iPhone附近所有认识的Wi-Fi
+（iPhone开热点无效，因为Apple会以此判断你的真实位置）
+将家中或附近所有Apple设备都关机，这是最重要的一步！
+Apple会依靠附近的Apple设备来判断你的真实位置
+（如果使用Mac版的Anygo，则仅需将Mac定位服务关闭，连接至同一个境外IP的网络，无需关机）
+关闭Wi-Fi，再次确认定位是否正常处于境外
+如定位正常，打开设置-蜂窝网络-添加eSIM，此时会提示需要网络，此时打开Wi-Fi连接网络/热点，重新添加eSIM即可成功
+操作注意点：
+使用路由代理的成功概率较低，因为Apple会通过“路由器国家代码”来判定你的真实定位，推荐使用境外卡开热点
+此方法在iOS
+26.5及以上的版本已失效，因为在此版本中，Apple将完整的“查找网络”系统用在了判定国行iPhone下载eSIM时的定位上（即关机也可以定位）
+在iOS
+26.0.1以上的版本，无论iPhone内是否有中国大陆eSIM，也无论身处何处，国行iPhone
+Air/17e都只能添加最多2张eSIM
+木
+09:14
+木木虎
+几百年前的老教程
+SL
+09:19
+Stan Lee
+发图先说话
+09:19
+[]
+09:20
+In reply to this message
+这个也没用了？
+09:20
+怎么还禁我1分钟
+09:20
+Sticker
+Not included, change data exporting settings to download.
+, 19.7 KB
+S
+09:21
+Setup
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+SL
+09:22
+Stan Lee
+越来越不清楚规则了
+?
+09:22
+In reply to this message
+你更新一下
+G
+09:33
+GeneralPeople.
+In reply to this message
+对象在哪
+蚊
+09:52
+蚊子酱
+In reply to this message
+这有啥为什么
+09:52
+Sticker
+Not included, change data exporting settings to download.
+, 15.6 KB
+B
+10:02
+Ben
+K果然是林彪
+10:02
+还说不是
+木
+10:13
+木木虎
+....你有病吧
+wj
+10:49
+wxd js
+我的tunetalk
+到期日是5.12，现在app中选择365保号套餐提示失败了，有人用tunetalk的吗？
+B
+11:06
+Ben
+[]
+11:06
+这个API聚合项目蛮好用的
+S
+11:07
+Setup
+羡慕newapi
+B
+11:07
+Ben
+In reply to this message
+你也部署了？
+S
+11:07
+Setup
+我都有
+B
+11:07
+Ben
+6
+S
+11:07
+Setup
+api.setup0.de
+B
+11:07
+Ben
+还有啥好用的
+S
+11:07
+Setup
+api.onlypast.com
+11:07
+Sticker
+Not included, change data exporting settings to download.
+, 120.9 KB
+11:08
+In reply to this message
+CODEX 我用这个
+11:08
+In reply to this message
+国产的中转我用这个
+B
+11:08
+Ben
+多个账号聚合吗？
+S
+11:08
+Setup
+嗯
+B
+11:08
+Ben
+Sub2API的仓库给个
+11:08
+我也搞个
+S
+11:08
+Setup
+[]
+B
+11:08
+Ben
+6
+S
+11:08
+Setup
+https://github.com/Wei-Shaw/sub2api
+B
+11:09
+Ben
+这个能容器部署嘛
+S
+11:09
+Setup
+可以
+B
+11:09
+Ben
+OK
+S
+11:09
+Setup
+不过我直接让hermes部署的
+11:09
+Sticker
+Not included, change data exporting settings to download.
+, 13.8 KB
+B
+11:09
+Ben
+那肯定
+11:09
+我也让它弄
+11:09
+Sticker
+Not included, change data exporting settings to download.
+, 38.9 KB
+纸旧
+11:09
+纸船 旧
+In reply to this message
+羡慕
+S
+11:10
+Setup
+[]
+11:10
+这个直接OAuth聚合
+B
+11:11
+Ben
+newapi也有OAuth聚合
+S
+11:11
+Setup
+[]
+11:11
+这个我就用API
+11:11
+Sticker
+Not included, change data exporting settings to download.
+, 13.8 KB
+B
+11:12
+Ben
+噢喷乳头
+11:12
+这个好难用的说
+S
+11:12
+Setup
+问题不大
+11:12
+我调里面的免费模型
+B
+11:12
+Ben
+也算是token自由了
+S
+11:13
+Setup
+codex
+11:13
+全部丢在sub2api里面用
+11:13
+[]
+11:13
+之前这个薅了2000块代金券
+11:13
+Sticker
+Not included, change data exporting settings to download.
+, 13.8 KB
+11:14
+可惜现在模型库太老了
+11:14
+拉完了
+11:15
+[]
+B
+11:15
+Ben
+反正只要哪有免费模型，就全部薅进来入库
+S
+11:15
+Setup
+openrouter 只用free模型
+11:15
+[]
+11:15
+Sticker
+Not included, change data exporting settings to download.
+, 15.0 KB
+B
+11:15
+Ben
+按理说，newapi就够用了吧？
+11:16
+Sub2API的亮点是啥
+S
+11:16
+Setup
+不知道，我反正部署着玩
+A
+11:16
+Arc
+In reply to this message
+免费模型..用了还不如不用
+11:16
+现在我就缺opus了
+B
+11:16
+Ben
+哦
+11:17
+你们牛逼，全局只用opus
+S
+11:17
+Setup
+羡慕
+11:17
+孙割在打五折
+11:17
+用用孙割的？
+11:18
+[]
+B
+11:18
+Ben
+不要不要
+11:18
+现在只玩免费的
+11:18
+我是穷逼
+S
+11:19
+Setup
+B
+Ben 05.05.2026 11:18:52
+我是穷逼
+S
+11:19
+Setup
+真的假的
+A
+11:19
+AA
+假的
+A
+11:19
+Arc
+In reply to this message
+一般都是搞gpt plus 2api
+A
+11:19
+AA
+A
+AA 04.05.2026 11:14:56
+[]
+S
+11:20
+Setup
+[]
+11:20
+孙割免费积分只让用haiku4.5
+B
+11:21
+Ben
+可以了
+11:21
+至少能用嗨裤
+S
+11:21
+Setup
+[]
+A
+11:22
+Arc
+In reply to this message
+啧啧啧
+B
+11:22
+Ben
+In reply to this message
+链接给个
+S
+11:22
+Setup
+5U 1000W 一次对话3K
+11:22
+https://b.ai/
+KM
+11:23
+K Mox 𝕏⁠⁠⁠⁠⁠ ⁧
+In reply to this message
+mimo能转不
+S
+11:24
+Setup
+用new api
+11:27
+[]
+11:27
+haiku这么铸币啊
+A
+11:29
+Arc
+[]
+team的宽限期这么长吗
+S
+11:30
+Setup
+[]
+newapi还可以套娃sub2api
+B
+11:31
+Ben
+有啥必要
+华
+11:31
+华
+In reply to this message
+牛逼我怎么被飞了
+11:31
+[]
+B
+11:32
+Ben
+你是谁
+S
+11:32
+Setup
+In reply to this message
+把newapi部署到HK加速
+11:32
+sub2api部署到美国可以使用codex
+B
+11:33
+Ben
+我的newapi在美国
+S
+11:33
+Setup
+这样你就可以HK反代美国
+11:33
+等于套CDN了
+11:33
+不过直接给源服务器
+11:33
+套 CDN
+11:33
+一样的效果
+B
+11:34
+Ben
+找一下还有啥项目好用，聚合的
+小
+11:34
+小学生
+In reply to this message
+给@机器人发 esim.kim 解封
+B
+11:34
+Ben
+手里的供应商太多了，每次去哈马斯那边换太麻烦
+11:34
+一个接口聚合搞定
+S
+11:34
+Setup
+Sticker
+Not included, change data exporting settings to download.
+, 120.9 KB
+11:34
+目前热门的就是newapi
+B
+11:35
+Ben
+[]
+11:35
+我挺喜欢他的分组筛选
+A
+11:36
+Arc
+咋回事啊这，不知道为啥就被飞了
+11:36
+Sticker
+Not included, change data exporting settings to download.
+, 21.7 KB
+B
+11:37
+Ben
+@buxiangzhangdaqaq github也可以聚合进去
+Next messages

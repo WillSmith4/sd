@@ -1,0 +1,3801 @@
+Esim.Kim中文交流群
+Previous messages
+6 May 2026
+蚊
+11:26
+蚊子酱
+In reply to this message
+打，使劲的打，打得就是localhost
+ca
+11:26
+cba a
+我还是192.168.1.9呢
+B
+11:26
+Ben
+Sticker
+Not included, change data exporting settings to download.
+, 7.0 KB
+G
+11:26
+GeneralPeople.
+Sticker
+Not included, change data exporting settings to download.
+, 17.6 KB
+PM
+11:26
+Pling Mooran
+有一说一，好像确实没有快速分享给别人看本地部署的网站的方法
+SL
+11:27
+Stan Lee
+In reply to this message
+有，内网穿透
+B
+11:27
+Ben
+10.0.0.1，来打它
+I
+11:27
+Ivanky
+多的去了
+SL
+11:27
+Stan Lee
+ngork
+蚊
+11:27
+蚊子酱
+In reply to this message
+如果是网站的话，那么确实只能内网穿透
+ca
+11:27
+cba a
+话说有没有局域网网站啥的
+11:27
+类似路由器这种
+W
+11:27
+William
+做个反向代理
+ca
+11:27
+cba a
+同一个局域网下都可以访问
+I
+11:27
+Ivanky
+网站简单
+蚊
+11:27
+蚊子酱
+但是，如果是那种原型图
+11:27
+axure可以直接分享
+ca
+11:27
+cba a
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 31.2 KB
+蚊
+11:27
+蚊子酱
+设计图的话，也有专门的平台
+11:27
+倒是成品网站，一般都是上线了才给看吧
+B
+11:28
+Ben
+[]
+SL
+I
+11:28
+Ivanky
+WordPress
+B
+11:28
+Ben
+也算是实现GPT自由了
+蚊
+11:28
+蚊子酱
+基本上忽悠就是“原型”
+ca
+11:28
+cba a
+In reply to this message
+@wenzijiang
+11:28
+Sticker
+Not included, change data exporting settings to download.
+, 31.2 KB
+11:28
+不删我消息？
+G
+11:28
+GeneralPeople.
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 12.8 KB
+PM
+11:28
+Pling Mooran
+好吧，孤陋寡闻了我
+蚊
+11:29
+蚊子酱
+In reply to this message
+我没删过你消息啊
+B
+11:29
+Ben
+In reply to this message
+佬的team让我实现自由的
+蚊
+11:29
+蚊子酱
+[]
+ca
+11:29
+cba a
+看起来苍蝇没理解懂
+B
+11:29
+Ben
+Sticker
+Not included, change data exporting settings to download.
+, 9.5 KB
+蚊
+11:29
+蚊子酱
+AI就是太贵了，国产便宜但是差点意思
+ca
+11:29
+cba a
+这个玩笑失败了
+B
+11:29
+Ben
+In reply to this message
+我靠
+G
+11:29
+GeneralPeople.
+In reply to this message
+什么管理软件呀？
+蚊
+11:29
+蚊子酱
+In reply to this message
+我看懂了，但是懒得理
+K
+11:29
+King
+In reply to this message
+team和普通free有什么区别吗
+ca
+11:29
+cba a
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 31.2 KB
+11:29
+Sticker
+Not included, change data exporting settings to download.
+, 31.2 KB
+B
+11:29
+Ben
+In reply to this message
+没区别呀，就是能多用一点
+A
+11:30
+AA
+Team额度大吧
+B
+11:31
+Ben
+In reply to this message
+好像有两种
+SL
+11:31
+Stan Lee
+team的一个席位和plus额度是一样的
+B
+11:31
+Ben
+企业版和团队版
+11:31
+有人说team的额度还没有plus耐用
+G
+11:31
+GeneralPeople.
+我问一句话扣百分之五
+PM
+11:31
+Pling Mooran
+ai是真的贵。而且ai额度也会导致使用习惯不一样。我看他们up主定阅Claude
+max，啥问题都问，连运行都让ai自己运行。
+SL
+11:32
+Stan Lee
+现在都是business吧
+G
+11:32
+GeneralPeople.
+Sticker
+Not included, change data exporting settings to download.
+, 13.3 KB
+蚊
+11:32
+蚊子酱
+In reply to this message
+不都是这样么
+B
+11:32
+Ben
+AMD出新机器了
+SL
+11:32
+Stan Lee
+chatgpt team改成business了
+?
+11:32
+𝒾𝓂𝓎𝓇𝓈
+team 的 web 用量应该比 Plus 更多。但 codex 不好说
+B
+11:32
+Ben
+你们这些富哥，干脆直接买AI推理的机器吧
+SL
+11:32
+Stan Lee
+In reply to this message
+好像是一样的
+B
+11:32
+Ben
+英伟达或者AMD都出了
+SL
+11:33
+Stan Lee
+所以25刀两个席位的你们搞没？
+PM
+11:33
+Pling Mooran
+In reply to this message
+pro的话，好多需要自己动手，自己调试代码，ai随便一读，额度就没了
+SL
+11:33
+Stan Lee
+比单开Plus划算
+B
+11:33
+Ben
+话说，工作空间和本地空间的对话数据会关联吗？
+蚊
+11:33
+蚊子酱
+In reply to this message
+嗷，这样
+11:34
+我都是直接都丢给AI的
+B
+11:34
+Ben
+就是我用api让给龙虾用时，龙虾的记忆能检索到openai的工作空间记忆吗
+S
+11:34
+Setup
+In reply to this message
+cf大善人
+11:34
+Sticker
+Not included, change data exporting settings to download.
+, 3.9 KB
+蚊
+11:34
+蚊子酱
+In reply to this message
+不能吧
+?
+11:35
+𝒾𝓂𝓎𝓇𝓈
+In reply to this message
+对话更多
+B
+11:35
+Ben
+用了哈马斯，来用龙虾好别扭
+11:35
+一气之下把龙虾删了
+蚊
+11:35
+蚊子酱
+In reply to this message
+Hermes这么好用么
+B
+11:35
+Ben
+yes
+?
+11:35
+𝒾𝓂𝓎𝓇𝓈
+In reply to this message
+[]
+SL
+B
+11:36
+Ben
+用了就回不去了
+S
+11:36
+Setup
+In reply to this message
+享福完了
+11:36
+老早就让你丢掉龙虾了
+B
+11:36
+Ben
+In reply to this message
+羡慕运通
+SL
+11:36
+Stan Lee
+In reply to this message
+消耗50KB完事
+B
+11:36
+Ben
+In reply to this message
+打电话呀
+11:36
+0.01
+11:37
+短信0.14
+PM
+11:37
+Pling Mooran
+In reply to this message
+至少比小龙虾好用
+蚊
+11:37
+蚊子酱
+In reply to this message
+那我让ai部署一下，xs
+S
+11:37
+Setup
+666
+I
+11:38
+Ivanky
+别老玩极限保号
+11:38
+太死板了
+PM
+11:38
+Pling Mooran
+小龙虾本来可能还不错，但是代码合并太快了，劣质代码天天合并
+B
+11:38
+Ben
+In reply to this message
+不用AI
+11:38
+终端一键搞定
+A
+11:38
+AA
+不是把奥地利银行吗
+B
+11:38
+Ben
+比龙虾部署方便
+SL
+11:38
+Stan Lee
+I
+Ivanky 06.05.2026 11:38:15
+别老玩极限保号
+B
+11:39
+Ben
+In reply to this message
+[+43 800 293 083 听到语音或接通自动挂断看短信]
+A
+11:39
+AA
+自己搜
+M
+11:39
+ Maki
+有没有英国卡不带7的，有没有荷兰卡不带6的，有没有中国卡不带1的，有没有爱尔兰卡不带8的
+SL
+B
+11:39
+Ben
+响了就挂
+11:39
+不要迟疑
+11:39
+多听一秒都给你扣费
+SL
+11:40
+Stan Lee
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+B
+11:40
+Ben
+我是穷逼，我0.01都不想给
+SL
+11:40
+Stan Lee
+In reply to this message
+不是25吗，怎么24.39
+蚊
+11:40
+蚊子酱
+In reply to this message
+对的，最近几个版本，问题太多了
+B
+11:41
+Ben
+In reply to this message
+curl -fsSL
+https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh
+| bash
+11:41
+龙虾更新一次出一次问题
+11:41
+每次更新都改框架
+11:42
+导致你直接断连
+蚊
+11:43
+蚊子酱
+In reply to this message
+我现在都让龙虾自己看
+B
+11:43
+Ben
+Sticker
+Not included, change data exporting settings to download.
+, 19.7 KB
+蚊
+11:43
+蚊子酱
+阅读openclaw最近更新的内容，合并你觉得需要合并的分支或代码
+B
+11:43
+Ben
+他要是看到你要把它删除掉，会不会不乐意
+蚊
+11:43
+蚊子酱
+hhh
+11:43
+In reply to this message
+会
+11:43
+Photo
+936×104
+B
+11:44
+Ben
+[]
+我让kiro删
+蚊
+11:44
+蚊子酱
+他建议我把hermes放在openclaw底下
+11:44
+xs
+B
+11:45
+Ben
+[]
+11:45
+我也正在装
+11:45
+家里的每台机器都给装上
+K
+11:46
+King
+你们都跑在国外vps上吗
+蚊
+11:47
+蚊子酱
+In reply to this message
+那其实，openclaw的节点功能很好用
+B
+11:47
+Ben
+比如？
+K
+11:47
+King
+大妈的1C1G能跑的动不
+蚊
+11:50
+蚊子酱
+In reply to this message
+就是调不同电脑里的数据很方便
+SL
+12:08
+Stan Lee
+一卡传三代，人走卡还在
+12:08
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+p
+12:12
+pppp
+[]
+12:12
+谁说的去年底开的gg卡没有WiFicalling的
+A
+12:16
+AA
+都是制造焦虑
+p
+12:16
+pppp
+[]
+12:17
+法老的ipcc文件14系统也能用 牛逼
+12:17
+没更新ipcc都没有WiFicalling开关
+B
+12:18
+Ben
+In reply to this message
+还不懂玩法
+PM
+12:21
+Pling Mooran
+我是潜水员，太好啦
+蚊
+12:21
+蚊子酱
+In reply to this message
+xm潜水员
+PM
+12:22
+Pling Mooran
+这下不能随便被踢了
+蚊
+12:23
+蚊子酱
+In reply to this message
+正在踢出本群...
+赛
+12:24
+赛小西
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 23.0 KB
+A
+12:24
+AA
+潜水员踢的最快了
+赛
+12:24
+赛小西
+oi
+12:25
+麻豆是被抓了还是不干了
+PM
+12:26
+Pling Mooran
+In reply to this message
+不要啊
+蚊
+睡不
+12:27
+睡觉 不定时
+12:28
+潜水员咋了
+赛
+12:30
+赛小西
+Sticker
+Not included, change data exporting settings to download.
+, 28.1 KB
+B
+12:36
+Ben
+Sticker
+Not included, change data exporting settings to download.
+, 7.0 KB
+12:36
+怎么可能被抓
+E
+12:40
+Evander
+用网页直接转esim好方便
+伍六
+12:48
+伍 六柒
+In reply to this message
+不要用小龙虾了
+12:49
+用hermes 这个比龙虾好太多了
+12:50
+龙虾现在就是山代码。我都感觉他每次更新不是一个人或者团队弄的。每次都不衔接它的升级，都会出问题。
+蚊
+12:53
+蚊子酱
+In reply to this message
+我来试试
+伍六
+12:53
+伍 六柒
+hermes反应也要比龙虾快
+B
+13:00
+Ben
+开源项目肯定是大家一起堆代码
+13:01
+你发现了问题，你提交PR，然后管理员审批后觉得还行就合并代码了
+y苏
+13:01
+yy 苏
+@tntwi 兑换码还有吗
+G
+13:01
+GeneralPeople.
+In reply to this message
+因为是龙虾开发的龙虾，上下文有限
+3低
+13:01
+3元1g staary udea 2元/g 低价
+starry 3元 1G udea 2元 1G
+G
+13:01
+GeneralPeople.
+Sticker
+Not included, change data exporting settings to download.
+, 11.7 KB
+B
+13:01
+Ben
+Sticker
+Not included, change data exporting settings to download.
+, 19.7 KB
+13:02
+你们有没有参与过什么大项目？
+y苏
+13:02
+yy 苏
+我以为你是
+伍六
+13:02
+伍 六柒
+用了这么久吧，
+我感觉龙虾是 初中生水平
+hermes 起码大二学生水平
+13:02
+就交互来说，同样的模型
+13:05
+最近小米的模型给我用爽了。准备试用期过了开个年度会员
+Az
+13:06
+AAA z
+什么模型好用
+伍六
+13:07
+伍 六柒
+目前来说 小米 gpt 马斯克
+13:08
+谷歌的也还可以。我就是普通玩玩。
+13:08
+更贵的就没用过了
+cc
+13:11
+cap captain
+现在均价好像都是35往上走
+13:11
+gv
+Z
+13:16
+Z
+号码一般
+cc
+13:16
+cap captain
+[]
+13:16
+有点哈人啊
+A
+13:18
+AA
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+欠
+13:18
+欠片
+excellent机翻说是
+蚊
+13:18
+蚊子酱
+xs
+13:18
+In reply to this message
+[]
+cc
+13:21
+cap captain
+关键是这是我在论坛上找的
+W
+13:23
+Wav
+蚊子竟然是第一次用Hermes
+cc
+13:28
+cap captain
+[]
+13:28
+难绷，根本不知道他在说什么
+G
+13:32
+GeneralPeople.
+不看等级什么的吗？就顺便找个人买？
+cc
+13:34
+cap captain
+就你说的那个论坛
+G
+13:35
+GeneralPeople.
+论坛不是有等级的？
+B
+13:35
+Ben
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 19.7 KB
+G
+13:35
+GeneralPeople.
+Sticker
+Not included, change data exporting settings to download.
+, 11.7 KB
+蚊
+13:35
+蚊子酱
+In reply to this message
+因为我用的openclaw呀
+B
+13:35
+Ben
+聪明与否不是和模型有关么？
+cc
+13:35
+cap captain
+哦哦哦1级
+13:35
+没看
+B
+13:35
+Ben
+啥时候和框架有关了
+G
+13:36
+GeneralPeople.
+In reply to this message
+所以大佬可以跟我说说那个 codex 账号管理软件叫啥吗
+蚊
+13:36
+蚊子酱
+In reply to this message
+主要是和模型有关
+G
+13:36
+GeneralPeople.
+In reply to this message
+那你觉得可靠吗？
+13:36
+但架构也会影响生成的质量
+B
+13:36
+Ben
+In reply to this message
+https://www.newapi.ai/
+cc
+13:37
+cap captain
+不可靠
+13:37
+连个店铺都没有
+G
+13:37
+GeneralPeople.
+In reply to this message
+原来是这个呀
+B
+13:37
+Ben
+Sticker
+Not included, change data exporting settings to download.
+, 19.7 KB
+G
+13:37
+GeneralPeople.
+老熟人了
+13:38
+还以为可以在本地管理账号呢
+B
+13:38
+Ben
+为啥要本地管理
+13:38
+云端不好吗
+13:39
+这个你添加进去也可以管理
+G
+13:39
+GeneralPeople.
+有个项目叫 c c switch
+B
+13:39
+Ben
+不用呀，你用这个服务聚合，然后用你自己的API
+13:39
+这不更香
+G
+13:39
+GeneralPeople.
+可以用中转的模型跑 Claude IDE
+13:39
+我哪有服务器部署
+13:40
+甲骨文的 amd 我都是掰开两个来用的
+13:40
+Sticker
+Not included, change data exporting settings to download.
+, 14.7 KB
+B
+13:40
+Ben
+靠
+E
+13:40
+Esim.Kim
+恭喜GeneralPeople.晋升为 Esim.Kim中文交流群 的水手
+B
+13:40
+Ben
+我都没有甲骨文
+G
+13:40
+GeneralPeople.
+两个 1c1g
+A
+13:40
+AA
+B
+Ben 06.05.2026 13:40:12
+我都没有甲骨文
+B
+13:40
+Ben
+洒洒水啦。大佬们都有钱
+13:40
+一顿饭钱的事情
+13:41
+找小妹七八百眼睛都不眨，买个服务器抠抠搜搜
+A
+13:41
+AA
+Sticker
+Not included, change data exporting settings to download.
+, 80.9 KB
+?
+13:41
+Sticker
+Not included, change data exporting settings to download.
+, 52.0 KB
+13:41
+高级
+G
+13:41
+GeneralPeople.
+羡慕小妹
+cc
+13:42
+cap captain
+google voice永久号有必要买吗
+PM
+13:43
+Pling Mooran
+In reply to this message
+没必要
+SL
+13:43
+Stan Lee
+In reply to this message
+羡慕上台
+小
+13:44
+小学生
+In reply to this message
+找我免邮寄
+Se
+13:46
+S erein
+In reply to this message
+发完了，等更新吧
+cc
+13:47
+cap captain
+In reply to this message
+好像不用了，我用那个软件加了个Xposed模块就可以不用信封了
+G
+13:48
+GeneralPeople.
+这样怎么行，群主吃不到 aff 了
+13:48
+Sticker
+Not included, change data exporting settings to download.
+, 8.0 KB
+A
+13:48
+AA
+In reply to this message
+新版本搞好了？
+简
+13:49
+简
+In reply to this message
+看自己需求吧 理论永久 还是会封
+PM
+13:50
+Pling Mooran
+不是永久的，就每间隔3个月，保号一下呗。感觉永久太贵了，不值。
+SL
+13:51
+Stan Lee
+永久也会被封的，搞个+1esim好一些
+A
+13:51
+AA
+还是付点钱
+cc
+13:57
+cap captain
+我就自己平常注册国软件论坛啥的玩玩
+。
+13:58
+。。。。
+大家好
+13:58
+我是渣渣辉
+d
+13:59
+damn
+In reply to this message
+这样永久很值得
+cc
+14:00
+cap captain
+In reply to this message
+你是中国人吗
+Z
+14:01
+Z
+d
+14:02
+damn
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 9.8 KB
+。
+14:02
+。。。。
+永久的gv多少钱
+Z
+14:02
+Z
+永久
+?
+14:02
+free
+。
+14:02
+。。。。
+Z
+Z 06.05.2026 14:02:25
+永久
+。
+14:03
+。。。。
+不能转发消息吗 飞了
+14:03
+上面不是在说永久嘛
+A
+14:08
+AA
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+乾坤
+14:08
+乾 坤
+0元的helium挺香
+cc
+14:09
+cap captain
+我看现在基本上新号都是35往上
+小
+14:09
+小学生
+In reply to this message
+充10送10不香吗？
+G
+14:10
+GeneralPeople.
+10 也是保几十年，20 保几百年，没区别
+。
+14:10
+。。。。
+Sticker
+Not included, change data exporting settings to download.
+, 8.7 KB
+G
+14:10
+GeneralPeople.
+Sticker
+Not included, change data exporting settings to download.
+, 11.7 KB
+W
+14:12
+Ww
+直接申请esim
+。
+14:12
+。。。。
+wificalling还能更久
+A
+14:12
+AA
+就等小学生抽一个，最香了
+。
+14:12
+。。。。
+就等小学生抽一个，最香了
+AH
+14:13
+Alice Hall
+购买 giffgaff 充10GBP得20GBP
+14:13
+？
+14:13
+一共30吗
+14:13
+Sticker
+Not included, change data exporting settings to download.
+, 9.5 KB
+A
+14:13
+Azure
+不是40？
+cc
+14:14
+cap captain
+必须是找小学生购买吗
+14:14
+要那个二维码才行么？
+A
+14:14
+AA
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+14:15
+来小学生的群不找小学生买，你要踢出去是吧
+cc
+14:15
+cap captain
+不是我是说这个活动的话
+伍六
+14:20
+伍 六柒
+In reply to this message
+不要直接迁移
+14:20
+In reply to this message
+框架是，再好的模型也没用
+14:21
+我是深有体会
+Se
+14:25
+S erein
+In reply to this message
+[]
+做了一半，明天再改
+木
+14:27
+木木虎
+铁通不是没了吗
+cc
+14:27
+cap captain
+有没有消息说9esim蓝牙版啥时候出
+Se
+14:28
+S erein
+[]
+我直接把龟佬运营商库给搬过来了有些图标没有直接用Google s2 favicon
+API来抓网站的链接生成图标
+14:30
+有点感慨而已
+A
+14:31
+AA
+Sticker
+Not included, change data exporting settings to download.
+, 27.3 KB
+14:31
+你还没有放下去的，人家已经放进去了
+14:31
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+Se
+14:33
+S erein
+Sticker
+Not included, change data exporting settings to download.
+, 9.7 KB
+cc
+14:34
+cap captain
+在手机号已经注册了tg的情况下能换绑吗
+Se
+14:34
+S erein
+In reply to this message
+？来打劫了
+cc
+14:35
+cap captain
+就是把这个手机号换绑到另一个tg上
+AH
+14:35
+Alice Hall
+不能
+A
+14:35
+AA
+让tnt带你去洗脚
+?
+14:35
+物理降级了一下
+A
+14:35
+AA
+广州的会所还是可以的
+?
+14:35
+86ipadmini7换成了阿拉伯iPad mini6
+14:36
+终于插卡用起来了
+14:36
+难受了两年
+SL
+14:39
+Stan Lee
+In reply to this message
+不是0元了
+木
+14:40
+木木虎
+In reply to this message
+37了还敢要这么多
+14:41
+我还以为17呢
+14:41
+273万我可以买个迈巴赫然后包个学生妹
+14:41
+37币都黑了
+SL
+14:42
+Stan Lee
+币都黑了还要273万
+A
+14:42
+AA
+In reply to this message
+不用37
+木
+14:42
+木木虎
+可能17的时候就黑了
+A
+14:42
+AA
+都黑十多年了
+木
+14:42
+木木虎
+Sticker
+Not included, change data exporting settings to download.
+, 81.5 KB
+14:43
+劫匪看了都塞根烟
+A
+14:43
+AA
+两百多万这不立提一辆保时捷
+14:43
+还会缺女朋友？
+?
+14:44
+In reply to this message
+好歹可以写卡写eSIM了
+14:44
+而不是只能写个联通
+木
+14:44
+木木虎
+都两百多万了 成熟一点
+14:44
+保时捷不行
+14:44
+来个黑色系的商务车
+A
+14:44
+AA
+说实话，国行iPad到现在只能联通
+14:44
+垃圾的一笔
+Az
+14:45
+AAA z
+商务车 移动炮房？
+?
+14:45
+所以换成阿拉伯iPad mini6了
+14:45
+里面还送了个电话卡
+伍六
+14:45
+伍 六柒
+国行他们不是也给了教程写国外esim吗
+?
+14:45
+md 送给林文去电闸
+木
+14:45
+木木虎
+In reply to this message
+本拉登送你的吗
+A
+14:45
+AA
+100多个，剩下100多个可以在广东嫖到失联
+?
+14:45
+In reply to this message
+要用尾插阿
+14:45
+还只能联通
+木
+14:46
+木木虎
+In reply to this message
+从广东票到华盛顿
+伍六
+14:46
+伍 六柒
+我还以为三家通用了
+?
+14:46
+In reply to this message
+找了个米柜贩子
+14:46
+我问了他
+伍六
+14:46
+伍 六柒
+准备把三星换成air了
+?
+14:46
+认不认识淋彪
+A
+14:46
+AA
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+?
+14:46
+他说只打过林文
+木
+14:46
+木木虎
+Sticker
+Not included, change data exporting settings to download.
+, 15.2 KB
+RS
+15:11
+Rachel Sloan
+我不能说话吗
+15:12
+刚刚进来发个图片被踢了
+C
+15:22
+CT
+In reply to this message
+不要发图片
+15:22
+发英文
+RS
+15:25
+Rachel Sloan
+discriminate against new classmates
+A
+15:25
+AA
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+15:26
+挑衅机器人
+A
+15:28
+Arc
+In reply to this message
+3a8哦吉利
+cc
+15:29
+cap captain
+77的google voice能买不，还说带一个硅基流动
+i
+15:40
+incognito
+硅基流动是什么啊？
+蚊
+15:48
+蚊子酱
+In reply to this message
+这还有区别？
+cc
+15:49
+cap captain
+[]
+15:49
+怎么说
+15:49
+In reply to this message
+是个ai好像
+15:49
+不会玩
+B
+15:50
+Ben
+In reply to this message
+国内实名认证的AI API购买平台
+15:50
+Sticker
+Not included, change data exporting settings to download.
+, 8.0 KB
+15:50
+必须手机号注册，比如身份证实名，必须支付宝扫脸
+i
+15:51
+incognito
+那他还送？
+15:51
+料子的？
+B
+15:52
+Ben
+？
+伍六
+16:00
+伍 六柒
+In reply to this message
+有啊，迁移问题很多
+蚊
+16:00
+蚊子酱
+好吧，原来如此
+16:00
+我来研究下
+伍六
+16:00
+伍 六柒
+直接全新安装。再自己配置
+蚊
+16:00
+蚊子酱
+好呢
+伍六
+16:04
+伍 六柒
+estk明天出啥新品？
+16:04
+买一送二？
+i
+16:05
+incognito
+想的太多了
+Z
+16:05
+Z
+明天有新品？
+16:05
+真假的
+?
+16:05
+9.9estk么
+16:05
+启动
+16:06
+9.9蓝牙卡
+16:06
+Sticker
+Not included, change data exporting settings to download.
+, 41.6 KB
+伍六
+16:06
+伍 六柒
+In reply to this message
+那你在隔壁讲。差点就准备抢了
+16:08
+elink怎么又没货了
+M
+16:08
+ Maki
+In reply to this message
+性价比太高了
+16:08
+Sticker
+Not included, change data exporting settings to download.
+, 247.3 KB
+伍六
+16:15
+伍 六柒
+9esim那个蓝牙卡也有点想买，后期9.9换正式版是不是？
+16:15
+15号去大英。这几天要买的东西真鸡儿多
+蚊
+16:16
+蚊子酱
+In reply to this message
+我知道了
+16:17
+但是不能说
+16:17
+hhh
+Z
+16:17
+Z
+蓝牙？1GB存储？
+蚊
+16:17
+蚊子酱
+In reply to this message
+都没有
+16:17
+但是，可能，也许，会有点小惊喜？
+Z
+16:18
+Z
+期待下
+伍六
+16:19
+伍 六柒
+那就期待一下
+蚊
+16:20
+蚊子酱
+In reply to this message
+悄咪咪透个底
+SL
+16:20
+Stan Lee
+明天出？
+蚊
+16:20
+蚊子酱
+In reply to this message
+应该是明天
+B
+16:20
+Ben
+被逼的？
+16:21
+Sticker
+Not included, change data exporting settings to download.
+, 6.0 KB
+SL
+16:21
+Stan Lee
+In reply to this message
+透个底
+蚊
+16:21
+蚊子酱
+In reply to this message
+一个产品不可能凭空出现
+B
+16:21
+Ben
+也是
+蚊
+16:21
+蚊子酱
+早就有这个打算了吧
+B
+16:21
+Ben
+需要时间打磨
+蚊
+16:21
+蚊子酱
+e师傅尝试好几次这一块了
+16:21
+In reply to this message
+透了呀，性价比路线的
+B
+16:21
+Ben
+应该不会突然出现，可能早就布局的了
+16:22
+只是产能没跟上其他家
+蚊
+16:22
+蚊子酱
+明天这个产品
+16:22
+大胆猜测下
+16:22
+产能问题解决差不多了？
+伍六
+16:23
+伍 六柒
+In reply to this message
+10m 9.9！
+16:23
+哈哈哈
+SL
+16:23
+Stan Lee
+买不完，根本买不完
+蚊
+16:23
+蚊子酱
+In reply to this message
+10M芯片先不说有没有
+16:23
+sasup肯定不会9.9卖10m芯片
+16:23
+hh
+VL
+16:24
+Vitor Lee
+蚊子有定制吗
+伍六
+16:25
+伍 六柒
+@wenzijiang 你也去开一个esim品牌卖
+蚊
+16:25
+蚊子酱
+In reply to this message
+如果群友感兴趣的话
+16:25
+我明天让卡厂给我发
+16:25
+In reply to this message
+一直都有呀
+16:25
+蚊子就是品牌
+伍六
+16:25
+伍 六柒
+比他们少一块
+蚊
+16:25
+蚊子酱
+hhh
+伍六
+16:26
+伍 六柒
+你那个不是小白卡吗
+16:26
+第一张白卡就是你这买的
+蚊
+16:26
+蚊子酱
+In reply to this message
+之前代理过estk的，
+16:26
+以及，emmm，因为我主要卖批发的，所以才是小白卡
+16:26
+后续应该会单独拿一批彩卡给零售
+16:26
+印制logo
+伍六
+16:27
+伍 六柒
+做黑色卡面的，显得高级
+s
+16:28
+second
+黑金卡？
+蚊
+16:28
+蚊子酱
+In reply to this message
+这个有个问题，就是容易有指纹
+16:28
+不好打包
+伍六
+16:28
+伍 六柒
+带一次性手套
+蚊
+16:28
+蚊子酱
+得戴橡胶手套
+16:28
+一次性的打包不好用
+?
+16:29
+Sticker
+Not included, change data exporting settings to download.
+, 47.3 KB
+16:29
+退休大妈 工费+1
+咫
+16:29
+咫尺天涯
+Estk会有优惠吗？
+?
+16:29
+In reply to this message
+所以人还在么
+16:29
+哈哈哈哈
+蚊
+16:30
+蚊子酱
+In reply to this message
+[]
+我现在基本上都戴这种
+I
+16:30
+Ivanky
+180港币 官网max
+16:30
+有便宜的
+16:30
+医用的就行
+伍六
+16:31
+伍 六柒
+In reply to this message
+去pdd买便宜的
+咫
+16:31
+咫尺天涯
+哪里有便宜的美国虚拟号？
+蚊
+16:31
+蚊子酱
+In reply to this message
+因为没必要单独买
+?
+16:31
+In reply to this message
+gv
+蚊
+16:31
+蚊子酱
+打扫卫生、处理食品
+16:31
+都可以戴这个
+咫
+16:31
+咫尺天涯
+Gv注册tg秒死
+?
+16:32
+干黑灰产啊
+咫
+16:32
+咫尺天涯
+不是啊
+?
+16:32
+那直接gg
+伍六
+16:32
+伍 六柒
+In reply to this message
+要干这些那确实要好点的
+?
+16:32
+群主在等你
+i
+16:32
+incognito
+In reply to this message
+那是环境不行
+16:32
+我注册好几个了
+16:33
+每次有谣言我就注册个
+伍六
+16:33
+伍 六柒
+直接gg卡。充一次用十年
+咫
+16:33
+咫尺天涯
+Gv怎么过kyc的？
+i
+16:33
+incognito
+简
+16:33
+简
+In reply to this message
+山姆
+蚊
+16:33
+蚊子酱
+In reply to this message
+嗯呢
+16:33
+便宜量大
+AA
+16:36
+Ad Astra
+In reply to this message
+这个很好用，我一双能用一周……
+?
+16:36
+？？？
+16:36
+不是一次性的么
+I
+16:36
+Ivanky
+明天几点出新品？
+蚊
+16:37
+蚊子酱
+In reply to this message
+我基本上都当一次性的用，主要是手上出汗了或者沾水了很难脱
+S
+16:37
+Setup
+[]
+16:37
+奥特曼退钱
+AA
+16:37
+Ad Astra
+In reply to this message
+看用途，我打扫卫生冲一冲晾一下接着用～
+I
+16:38
+Ivanky
+https://euicc-manual.osmocom.org/docs/pki/eum/
+16:38
+Eid合集
+?
+16:38
+......................
+16:38
+丁腈 一次性就好了
+16:38
+不然加重污染
+AA
+AA
+16:38
+Ad Astra
+太过节约……
+?
+16:38
+那你直接买个棉手套
+16:38
+Sticker
+Not included, change data exporting settings to download.
+, 14.9 KB
+简
+16:39
+简
+做饭用必须一次性
+AA
+16:39
+Sticker
+Not included, change data exporting settings to download.
+, 72.1 KB
+AA
+16:39
+Ad Astra
+刷锅用来着
+B
+16:42
+Ben
+@i_i321
+16:42
+https://github.com/dou-jiang/codex-console
+G
+16:43
+GeneralPeople.
+嘿壳
+mr
+16:52
+mr rita
+redpocket有人用过吗，到底是个啥资费情况，有申请教程吗
+hp
+16:54
+hongyuan peng
+In reply to this message
+之前看到小红书
+16:55
+有人送手套，香港自取，好像是香港客服退货的
+乾坤
+17:06
+乾 坤
+In reply to this message
+我的还是0元，昨天刚刚出账单。
+纸旧
+17:06
+纸船 旧
+In reply to this message
+羡慕了
+17:06
+什么时候激活的
+乾坤
+17:07
+乾 坤
+In reply to this message
+年初吧
+B
+17:10
+Ben
+In reply to this message
+刚刚无意间翻到的，之前早就fork到仓库中的
+K
+17:16
+King
+In reply to this message
+这要什么教程，去ebay下单esim自己扫就行
+哎
+17:17
+哎呦喂
+In reply to this message
+先去官网注册redpocket账号
+17:17
+不好注册
+mr
+17:21
+mr rita
+In reply to this message
+资费感觉没人能说得清楚，那1GB的流量是每个月都有吗
+简
+17:22
+简
+mr
+17:22
+mr rita
+是一年1GB还是每个月
+17:22
+In reply to this message
+现在好像可以直接游客购买了
+K
+17:22
+King
+BUG，不抱着长期在的想法就行
+17:22
+每个月的
+简
+17:23
+简
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 9.8 KB
+哎
+17:23
+哎呦喂
+In reply to this message
+买了码还得去redpocket激活啊
+17:23
+没redpocket号怎么激活
+简
+17:24
+简
+In reply to this message
+去YouTube搜个教程去看看吧
+mr
+17:24
+mr rita
+是的，正在看
+17:24
+但是博主也说不确定是每个月1GB还是一次性
+简
+17:25
+简
+Sticker
+Not included, change data exporting settings to download.
+, 9.8 KB
+mr
+17:27
+mr rita
+[]
+17:27
+17:30
+[]
+意思是在国内用的话，有每个月1GB流量，收100条短信，打100分钟的+86电话？
+A
+17:31
+AA
+你去问博主啊，谁让你买你问谁
+cc
+17:32
+cap captain
+他还送我一个11个月的nat机唉
+mr
+17:32
+mr rita
+有正在用redpocket卡的吗，50r红包，有偿咨询
+A
+17:32
+AA
+你们觉得好就买
+简
+17:34
+简
+t
+tnt 06.05.2026 17:34:12
+Animation
+Not included, change data exporting settings to download.
+766.2 KB
+mr
+17:36
+mr rita
+In reply to this message
+那请问下这100分钟能打国内+86吗？
+A
+17:36
+AA
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+L
+17:45
+L.L.
+问一下现在gg是什么价位了
+S
+17:45
+Setup
+free
+S
+17:45
+Setup
+E
+Esim.Kim中文交流群 30.01.2026 05:07:16
+[]
+购买 giffgaff 充10GBP得20GBP 私聊 小学生
+可以免收实体卡协助接码转eSIM二维码，没有信用卡可以找我购买10GBP充值券(有效期180天)支持全程代充值激活
+K
+17:49
+King
+别扰乱市场
+JC
+17:49
+Jack Chung
+In reply to this message
+打+86你想封号？
+K
+17:49
+King
+明明一百
+K
+17:49
+King
+奶
+奶昔论坛推送频道 06.05.2026 04:31:09
+出全新英国giffgaff空白卡
+> 锦衣卫 in #通信
+    手里还有5张全新giffgaff空白卡，有需要的可以联系我，100一张包邮。
+    [attach]13037[/attach]
++-----------------------------------------------------------------------+
+| 快速回复                                                              |
+|                                                                       |
+| 查看帖子                                                              |
++-----------------------------------------------------------------------+
+S
+17:49
+Setup
+Sticker
+Not included, change data exporting settings to download.
+, 233.4 KB
+17:49
+也就坑坑小白了
+mr
+17:49
+mr rita
+In reply to this message
+打国内号还会封号？
+S
+17:49
+Setup
+尊重他人命运
+s
+17:50
+second
+100你开银行估计会快点
+mr
+17:50
+mr rita
+封红包卡还是+86啊
+简
+17:50
+简
+Sticker
+Not included, change data exporting settings to download.
+, 72.1 KB
+M
+17:51
+ Maki
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 238.5 KB
+詩​
+17:52
+詩音 ​姫宮 (⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧
+勾结境外势力的说
+L
+17:52
+L.L.
+有两张德国沃达丰，最近看gg充10送10有点像搞张
+mr
+17:52
+mr rita
+Sticker
+Not included, change data exporting settings to download.
+, 6.6 KB
+M
+17:52
+ Maki
+M
+ Maki 06.05.2026 17:30:45
+giffgaff现在充10磅给20磅余额
+17:52
+有人实测10+5磅(aff)余额申请退款到账15磅
+17:52
+那么理论上你开一个giffgaff再申请退款就可以白赚10磅
+JC
+17:52
+Jack Chung
+In reply to this message
+要封肯定红包封你，目前漫游能打+86的，没几个卡可以，即便你愿意付钱
+K
+17:53
+King
+快去试试，成功了发教程
+木
+17:59
+木木虎
+In reply to this message
+奶昔论坛现在很多傻逼
+17:59
+卖东西卖个天价
+17:59
+和一些
+17:59
+Sticker
+Not included, change data exporting settings to download.
+, 81.5 KB
+17:59
+我好久没上论坛了
+E
+18:00
+Esim.Kim
+ 今日发言排行榜 
+ 今日发言不够给力，本轮奖励轮空
+ 第1名 - 发言 115 条
+ 第2名 - 发言 94 条
+ 第3名 - 发言 88 条
+ 第4名 - 发言 80 条
+ 第5名 - 发言 79 条
+ 第6名 - 发言 73 条
+ 第7名 - 发言 66 条
+ 第8名 - 发言 64 条
+ 第9名 - 发言 42 条
+ 第10名 - 发言 42 条
+ 因无人发言达到 300 条消息，本轮奖励轮空，请继续努力！
+B
+18:00
+Ben
+Sticker
+Not included, change data exporting settings to download.
+, 23.2 KB
+18:00
+100一张包邮
+18:00
+哪个老阴b卖的
+18:00
+肯定在群里
+K
+18:01
+King
+Sticker
+Not included, change data exporting settings to download.
+, 18.3 KB
+A
+18:37
+AA
+一个愿打一个，一个愿挨
+18:37
+想买就买
+小
+18:55
+小学生
+愿意买的人自然是没有更便宜的渠道
+18:56
+不像群友人均白嫖怪
+18:56
+In reply to this message
+你去拿你靓号试试，说不定还给你靓号补贴
+A
+18:57
+AA
+这都是你带的兵啊
+18:57
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+C
+19:00
+CT
+A
+AA 06.05.2026 18:57:38
+这都是你带的兵啊
+Z
+19:05
+Z
+不如呲地上
+B
+19:12
+Ben
+CTE的号别有事没事转入
+19:13
+我号转入到CTE后很多APP下发验证码都收不到
+今
+19:16
+今天太忙
+TG收不到验证码，感觉是TG根本没发送，不是发了没收到。
+米
+19:19
+米哈游
+什么号收不到
+19:19
+一般都是自己的问题
+大
+19:29
+大力
+Animation
+Not included, change data exporting settings to download.
+766.2 KB
+19:30
+跟大佬们学习
+19:30
+如何当一个合格的白嫖怪。
+小
+19:38
+小学生
+发裸照白嫖贷款，然后随便买买买
+A
+cc
+19:42
+cap captain
+各位买实体esim卡都是用的啥多少钱呀
+B
+19:43
+Ben
+9.9小白YYDS
+19:43
+今年过年不收礼，收礼还收小白卡
+冲
+19:44
+冲浪屌鹰
+In reply to this message
+不如英雄贷
+19:44
+逾期直接上of
+cc
+19:44
+cap captain
+In reply to this message
+gg能绑不
+19:45
+话说esim能转不
+19:45
+一直想买张9esim
+小
+19:45
+小学生
+等靓仔百年大寿的时候送吧
+19:46
+能免费领为什么要花钱
+米
+19:46
+米哈游
+建议estk
+19:46
+9eism也没便宜多少
+19:46
+120
+19:46
+那索性就加到estk
+cc
+19:46
+cap captain
+谁更牛逼点
+米
+19:47
+米哈游
+要么最便宜的，要么最贵的 别买卡在中间的
+VL
+19:47
+Vitor Lee
+明天estk要上新品不是
+cc
+19:47
+cap captain
+我看淘宝都200多了
+19:47
+我一直以为9esim最牛逼
+19:47
+我看能写50张卡
+I
+19:49
+Ivanky
+看看明天新品情况
+19:49
+不会便宜应该
+米
+19:49
+米哈游
+买最好的 永久点更好
+19:49
+我也是9esim 没法换了
+19:49
+换卡 里面所有的卡都要换设备
+VL
+19:49
+Vitor Lee
+蚊子都说性价比了肯定是便宜
+米
+19:49
+米哈游
+写进去 基本就不能换了
+19:50
+那就挑最便宜的呗
+VL
+19:50
+Vitor Lee
+实用性来说，estk金手指比较耐操，有经常插拔用途首选estk
+米
+19:51
+米哈游
+肯定是图长久
+19:51
+炸过卡就明白了 麻烦
+19:51
+其实也不知道 寿命能多久
+VL
+19:52
+Vitor Lee
+炸卡就是玄学了
+19:52
+啥时候炸，也没人能知道
+米
+19:53
+米哈游
+各种奇怪原因 都能炸
+19:53
+还有把卡弄坏的
+VL
+19:53
+Vitor Lee
+这个选哪家都差不多
+米
+19:53
+米哈游
+使用寿命没法说
+小
+19:53
+小学生
+不买立省
+米
+19:54
+米哈游
+estk 也不一定 能比9esim长
+小
+19:54
+小学生
+VL
+19:54
+Vitor Lee
+对，芯片寿命不可预测
+I
+19:54
+Ivanky
+estk官网标注99%
+米
+19:54
+米哈游
+往远考虑 五年十年呢
+19:54
+肯定是买好的
+VL
+19:55
+Vitor Lee
+...还会突然被禁言
+I
+19:56
+Ivanky
+现在只有 max有货
+19:56
+估计会出个400-500kib的
+VL
+19:57
+Vitor Lee
+可能出个1M单esim芯，400～500太常规
+米
+19:58
+米哈游
+那也没法换了
+I
+19:58
+Ivanky
+定价呢
+19:58
+不好定
+米
+19:58
+米哈游
+卡都写完了 没个换
+I
+19:58
+Ivanky
+现在max 180港币优惠
+米
+19:58
+米哈游
+等9月份 看看18
+19:59
+弄原生esim吧还是
+VL
+19:59
+Vitor Lee
+搞来搞去原生才是终解，炸了也只能怪自己运气不好，没得挑
+I
+20:00
+Ivanky
+搞卡之前看一下最好，能转移最好
+20:00
+不过一次性的流量卡 就不行了
+cc
+20:01
+cap captain
+这几天地平线6发售卖cdk赚了不少
+20:01
+所以还是estk好吗
+A
+20:01
+Arc
+In reply to this message
+是
+VL
+20:01
+Vitor Lee
+原生最好
+cc
+20:02
+cap captain
+自带的话一般几个号
+米
+20:02
+米哈游
+等18出了看看
+I
+20:02
+Ivanky
+max的双eid是一样的吗？两个eid一样？
+米
+20:02
+米哈游
+估计也要一万多
+cc
+20:02
+cap captain
+各国就没有像voice这样的0月租号吗
+米
+20:03
+米哈游
+求稳定的话 去香港买个17pm
+cc
+20:03
+cap captain
+能收短信
+VL
+20:03
+Vitor Lee
+In reply to this message
+双胞胎身份证能一样？
+米
+20:03
+米哈游
+比18好
+I
+20:03
+Ivanky
+我说品牌
+VL
+20:03
+Vitor Lee
+那肯定是
+I
+20:04
+Ivanky
+都是thales 89033023
+20:04
+808 K x 2
+cc
+20:04
+cap captain
+买最牛逼的plus吗
+I
+20:04
+Ivanky
+别看淘宝
+20:04
+看官网
+20:05
+https://store.estk.me/
+A
+20:05
+Arc
+In reply to this message
+地址都露了
+VL
+20:05
+Vitor Lee
+这种淘宝是给estk做客服赚差价吧
+cc
+20:06
+cap captain
+能寄到内地不
+20:06
+In reply to this message
+谢谢
+I
+20:06
+Ivanky
+能
+VL
+20:06
+Vitor Lee
+estk就是深圳发货
+I
+20:07
+Ivanky
+[]
+cc
+20:07
+cap captain
+9esim不是说准备出蓝牙写卡
+I
+20:07
+Ivanky
+eid是关键
+VL
+20:07
+Vitor Lee
+安卓影响不大
+I
+20:07
+Ivanky
+estk的eid独一档
+A
+20:08
+Arc
+加上优惠码就190hkd 普快
+cc
+20:08
+cap captain
+明天啥卡出新来着？
+VL
+20:08
+Vitor Lee
+说的好像9e的89044还有第二档？
+cc
+20:08
+cap captain
+给个优惠码
+I
+20:08
+Ivanky
+要是双eid 一个是苹果eid 一个是谷歌的eid更完美了 兼容无敌
+B
+20:09
+Ben
+我也想买皮鞋eid
+cc
+20:09
+cap captain
+In reply to this message
+这又是啥
+A
+20:09
+Arc
+In reply to this message
+nekoko naixi
+20:10
+Sticker
+Not included, change data exporting settings to download.
+, 21.7 KB
+I
+20:10
+Ivanky
+咸鱼就能买
+20:11
+好像还是平价
+A
+20:11
+Arc
+In reply to this message
+171还是挺便宜的
+I
+20:11
+Ivanky
+闲鱼也是170
+20:11
+吃优惠码的？
+A
+20:12
+Arc
+[]
+7
+I
+20:13
+Ivanky
+看看明天新品上市
+20:13
+来一波折扣就好了
+A
+20:13
+Arc
+In reply to this message
+9.9拿下estk max
+cc
+20:14
+cap captain
+优惠码填啥
+20:15
+话说你们平时用国外卡干啥
+20:15
+我就想玩玩和注册一些国外社交软件
+B
+20:16
+Ben
+[]
+VL
+20:17
+Vitor Lee
+In reply to this message
+当然是干黑产
+B
+20:17
+Ben
+7年了，这个机器的电池依然抗造
+20:17
+上周六冲满电。到现在还剩66%
+A
+20:18
+AA
+任你们冲estk和9esim，还是便宜大碗的东信适合我
+20:18
+Sticker
+Not included, change data exporting settings to download.
+, 80.9 KB
+20:19
+镀金也没用，该炸还是炸
+VL
+20:20
+Vitor Lee
+哈哈，可惜不再有樱花卡了
+B
+20:20
+Ben
+贱卖
+20:20
+[]
+A
+20:20
+AA
+现在几百？
+B
+20:21
+Ben
+400
+I
+20:21
+Ivanky
+大宝贝来了
+A
+20:21
+AA
+？
+I
+20:21
+Ivanky
+我现在拔电池 直供电
+A
+20:21
+AA
+昨天不还是350
+I
+20:21
+Ivanky
+24小时在线
+A
+20:21
+AA
+还涨价
+B
+20:21
+Ben
+嗯
+A
+20:21
+AA
+贱卖个鬼
+A
+20:21
+Arc
+In reply to this message
+电闸
+大
+20:21
+大力
+苹果登录tg 切后台这几天没有信息通知？
+cc
+20:21
+cap captain
+这啥随身wifi
+20:22
+In reply to this message
+不是，你们认真的？
+B
+20:22
+Ben
+In reply to this message
+U30air全球版
+大
+20:23
+大力
+In reply to this message
+来个大佬教下如何解决
+20:23
+有偿
+20:24
+Animation
+Not included, change data exporting settings to download.
+766.2 KB
+B
+20:24
+Ben
+没有信息还不好呀
+20:24
+我之前都一直烦
+A
+20:24
+AA
+我永远关闭tg的通知
+大
+20:24
+大力
+不是，有时候重要的信息 会错过了哇
+20:25
+不重要的 我都是直接屏蔽的。
+A
+20:25
+AA
+你不干电闸，有什么重要信息
+20:25
+笑死
+大
+20:25
+大力
+Sticker
+Not included, change data exporting settings to download.
+, 8.0 KB
+C
+20:26
+Conan
+搓个小工具，头一回搓到token用光的，干
+B
+20:26
+Ben
+In reply to this message
+啥工具
+20:27
+我靠？TG有关呀
+C
+20:27
+Conan
+数据太多了，没先本地向量，直接干没了
+20:28
+In reply to this message
+像做个省流的工具，直接总结信息，还能向量知识库
+A
+20:29
+AA
+弄个机器人丢群里不就得了
+C
+20:30
+Conan
+那样也烧
+小
+20:31
+小学生
+In reply to this message
+你搞的机器人也废了？
+B
+20:31
+Ben
+In reply to this message
+我还没开始搞呀
+20:31
+我在搞我的商城
+20:32
+想搞的太多，排期
+小
+20:32
+小学生
+你这业务多
+20:32
+都是大项目
+A
+20:32
+AA
+小
+小学生 06.05.2026 20:32:20
+你这业务多
+C
+20:40
+Conan
+[]
+GCP封的有点厉害
+不
+20:41
+不听不听
+In reply to this message
+干啥了这是
+B
+20:42
+Ben
+谷歌我有阴影了
+20:42
+现在打死我我也不嫖他
+20:42
+我大号欠费几十刀
+不
+20:43
+不听不听
+不是挺好用的吗？GCP我蹬满300刀也没出意外
+C
+20:43
+Conan
+我没一个能嫖满300的
+20:43
+20:43
+In reply to this message
+不
+20:44
+不听不听
+我开了几个服务器，然后跑ai，蹬满了
+cc
+20:44
+cap captain
+要激活giffgaff的话必须全程挂uk ip？
+不
+20:44
+不听不听
+钱也退回来了
+C
+20:45
+Conan
+算了，不弄了，明天有精神再弄了。
+B
+20:55
+Ben
+20:55
+谷歌账号金贵
+米
+20:58
+米哈游
+Sticker
+Not included, change data exporting settings to download.
+, 231.8 KB
+木
+23:08
+木木虎
+In reply to this message
+我吧唧看成几十万了
+23:08
+Sticker
+Not included, change data exporting settings to download.
+20.6 KB
+7 May 2026
+今
+00:34
+今天太忙
+问下大家，香港号码转到Club sim，是不是需要先在club
+sim开一张esim卡并激活，然后再转入老号码/覆盖新开的esim，是这个流程吗，没有弄过所以问问，还有转入有手续费吗？
+赛
+00:56
+赛小西
+In reply to this message
+香港转号得俩个号码实名都一样
+今
+01:08
+今天太忙
+In reply to this message
+是要弄两个号码，转过去替换掉一个是吧
+01:08
+实名是一样的
+赛
+01:08
+赛小西
+In reply to this message
+是
+01:09
+那就开一个然后携号转网过去
+01:09
+[]
+今
+01:09
+今天太忙
+In reply to this message
+还有没有其他费用，只有一个新号的费用吗
+赛
+01:10
+赛小西
+转网应该是是不要钱的就一个开卡的套餐费和以后保号的费用
+今
+01:11
+今天太忙
+好的谢谢
+赛
+01:11
+赛小西
+你还要保证你的卡里除了套餐还要有几港币验证
+今
+01:11
+今天太忙
+In reply to this message
+那个注明书是啥东西
+赛
+01:12
+赛小西
+你的实名
+01:12
+申请人名字吧可能
+木
+01:12
+木木虎
+club携号转网要68
+赛
+01:12
+赛小西
+签那个合同
+01:12
+这么黑
+伍六
+01:12
+伍 六柒
+不如转csl
+赛
+01:12
+赛小西
+那就多充点吧
+睡不
+01:24
+睡觉 不定时
+tnt这么早
+01:28
+实体卡？
+01:32
+淘宝看699
+BR
+01:35
+Been Reall
+In reply to this message
+哪来的消息啊
+赛
+01:48
+赛小西
+In reply to this message
+行
+今
+01:53
+今天太忙
+In reply to this message
+这样看，还是万能卡好啊。
+Z
+01:57
+Z
+确实不如 3 万
+伍六
+02:04
+伍 六柒
+estk怎么还没上活动，都8点了
+i
+02:05
+incognito
+别急，word很长
+02:05
+02:09
+都是八点上班的
+?
+02:12
+𝓓𝓸𝓶𝓲𝓷𝓼𝓪𝓿𝓲𝓸
+In reply to this message
+clubsim能转C的3万吗
+02:14
+入口在哪里，MY3 app吗还是得线下
+SL
+02:16
+Stan Lee
+In reply to this message
+有3万能的号码，然后去simworld app转网
+02:16
+输入clubsim的号码，接个验证码
+02:17
+选个时间等着就好了
+Z
+02:32
+Z
+最近香港是不是没有 csl 领卡活动了
+02:32
+我看五一的时候活动一堆呀
+02:32
+SL
+02:33
+Stan Lee
+In reply to this message
+什么时候飞HK
+Z
+02:36
+Z
+月中吧
+02:37
+来都来了 再去趟澳门开一下蚂蚁银行和 ctm 吧
+l
+02:41
+lujw
+价格
+Z
+02:54
+Z
+[]
+02:54
+来香港买SIM卡就看这篇文 直接进入正题 ①中国移...
+http://xhslink.com/o/9ByTDcc11cP
+Copy and open rednote to view the note
+02:54
+这篇文章写的不错呀
+SL
+03:10
+Stan Lee
+到香港了
+j
+03:10
+jiong
+In reply to this message
+增值csl一年存20港元就可以保号
+03:10
+这不是神卡了
+03:11
+club也不行啊
+03:12
+是不是只有实体卡
+Z
+03:14
+Z
+可以转 esim
+03:14
+我现在觉得实体卡也蛮好用的
+03:15
+反正只保号
+j
+03:15
+jiong
+没那么多设备放
+SL
+03:15
+Stan Lee
+一个手机，实体卡换卡太麻烦
+j
+03:15
+jiong
+csl的号码干净度肯定比club号
+03:15
+这个玩意必须先买实体卡
+j
+03:19
+julia
+In reply to this message
+咋申请退款
+Z
+03:19
+Z
+谷歌
+VT
+03:24
+Vick Tang
+In reply to this message
+认真的吗兄弟 不是段子？
+03:24
+Sticker
+Not included, change data exporting settings to download.
+, 23.3 KB
+j
+03:24
+jiong
+真的假的
+SL
+03:25
+Stan Lee
+段子
+QW
+03:26
+Qiang Wang
+club可以线上esim转设备，一年免费一次
+03:27
+前两天刚从手机转9e上
+j
+03:27
+jiong
+In reply to this message
+以前送50ios卡确实值
+03:28
+50苹果卡直接咸鱼就能转手
+伍六
+03:31
+伍 六柒
+In reply to this message
+20买两张，现在
+简
+03:31
+简
+In reply to this message
+让她把孩子生下来
+Z
+03:32
+Z
+In reply to this message
+有没有教程
+QW
+03:33
+Qiang Wang
+前段免费送，去指定店，拍照打卡送好卡
+03:33
+号
+j
+03:34
+jiong
+这不就是给离的进的五一白嫖活动
+M
+03:35
+Morty
+estk 今天要出什么
+伍六
+03:43
+伍 六柒
+In reply to this message
+好像是在奶昔论坛吧，直接搜一下。
+03:43
+我也是昨天无意间刷到，看了一下。
+j
+03:55
+jiong
+clubsim保号直接课易金充值apple余额
+03:55
+这个优势还是大
+03:55
+一年冲50港元就行了
+W
+03:59
+William
+In reply to this message
+你觉得呢
+04:00
+tnt群里段子王
+ca
+04:00
+cba a
+In reply to this message
+我呢？
+04:01
+坦克王吗
+04:01
+Sticker
+Not included, change data exporting settings to download.
+, 31.2 KB
+I
+04:01
+IOS
+In reply to this message
+早就没了
+j
+04:03
+jiong
+好吧
+04:03
+也就说csl才是目前最合适的？
+SL
+04:17
+Stan Lee
+CSL在整顿实名登记？
+SL
+04:17
+Stan Lee
+?
+SIM储值卡 07.05.2026 03:52:36
+[]
+本港部分運營商打擊同一人多ID實名登記儲值卡.
+使用多證件部分人士會被停止服務.
+儲值卡無法接入信號.
+HKID持有人只能選擇HKID登記儲值卡
+護照/通行證只能二選一
+HKID用戶不能使用護照及其他證件實名.
+每个人最多登記10張儲值卡
+Clubsim/CSL可以下網站自查及更新
+https://rnr.hkcsl.com/clubsim_update
+#儲值卡實名
+ca
+Z
+04:20
+Z
+我 clubsim 两张都打算注销了
+04:20
+没啥用
+SL
+04:23
+Stan Lee
+clubsim早就全部注销了
+04:24
+还有两个3HK号，一个cuniqhk
+Z
+04:25
+Z
+用身份证kyc的，有效期到9月6日，带20的话费和14G的永久流量，。
+tg用户名: @eskimo8408
+04:25
+别等下又是骗子
+04:25
+奶昔看到的
+SL
+04:25
+Stan Lee
+到时候转个3hk到cmhk
+Z
+04:25
+Z
+羡慕上台
+SL
+04:25
+Stan Lee
+In reply to this message
+刚才也看到了
+04:25
+In reply to this message
+不上台
+Z
+04:25
+Z
+mysim 吗
+SL
+04:25
+Stan Lee
+对
+04:25
+要去线下
+04:26
+而且3hk转mysim, 只能转到新开mysim,不能转到老的mysim
+j
+04:26
+jiong
+In reply to this message
+hk的银行不就要本地电话号码
+SL
+04:27
+Stan Lee
+In reply to this message
+不用呀，86也可以
+j
+04:27
+jiong
+全支持86？
+SL
+04:27
+Stan Lee
+都支持
+04:27
+而且有些你不用86还会问你为什么会有852
+j
+04:28
+jiong
+隔太远还没去办港行
+04:28
+In reply to this message
+方便追税
+04:28
+cn和us都是全球税
+QW
+04:29
+Qiang Wang
+刚进小黑屋了，
+法
+04:29
+法老-英国
+主要还是钱少
+04:30
+你银行放1000万进去 不会问你这些
+M
+04:30
+ Maki
+In reply to this message
+找客服
+冲
+04:30
+冲浪屌鹰
+我hk银行改+852还tm问我为什么
+04:31
+我开汇立问我为什么要用+852
+SL
+04:31
+Stan Lee
+In reply to this message
+一样，welab开户就问
+QW
+04:31
+Qiang Wang
+问下haha卡，陌生电话多，拒接扣费，能避免吗，
+冲
+04:31
+冲浪屌鹰
+招商永隆还要我上台合同
+j
+04:31
+jiong
+In reply to this message
+cn是资本获利税20%
+冲
+04:31
+冲浪屌鹰
+屌毛中的屌毛
+04:32
+[]
+喜欢我ibkr文锦渡禁区+日本税号吗
+04:32
+[]
+SL
+04:32
+Stan Lee
+招商永隆还是86，不管了
+A
+04:32
+AI订阅中心
+有比狐蒂云更掉毛的吗
+j
+04:32
+jiong
+In reply to this message
+不接要不挂
+冲
+04:34
+冲浪屌鹰
+我之前cthk一堆诈骗电话，我直接聊半小时一小时，然后问他
+j
+04:34
+jiong
+In reply to this message
+牛逼
+?
+04:34
+Budget233
+In reply to this message
+放着就行了
+04:34
+自己摁就扣钱
+冲
+04:34
+冲浪屌鹰
+搞什么转接96110
+04:34
+我就聊
+04:34
+最后问他
+你觉得习近平修改宪法连任，是不是违法
+ca
+04:34
+Sticker
+Not included, change data exporting settings to download.
+, 5.0 KB
+QW
+04:34
+Qiang Wang
+打到不到一分钟对方自动挂了，对方自动回复
+j
+04:35
+jiong
+法都改了
+04:35
+都是合法的
+冲
+04:35
+冲浪屌鹰
+Sticker
+Not included, change data exporting settings to download.
+, 69.1 KB
+04:35
+然后对面挂了 清净好几天
+04:35
+然后又打，继续来
+j
+04:35
+jiong
+坐等果18发布
+QW
+04:35
+Qiang Wang
+以前接过一个，一分钟扣我5元还是8元，忘记了
+ca
+04:35
+cba a
+In reply to this message
+过会毛式老腊肉来收房子了
+04:35
+Sticker
+Not included, change data exporting settings to download.
+, 31.2 KB
+j
+04:35
+jiong
+然后去hk自提背回来
+冲
+04:38
+冲浪屌鹰
+直接去卖鸭街去买有锁鸡
+04:38
+比华强北便宜
+j
+04:39
+jiong
+远了
+04:39
+我内地
+?
+04:39
+Budget233
+In reply to this message
+有没有卖安卓的
+QW
+04:40
+Qiang Wang
+In reply to this message
+是，刚用不知道，话费自动扣。看起来无法避免，应该是回收号
+?
+04:40
+Budget233
+In reply to this message
+我也中了一次
+j
+04:41
+jiong
+如果港行支持86
+冲
+04:41
+冲浪屌鹰
+要不，咱上台个cmhk或者cuniq
+j
+04:41
+jiong
+港区号码没意思
+冲
+04:41
+冲浪屌鹰
+Sticker
+Not included, change data exporting settings to download.
+, 69.1 KB
+j
+04:41
+jiong
+限制不比86少
+cc
+04:41
+cap captain
+不是说今天有新实体esim发售吗
+SL
+04:44
+Stan Lee
+让estkme给你开个发布会
+j
+04:44
+jiong
+estk不是下载那个报错
+04:45
+o2还那个
+04:45
+记不清了
+冲
+04:45
+冲浪屌鹰
+In reply to this message
+e师傅开不起发布会
+伍六
+05:17
+伍 六柒
+现在苹果手机tg没有后台通知了，真鸡儿麻烦
+j
+05:18
+jiong
+好像是海外应用全没了
+05:18
+接近办法就是apple id换外区
+05:18
+流量换外区
+伍六
+05:18
+伍 六柒
+In reply to this message
+是吗
+j
+05:18
+jiong
+然后就正常推送了
+伍六
+05:18
+伍 六柒
+流量挂梯子？
+j
+05:18
+jiong
+你试一试呗
+05:18
+应该是这样的
+SL
+05:19
+Stan Lee
+一直用外区ID
+伍六
+05:19
+伍 六柒
+In reply to this message
+有通知吗
+SL
+05:20
+Stan Lee
+我不开TG通知的
+伍六
+05:20
+伍 六柒
+有的话我也把设置里的换一下
+A
+05:20
+AA
+SL
+Stan Lee 07.05.2026 05:20:09
+我不开TG通知的
+S
+05:20
+Star
+一般人不开
+05:20
+干黑灰的要开
+05:20
+所以他们比较急
+j
+05:20
+jiong
+外区id+境外网络就正常
+05:20
+已经给你说很清楚了
+05:21
+cn苹果断了境外app的推送
+?
+05:22
+本来就是一个bug
+05:22
+只是终于修复了
+05:22
+Sticker
+Not included, change data exporting settings to download.
+, 14.9 KB
+j
+05:22
+jiong
+不得不承认
+05:23
+你的理解完全正常
+05:23
+而且认证很到位
+05:23
+以前让你收到就是一个bug
+05:23
+原本就不应该收到
+A
+05:33
+AA
+真被你买到小黑的了？
+KM
+05:33
+K Mox 𝕏⁠⁠⁠⁠⁠ ⁧
+In reply to this message
+奶昔论坛收的？
+A
+05:34
+AA
+牛逼
+QW
+05:34
+Qiang Wang
+测个速
+SL
+05:35
+Stan Lee
+In reply to this message
+换移动
+05:35
+测个速
+KM
+05:36
+K Mox 𝕏⁠⁠⁠⁠⁠ ⁧
+In reply to this message
+多少收？
+SL
+05:36
+Stan Lee
+200块收的吧
+05:36
+论坛上看到了
+QW
+05:36
+Qiang Wang
+可以，就拍被找回
+KM
+05:36
+K Mox 𝕏⁠⁠⁠⁠⁠ ⁧
+Sticker
+Not included, change data exporting settings to download.
+, 11.7 KB
+SL
+05:37
+Stan Lee
+去趟沃门这么难？
+QW
+05:37
+Qiang Wang
+用到那算那，剩了路费
+KM
+05:37
+K Mox 𝕏⁠⁠⁠⁠⁠ ⁧
+In reply to this message
+线上过户么
+A
+05:37
+AA
+去趟澳门这么难？
+QW
+05:37
+Qiang Wang
+省
+A
+05:37
+AA
+tnt是不是在澳门得罪了赌场老大
+KM
+05:38
+K Mox 𝕏⁠⁠⁠⁠⁠ ⁧
+A
+AA 07.05.2026 05:37:56
+tnt是不是在澳门得罪了赌场老大
+SL
+05:38
+Stan Lee
+In reply to this message
+不能过户
+SL
+05:39
+Stan Lee
+A
+AA 07.05.2026 05:37:56
+tnt是不是在澳门得罪了赌场老大
+SL
+05:39
+Stan Lee
+200块也值，省了路费
+05:40
+就是不知道能用多久
+A
+05:40
+AA
+期待被找回
+05:40
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+SL
+05:40
+Stan Lee
+A
+AA 07.05.2026 05:40:49
+期待被找回
+QW
+QW
+05:41
+Qiang Wang
+测速看看
+SL
+05:42
+Stan Lee
+测个速1个G没了
+QW
+05:42
+Qiang Wang
+没开漫游
+05:43
+上面的图
+KM
+05:43
+K Mox 𝕏⁠⁠⁠⁠⁠ ⁧
+In reply to this message
+mo都不行？
+W
+05:43
+William
+没用的香港号又多了四个
+j
+05:43
+jiong
+100带多少流量？
+05:43
+找回没必要了把
+05:43
+100米而已
+05:43
+这都找回？
+SL
+05:43
+Stan Lee
+In reply to this message
+那不知道了
+KM
+05:44
+K Mox 𝕏⁠⁠⁠⁠⁠ ⁧
+In reply to this message
+有钱就行了
+QW
+05:44
+Qiang Wang
+卡还没到手吧，
+SL
+05:44
+Stan Lee
+[]
+是不是这个
+05:44
+In reply to this message
+esim呀
+A
+05:45
+AA
+In reply to this message
+找回继续卖钱啊，空手套白狼
+QW
+05:47
+Qiang Wang
+激活码放失效了
+05:47
+[]
+j
+05:47
+jiong
+100米漫游14g
+05:47
+还算可以
+Z
+05:47
+Z
+说不定和 350 的是一个人
+j
+05:48
+jiong
+但是100米都找回
+05:48
+我觉得还不如去hk当乞丐要饭
+05:48
+都比这100米赚的多
+Z
+05:48
+Z
+In reply to this message
+羡慕 4a
+A
+05:48
+AA
+怎么可能100米卖给你
+Z
+05:48
+Z
+黑产都没有 william 有钱
+QW
+05:49
+Qiang Wang
+In reply to this message
+不贵，
+A
+05:49
+AA
+14个g多测一下
+05:49
+一会就没了
+j
+05:49
+jiong
+你买的时候也知道是一次性？
+05:49
+额
+K
+05:50
+King
+In reply to this message
+是不是未激活接码过
+QW
+05:50
+Qiang Wang
+昨天试了，失效了
+j
+05:50
+jiong
+In reply to this message
+有可能把
+QW
+05:50
+Qiang Wang
+放了两年
+j
+05:50
+jiong
+反正不便宜
+Next messages
