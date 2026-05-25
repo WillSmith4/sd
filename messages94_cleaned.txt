@@ -1,0 +1,3544 @@
+Esim.Kim中文交流群
+Previous messages
+26 January 2026
++H
+17:02
++01H H
+什么时候我也能中呀？
+YP
+17:02
+Yūkishirō Plēnīlūne
+第一天抽这个
+17:03
+明天再来
+17:03
+[]
+17:03
+今天补测了一下Globe和Smart的Vowifi
+17:07
+In reply to this message
+这个瑞士运营商的要不要代理蜂窝网络我还真不知道
+M
+17:07
+ Maki
+Sticker
+Not included, change data exporting settings to download.
+, 34.0 KB
+YP
+17:07
+Yūkishirō Plēnīlūne
+手头没有瑞士的VPS
+17:07
+In reply to this message
+这b玩意太冷门了 冷门到应该95%以上的机场都没这节点
+17:08
+In reply to this message
+club是可以这么拉 csl的话据说有些卡拉不了
+17:08
+不知道
++H
+17:09
++01H H
+In reply to this message
+不是可以用读卡器删除就好了吗？
+17:09
+哪有那么容易报废？
+B
+17:10
+Blue Archive！
+In reply to this message
+送我
+YP
+17:10
+Yūkishirō Plēnīlūne
+In reply to this message
+送你什么
++H
+17:10
++01H H
+In reply to this message
+什么
+YP
+17:10
+Yūkishirō Plēnīlūne
+In reply to this message
+塞浦路斯 斯洛文尼亚都有，也没瑞士
+17:10
+看样子真是冷得要死
++H
+17:11
++01H H
+In reply to this message
+我的只有 60 多个，不过我不用机场现在
+B
+17:11
+Blue Archive！
+In reply to this message
+不知道
++H
+17:11
++01H H
+现在那种卡这么容易炸吗？
+17:11
+不是直接删除就好了吗？
+17:11
+怎么一直说炸来炸去的
+17:12
+认证失败不影响下载呀，换个卡就行了呀
+17:12
+除非运营商卡你
+17:13
+Deleted Account
+[]
+法
+17:13
+法老-英国
+炸卡炸卡
+17:14
+Deleted Account
+我的写卡就是这
++H
+17:14
++01H H
+一般怎么样才会炸卡呀？我还没遇到呢
+17:14
+Deleted Account
+扫过一次的报错了
+17:14
+再写就成这了
++H
+17:15
++01H H
+In reply to this message
+Refuse 的不是明显被拒了吗？
+17:15
+Deleted Account
+In reply to this message
+你没bot吗
+YP
+17:15
+Yūkishirō Plēnīlūne
+In reply to this message
+你这是联网删除通知没发到？
+17:15
+应该是第一次就下炸了
+17:16
+Deleted Account
+到下载阶段点下载之后报错了
+YP
+17:16
+Yūkishirō Plēnīlūne
+In reply to this message
+然后联网删除也没法发，导致这码废了
+17:16
+Deleted Account
+In reply to this message
+对
+17:16
+两个都是这
+17:17
+里面写的号还能用
+法
+17:17
+法老-英国
+一次失败就可以换卡了
+17:17
+Deleted Account
+In reply to this message
+vless
++H
+17:17
++01H H
+为什么会炸卡呀？
+法
+17:17
+法老-英国
+你用啥卡第一次就失败直接换卡
++H
+17:17
++01H H
+我还没遇到过
+17:17
+Deleted Account
+换卡吧
++H
+17:18
++01H H
+是卡直接废了吗？就用再也用不了了吗？
+法
+17:18
+法老-英国
+意思就是你写的这张卡有问题
+17:18
+可以换了
++H
+17:18
++01H H
+In reply to this message
+用读卡器删除还能用吗？还是直接就废了？
+法
+17:19
+法老-英国
+正在写入卡很久就失败了
+17:19
+Deleted Account
+是不能写了，还能都读是吧
++H
+17:19
++01H H
+In reply to this message
+哦哦，这种
+法
+17:19
+法老-英国
+和代理没关系
++H
+17:19
++01H H
+有没有什么办法能修复嘛
+YP
+17:20
+Yūkishirō Plēnīlūne
+In reply to this message
+也不一定 如果你用easyeuicc之类的固定ARA-M密钥的管理工具的话
+D?
+17:20
+Drink more hot oil 
+又不中，不陪你们水了
+YP
+17:20
+Yūkishirō Plēnīlūne
+In reply to this message
+有些eSIM会重写你卡的ARA-M密钥
+17:20
+In reply to this message
+会导致写入卡很久 实际上成功写进去了
++H
+17:20
++01H H
+感觉厂商可以弄一个功能重置卡
+YP
+17:20
+Yūkishirō Plēnīlūne
+但是应用程序那边爆炸了
+17:20
+In reply to this message
+对的
+17:20
+还是openeuicc稳
+17:21
+In reply to this message
+然后你再进去就提示没有找到卡了
+17:21
+In reply to this message
+这卡以后只能用读卡器和Openeuicc之类的工具管理了
++H
+17:21
++01H H
+In reply to this message
+像那种原生 esim 手机会不会炸掉呀？
+YP
+17:21
+Yūkishirō Plēnīlūne
+In reply to this message
+我只是说写入卡很久不一定代表写卡失败了
++H
+17:21
++01H H
+听这样说感觉很恐怖
+YP
+17:22
+Yūkishirō Plēnīlūne
+又不是说写卡失败和ARA-M密钥有关系
++H
+17:22
++01H H
+厂商可以推出一个功能，能够清除写卡的残留
+17:23
+就好了
+D?
+17:23
+Drink more hot oil 
+In reply to this message
+一会儿没水就没了
+梆硬
+17:23
+梆 硬
+开始水
++H
+17:23
++01H H
+感觉写卡失败的主要原因就是通信问题，要么是网络，要么是手机和卡之间的通信出了点故障
+17:23
+有干扰啥的
+17:24
+Deleted Account
+In reply to this message
+在哪下载呀，能给个包吗
+D?
+17:24
+Drink more hot oil 
+In reply to this message
+微软兄这是刚上线？
+梆硬
+17:24
+梆 硬
+In reply to this message
+消失好几天
+D?
+17:25
+Drink more hot oil 
+In reply to this message
+就说没看你发言
+YP
+17:26
+Yūkishirō Plēnīlūne
+In reply to this message
+不会
+17:26
+原生eSIM手机的euicc芯片基本不存在被改ARA-M 密钥的可能性
+17:27
+哪怕改了
++H
+17:27
++01H H
+我刚搜了一下，确实
+YP
+17:27
+Yūkishirō Plēnīlūne
+也不会炸
+D?
+17:27
+Drink more hot oil 
+In reply to this message
+我拿来干嘛，我中奖的都送出去了
+YP
+17:27
+Yūkishirō Plēnīlūne
+因为本来就是LPA原生管理的
++H
+17:27
++01H H
+炸卡是概率炸的，随机
+D?
+17:27
+Drink more hot oil 
+In reply to this message
+水王兄大义
++H
+17:27
++01H H
+然后和网络，手机后台系统调度啥的都有关系
+17:27
+然后还不支持回滚
+17:28
+验证错直接炸掉锁卡
+YP
+17:28
+Yūkishirō Plēnīlūne
+In reply to this message
+写卡失败要么是网络问题，要么就是eSIM文件自己奇葩导致的不兼容
+梆硬
+17:28
+梆 硬
+中奖的去日本可以用吗？
+YP
+17:28
+Yūkishirō Plēnīlūne
+In reply to this message
+像早期比如5ber这种产品，和部分esim兼容性挺差的
+梆硬
+17:28
+梆 硬
+哈哈哈，还说可以水一下去日本用
+YP
+17:28
+Yūkishirō Plēnīlūne
+In reply to this message
+稍微写点冷门esim就炸卡
+D?
+17:28
+Drink more hot oil 
+In reply to this message
+你自己留着玩吧，我买过一个，都没怎么用
+17:29
+In reply to this message
+水一下不行，要多水
+梆硬
+17:29
+梆 硬
+直接开始喷水
+YP
+17:29
+Yūkishirō Plēnīlūne
+In reply to this message
+其实也不只是5ber吧
+17:29
+In reply to this message
+有些早年的eSIM安卓手机也有这种问题
+17:29
+In reply to this message
+记得是哪个eSIM，欧洲的好像
+D?
+17:30
+Drink more hot oil 
+In reply to this message
+但是你没有ctm
+YP
+17:30
+Yūkishirō Plēnīlūne
+In reply to this message
+哪怕你拿原生的老的安卓eSIM手机，也可能会写炸
+D?
+17:30
+Drink more hot oil 
+In reply to this message
+我也好几百
+YP
+17:30
+Yūkishirō Plēnīlūne
+小
+小学生 26.01.2026 17:30:34
+体验过ctm漫游的人就不会愿意用其他漫游了
+D?
+17:31
+Drink more hot oil 
+In reply to this message
+真
+梆硬
+17:31
+梆 硬
+穷鬼还在用梯子
+17:31
+就是我
+D?
+17:31
+Drink more hot oil 
+In reply to this message
+谁还不用个梯子似的
++H
+17:32
++01H H
+In reply to this message
+我觉得他们可以用一个什么回滚的功能
+17:32
+炸掉手机不是直接报废了吗？
+17:32
+我用免费的梯子
+D?
+17:32
+Drink more hot oil 
+In reply to this message
+我一个月1tb，也是用不完
+HP
+17:32
+Howdy‍ Pig
+In reply to this message
+什么机场，说说
++H
+17:32
++01H H
+用开发板桥接网络
+17:32
+ARM 开发版，桥接网络
+17:33
+开个 AP 就可以啦
+D?
+17:33
+Drink more hot oil 
+In reply to this message
+CTM你可以理解成不带墙的内地卡
+梆硬
+17:33
+梆 硬
+我用的一元的
+17:33
+免费的太卡了
++H
+17:33
++01H H
+In reply to this message
+炸卡不是卡就废了吗？
+17:33
+In reply to this message
+免费的还行吧
+D?
+17:33
+Drink more hot oil 
+In reply to this message
+现在才吃饭？
+17:33
+Deleted Account
+In reply to this message
+佬，发个openeuicc包吧
++H
+17:34
++01H H
+In reply to this message
+对呀，就是不能再继续写其他的卡了，整个卡实体 esim 就用不了了
+17:34
+Deleted Account
+In reply to this message
+没看着啊
+D?
+17:34
+Drink more hot oil 
+In reply to this message
+难怪
+17:35
+睡觉，你们接着水
+梆硬
+17:35
+梆 硬
+In reply to this message
+还行，满足我的需求，不看视频无所谓
++H
+17:35
++01H H
+推荐用免费 vpn
+梆硬
+17:35
+梆 硬
+睡了，明天早起搬砖
++H
+17:35
++01H H
+zerotrust 企业版也行
+17:40
+什么时候送我一张啊？
+17:41
+Sticker
+Not included, change data exporting settings to download.
+, 14.1 KB
+17:41
+Deleted Account
+抽我吧，我在呢
+17:41
+哈哈哈哈哈
++H
+17:43
++01H H
+In reply to this message
+这种是怎么回事？
+17:43
+用 estk 下
+.
+17:44
+...
+In reply to this message
+1
+17:44
+Sticker
+Not included, change data exporting settings to download.
+, 49.9 KB
+E
+17:44
+Esim.Kim
+恭喜  幸运儿 成为本次送eSIM活动的中奖者
+.
+17:44
+...
+抽自己了
+17:44
+Sticker
+Not included, change data exporting settings to download.
+, 13.9 KB
+17:44
+给自己发一张吧
+Az
+17:44
+AAA z
+Sticker
+Not included, change data exporting settings to download.
+, 17.1 KB
+17:44
+Deleted Account
+黑幕
+17:44
+Sticker
+Not included, change data exporting settings to download.
+, 10.6 KB
++H
+17:45
++01H H
+抽我
+Az
+17:45
+AAA z
+Sticker
+Not included, change data exporting settings to download.
+, 10.5 KB
+E
+17:46
+Esim.Kim
+恭喜  幸运儿 成为本次送eSIM活动的中奖者
+.
+17:46
+...
+现在白名单多少人了
+17:46
+Deleted Account
+额
+.
+17:46
+...
+In reply to this message
+黑幕
+17:46
+Deleted Account
+貌似跟我无关
++H
+17:46
++01H H
+啊啊啊啊啊
+.
+17:46
+...
+In reply to this message
+黑幕
++H
+17:46
++01H H
+In reply to this message
+estk
+.
+17:47
+...
+In reply to this message
+懂了
+17:47
+In reply to this message
+啥sim我帮你扫扫
++H
+17:47
++01H H
+estk 终极方案
+17:47
+Deleted Account
+能不能给我扫一个呀
+17:47
+Sticker
+Not included, change data exporting settings to download.
+, 13.3 KB
++H
+17:48
++01H H
+In reply to this message
+estk
+17:50
+用手机下载试试
+.
+17:53
+...
+羡慕
+18:00
+Deleted Account
+羡慕
+玩
+18:03
+玩卡教授
+Sticker
+Not included, change data exporting settings to download.
+, 6.6 KB
+18:03
+Deleted Account
+In reply to this message
+号被封了？
+18:04
+我靠，那位老哥咋聊着聊着号没了
+18:05
+[]
+18:09
+M-Pay
+我怎么被干了？
+18:10
+[]
+18:10
+In reply to this message
+注册了一下，这个澳门IP
+18:10
+就给我干成这样了
++H
+18:10
++01H H
+你消息发的多吗？
+18:11
+用了不久的号发消息太多也会封掉
+18:11
+M-Pay
+老号了呀
+18:11
+In reply to this message
+就私信了一个人
++H
+18:11
++01H H
+陌生人私信太多，或者在群里面发消息太多
+18:11
+M-Pay
+[]
+18:11
+In reply to this message
+我刚刚试了一下那张ctm
+18:11
+应该是IP变动的原因
++H
+18:12
++01H H
+tg 对 ip 变动其实不怎么敏感
+18:12
+经常用机场啥的，也没见封
+18:12
+M-Pay
+In reply to this message
+我也是啊
+18:12
+哪知道今天就干成这样了
++H
+18:12
++01H H
+消息太多了
+18:13
+M-Pay
+In reply to this message
+就私聊了一个人
++H
+18:14
++01H H
+In reply to this message
+好像得过 180 天才能注册
+18:14
+就是原账号主动销号
+18:14
+然后自动释放
+18:14
+你可以申请一下，申诉
+18:16
+M-Pay
+主要是那条号东西多
+18:16
+没了，很难加
+18:17
+In reply to this message
+钱多放冷钱包
+蚊
+18:25
+蚊子酱
+晚上好
+18:26
+In reply to this message
+多少算多
+D?
+18:47
+Drink more hot oil 
+你们是真能水
+❂
+18:47
+❂SleeNiko
+Sticker
+Not included, change data exporting settings to download.
+, 80.9 KB
+D?
+18:47
+Drink more hot oil 
+都不带睡觉的
+❂
+18:47
+❂SleeNiko
+In reply to this message
+无限流量无法就是跑p
+18:47
+M-Pay
+不水了
+❂
+18:47
+❂SleeNiko
+你正常用我不信你需要无限流量
+18:48
+M-Pay
+号水没了
+D?
+18:48
+Drink more hot oil 
+In reply to this message
+看记录了
+❂
+18:48
+❂SleeNiko
+看看
+D?
+18:48
+Drink more hot oil 
+你这有点冤啊
+❂
+18:48
+❂SleeNiko
+In reply to this message
+正常
+18:49
+M-Pay
+In reply to this message
+是啊
+18:49
+In reply to this message
+不知道
+❂
+18:49
+❂SleeNiko
+我自己要用到从化0
+18:49
+M-Pay
+❂
+18:49
+❂SleeNiko
+才去弄了一个
+18:49
+[]
+18:49
+托管ing
+18:49
+有需要再弄
+18:49
+In reply to this message
+线上150找一个
+18:49
+号码不理想就是
+18:50
+这玩意都是老卡了
+18:50
+M-Pay
+白名单也没了
+❂
+18:50
+❂SleeNiko
+差不多十几年
+18:50
+M-Pay
+图都发不出来了
+18:50
+18:50
+难受
+D?
+18:50
+Drink more hot oil 
+水白名单
+❂
+18:50
+❂SleeNiko
+In reply to this message
+从化0可以，没听过深圳0
+18:50
+M-Pay
+In reply to this message
+一会儿号又水没了
+D?
+18:50
+Drink more hot oil 
+In reply to this message
+成都0听说过没？
+18:51
+In reply to this message
+你不水怎么白名单
+❂
+18:51
+❂SleeNiko
+In reply to this message
+诶诶诶，这个
+E
+18:51
+Esim.Kim
+ 96784440 由simWorld锁单成功
+D?
+18:51
+Drink more hot oil 
+新演员？
+❂
+18:51
+❂SleeNiko
+678 444还行
+18:51
+我定的
+18:51
+M-Pay
+下了
+❂
+18:51
+❂SleeNiko
+算了
+18:52
+算了
+D?
+18:52
+Drink more hot oil 
+好记
+❂
+18:53
+❂SleeNiko
+没日过
+18:53
+日完给你们
+D?
+18:53
+Drink more hot oil 
+我不要，我的号码都不知道怎么处理
+❂
+18:54
+❂SleeNiko
+In reply to this message
+不是改的
+18:54
+原本就是0
+18:55
+感觉不如成都0
+18:56
+In reply to this message
+深圳0嘛
+18:56
+好麻烦
+18:56
+看看成都0
+H
+18:57
+HKUP
+In reply to this message
+这个0是那个0吗
+❂
+18:57
+❂SleeNiko
+In reply to this message
+你老公
+H
+18:57
+HKUP
+你老公
+❂
+18:57
+❂SleeNiko
+你老公
+H
+18:57
+HKUP
+你老公是成都0是吗
+18:58
+Sticker
+Not included, change data exporting settings to download.
+, 154.4 KB
+❂
+18:58
+❂SleeNiko
+你老公
+王E
+18:59
+王彼得 Esim流量卡
+谁有尼泊尔 esim卖？
+H
+19:00
+HKUP
+你老公
+❂
+19:00
+❂SleeNiko
+你老公
+H
+19:01
+HKUP
+Sticker
+Not included, change data exporting settings to download.
+, 155.3 KB
+❂
+19:01
+❂SleeNiko
+你老公
+19:02
+你这个成都0
+H
+19:04
+HKUP
+In reply to this message
+我没去过成都都
+❂
+19:06
+❂SleeNiko
+Sticker
+Not included, change data exporting settings to download.
+, 81.5 KB
+D?
+19:07
+Drink more hot oil 
+In reply to this message
+多？
+19:07
+羡慕你们这些0
+19:07
+20gb
+19:08
+飞了？
+19:09
+这bro不行啊，不用勾引，还有自己上套的
+H
+19:09
+HKUP
+In reply to this message
+原来你真是0啊
+❂
+19:09
+❂SleeNiko
+吃柠檬
+19:09
+你老公
+H
+19:09
+HKUP
+你老公
+19:09
+Deleted Account
+新号扬帆起航
+H
+19:09
+HKUP
+别争了
+19:09
+Deleted Account
+X
+19:09
+XUWU
+？群里有0？
+19:09
+哪里
+H
+19:09
+HKUP
+对
+D?
+19:09
+Drink more hot oil 
+In reply to this message
+水起来
+H
+19:09
+HKUP
+@CN00101
+19:09
+Deleted Account
+把白名单给我补上撒
+19:10
+这两天新号不水，容易死
+❂
+19:10
+❂SleeNiko
+D?
+19:10
+Drink more hot oil 
+这个得自己水
+H
+19:10
+HKUP
+In reply to this message
+你看
+19:10
+0
+19:10
+Deleted Account
+容易封了
+❂
+19:10
+❂SleeNiko
+吃柠檬
+X
+19:10
+XUWU
+羡慕
+19:10
+Deleted Account
+让他给我补下就行
+❂
+19:10
+❂SleeNiko
+7578
+19:10
+Sticker
+Not included, change data exporting settings to download.
+, 81.5 KB
+D?
+19:11
+Drink more hot oil 
+In reply to this message
+这还能补的
+19:12
+Deleted Account
+In reply to this message
+机器人是他的，应该能
+X
+19:12
+XUWU
+In reply to this message
+康康0
+19:12
+Sticker
+Not included, change data exporting settings to download.
+, 51.1 KB
+❂
+19:12
+❂SleeNiko
+龟头吃不吃
+D?
+19:13
+Drink more hot oil 
+In reply to this message
+那你问问，不过大概率得你自己水，我两个号都是自己水进去的
+H
+19:14
+HKUP
+In reply to this message
+你看又急
+❂
+19:15
+❂SleeNiko
+看看币
+19:15
+Deleted Account
+@esimkim 给我重新拉进白名单，我怕新号前两天水就封了
+X
+19:19
+XUWU
+In reply to this message
+宝贝～
+19:19
+Sticker
+Not included, change data exporting settings to download.
+, 9.0 KB
+❂
+19:19
+❂SleeNiko
+@esimkim
+19:19
+I want to have admin
+19:19
+Sticker
+Not included, change data exporting settings to download.
+, 81.5 KB
+19:20
+Sticker
+Not included, change data exporting settings to download.
+, 13.4 KB
+X
+19:20
+XUWU
+In reply to this message
+py洗干净
+❂
+19:20
+❂SleeNiko
+In reply to this message
+行
+X
+19:20
+XUWU
+你准备好了没
+❂
+19:20
+❂SleeNiko
+迫不及待了
+X
+19:20
+XUWU
+主包喜欢紧的
+19:20
+Deleted Account
+In reply to this message
+帮我进一下这条号，太新了
+❂
+19:20
+❂SleeNiko
+带套吗
+19:20
+Deleted Account
+我怕马上就死
+19:20
+X
+19:20
+XUWU
+不带也行
+19:20
+Sticker
+Not included, change data exporting settings to download.
+, 51.1 KB
+❂
+19:20
+❂SleeNiko
+Sticker
+Not included, change data exporting settings to download.
+, 13.4 KB
+19:20
+成都0
+19:21
+小学生
+19:21
+Deleted Account
+In reply to this message
+就是因为新号睡了会死
+19:21
+不然我早就开始了
+19:21
+In reply to this message
+聊
+19:22
+In reply to this message
+好像被人举报了
+19:22
+19:22
+没白名单我没法发图
+19:23
+根据用户举报并经版主确认
+19:23
+不知道谁举报
+H
+19:26
+HKUP
+？
+19:26
+群友玩的真花
+E
+19:38
+Esim.Kim
+ 59777523 由simWorld锁单成功
+❂
+19:40
+❂SleeNiko
+我买了
+AY
+19:49
+Abraham Yang
+现在cmhk保号多少钱呀
+❂
+19:49
+❂SleeNiko
+Sticker
+Not included, change data exporting settings to download.
+, 13.7 KB
+AY
+19:50
+Abraham Yang
+啊？
+19:50
+我才入坑的esim
+19:50
+In reply to this message
+这个怎么弄的
+19:51
+感谢
+Ko
+19:52
+K oi
+那个香港号码你们咋选号的
+19:52
+我点链接显示关闭
+AY
+19:55
+Abraham Yang
+我买好了
+❂
+19:56
+❂SleeNiko
+没货你怎么买？
+19:56
+Sticker
+Not included, change data exporting settings to download.
+, 13.7 KB
+AY
+19:57
+Abraham Yang
+选号账号密码怎么整
+19:57
+有货啊
+19:57
+我买到了
+19:58
+哦哦
+l
+20:01
+他会有充值码嘛
+20:15
+94151593感觉还不错了
+20:15
+94151594能对称就好了
+枫
+20:42
+枫不觉
+还有这种事
+AY
+20:42
+Abraham Yang
+3hk这个是不是 34块开个卡呀
+AY
+21:07
+Abraham Yang
+那储值码我明天问客服要对吧
+آ
+22:34
+آلياسـ𓄌ــري 
+Video file
+Not included, change data exporting settings to download.
+00:01, 10.0 KB
+27 January 2026
+l
+00:48
+lex
+一醒来又是几千条
+p
+00:49
+pppp
+一觉醒来又是几千条
+SL
+01:33
+Stan Lee
+p
+pppp 27.01.2026 00:49:59
+一觉醒来又是几千条
+AY
+01:35
+Abraham Yang
+In reply to this message
+商家说没有充值码
+梆硬
+01:36
+梆 硬
+一觉醒来又是几千条
+SL
+01:39
+Stan Lee
+In reply to this message
+卧槽ben中两次
+01:39
+不对，中了3次
+01:39
+一定有内幕
+01:39
+Sticker
+Not included, change data exporting settings to download.
+, 16.8 KB
+l
+01:39
+lex
+哈哈，中奖绝缘体
+SL
+02:00
+Stan Lee
+中奖绝缘体
+M
+02:04
+Mandy
+难道系统有bug
+SL
+02:38
+Stan Lee
+真羡慕你们能水一天
+p
+02:43
+pppp
+真羡慕你们能水一天
+秦醉
+02:45
+秦 醉
+已蛋
+02:45
+已回喵星 蛋黄
+真羡慕你们能水一天
+02:45
+为了抽奖都拼了
+PM
+02:51
+Pling Mooran
+3hk和3w有什么区别？哪个好？为什么3hk限时开启？
+YP
+02:51
+Yūkishirō Plēnīlūne
+真羡慕你们能水一天
+s
+02:59
+szcalvin
+3W只是一个产品
+A
+03:03
+Amberty
+请问有谁知道这个怎么领取的吗
+7
+03:16
+7uza-
+真羡慕你们能水一天
+云慕
+03:16
+云海 慕容
+LPA怎样转成二维码
+l
+03:17
+lex
+In reply to this message
+直接手动输入
+7
+03:17
+7uza-
+有一堆工具
+A
+03:17
+Amberty
+https://esimqr.com/
+云慕
+03:17
+云海 慕容
+谢谢推荐一个
+A
+03:17
+Amberty
+这个直接转
+03:19
+Deleted Account
+In reply to this message
+微信搜索草料二维码
+03:19
+不要用第三方奇奇怪怪的工具
+03:19
+有些工具直接生成完给你扫走了
+03:19
+他只是转字符，用普通的转换二维码工具就行
+云慕
+03:20
+云海 慕容
+谢谢，已解决
+7
+03:25
+7uza-
+草料之前有群友说也缺东西
+i
+03:33
+incognito
+少几个字符呗
+03:33
+自己再手动加进去
+03:42
+Deleted Account
+In reply to this message
+有一些给你的字符会少前面的
+03:42
+得要自己补
+03:43
+但是群主给你的都是一整串的
+03:43
+两串合一的需要补字符
+7
+03:45
+7uza-
+In reply to this message
+懂了
+云慕
+03:59
+云海 慕容
+怎么那么安静了
+PM
+04:10
+Pling Mooran
+大概白天都是牛马，偶尔摸摸鱼，没时间聊天
+AY
+04:13
+Abraham Yang
+In reply to this message
+为什么能5块呀，大佬解释一下
+04:25
+Deleted Account
+发现我到现在都没注册奶昔
+04:27
+In reply to this message
+来个邀请码
+04:27
+他那个邮箱审核得多久？
+04:32
+In reply to this message
+也有这玩意儿
+UN
+04:32
+但没料子
+04:32
+In reply to this message
+他群是哪个？
+04:35
+这个呢？
+D?
+04:37
+Drink more hot oil 
+我进去了
+04:37
+Deleted Account
+还是没看到，哪有邀请码？
+04:37
+In reply to this message
+就在官网挂着呢
+04:37
+有啥嘛
+04:37
+那我就得等邮件咯？
+D?
+04:38
+Drink more hot oil 
+我就吃吃瓜，没必要去瓜田守着自己种
+04:40
+我在好几个群见过希总
+04:40
+1010人上人
+AY
+04:42
+Abraham Yang
+3hk是不是每年充30多就可以保号了呀
+04:44
+有没有你昨天那张卡的攻略呀
+04:44
+sim world 这个
+04:46
+感谢
+D?
+04:46
+Drink more hot oil 
+In reply to this message
+对
+PM
+04:46
+Pling Mooran
+3w能转移到club或者haha吗？
+04:46
+In reply to this message
+好的，明白了
+H
+04:47
+HTT@HTTCLOUD:~#
+In reply to this message
+我只有
+04:47
+这个
+AY
+04:47
+Abraham Yang
+[]
+04:47
+这
+H
+04:47
+HTT@HTTCLOUD:~#
+我图被干了
+04:47
+Sticker
+Not included, change data exporting settings to download.
+, 13.8 KB
+AY
+04:47
+Abraham Yang
+我已经买了
+04:47
+42那个储值卡
+04:47
+我现在应该退款？
+H
+04:48
+HTT@HTTCLOUD:~#
+Sticker
+Not included, change data exporting settings to download.
+, 32.6 KB
+04:48
+[]
+04:48
+Sticker
+Not included, change data exporting settings to download.
+, 26.7 KB
+04:48
+In reply to this message
+so is mine
+04:48
+Sticker
+Not included, change data exporting settings to download.
+, 27.2 KB
+D?
+04:49
+Drink more hot oil 
+你们早上在斗图吗
+AY
+04:50
+Abraham Yang
+ok那就快到期再买好惹
+PM
+04:50
+Pling Mooran
+In reply to this message
+明白了，谢谢
+育高
+04:56
+育良 高
+有没有大佬认识kyc的
+H
+04:56
+HTT@HTTCLOUD:~#
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 84.6 KB
+04:56
+woye
+育高
+04:56
+育良 高
+sim2fly的转移
+04:56
+Sticker
+Not included, change data exporting settings to download.
+, 45.6 KB
+H
+04:58
+HTT@HTTCLOUD:~#
+Sticker
+Not included, change data exporting settings to download.
+, 26.7 KB
+D?
+05:08
+Drink more hot oil 
+有什么变化
+育高
+05:09
+育良 高
+羡慕
+D?
+05:09
+Drink more hot oil 
+In reply to this message
+你先冲了试试
+05:11
+[]
+冲
+梆硬
+05:11
+梆 硬
+还在17.0养老
+D?
+05:12
+Drink more hot oil 
+羡慕17
+05:12
+冲了26退不回去了
+梆硬
+05:12
+梆 硬
+可惜当时买的15p，应该买15pm
+05:13
+不要白不要
+育高
+05:14
+育良 高
+15发热很严重
+D?
+05:14
+Drink more hot oil 
+p好，pm重了
+s
+05:14
+spacex
+论坛求个邀请码
+05:14
+[]
+梆硬
+05:14
+梆 硬
+In reply to this message
+是的
+05:17
+12月份注册还不用诶
+05:19
+Deleted Account
+In reply to this message
+支付宝口令给你
+SL
+05:19
+Stan Lee
+cmhk的储值卡是不是也不能携号转入？
+05:19
+Deleted Account
+去搞个邀请码过来
+05:20
+我支付宝口令给你
+05:20
+来一张
+05:21
+In reply to this message
+你忘记你自己私信设的啥了吗？
+W
+05:21
+William
+[]
+9818 7897还不错
+B
+05:21
+Blue Archive！
+In reply to this message
+为什么不是7891
+W
+05:22
+William
+In reply to this message
+7891并没有7897好看吧
+SL
+05:22
+Stan Lee
+In reply to this message
+可以可以
+D?
+05:22
+Drink more hot oil 
+7898
+SL
+05:22
+Stan Lee
+拿下
+D?
+05:23
+Drink more hot oil 
+In reply to this message
+拼
+W
+05:23
+William
+不要了，都在做减法呢
+05:23
+需要的去弄吧
+D?
+05:24
+Drink more hot oil 
+我拼一个
+05:24
+要的速来
+瞳
+05:25
+瞳锌
+Sticker
+Not included, change data exporting settings to download.
+, 9.2 KB
+D?
+05:26
+Drink more hot oil 
+你私我，私不了你
+H
+05:29
+HTT@HTTCLOUD:~#
+In reply to this message
+写小作文啊
+05:29
+只要理由合理不卡码
+05:29
+Sticker
+Not included, change data exporting settings to download.
+, 26.7 KB
+05:29
+Sticker
+Not included, change data exporting settings to download.
+, 84.6 KB
+05:31
+Deleted Account
+In reply to this message
+已经拼上了
+D?
+05:32
+Drink more hot oil 
+In reply to this message
+我明天来
+B
+05:32
+Blue Archive！
+In reply to this message
+送我
+D?
+05:32
+Drink more hot oil 
+B
+Blue Archive！ 27.01.2026 05:32:38
+送我
+05:36
+Deleted Account
+In reply to this message
+多少级可以玩道具？
+法
+05:39
+法老-英国
+ios勇士贼多
+D?
+05:40
+Drink more hot oil 
+死就死了，反正都26了
+05:41
+回不去的18
+梆硬
+05:41
+梆 硬
+是的
+05:41
+现在用的17系统手表和耳机都不兼容
+05:41
+挺烦的
+D?
+05:42
+Drink more hot oil 
+再买一个体验新系统
+H
+05:42
+HTT@HTTCLOUD:~#
+Sticker
+Not included, change data exporting settings to download.
+, 27.2 KB
+05:42
+ios是这样的
+D?
+05:43
+Drink more hot oil 
+有道理，不好用了换新
+梆硬
+05:43
+梆 硬
+In reply to this message
+在平板上用着，哈哈
+D?
+05:43
+Drink more hot oil 
+In reply to this message
+我平板反倒是没升级系统
+梆硬
+05:44
+梆 硬
+主要可以虚拟定位
+05:44
+像我这种迟到人群很需要
+D?
+05:45
+Drink more hot oil 
+In reply to this message
+05:46
+A15都卡
+05:46
+In reply to this message
+成本高了吧
+05:46
+In reply to this message
+卡
+法
+05:46
+法老-英国
+SE3 最多18
+05:46
+26 送卡的
+D?
+05:46
+Drink more hot oil 
+In reply to this message
+我有一台
+梆硬
+05:46
+梆 硬
+In reply to this message
+技术要求高
+法
+05:46
+法老-英国
+可以不用尾插的
+梆硬
+05:46
+梆 硬
+air现在挺便宜
+法
+05:47
+法老-英国
+但是成本更高
+05:47
+你不一定会想用
+梆硬
+05:48
+梆 硬
+两台手机不方便，xr还是巨魔
+D?
+05:48
+Drink more hot oil 
+我美版，买的未激活，买的时候也应该是16系统
+梆硬
+05:48
+梆 硬
+In reply to this message
+挺好的，免广告，免会员
+D?
+05:48
+Drink more hot oil 
+In reply to this message
+好几年了
+05:49
+可以哦
+梆硬
+05:50
+梆 硬
+牛的
+05:50
+主力机没办法
+D?
+05:50
+Drink more hot oil 
+In reply to this message
+我没装几个app，更别说国产app了，都感觉有点卡
+法
+05:50
+法老-英国
+air 还不如买美版
+梆硬
+05:51
+梆 硬
+师傅干沉默了
+法
+05:53
+法老-英国
+还是16e 美版好
+D?
+05:53
+Drink more hot oil 
+In reply to this message
+我也是
+p记
+05:54
+px休息中 记得催我睡觉
+tiptraip转运公司 是不是倒闭了
+05:54
+Sticker
+Not included, change data exporting settings to download.
+, 8.6 KB
+D?
+05:54
+Drink more hot oil 
+In reply to this message
+不过原装电池还有95
+p记
+05:54
+px休息中 记得催我睡觉
+4天不回邮件 怎么个事
+梆硬
+05:54
+梆 硬
+手机两年没戴壳，也没咋摔
+p记
+05:54
+px休息中 记得催我睡觉
+不想在道上混了
+c
+05:55
+corrado
+兑换澳门CTM 20G 流量 eSIM，有人参加了吗？
+D?
+05:56
+Drink more hot oil 
+In reply to this message
+好多群友在里面
+c
+05:56
+corrado
+需要邀请15个人
+05:56
+@GK99003 你兑换了吗
+D?
+05:57
+Drink more hot oil 
+In reply to this message
+SE3还好，没怎么用，快三年了还有95，屏幕小了，又是指纹解锁，不爱用，正在吃灰，那个CTM
+20G就装在那上面
+05:57
+In reply to this message
+没有，我之前买了一个
+c
+05:58
+corrado
+用起来延迟怎么样
+D?
+05:59
+Drink more hot oil 
+In reply to this message
+还行
+05:59
+不过能用多久不知道
+子
+05:59
+子卿
+我是第一个使用的 快到期了
+05:59
+健在
+D?
+06:00
+Drink more hot oil 
+In reply to this message
+手感是真好，比我手里其它所有手机都好
+06:04
+In reply to this message
+esim
+法
+06:07
+法老-英国
+你仅大修就能插卡
+06:07
+然后利用estk的卡
+06:07
+可以直接唤起esim原生写卡
+D?
+06:12
+Drink more hot oil 
+中国暗网不是300就能写？
+06:12
+Deleted Account
+In reply to this message
+那个机器人呗
+06:12
+我拿了一张
+06:12
+群里抽奖得了一张
+D?
+06:13
+Drink more hot oil 
+In reply to this message
+不太清楚，没弄
+06:13
+Deleted Account
+In reply to this message
+只要你有能力把外面溶解掉
+06:13
+里面就可以直接读
+06:13
+但是溶解难度很高
+法
+06:17
+法老-英国
+港版16E 那不是在一个价格水平的
+06:17
+美版16E
+06:17
+就2200多块钱
+06:18
+那价格起步就4000+了
+06:25
+Deleted Account
+Sticker
+Not included, change data exporting settings to download.
+, 41.5 KB
+06:25
+Sticker
+Not included, change data exporting settings to download.
+, 20.1 KB
+K
+06:29
+Kana
+paygo紫卡现在激活容易封卡吗
+JC
+06:33
+Jack Chung
+In reply to this message
+反正我一个礼拜前激活了一张了
+K
+06:36
+Kana
+In reply to this message
+美东家宽ip激活安全性是不是更大些
+06:36
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+SL
+06:41
+Stan Lee
+In reply to this message
+牛逼
+06:41
+厉害厉害
+06:41
+又来一个用科技的
+JC
+06:41
+Jack Chung
+In reply to this message
+我是用的加州家宽，但也有人家宽也激活不了的
+SL
+06:41
+Stan Lee
+3HK迟早薅光
+06:42
+Sticker
+Not included, change data exporting settings to download.
+, 16.8 KB
+祭梦
+e
+06:44
+error
+In reply to this message
+放心，没啥兴趣搞这个，只是今天刚好有时间，回应一下威廉兄弟，这没啥难度
+SL
+06:44
+Stan Lee
+In reply to this message
+有开发经验的是0难度，但对没有代码经验的就不简单了
+p记
+06:52
+px休息中 记得催我睡觉
+有没有懂哥
+06:52
+Sticker
+Not included, change data exporting settings to download.
+, 7.5 KB
+SL
+06:56
+Stan Lee
+In reply to this message
+撸一发
+j
+07:00
+jiessie
+有没有今天在香港的
+07:01
+咋薅
+07:01
+我今天在
+07:02
+去
+07:02
+怎么一个流程
+07:02
+可以啊随便一个csl是吧
+07:03
+可以，
+YP
+07:06
+Yūkishirō Plēnīlūne
+那你可能要跑8家店
+07:06
+In reply to this message
+甚至更多
+07:06
+现在这玩意已经蝗虫过境了
+07:06
+昨天才看见有个人拿了二十多张回深圳
+07:06
+In reply to this message
+很多店都没货了
+07:06
+或者限一张
+A
+07:07
+Alilbrie
+什么卡
+YP
+07:07
+Yūkishirō Plēnīlūne
+[]
+07:07
+[]
+07:07
+In reply to this message
+蝗虫过境
+07:07
+寸草不生
+j
+07:08
+jiessie
+只能领一张？
+07:09
+应该早点说我刚才看屯门那边没啥人
+YP
+07:12
+Yūkishirō Plēnīlūne
+In reply to this message
+以前可以多领
+07:12
+最近这几天好多店都限了
+07:12
+In reply to this message
+就是被撸的限制了
+07:12
+有人一家店里面十几张截图领
+07:13
+谁遭得住
+A
+07:13
+Algae
+In reply to this message
+本来就是旅发局的钱
+07:13
+csl 来限制什么
+YP
+07:13
+Yūkishirō Plēnīlūne
+In reply to this message
+和旅发局联名
+j
+07:13
+jiessie
+YP
+07:14
+Yūkishirō Plēnīlūne
+又不是旅发局自己官宣的免费发这卡
+07:14
+谁和你说标个旅发局就是完全旅发局出钱了
+A
+07:14
+Algae
+In reply to this message
+134.
+旅遊業帶動本港經濟發展及創造就業機會。為落實「無處不旅遊」的理念及《香港旅遊業發展藍圖2.0》，來年我會向香港旅遊發展局（旅發局）撥款十二億三千五百萬元。
+YP
+07:14
+Yūkishirō Plēnīlūne
+In reply to this message
+12亿3500万又不是全给csl
+j
+07:15
+jiessie
+[]
+YP
+07:15
+Yūkishirō Plēnīlūne
+这钱
+07:15
+分到csl头上
+07:15
+有个几千万都不错了
+p记
+07:15
+px休息中 记得催我睡觉
+去一趟香港得消费多钱最低
+j
+07:15
+jiessie
+这边没有csl
+p记
+07:15
+px休息中 记得催我睡觉
+Sticker
+Not included, change data exporting settings to download.
+, 9.8 KB
+07:15
+听说住一晚好贵
+YP
+07:16
+Yūkishirō Plēnīlūne
+In reply to this message
+有1010也可以领
+W
+07:16
+William
+In reply to this message
+你行我不行啊，你们都太牛逼了
+YP
+07:16
+Yūkishirō Plēnīlūne
+或者iot
+j
+07:16
+jiessie
+1010是什么
+YP
+07:17
+Yūkishirō Plēnīlūne
+In reply to this message
+脸皮厚归一码事 他赶不赶你走是另一码事
+07:17
+In reply to this message
+csl旗下品牌
+07:17
+反正都是一家子
+07:17
+In reply to this message
+我朋友就碰到了 上次去领
+07:17
+In reply to this message
+领第二张直接翻白眼
+07:17
+In reply to this message
+然后把他赶走了
+07:17
+In reply to this message
+说最多两张
+07:17
+再多不给了
+j
+07:18
+jiessie
+我就直接问他
+07:18
+换不换
+07:20
+我12点路过屯门那边在csl还看了没什么人
+p记
+07:22
+px休息中 记得催我睡觉
+In reply to this message
+网吧都没人啊
+梆硬
+07:22
+梆 硬
+In reply to this message
+是的，有些地方还挺有耐心解释的
+W
+07:24
+William
+In reply to this message
+我不要啊。我买了10多个。删了5-6个了都
+YP
+07:25
+Yūkishirō Plēnīlūne
+In reply to this message
+你这是啥 3万？3万的话我可以吃一个
+E
+07:25
+Esim.Kim
+ 447**6005149 白嫖eSIM成功
+YP
+07:25
+Yūkishirō Plēnīlūne
+我这有人要
+e
+07:25
+error
+是3hk
+YP
+07:25
+Yūkishirō Plēnīlūne
+In reply to this message
+3万能吗 还是别的
+e
+07:25
+error
+。。。。
+梆硬
+07:26
+梆 硬
+In reply to this message
+另外的牌子
+g
+07:29
+gery
+[]
+07:29
+选哪个稳妥些？
+YP
+07:29
+Yūkishirō Plēnīlūne
+In reply to this message
+行那我知道了
+07:29
+。。。。
+j
+07:50
+jiessie
+蚊
+07:53
+蚊子酱
+早啊，各位
+07:53
+In reply to this message
+走SSH通道
+07:53
+In reply to this message
+哎？
+W
+08:15
+William
+0撸的不可靠啊
+08:16
+瑞士得下午4点半之后才是上午9点把。
+j
+08:19
+jiessie
+尖沙咀这边店员明确告诉我，我们今天只有一张现货
+s
+08:28
+szcalvin
+去大澳、长洲
+08:29
+观塘、天水围、将军澳
+08:29
+港岛南区
+08:30
+拿那么多卡回来卖？
+08:30
+都是有截止激活期的
+W
+08:30
+William
+少撸点吧。别人港人看不起
+s
+08:33
+szcalvin
+我说粤语的，要是过年跑过去领卡，不知道会不会被人打出去，说我冒充游客
+一
+08:33
+一只胖锦鲤
+最好说英语
+08:34
+In reply to this message
+我上次发邮件 回的很快啊
+s
+08:34
+szcalvin
+那就更不像游客，像本地的了
+08:34
+香港佬就喜欢说话夹带英语单词
+08:35
+我去练习一下冻馆话
+08:35
+带点乡音的粤语比较像游客
+E
+08:36
+Esim.Kim
+ 56665483 由simWorld锁单成功
+❂
+08:37
+❂SleeNiko
+不装游客装什么
+08:37
+Sticker
+Not included, change data exporting settings to download.
+, 13.4 KB
+08:37
+难不成把身分证给他看吗
+s
+08:38
+szcalvin
+店员没这个权限
+08:38
+带有口音的煲冬瓜估计也不行
+08:38
+更像装的
+❂
+08:38
+❂SleeNiko
+我当时忘记了
+j
+08:38
+jiessie
+店员在门口看到我很热情
+❂
+08:38
+❂SleeNiko
+把身分证给他看了
+08:38
+Sticker
+Not included, change data exporting settings to download.
+, 81.5 KB
+s
+08:38
+szcalvin
+不用给的
+❂
+08:39
+❂SleeNiko
+我忘记了
+j
+08:39
+jiessie
+我说兑换卡，哈哈
+s
+08:39
+szcalvin
+只有警察才有权利查看你的ID
+08:39
+或者特定商业机构
+j
+08:39
+jiessie
+直接说只有一张了
+08:39
+s
+08:39
+szcalvin
+需要法律授权的
+❂
+08:39
+❂SleeNiko
+算了
+08:39
+看了就看了
+08:39
+Sticker
+Not included, change data exporting settings to download.
+, 81.5 KB
+t
+08:40
+下次说英语就是
+s
+08:40
+szcalvin
+你主动给他看，他当然也没有问题
+❂
+08:41
+❂SleeNiko
+所以还有群友去hk吗
+08:41
+帮我顺带拿剩下的
+08:41
+我下次回去得好久
+s
+08:42
+szcalvin
+那个esim版68数据月卡不好吗，带48余额
+❂
+08:42
+❂SleeNiko
+那个是氪金易吧
+08:42
+那个不好玩
+s
+08:42
+szcalvin
+这个纵横卡没看出有什么好
+j
+08:43
+jiessie
+这个月余额没
+法
+08:43
+法老-英国
+。。。
+j
+08:43
+jiessie
+有流量嘛
+法
+08:43
+法老-英国
+你们不看条款的
+08:43
+一个问题问多遍
+s
+08:43
+szcalvin
+不是氪金易，就是48余额
+法
+08:43
+法老-英国
+月卡有行政费 任卡没有行政费
+08:43
+自己看看再说
+p记
+08:43
+px休息中 记得催我睡觉
+你们有没有用微信套现过u卡 大号给小号会不会死号呀
+08:43
+Sticker
+Not included, change data exporting settings to download.
+, 9.8 KB
+s
+08:44
+szcalvin
+现在豁免
+法
+08:44
+法老-英国
+不看小字的？
+s
+08:44
+szcalvin
+等真收再说
+法
+08:44
+法老-英国
+那你愿意到时候在多花一次开卡费当我没说
+W
+08:45
+William
+我的5666 8x8x靓号每天好几个推销电话。。我得给它抛了
+s
+08:46
+szcalvin
+CSL是否可以自己转自己，数据月卡转任纵横？
+08:49
+我买的是esim版月卡
+法
+08:50
+法老-英国
+没有这个转移方法
+08:50
+如果号码对你不重要直接丢了
+08:50
+没有吧
+08:50
+直接68下单
+s
+08:51
+szcalvin
+那是别的消费返的
+法
+08:51
+法老-英国
+可以走路反积分
+08:52
+一个道理
+08:52
+33的sosim 保号最低60港币
+08:53
+68的 最低保号6港币
+08:53
+一把就回来了
+s
+09:07
+szcalvin
+[]
+09:08
+去香港领卡的要注意了，不要坐公交
+09:08
+罚三千起步
+j
+09:08
+jiessie
+为啥
+s
+09:09
+szcalvin
+说错了，是罚5千
+一
+09:09
+一只胖锦鲤
+In reply to this message
+please tell me
+09:09
+why？
+s
+09:10
+szcalvin
+zui xin fa li u know
+09:10
+咋样，这个英语够不够地道
+一
+09:10
+一只胖锦鲤
+wu tu yan diao
+j
+09:11
+jiessie
+不佩戴安全带？
+s
+09:11
+szcalvin
+是
+D?
+09:11
+Drink more hot oil 
+In reply to this message
+转clubsim
+s
+09:11
+szcalvin
+港珠澳大橋巴士站的巴士車頭放了雙語提示，上車位亦有職員舉牌提醒佩戴安全帶，免得旅客來到搭車時不知道新規矩，沒有佩戴最高罰款5000元及監禁三個月。
+W
+09:14
+William
+In reply to this message
+不要了。正好做精简
+s
+09:14
+szcalvin
+香港这个很畸形
+09:15
+在公交车站着的不用系安全带
+09:15
+坐着的反而要
+09:16
+一群弱智
+09:16
+公务员
+W
+09:17
+William
+站着默认能拉着拉手么？
+s
+09:21
+szcalvin
+有空座不坐罚3000
+A
+09:22
+Algae
+[]
+s
+09:23
+szcalvin
+所以过去领卡干脆不坐
+A
+09:23
+Algae
+想站就站呗坐了不想系别系
+s
+09:23
+szcalvin
+搭港铁
+抖
+09:23
+抖音/快手/虎牙/斗鱼性感美女
+In reply to this message
+什么原因
+s
+09:24
+szcalvin
+忘了系安全带罚5000
+09:24
+冲红灯罚3000
+09:24
+过马路真的要特别注意
+A
+09:25
+Algae
+深圳后排不系安全带罚款500
+s
+09:25
+szcalvin
+记错了，是罚2000
+09:25
+立省1000
+懒
+09:26
+懒蛋
+坐了几次8a去红磡
+s
+09:26
+szcalvin
+游客到的地方都有地铁
+09:28
+十字路口即使绿灯斜着走也是要挨罚的
+09:31
+[]
+09:32
+隔离是个猛男，即刻告你非礼
+W
+09:33
+William
+香港普通人的幸福感应该是不如内地的。
+s
+09:35
+szcalvin
+[]
+09:36
+正义的香港人出手喇
+粥
+09:38
+粥哈哈
+In reply to this message
+好像是深圳湾口岸的 B3x 事故？
+A
+09:38
+Algae
+In reply to this message
+多了去了
+粥
+09:38
+粥哈哈
+还把一个警察给撞下桥了
+A
+09:38
+Algae
+去年每个月都撞
+W
+09:41
+William
+没有4A,5A，什么对子顺子有寓意的都入不了眼了
+s
+09:41
+szcalvin
+[]
+O
+09:43
+Olivi
+In reply to this message
+255255255
+U
+09:43
+Umi
+In reply to this message
+65535好啊
+09:43
+我也想要65535
+O
+09:44
+Olivi
+太整齐了, 不用
+09:44
+随机摇到高位端口一直用
+W
+09:46
+William
+65535是端口号的极限吧
+09:47
+In reply to this message
+不是还得-1么？
+09:48
+我去刷，刷到了100刀卖你们
+A
+09:48
+Algae
+In reply to this message
+key
+09:48
+手动入库
+09:48
+你删了吧
+?
+09:50
+🄷🄰🅂🅂🅈
+男娘恋爱物语？
+09:51
+https://youke.xn--y7xa690gmna.cn/s1/2026/01/27/69787c3617f3d.webp
+A
+09:51
+Algae
+In reply to this message
+没了已经
+09:51
+隔壁群点爆了都
+SL
+09:53
+Stan Lee
+Sticker
+Not included, change data exporting settings to download.
+, 5.1 KB
+09:54
+In reply to this message
+找1024
+D?
+09:55
+Drink more hot oil 
+In reply to this message
+搞
+SL
+09:55
+Stan Lee
+In reply to this message
+3306 6379
+09:56
+In reply to this message
+常见端口都搞一个
+09:56
+Sticker
+Not included, change data exporting settings to download.
+, 5.1 KB
+09:56
+In reply to this message
+sosim也可以选号下单？
+Az
+10:10
+AAA z
+今天没胃口吗
+10:10
+吃这么少
+蚊
+10:16
+蚊子酱
+蚊
+蚊子情报局 T1 27.01.2026 10:15:31
+[]
+【KFC堂食羊毛】3元：8鸡翅+2蛋挞
+价格： 3元/份（支持多拍）
+内容： 香辣鸡翅×8 + 葡式蛋挞×2
+风险提示：有被退单的情况
+下单链接：https://m.qianzhu8.com/kfc/not-tab/eat-type?platformId=10123&subPlatformId=497470391
+10:16
+蚊
+蚊子情报局 T1 27.01.2026 10:15:31
+[]
+10:16
+蚊
+蚊子情报局 T1 27.01.2026 10:15:32
+[]
+蚊
+10:16
+蚊子酱
+来个羊毛
+10:17
+In reply to this message
+隔壁群群友有拿到的，也有被退单的，自行考虑
+10:17
+In reply to this message
+应该是价格设置错误？
+10:20
+In reply to this message
+卡是正常的
+10:20
+微信群出来的羊毛
+10:20
+最起码几十个群转发了
+10:20
+能打开就试试吧
+10:20
+打不开也没办法
+O
+10:28
+Olivi
+这杭州阿里云的 CPU 都炸了吧
+乾坤
+11:06
+乾 坤
+loop我昨天还开了一个，扣了一英镑。
+11:06
+Deleted Account
+In reply to this message
+直接维护了
+乾坤
+11:06
+乾 坤
+有啊
+11:06
+是啊
+简
+11:07
+简
+In reply to this message
+退钱了嘛
+乾坤
+11:07
+乾 坤
+In reply to this message
+还没收到
+11:07
+In reply to this message
+还没收到退款不删先
+11:08
+Myfin虚拟卡
+简
+11:08
+简
+一直都可以漫游
+乾坤
+11:08
+乾 坤
+可以漫游上网
+简
+11:09
+简
+就是时有时无的
+乾坤
+11:09
+乾 坤
+In reply to this message
+确实是
+11:10
+你们有myfin卡的可以试试
+11:10
+In reply to this message
+不知道啊
+11:12
+应该一样的
+??
+11:12
+𝐇𝐢𝐨𝐬(𝐆𝐆) 🄼🅁 
+In reply to this message
+是哪个网络
+11:13
+我的是移动，不行
+乾坤
+11:13
+乾 坤
+In reply to this message
+移动啊，不过偶尔不能上网。信号是有。
+11:14
+In reply to this message
+第一个月
+11:14
+然后删了好像还能操
+aC
+s
+11:15
+szcalvin
+今天不去吃酸菜鱼喇
+ZZ
+11:19
+ZQ ZQ
+维护了
+蚊
+11:27
+蚊子酱
+In reply to this message
+3块
+11:27
+现在关门了
+法
+11:28
+法老-英国
+3块都不给机会
+蚊
+11:28
+蚊子酱
+都过去一个多小时了
+11:28
+Deleted Account
+In reply to this message
+关门好久了
+蚊
+11:28
+蚊子酱
+嗯
+11:28
+Deleted Account
+你来的太晚
+蚊
+11:28
+蚊子酱
+微信群看到的
+11:29
+测试了下，然后编辑成telegram消息
+11:29
+发到频道
+11:29
+这都过去10分钟了
+大B
+11:30
+大雄 BGM
+In reply to this message
+定点爆破
+乾坤
+11:30
+乾 坤
+In reply to this message
+只要连上了就不掉
+蚊
+11:40
+蚊子酱
+In reply to this message
+怎么样，香不香
+11:40
+xs
+法
+11:46
+法老-英国
+[]
+11:46
+3小时bug红茶
+SL
+11:48
+Stan Lee
+In reply to this message
+可惜只买了一个
+11:48
+[]
+蚊
+11:48
+蚊子酱
+In reply to this message
+你这不是bug价了
+11:49
+In reply to this message
+哈哈，
+SL
+11:52
+Stan Lee
+In reply to this message
+我有几个5折100G的，这个还没开始用，只是下载了
+11:53
+In reply to this message
+100G我都用掉几个了
+11:55
+小心拉黑EID
+D?
+11:56
+Drink more hot oil 
+SL
+Stan Lee 27.01.2026 11:55:46
+小心拉黑EID
+蚊
+12:02
+蚊子酱
+In reply to this message
+那是代理商的
+12:02
+红茶不管代理商的
+12:02
+但是红茶官网的就不行
+12:02
+官网是真拉黑
+12:03
+In reply to this message
+邀请不管吧
+12:03
+说的是bug的
+12:04
+之前红茶也是有bug，可以免费拿卡
+12:04
+然后薅的都被拉黑了
+SL
+12:04
+Stan Lee
+In reply to this message
+撸一发
+12:05
+这是老演员吗
+法
+12:07
+法老-英国
+eskimo黑你只能说明你eid写太多eskimo了
+SL
+12:09
+Stan Lee
+[]
+月神卡放了一批新号出来，快去看看有没有中意的
+12:09
+最低150
+12:10
+这号码 还可以吧
+12:11
+快去拿，手慢无
+法
+12:12
+法老-英国
+那是eskimo的问题
+12:12
+他的苹果客户端都有问题
+12:12
+新版很多都登陆不上
+SL
+12:13
+Stan Lee
+In reply to this message
+0.3hkd 还可以
+12:14
+CSL/3HK 动不动6HKD 8HKD
+法
+12:14
+法老-英国
+用支持WiFi calling的都是本地价格
+SL
+12:15
+Stan Lee
+谁没事一直开着wificall
+法
+12:16
+法老-英国
+一直开
+SL
+12:16
+Stan Lee
+3的app挂了？
+12:16
+my 3
+法
+12:17
+法老-英国
+需要原生香港ip才能登陆
+SL
+12:17
+Stan Lee
+白屏呀
+法
+12:17
+法老-英国
+登陆不是换Ip
+SL
+12:17
+Stan Lee
+In reply to this message
+睁着眼说瞎话
+法
+12:18
+法老-英国
+[]
+.....
+SL
+12:19
+Stan Lee
+好了，恢复了
+12:24
+In reply to this message
+买这么多，都留着？
+12:24
+到时候留哪个都头疼
+W
+12:31
+William
+一家同一证件10个号
+SL
+12:32
+Stan Lee
+In reply to this message
+中奖绝缘体
+W
+12:32
+William
+In reply to this message
+全港都一样
+12:33
+3hk,3万能，sosim这种一家的，总共算一起
+12:33
+ClubSim 和CSL 也是一样
+D?
+12:40
+Drink more hot oil 
+黑幕我
+12:44
+In reply to this message
+羡慕
+12:47
+In reply to this message
+还没买到满意的号码啊
+S
+12:51
+Swilder
+In reply to this message
+李嘉诚钱包又多了8刀
+D?
+12:52
+Drink more hot oil 
+不是8hkd？
+12:59
+In reply to this message
+你这号码有点普通啊，不过胜在便宜
+S
+13:02
+Swilder
+补卡不要钱吗
+W
+13:04
+William
+是的，没用的
+法
+13:04
+法老-英国
+这是3hk的政策
+13:04
+补卡要重新实名
+W
+13:04
+William
+取消后还可以重新实名
+法
+13:04
+法老-英国
+方便
+W
+13:04
+William
+In reply to this message
+把不是你的实名全消掉
+13:07
+然后发现莫名其妙不能用了，都想不到实名被人消了
+D?
+13:14
+Drink more hot oil 
+In reply to this message
+黑幕我
+13:14
+In reply to this message
+你用的别人的料子啊，那些是别人的卡？
+法
+13:16
+法老-英国
+一个是激活时间
+13:16
+一个是下载时间
+NL
+13:19
+Nicholas Lopez
+小蜜蜂卡还有人在用吗
+SL
+13:26
+Stan Lee
+In reply to this message
+中奖绝缘体，你都中好几个了
+13:27
+今天我就没戏了，你们多努力
+SL
+13:27
+Stan Lee
+E
+Esim.Kim 27.01.2026 13:27:27
+今日发言 46 条 - 排第 17 名 继续努力
+每天凌晨从排行前十名中抽两名幸运儿
+D?
+13:28
+Drink more hot oil 
+今日发言 95 条 - 排第 5 名 继续保持
+每天凌晨从排行前十名中抽两名幸运儿
+13:28
+你们不行啊
+SL
+13:28
+Stan Lee
+In reply to this message
+羡慕
+13:28
+什么时候内幕我
+13:30
+我买了一张cmhk的mysim，想转个3hk的号码过去，发现cmhk
+的储值卡没有转入的入口
+13:30
+In reply to this message
+Estk？
+A
+13:30
+Algae
+In reply to this message
+请莅临门市
+SL
+13:31
+Stan Lee
+In reply to this message
+下次去香港搞下
+13:31
+In reply to this message
+我转成esim了
+13:31
+搞到estk里了
+W
+13:31
+William
+In reply to this message
+[]
+储值卡App里没有这个么？
+SL
+13:31
+Stan Lee
+In reply to this message
+最少应该要100条
+法
+13:31
+法老-英国
+自从中了没拿到卡 就放弃中奖的念头了
+SL
+13:31
+Stan Lee
+In reply to this message
+无
+13:32
+In reply to this message
+储值卡没得
+13:32
+In reply to this message
+这个进去可以转入？
+W
+13:33
+William
+In reply to this message
+储值卡可能普遍给的功能少
+13:33
+In reply to this message
+上台是可以的
+SL
+13:34
+Stan Lee
+In reply to this message
+进去截图看下，说不定可以抓包看看
+W
+13:37
+William
+[]
+13:37
+In reply to this message
+就是这样的
+SL
+13:38
+Stan Lee
+In reply to this message
+这个是选号码吧
+13:38
+重新选一个号码
+13:39
+In reply to this message
+App可以转esim
+A
+13:39
+Algae
+In reply to this message
+要开流量
+W
+13:39
+William
+In reply to this message
+可以转入，我送我朋友一个靓号他前阵子刚转入的
+SL
+13:40
+Stan Lee
+In reply to this message
+15一天内地1G无限512kbps
+A
+13:40
+Algae
+那还行
+SL
+13:41
+Stan Lee
+In reply to this message
+谁抓下这个页面的链接
+13:41
+In reply to this message
+我今天刚转esim
+13:42
+66条就前10了
+SL
+13:42
+Stan Lee
+E
+Esim.Kim 27.01.2026 13:41:33
+今日发言 66 条 - 排第 10 名 继续保持
+每天凌晨从排行前十名中抽两名幸运儿
+SL
+13:42
+Stan Lee
+In reply to this message
+666
+玛巴
+13:43
+玛卡 巴卡
+SL
+13:43
+Stan Lee
+In reply to this message
+我觉得储值卡也可以用这个页面，就是不知道页面地址
+13:43
+啥？
+W
+13:44
+William
+In reply to this message
+等白天我看下电脑端能不能看到地址
+SL
+玛巴
+13:44
+玛卡 巴卡
+好久没来群了
+13:44
+还有这说法吗
+13:44
+我再试试
+YY
+13:45
+YUE YIN
+club新esim已经购买超过15天了，还是没法被替换
+D?
+13:46
+Drink more hot oil 
+In reply to this message
+我记得群友发过，查不到
+13:48
+[]
+SL
+13:48
+Stan Lee
+In reply to this message
+查不到
+13:49
+澳门CTMO的内地号码用3要素能查到
+D?
+13:49
+Drink more hot oil 
+那个澳门号码和内地号码都是身份证实名
+SL
+13:52
+Stan Lee
+In reply to this message
+cuniq的86也是身份证
+D?
+13:52
+Drink more hot oil 
+In reply to this message
+对
+13:53
+我不需要86号码，都只要了香港号码，护照实名
+13:54
+我感觉电信那个真的有点那啥，我国内电信号码刚换成自己的实名不久，都没注册过东西，骚扰就来了，还能知道我是谁
+13:58
+我没有联通卡，但是移动感觉比电信好一点，当然，真去查，都容易查
+13:59
+In reply to this message
+对，自从实名过后，信息泄漏一塌糊涂，是个人都能查
+14:01
+Deleted Account
+In reply to this message
+有一些甚至有门头照
+14:01
+都是你自己无意中泄露的
+14:01
+14:02
+In reply to this message
+有一些软件上传收集
+14:02
+但是特别少
+14:02
+因为有没那么多让你拍
+14:02
+In reply to this message
+来源不清楚，反正有一些有门头照
+D?
+14:04
+Drink more hot oil 
+In reply to this message
+都是本地
+14:04
+只有那100兆漫游
+14:04
+Deleted Account
+In reply to this message
+都算是香港本地的
+14:04
+那20g可以去澳门用
+14:04
+就等于20g多了个澳门
+A
+14:04
+Algae
+In reply to this message
+20g可以澳门
+一
+14:09
+一只胖锦鲤
+In reply to this message
+真牛逼
+14:09
+我1000都开不出来
+D?
+14:13
+Drink more hot oil 
+In reply to this message
+抽，之前我一个没撸，看中不中
+乾坤
+14:15
+乾 坤
+中不了
+14:21
+Deleted Account
+In reply to this message
+没人要，撸烂了
+K
+14:21
+Keil
+[]
+14:21
+哥哥们，这是开启wifi calling了吗
+14:22
+[]
+14:22
+这里网络变成giff了
+14:23
+是开启成功了吗
+14:24
+一开始我看是扣0.08
+14:24
+接着又来条短信覆盖率
+14:24
+覆盖了
+14:25
+0.3英镑
+14:25
+变成扣0.3英镑了
+14:26
+哪家机场的英国节点好啊
+法
+14:28
+法老-英国
+不想用出现漫游付费的情况请打开飞行模式
+Az
+14:28
+AAA z
+In reply to this message
+那个交易所提过去的
+14:29
+不认识
+K
+14:30
+Keil
+In reply to this message
+[]
+14:31
+现在这种是成功开启了吗
+Next messages

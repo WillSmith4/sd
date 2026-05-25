@@ -1,0 +1,3477 @@
+Esim.Kim中文交流群
+Previous messages
+4 December 2025
+大B
+11:33
+大雄 BGM
+[]
+法
+11:33
+法老-英国
+走国外从随身WiFi出去
+大B
+11:33
+大雄 BGM
+In reply to this message
+中转用的哪家？
+法
+11:33
+法老-英国
+走国内从蜂窝数据
+W
+11:34
+William
+微信咋回事，几乎全是1000+的延迟？
+11:34
+微信是真拉垮啊。
+法
+11:34
+法老-英国
+家里有公网Ip不需要那家
+11:34
+自建回家
+11:35
+没有公网ip就付费回家
+大B
+11:35
+大雄 BGM
+电信不是一直有公网吗
+SL
+11:35
+Stan Lee
+如果手机2张卡，卡1国内流量，卡2漫游流量，现在有没有技术做到
+，国内IP走卡1，国外IP走卡2
+法
+11:35
+法老-英国
+一个月50G10块钱
+11:35
+可以
+11:35
+不行
+11:35
+双卡双待数据只能走一张
+11:36
+有个东西叫动态域名
+11:36
+解决烦恼
+SL
+11:36
+Stan Lee
+DDNS
+11:37
+这时候得上软路由了
+法
+11:37
+法老-英国
+国内上网回自己家分流就行
+SL
+11:37
+Stan Lee
+或者可以刷op的硬件路由器
+法
+11:37
+法老-英国
+想要啥漫游卡 机场 Vps 全给你整明白
+11:38
+[]
+11:38
+整的明明白白
+W
+11:39
+William
+In reply to this message
+老哥，你这30air国际版能插几张卡来着？
+法
+11:39
+法老-英国
+1张
+W
+11:39
+William
+嗯。也足够了，能2张就更好了
+一
+11:40
+一只胖锦鲤
+In reply to this message
+好记
+法
+11:40
+法老-英国
+够了正常写个几张收费漫游卡十几张免费漫游卡出国随便玩
+W
+11:41
+William
+嗯，就是如果想用国内卡得拔插。毕竟漫游卡没那么多流量
+法
+11:42
+法老-英国
+插一张max可以带个20多张漫游卡出门
+SL
+11:54
+Stan Lee
+[]
+有没有人收？
+法
+11:55
+法老-英国
+这个比cte贵不少
+SL
+11:56
+Stan Lee
+开这个的时候cte uk还没多少人用吧
+11:56
+没人收用完流量就扔了
+11:57
+这垃圾现在连15的年套餐都缩水了
+11:58
+In reply to this message
+当然要用完流量
+11:58
+这流量还能拉cte的 wificalling呢
+11:58
+In reply to this message
+爽毛线，延迟那么高
+法
+11:59
+法老-英国
+能拉gg voxi cte
+SL
+SL
+11:59
+Stan Lee
+都是垃圾
+法
+11:59
+法老-英国
+你能看1080p的油管和titok
+11:59
+凑合玩吧
+SL
+12:06
+Stan Lee
+cte cmlink 都不玩，留个gg保号就行了
+12:07
+In reply to this message
+薅羊毛还可以
+瞳
+12:09
+瞳锌
+f12的
+12:09
+Sticker
+Not included, change data exporting settings to download.
+, 9.2 KB
+伶
+12:14
+伶牙俐齿
+In reply to this message
+没有月租，且号码的兼容性好啊。
+12:15
+In reply to this message
+你这怎么做到的呢？是手机开了代理工具？还是随身Wifi开了代理工具？
+法
+12:15
+法老-英国
+隧道啊
+12:15
+打隧道互联
+12:16
+Deleted Account
+他拿家里的宽带做代理机
+12:16
+然后连上分流
+伶
+12:16
+伶牙俐齿
+In reply to this message
+不是建的代理节点吗？
+法
+12:17
+法老-英国
+隧道打通才能互联
+12:17
+Deleted Account
+家宽就是机场
+法
+12:17
+法老-英国
+代理节点不都是内网手搓
+伶
+12:17
+伶牙俐齿
+In reply to this message
+用小火箭等工具做分流呗？如果是国内IP就走自建的回家节点，否则就直连呗？
+12:17
+Deleted Account
+In reply to this message
+差不多
+法
+12:17
+法老-英国
+一样
+伶
+12:17
+伶牙俐齿
+In reply to this message
+有公网IP你建立好节点也能在公网访问啊
+法
+12:17
+法老-英国
+只有支持协议都行
+12:18
+你连隧道肯定要公网啊
+12:18
+先走隧道 隧道内再走你自建的节点
+d
+12:46
+des
+有没有方法把cte放随身wifi或者其他设备上，短信，通话，漫游流量通过局域网转发到公网ip的方法
+12:46
+这样可以当成英国家宽节点用，费用也不会太高，还不占手机卡槽
+U
+12:47
+UK_JPCD
+In reply to this message
+有移动wifi插卡版
+12:47
+好贵的
+d
+12:48
+des
+我搞了个华子的5g智慧手机壳
+U
+12:48
+UK_JPCD
+还有可以直接用esim的移动wifi
+12:48
+100刀一个
+d
+12:48
+des
+支持5g，但是没wifi，只能通过usb rndis共享网络
+U
+12:48
+UK_JPCD
+都用cte了还用华子
+d
+12:49
+des
+才29块钱便宜，可以当没有wifi的5g随身wifi用
+U
+12:50
+UK_JPCD
+我在海鲜市场淘一个pixel5a来玩玩
+d
+12:50
+des
+In reply to this message
+普通随身wifi插个小白卡就好了
+U
+12:51
+UK_JPCD
+那不更换麻烦
+d
+12:52
+des
+确实是
+12:52
+In reply to this message
+所以在找这个方案，最好是能切esim的
+U
+12:53
+UK_JPCD
+100刀有
+12:53
+我某一天刷到的
+d
+12:54
+des
+这太贵了
+12:55
+5G WWAN模块不知道能不能这样用
+U
+12:55
+UK_JPCD
+https://youtu.be/YhuoRSy_Uos?si=BVacYZUM712Ltwco
+12:55
+就这个
+d
+12:56
+des
+理论上普通的cpe插esim卡也行，就是不能切卡
+13:01
+In reply to this message
+这看起来有点拉
+13:01
+速度才10几，淘宝上十几块钱的水平
+法
+13:44
+法老-英国
+完全没问题
+13:45
+我就是随时WiFi上做到短信转发 切卡 全部搞定
+13:46
+[]
+U
+13:54
+UK_JPCD
+In reply to this message
+这是咋做到的
+法
+13:54
+法老-英国
+设备
+13:56
+[]
+13:56
+[]
+13:56
+有短信转发 可以推送到任何 软件上
+?
+13:56
+𝓠𝓲𝓪𝓷𝓧𝓲
+cte我遇到了个问题
+13:57
+只有用他流量的时候才能收到验证码
+13:57
+法
+13:57
+法老-英国
+不需要
+13:57
+激活后等个6-7天就能收短信了
+?
+13:58
+𝓠𝓲𝓪𝓷𝓧𝓲
+激活一个礼拜了
+13:58
+可以收短信
+13:58
+但是必须要开流量才能收到
+13:58
+不开就只能收到888的短信
+法
+13:58
+法老-英国
+不会能收到
+13:59
+你关闭漫游开关 也能收到短信
+13:59
+我都懒得更新
+?
+13:59
+𝓠𝓲𝓪𝓷𝓧𝓲
+行
+法
+13:59
+法老-英国
+每次更新 配置文件 就要重写
+?
+13:59
+𝓠𝓲𝓪𝓷𝓧𝓲
+我再试试
+法
+13:59
+法老-英国
+我加了很多自己得东西
+13:59
+不止是短信推送
+14:00
+还有 监控设备app的消息
+14:00
+app
+14:00
+高级后台没有的功能
+14:00
+一样能用
+14:00
+[]
+14:00
+装短信转发器
+14:00
+配置就要你自己研究了
+14:01
+正常权限给足就永久保持
+14:01
+那种设备不要问了 和 系统有关系
+14:01
+这个系统 默认就是永久驻留
+s
+14:01
+skyboy
+In reply to this message
+这功能溜啊，手机有留出来卡槽位了
+法
+14:02
+法老-英国
+装max
+14:02
+直接写入20多张漫游卡
+14:02
+随便你切换
+s
+14:02
+skyboy
+In reply to this message
+还是你会玩啊
+法
+14:04
+法老-英国
+这东西有面具 改串 装了google框架 app随便你换imei每次都是新用户
+没有esim功能的也能伪装成esim
+阿
+GH
+14:05
+GUOQIU HAN
+In reply to this message
+这不是内置卡吗
+法
+14:05
+法老-英国
+那就不用
+阿
+14:06
+面具 shamiko bl伪装
+14:06
+能绕过的就绕过了
+14:06
+绕不过的应用直接删除
+14:06
+红茶又不是免费的
+14:06
+我没测试
+14:06
+我测试eskimo redbull roamless 都可以
+14:07
+手机改串难度大
+14:07
+随身wifi 随便改
+14:08
+对啊
+s
+14:15
+skyboy
+In reply to this message
+没太懂这个，是还单独需要个手机转发吗，还是只有U30 air，max
+写的esim卡也是air上可以提切换吗？也能正常收短信呢
+法
+14:22
+法老-英国
+U30air = 一台全功能的手机
+14:22
+功能集中到一起了
+14:23
+短信转发 wifi热点 软路由插件 esim切写卡 app修改 都在一起
+s
+14:24
+skyboy
+In reply to this message
+那就是买1个air和 estk max，就行了是吧，谢谢
+GH
+14:34
+GUOQIU HAN
+In reply to this message
+2个max省钱
+s
+14:34
+skyboy
+In reply to this message
+直接买2个max》手机插槽不够啊
+伶
+14:41
+伶牙俐齿
+In reply to this message
+直接连接自建的节点不行吗？必须得用隧道吗？
+一
+14:46
+一只胖锦鲤
+用那么多啊
+14:46
+你们都是干啥的
+14:46
+要那么多卡
+法
+14:46
+法老-英国
+不走隧道我里面那么多设备 要使用
+14:46
+怎么可能
+14:46
+我又不是一个设备
+s
+14:49
+skyboy
+In reply to this message
+666，我看插卡的U30 买全球版才行吧
+法
+14:49
+法老-英国
+肯定啊
+14:49
+必须全球
+s
+14:49
+skyboy
+好的啊，搞起
+14:50
+我就是想用U30 能用ESIM流量，平时能收短信嘛，就够了
+15:12
+Deleted Account
+我想咨询一下
+15:12
+用这个在线工序显示获取新的二维码失败
+15:29
+Deleted Account
+好的，谢谢
+N
+16:06
+Nace
+二维码不显示用lpa生成就可以了
+16:07
+Deleted Account
+刚刚把estk里面的clubsim转移到苹果失败了
+SJ
+16:07
+Soff Jomeka
+In reply to this message
+lpa 是什么工具啊？
+16:07
+Deleted Account
+显示生成的新的二维码，但是新的二维码扫不了，然后estk上面的那个信号直接消失了
+16:07
+把人整麻了
+N
+16:08
+Nace
+…二维码下面不是有显示LPA开头的一串
+16:11
+Deleted Account
+我尝试过用那个东西，但是也不行
+16:11
+估计只能自己去一趟线下门店
+N
+16:11
+Nace
+你是club不是gg啊
+SJ
+16:12
+Soff Jomeka
+如果知道SIM/ePIN/PIN/PUK是否可以生成esim的二维码啊？
+16:12
+Deleted Account
+gg我已经弄完了
+16:12
+后面我弄这个CLUb
+法
+16:12
+法老-英国
+你需要有LPA开头的的一串代码 才可以生成二维码
+N
+16:13
+Nace
+In reply to this message
+你先搜索一下它们是啥东西再说
+SJ
+16:14
+Soff Jomeka
+德国沃达丰把我的二维码寄到德国的一个地址了，我谷歌随便找的，我让他们发邮件给我，只发了这些信息给我，偏偏不给二维码
+N
+16:15
+Nace
+沃达丰德国补卡好像是寄纸质二维码
+SJ
+16:15
+Soff Jomeka
+没有，我二维码失效了，让它们重新提供，它们跟我要了地址核对身份信息，让后直接给我寄信过去了，吐血
+16:16
+In reply to this message
+是啊，怎么办，被别人收走了，拿去打电话，我要付账单
+N
+16:16
+Nace
+没招，它就是要确认地址
+SJ
+16:16
+Soff Jomeka
+In reply to this message
+我记得，但是那个二维码失效了，扫码报错
+N
+16:16
+Nace
+你可以注销
+16:16
+应该是
+SJ
+16:17
+Soff Jomeka
+没有及时扫进手机，因为当时还没买estk
+N
+16:17
+Nace
+补卡就是废了，都重新发卡了
+16:18
+每个运营商补卡政策都不一样
+SJ
+16:18
+Soff Jomeka
+没想到过了一段时间准备写入手机时第一次那个二维码失效了
+16:18
+每个月我还银行转账0.1欧保号
+16:19
+我现在就只能注销吗？可以通知一下他们就给注销吗？
+16:20
+In reply to this message
+我穷逼没有海外的eSIM 原生手机，也没有及时拥有Estk
+N
+16:20
+Nace
+没买Estk 就先申请你也是人才了
+SJ
+16:21
+Soff Jomeka
+没有写入过，是太久没扫就失效了
+16:22
+看着大家都在申卡，当时就跟着教程申请下来了，想着早晚都要买estk 的
+16:23
+补卡要5欧
+16:24
+火热的群友常常把我的热情
+Xq
+16:41
+X q
+懂了，羊毛必须及时薅
+SJ
+16:44
+Soff Jomeka
+就是啊，我经常太晚错过人家都关门了
+萤
+18:07
+萤
+验证口令是啥。。
+d
+18:24
+des
+[]
+终于在pixel上解决了eskimo隐藏root和bl，居然可以直接显示二维码
+18:25
+但是问题来了，想改串有什么方案吗
+18:27
+pixel2有esim但是下载不了任何卡，只能用白卡之类的
+18:35
+redbull还是不能用
+SJ
+23:46
+Soff Jomeka
+拒绝了两次还坚持不懈用同一个护照又过了？
+23:48
+[]
+这个cte号码也会有骚扰电话吗？还是携号转网打来确认的？没敢接～
+5 December 2025
+W
+00:10
+William
+In reply to this message
+和我一样，自己的护照拒绝再传就通过了，看审核员心情吧。买号码，邮件联系客服转出即可
+一
+00:28
+一只胖锦鲤
+大佬又要买号码
+00:29
+有啥好的，分享一下
+W
+00:44
+William
+没有什么可买的了吧
+W
+01:44
+William
+这和我手里那个4g款的外形几乎一样啊
+瞳
+01:55
+瞳锌
+我想请教个问题，我之前gg转esim之后放到了9esim卡上，现在换了张9esim卡，还能重新获取二维码把esim再换一个地方吗？
+JR
+02:00
+Joseph Ruff
+一切重来
+02:01
+原来的要接验证码
+02:01
+不要删了
+瞳
+02:02
+瞳锌
+还能重新获取二维码？
+02:02
+有空我试下
+JR
+02:05
+Joseph Ruff
+想换就换
+02:05
+不限制
+02:06
+关键原号要接验证码
+d
+02:14
+des
+见鬼了，用cte的号码注册tg也要付sms fee了
+02:14
+之前用gg都不用
+02:14
+Deleted Account
++86的不用
+02:15
+Sticker
+Not included, change data exporting settings to download.
+, 18.4 KB
+d
+02:15
+des
+昨天+372付了sms fee也收不到
+D?
+02:19
+Drink more hot oil 
+你们注册那么多tg来卖吗？
+一
+02:21
+一只胖锦鲤
+注册那么多tg干啥
+02:21
+我也想问
+02:21
+我这个+86的，用了好久了
+D?
+02:22
+Drink more hot oil 
+86的多少有点风险
+d
+02:22
+des
+cte的ip不应该吧
+CS
+02:22
+Candies Sven
+In reply to this message
+这个能像。U30 air 那样有软路由插件的功能吗？
+一
+02:23
+一只胖锦鲤
+我又不乱说话
+d
+02:23
+des
+我个朋友86tg前几天被请喝茶注销账号了
+一
+02:23
+一只胖锦鲤
+这些账号真的是开的越早越轻松
+d
+02:24
+des
+他还是2部手机国内外隔离
+D?
+02:25
+Drink more hot oil 
+我没用86注册tg，但是我交易所安全验证是86
+一
+02:26
+一只胖锦鲤
+咋说呢只要你不乱说话
+02:26
+都睁一只眼闭一只眼
+02:26
+那么多人，没空关注你
+d
+02:26
+des
+说不准有晶哥找你冲业绩呢
+阿
+一
+02:26
+一只胖锦鲤
+你要是乱说
+02:26
+那就抱歉了
+02:26
+送上门的功劳
+D?
+02:28
+Drink more hot oil 
+我也就看看片，水水群，交易所也只是用u卡付点款，就算全用86都懒得找我
+02:29
+更何况只是为了安全，某些涉及资金的账户才用86
+瞳
+02:29
+瞳锌
++86能有啥风险
+一
+02:29
+一只胖锦鲤
+没风险
+瞳
+02:30
+瞳锌
+反而是其他的更容易封号
+02:30
+Sticker
+Not included, change data exporting settings to download.
+, 9.2 KB
+一
+02:30
+一只胖锦鲤
+想干坏事不留名的才说有风险
+JR
+02:30
+Joseph Ruff
+我的86 号用了3 年多都没问题
+02:31
+就是常规交流不问政
+02:31
+没事的
+D?
+02:33
+Drink more hot oil 
+In reply to this message
+你们都是干嘛被封的，我正常用，没遇到过封号
+瞳
+02:34
+瞳锌
+刚注册的时候容易封
+02:34
+话说多了
+02:34
+Sticker
+Not included, change data exporting settings to download.
+, 9.2 KB
+02:34
+估计被认为打广告了
+D?
+02:43
+Drink more hot oil 
+不能理解，就跟不能理解群友为什么需要那么多tg账号一样，万一被误封了申诉或者重新注册就是了。上次我发现我的clubsim号码注册了灰产tg账号，我让他换号，不理我，我把他号都销了，把clubsim也销户了
+W
+02:44
+William
+In reply to this message
+同问。。天天注册tg干什么。。
+小
+02:47
+小喵崽
+我也看很多开卡就注册tg
+02:47
+Deleted Account
+主动私聊别人容易封号
+小
+02:47
+小喵崽
+我也主动私聊
+02:47
+正常的那种
+02:48
+Deleted Account
+别人反手一个举报
+小
+02:48
+小喵崽
+那种推销得除外
+02:48
+Deleted Account
+人家就是干这种的
+D?
+02:48
+Drink more hot oil 
+我一般不主动私聊，除非群友有问题，我刚好知道，又不好发群里
+02:49
+Deleted Account
+所以正常使用就没事
+D?
+02:49
+Drink more hot oil 
+对
+02:51
+Deleted Account
+我上周主动注销了两个3年的老号
+W
+02:52
+William
+我很少私聊别人。一般都群里水群而已。
+02:52
+Deleted Account
+号太多也没意思
+W
+02:52
+William
+推销诈骗的喜欢私聊。被人反手举报多了肯定需要很多账号
+02:53
+那个查询tg注册时间的事哪个bot来着？
+D?
+02:56
+Drink more hot oil 
+正常用，号多了管理起来还麻烦
+W
+02:56
+William
+没必要。大部人只是为了自由聊天
+D?
+02:57
+Drink more hot oil 
+我手机卡就感觉太多，有的到期我就不续费了，要精简到只留用得上的
+03:01
+Deleted Account
+[]
+主动注销了两三个还有这么多，这些号都是备用的，没加过别人，都是自己小号互加。
+米
+D?
+03:04
+Drink more hot oil 
+我就两个号，小号还是前段时间才注册的，一直没用过
+03:04
+Deleted Account
+有些群退出了就被永久拉黑，如果再想进群就得小号加，所以有几个小号还是有用的。
+D?
+03:04
+Drink more hot oil 
+In reply to this message
+你这很nice
+03:04
+Deleted Account
+03:04
+都是美女
+D?
+03:05
+Drink more hot oil 
+In reply to this message
+对，我有个技术群就是注册tg的第一时间加的，那时候不知道要验证，被永久拉黑了
+叶
+03:05
+叶
+Sticker
+Not included, change data exporting settings to download.
+, 7.4 KB
+03:05
+怎么同时登入这么多账号的
+03:06
+Deleted Account
+In reply to this message
+TG X
+叶
+03:06
+叶
+[]
+03:07
+我开了个年会员也只能4个
+03:07
+行吧
+03:07
+tg x好像苹果下不了
+03:08
+Deleted Account
+我全部登陆TGX
+叶
+03:08
+叶
+Sticker
+Not included, change data exporting settings to download.
+, 20.9 KB
+03:09
+行
+瞳
+03:09
+瞳锌
+[]
+03:10
+Deleted Account
+手机号码码一下呗
+03:11
+你这个不是靓号啊
+瞳
+03:11
+瞳锌
+这是旧的手机号，之前tw白嫖已经把这个号换了
+03:11
+Sticker
+Not included, change data exporting settings to download.
+, 9.2 KB
+03:11
+Deleted Account
+你不怕别人找回
+瞳
+03:11
+瞳锌
+所以不用打码
+高宏
+03:12
+高 宏远
+In reply to this message
+我这个登陆了20个号
+D?
+03:12
+Drink more hot oil 
+不怕被人找回啊
+瞳
+03:12
+瞳锌
+找不回的
+03:12
+有两步验证
+03:12
+Deleted Account
+人家可以强制注销
+瞳
+03:12
+瞳锌
+In reply to this message
+需要时间的
+03:12
+强制注销我能收到通知
+D?
+03:13
+Drink more hot oil 
+In reply to this message
+找得回，我之前用手机号找回了一个，给他销户了
+03:13
+Deleted Account
+瞳
+03:13
+瞳锌
+在等待期我早就换绑了
+高宏
+03:13
+高 宏远
+转移美国号 千万别转到T-Mobile ，要打电话才能转移
+03:13
+In reply to this message
+人家给客服发个邮件就行了
+D?
+03:14
+Drink more hot oil 
+不会啊，网页端直接能转
+瞳
+03:14
+瞳锌
+In reply to this message
+我就是有二验，也绑定了邮箱
+03:14
+In reply to this message
+7天
+03:15
+In reply to this message
+我之前号被删，邮件客服都不理我
+D?
+03:15
+Drink more hot oil 
+In reply to this message
+你是新开账户携转？
+03:15
+Deleted Account
+反正不是自己的手机号都不安全
+03:15
+被注销就完犊子
+瞳
+03:16
+瞳锌
+没那么多手机号，我tg小号都是之前白嫖的talkatone，现在登录不上talkatone了，害怕
+高宏
+03:16
+高 宏远
+In reply to this message
+T-Moblie 线上转移不了 本地号码，要打电话给客服才给转
+03:16
+In reply to this message
+我后台一直失败
+03:17
+Deleted Account
+美国号，我基本都是不太用心。
+D?
+03:17
+Drink more hot oil 
+In reply to this message
+我就自助转过一次，没遇到过
+03:18
+Deleted Account
+不想花钱在美国手机号码上，就GV充了十美元用了好几年。
+D?
+03:18
+Drink more hot oil 
+In reply to this message
+开三大，其余的感觉随时可能封号或者跑路
+高宏
+03:18
+高 宏远
+In reply to this message
+我是 Twilio转到T Mobile
+03:18
+Deleted Account
+In reply to this message
+成本高不想开
+D?
+03:18
+Drink more hot oil 
+In reply to this message
+我gv转进去的，转完那个Google号被封了
+高宏
+03:19
+高 宏远
+In reply to this message
+转3刀了嘛
+W
+03:20
+William
+美国的搞不起，只能放到gv里了
+03:20
+In reply to this message
+那损失大了。
+高宏
+03:20
+高 宏远
+In reply to this message
+我才注册都没送 亏死
+W
+03:20
+William
+你这说的我都不敢转进gv了。我的谷歌号可关联了很多服务
+D?
+03:21
+Drink more hot oil 
+In reply to this message
+没有，我买的gv号码转进tmobile，账号不需要
+高宏
+03:23
+高 宏远
+还是tello好
+D?
+03:24
+Drink more hot oil 
+tello不会风控的吗？
+高宏
+03:25
+高 宏远
+会
+03:26
+Deleted Account
+我的GV现在可以随便乱跳ip了，只要不主动骚扰美国人应该不怕了。
+W
+03:27
+William
+主要还是得看谷歌账号。
+D?
+03:27
+Drink more hot oil 
+我脸黑，ultra原生ip+美区Google账号，都开不出来gv
+W
+03:27
+William
+我的谷歌账号都是12年以上的。
+03:27
+Deleted Account
+我也不知道
+W
+03:28
+William
+谷歌老。gv才更稳些吧
+03:28
+Deleted Account
+我最老的号被封了，两三年的的号反而好好的。
+D?
+03:28
+Drink more hot oil 
+之前的Google账号还是关联的86号码，好多年了，都不记得账号了，应该被销户了
+W
+03:29
+William
+谷歌账号长时间不用是会被销号的。我有的销号不太用的。都受到过邮件通知。
+D?
+03:29
+Drink more hot oil 
+之前用vpn，偶尔才上一次外网
+03:29
+Deleted Account
+In reply to this message
+用电脑申请试试
+03:30
+我现在是一个手机登陆好几个谷歌账号
+D?
+03:30
+Drink more hot oil 
+In reply to this message
+不用，真有需要，买一个转入实体号码的随便用
+03:31
+Deleted Account
+钱多
+D?
+03:31
+Drink more hot oil 
+我现在两个T-Mobile都是百刀余额，没怎么用
+03:31
+Deleted Account
+钱能解决99%的问题
+D?
+03:32
+Drink more hot oil 
+这些是小钱就能解决的
+W
+03:33
+William
+还得是实体卡更好。
+03:33
+TMobile漫游使用稳定不？不杀吧？
+D?
+03:33
+Drink more hot oil 
+不杀，没信号
+03:33
+只能Wi-Ficalling
+03:33
+我没买套餐
+W
+03:34
+William
+嗯，3刀么？
+D?
+03:34
+Drink more hot oil 
+0
+W
+03:34
+William
+还能改成0啊。可以
+D?
+03:35
+Drink more hot oil 
+现在难改了
+W
+03:36
+William
+嗯。听说是的
+D?
+03:36
+Drink more hot oil 
+我英语不好，当时没法自己改，都是买的
+03:36
+Deleted Account
+氪金大佬
+D?
+03:37
+Drink more hot oil 
+03:37
+Deleted Account
+几百U余额说充就充
+D?
+03:38
+Drink more hot oil 
+嗯，确实
+W
+03:39
+William
+我顶多给它充50刀。足够保号2-3年足够了。
+D?
+03:39
+Drink more hot oil 
+In reply to this message
+买来就差不多那么多余额，改套餐要充值
+03:40
+现在还每三个月或者一年充一刀保号
+03:40
+接点短信，用不了多少
+03:41
+In reply to this message
+如果用得稍多，3刀卡比0刀卡实用
+W
+03:42
+William
+In reply to this message
+嗯，应该也更稳点吧。毕竟每个月交钱了
+D?
+03:43
+Drink more hot oil 
+In reply to this message
+对的，我是能用就用，用到哪天算哪天
+03:44
+要是遇到问题需要杠客服，都感觉说话没底气
+W
+03:46
+William
+是的。不行就给他改成3刀的。反正你几百刀余额能用很多年了
+D?
+03:47
+Drink more hot oil 
+什么时候要用就给它改了
+03:48
+现在就绑了几个账号，一年也开不了几次，改了反倒是增加成本
+04:00
+对，2g没了，等于没信号
+04:02
+我都没注意到什么时候没的，一直都能Wi-Ficalling，开的时候也少
+叶
+04:12
+叶
+ta怎么把积分用掉啊
+法
+04:13
+法老-英国
+我都用8刀卡…
+D?
+04:17
+Drink more hot oil 
+按需使用
+一
+04:39
+一只胖锦鲤
+同样
+SJ
+05:15
+Soff Jomeka
+3刀的是什么卡啊？
+05:15
+也是tello?
+t
+05:15
+tsmoci
+3刀一般是tmobile或者ultramobile
+05:15
+tello是5刀
+SJ
+05:16
+Soff Jomeka
+Tmobile 3刀可以啊
+05:16
+德沃不鸟我了，我写邮件过去都不回复了，麻的
+D
+06:16
+Doraemon
+谁有香港eSIM 么？
+兔
+06:17
+兔兄弟
+有一堆
+SL
+06:18
+Stan Lee
+In reply to this message
+3hk csl cubsim cuniq 那么多你要哪个?
+D
+06:21
+Doraemon
+我想要已经用了半年的老号码
+兔
+06:22
+兔兄弟
+我这里有一些，你要吗
+C
+06:30
+CooL神
+In reply to this message
+有很多
+m
+06:39
+mi
+请问各位大佬Clubsim破解app的暗号是什么啊
+金
+06:47
+金色答辩
+谁那有gg的空卡 帮个忙啊
+兔
+06:51
+兔兄弟
+干嘛
+Co
+07:11
+Come on
+激活查询工具
+07:16
+In reply to this message
+在发一次查询链接
+UN
+07:18
+U N
+Tw靓号都薅光光了
+07:19
+黄牛哥们能吐些出来吗
+瞳
+07:23
+瞳锌
+群友都自己屯着玩
+W
+07:24
+William
+也没薅几个啊。怎么就没了
+C
+07:30
+CooL神
+暗号
+粥
+07:32
+粥哈哈
+In reply to this message
+[]
+7888866末班车
+07:33
+In reply to this message
+一人几个靓号，就没了
+W
+07:33
+William
+In reply to this message
+尾号带4吧。
+粥
+07:34
+粥哈哈
+不带，我找了好久的
+W
+07:34
+William
+那可以。不是太晚。最近几天剩下都是带4的了
+粥
+07:34
+粥哈哈
+前两天搞得，然后今天收到转移码邮件
+W
+07:35
+William
+不错哦。以后这个号段几乎绝迹了
+粥
+07:36
+粥哈哈
+还有 77xxx77xxx 的格式
+07:36
+里面的 xxx 就比较随机的
+W
+07:38
+William
+In reply to this message
+这就很一般了
+粥
+07:38
+粥哈哈
+能看到顺口的还行
+07:38
+77xAA 这种
+07:39
+77xAA77xBB
+W
+07:40
+William
+不如我那个772 772 AABB
+Xq
+07:45
+X q
+现在 twilio 不让注册了吧
+07:45
+被薅怕了
+07:48
+看来是我之前没用谷歌注册的原因了
+粥
+07:48
+粥哈哈
+没怎么见过有卖 3UK sim 卡的，还想试试转到 3UK 去玩玩
+W
+07:50
+William
+因为没有aff吧。
+粥
+07:51
+粥哈哈
+也有邀请，可能弄到国内成本大？
+W
+07:52
+William
+In reply to this message
+确实不如这些纯外资的服务商的私密性
+SJ
+07:59
+Soff Jomeka
+如何判断自己的号码是否有携转成功啊？
+08:00
+In reply to this message
+为何会无主？有主也会罗织罪名没收吧？
+星
+08:02
+星辰
+gg卡激活充值，不建议用虚拟卡u卡吗
+08:03
+[]
+用u卡是不是会被冻结锁卡啊
+08:04
+bitget
+08:04
+能用这个吗
+W
+08:05
+William
+这是那些卖卡的想给你代充说的吧
+星
+08:06
+星辰
+明白了，搞得我有点担心
+08:06
+用什么充都不影响吧
+W
+08:07
+William
+没听说过有什么影响
+08:07
+我也都是用虚拟卡,u卡充值的。
+08:07
+不是黑钱黑u都不会有问题的
+08:08
+代充才是最危险的
+SJ
+08:08
+Soff Jomeka
+我的cte 没信号了，携转失败了吗？
+W
+08:08
+William
+你根本不知道他们用什么钱给充的。
+SJ
+08:11
+Soff Jomeka
+重新飞行模式开了，不过发短信也收不到，是不是在操作了？可是英国现在还在天黑中～
+08:12
+可以了，把次级资源留点给我们吧
+W
+08:14
+William
+In reply to this message
+66没有不如撸68.。这个65差点意思啊
+T
+08:14
+Travel
+成本10gbp转一个已经激活的含9.9 2个月的cte ，余额还有8gbp
+W
+08:16
+William
+[]
+我这号码存着。等gg送15磅就继续开卡
+SJ
+SJ
+08:17
+Soff Jomeka
+羡慕你们都是靓号
+W
+08:17
+William
+羡慕啥，有手就行啊
+SJ
+08:17
+Soff Jomeka
+有手也要有好货啊
+08:18
+都被你们撸光了
+瞳
+08:18
+瞳锌
+就是
+W
+08:18
+William
+比随机号好的多的号码还不是大把么
+08:19
+[]
+7888868就还有很多不错的哦
+08:19
+In reply to this message
+是的。gg不知道什么时候出充10送15活动啊
+GH
+08:21
+GUOQIU HAN
+In reply to this message
+可以这样说有电子钱包公安都提前不了就知道有多少钱
+阿
+W
+08:21
+William
+In reply to this message
+哈哈。我都4个。就不收了
+08:21
+In reply to this message
+如果你出那个5个2的我可以考虑的
+SL
+08:22
+Stan Lee
+In reply to this message
+能提就直接没收了，就不会发出来让人认领了
+阿
+GH
+08:24
+GUOQIU HAN
+08:24
+还提交国库呢
+瞳
+08:24
+瞳锌
+In reply to this message
+什么号？
+08:25
+号码靓吗
+W
+08:25
+William
+没事开个单，玩一玩还挺好的
+瞳
+08:26
+瞳锌
+靓号都被群友薅的差不多了
+粥
+08:26
+粥哈哈
+In reply to this message
+撸多了成本太高了，一个 10 磅开卡费
+W
+08:27
+William
+成年人了。能为自己的行为负责啊
+GH
+08:27
+GUOQIU HAN
+In reply to this message
+之前香港和大陆一样，后来香港才合法
+W
+08:28
+William
+In reply to this message
+香港之前不算违规，三不管的，现在是完全合规的。
+瞳
+08:28
+瞳锌
+tw怎么释放旧号码来着？
+SJ
+08:28
+Soff Jomeka
+有两个吗？
+W
+08:28
+William
+充值激活肯定下载到假的了
+GH
+08:29
+GUOQIU HAN
+In reply to this message
+下载假了
+SJ
+08:29
+Soff Jomeka
+交易所还有假？这么知名的平台
+粥
+08:29
+粥哈哈
+手里的gg 卡越来越少了，现在送到不到国内了咋办
+SJ
+08:29
+Soff Jomeka
+In reply to this message
+转运
+08:29
+要那么多干嘛？
+GH
+08:30
+GUOQIU HAN
+In reply to this message
+有啊
+SJ
+08:30
+Soff Jomeka
+有的人薅了满箱，整抽屉
+W
+08:30
+William
+按头的时候也是按数量多少的
+SJ
+08:30
+Soff Jomeka
+一个10磅，哪来那么多钱啊
+W
+08:30
+William
+别羡慕别人卡多
+SJ
+08:31
+Soff Jomeka
+原来是你
+08:32
+竭泽而渔，空前绝后的就是你
+粥
+08:32
+粥哈哈
+In reply to this message
+以前我扔了好多
+08:32
+后面没人要了我就懒得申请了
+W
+08:33
+William
+我这10张够我玩几年了。
+SJ
+08:33
+Soff Jomeka
+In reply to this message
+后悔了吧？
+粥
+08:33
+粥哈哈
+try 一哈
+08:34
+In reply to this message
+以前几块钱邮费送人的都没啥人激活
+W
+08:34
+William
+In reply to this message
+这是你的么？真多啊
+粥
+08:34
+粥哈哈
+大部分人一听要 10 英镑激活就跑了
+SJ
+08:34
+Soff Jomeka
+啧啧，你们真能耐，佩服啊，gg官方真是大气
+W
+08:34
+William
+以前都白拿的不当回事吧。现在不发中国了香起来了
+SJ
+08:35
+Soff Jomeka
+In reply to this message
+用什么办法还能薅这么多啊？
+W
+08:35
+William
+去找个英国留学生帮你收啊。
+08:35
+然后发回国内，想搞还是很简单的
+SJ
+08:36
+Soff Jomeka
+要小留啊，你们有资源吗？我找个小留帮我收门左
+08:36
+你这儿生意做大了
+粥
+08:36
+粥哈哈
+哇靠
+SJ
+08:37
+Soff Jomeka
+配得上总代这个高端的称号
+ND
+08:37
+Norwa Dwaya
+[]
+08:37
+这后面怎么操作？
+W
+08:37
+William
+这里面得有上万张吧。
+SJ
+08:38
+Soff Jomeka
+In reply to this message
+我们要卡直接找你，免费发货吗？
+GH
+08:39
+GUOQIU HAN
+08:39
+大佬不悔大佬
+08:40
+Deleted Account
+送几张吧
+SJ
+08:41
+Soff Jomeka
+是啊，送几张吧
+N
+08:43
+Nace
+现在还是能收到啊
+08:44
+虽然国家变成了阿尔巴尼亚
+SJ
+08:45
+Soff Jomeka
+国家换一下，其它还是中国地址，还能收到？
+ND
+08:45
+Norwa Dwaya
+In reply to this message
+点了会有啥问题么？
+SJ
+08:46
+Soff Jomeka
+点破了天机，后果严重
+ND
+08:46
+Norwa Dwaya
+N
+08:46
+Nace
+默认国家会自动变阿尔巴尼亚
+08:47
+其它不变依然送得到
+08:47
+有啥天机不天机的
+SJ
+08:48
+Soff Jomeka
+大家知道了，又要疯狂了，
+N
+08:49
+Nace
+以前能选，也没有都能收到
+08:49
+大户肯定都有尝试申请，这玩意就是时间长短，早晚都知道
+SJ
+08:50
+Soff Jomeka
+以前我每次都能收到
+N
+08:50
+Nace
+改个国家，肯定收到的人更少。
+08:50
+只不过还是能收就是了
+W
+08:51
+William
+国家都不对，收到才见鬼了。国家对平邮都很多收不到
+N
+08:51
+Nace
+我收到11月的2封
+08:51
+国家是阿尔巴尼亚
+SJ
+08:51
+Soff Jomeka
+可以少数量测试一下
+08:52
+希望这些总代赚个返现就好，毕竟是人家大不列颠的福利政策
+N
+08:52
+Nace
+In reply to this message
+这边也有人收到
+SJ
+08:53
+Soff Jomeka
+邮递员肯定蒙了
+08:53
+估计gg在中国的客户数量都要超过本土了
+N
+08:54
+Nace
+不会的，邮递员每个月送，估计都不会注意到底下国家变了
+SJ
+08:54
+Soff Jomeka
+In reply to this message
+它们以为是粗心选错了国家，主动改错
+N
+08:55
+Nace
+也有可能咯，国家上面的是拼音，他们还能看得懂
+SJ
+08:55
+Soff Jomeka
+我当时填英文地址，它们有人翻译
+08:56
+In reply to this message
+黄色跟桃红混搭，太辣眼了
+08:56
+还要PIN的吗？我当时没要这个，只要了address
+08:58
+我还有张hahasim本月底前要启动，不然就过期了
+08:58
+In reply to this message
+你这个送10磅，很好啊，我以前的只送5磅
+08:59
+哦
+粥
+08:59
+粥哈哈
+过期了也送吧，但是可能只有 5 磅？
+09:00
+过期的带 Aff 的卡被激活了，我还能收到返利吗？
+C
+09:00
+Czone
+压根就没过期的说法
+JC
+09:00
+Jessie C
+当月
+粥
+09:00
+粥哈哈
+In reply to this message
+就是返利周期吧？
+C
+09:00
+Czone
+只要激活当月是送多少，就一样送，除非超15人
+SJ
+09:01
+Soff Jomeka
+In reply to this message
+这个卡会过期的吗？哪里看时间啊？
+粥
+09:01
+粥哈哈
+我也不太懂，送出去一些，没几个激活的
+C
+09:01
+Czone
+超15人的首充拿不到aff，开卡的不管当月多少，只能送5
+SJ
+09:01
+Soff Jomeka
+普通人有语言不通和外币付款压力
+粥
+09:02
+粥哈哈
+In reply to this message
+不是过期，就是有些时候送 10 磅，有些时候送 5
+磅，返利也不同，有时间段限制
+SJ
+09:02
+Soff Jomeka
+明白了
+C
+09:02
+Czone
+没发
+09:02
+之前都是20号左右才收到
+09:02
+毕竟11月的返利都还没到账
+09:03
+那可不能丢
+粥
+09:03
+粥哈哈
+算了，我也没几个 aff 返到我这，说不定以前都被人拿去免流了
+C
+09:03
+Czone
+不过在返利到账前，你随时可以更换pp
+UN
+09:04
+U N
+香港哪个电话适合做港卡的联系方式？
+C
+09:04
+Czone
+哈哈，一般都是同时发，之前那个澳洲小哥竟然能提前收到，也是第一次见
+粥
+09:04
+粥哈哈
+In reply to this message
+csl 、3 万能
+09:05
+真羡慕这些 affman，能拉到一堆返利
+C
+09:05
+Czone
+哦哦，那个超级返利好像是每月发
+JC
+09:05
+Jessie C
+度、支付到PayPal，或者捐赠给由社区选定的五家慈善机构（我们将匹配捐赠金额）。您需要在12月16日星期二晚上11:59之前做出选择，之后我们会尽快支付。
+W
+09:05
+William
+怎么还不来充值送15活动。nnnd
+C
+09:06
+Czone
+In reply to this message
+那就是16号之后才会发
+JC
+09:06
+Jessie C
+官网看到的
+W
+09:06
+William
+估计被冲傻了
+UN
+09:06
+U N
+In reply to this message
+能细说下为什么这两家吗
+JC
+09:06
+Jessie C
+我不信
+09:07
+印度和伊朗佬就不薅
+粥
+09:07
+粥哈哈
+In reply to this message
+不能啊，看你自己实际需求去选，多少流量，多少通话，多少短信
+09:07
+In reply to this message
+有些人一年 6 元保号都嫌贵，有些人一年几百港币买流量～
+UN
+09:08
+U N
+绑港卡，肯定的全功能，接码接电话，打电话
+JC
+09:08
+Jessie C
+说明公司还是盈利的
+UN
+09:08
+U N
+内地电话，香港银行就不打电话联系你
+JC
+09:08
+Jessie C
+我之前还理解庞氏
+09:08
+拉人头
+法
+09:09
+法老-英国
+你要香港接打电话？
+UN
+09:09
+U N
+所以，用香港电话绑定香港银行，能接银行电话，能打银行电话，还能接验证码，
+JC
+09:09
+Jessie C
+哈哈哈
+法
+09:09
+法老-英国
+而且要资费低 那只有支持vowifi的港卡
+UN
+09:09
+U N
+银行能联系本人，不是挺好？
+09:10
+要不只能自己一次次内地电话联系香港银行
+SL
+09:10
+Stan Lee
+In reply to this message
+cuniq，在内地接打0.3HKD，除了vowifi，在内地接打最便宜的能开esim的港号了
+SJ
+09:11
+Soff Jomeka
+In reply to this message
+内地接打香港电话多贵啊，香毛线
+法
+09:11
+法老-英国
+我就是港卡绑定香港银行
+09:11
+接打香港电话
+W
+09:11
+William
+In reply to this message
+可不。用户群体不一样
+09:11
+香港银行很少推销。不像国内银行电话都炸了。
+法
+09:12
+法老-英国
+csl不行
+UN
+09:12
+U N
+In reply to this message
+比内地打香港贵吗？
+法
+09:12
+法老-英国
+csl 不能 内地激活vowifi
+09:12
+除非你老有钱
+粥
+09:12
+粥哈哈
+In reply to this message
+成为不了，倒亏邮费
+SJ
+09:12
+Soff Jomeka
+In reply to this message
+香港最好不要打电话
+W
+09:12
+William
+我中银，汇丰渣打都绑的香港号。还没接到过推销电话。
+SJ
+09:12
+Soff Jomeka
+邮件联系非常方便，正式，还有存底
+UN
+09:13
+U N
+你们用哪个香港卡
+SL
+09:13
+Stan Lee
+为什么我的HK号码一堆骚扰电话？
+SJ
+09:13
+Soff Jomeka
+In reply to this message
+以前申请时，为了收银行卡，不得不写大陆手机号，怕寄丢了
+法
+09:13
+法老-英国
+simworld
+UN
+09:13
+U N
+In reply to this message
+你用哪家？
+W
+09:13
+William
+我cmhk的号码是ctuk转台过去的。推销电话一个月可能会有1-2个。很少了
+法
+09:14
+法老-英国
+接打电话用国际万能卡
+UN
+09:14
+U N
+因为还要考虑分开内地云闪付，和港卡的云闪付，
+SJ
+09:14
+Soff Jomeka
+香港银行可以换绑香港电话吗？
+W
+09:14
+William
+In reply to this message
+地址对，丢不了。都是挂号信平邮，直接进信箱的
+法
+09:14
+法老-英国
+流量用csl
+09:14
+可以
+09:15
+携号转网
+SJ
+09:15
+Soff Jomeka
+是挂号信吗？我还以为是平信，没收到卡的大有人在
+SL
+09:15
+Stan Lee
+In reply to this message
+我这号码用了6、7年了，不是回收号
+09:15
+主要绑定了太多香港银行、券商
+09:15
+可能把我信息卖了
+W
+09:15
+William
+以前也可能是回收的啊
+SL
+09:16
+Stan Lee
+In reply to this message
+开始用的时候没有，后面慢慢多起来的
+W
+09:16
+William
+号源就这么多。反复放号码池的，你不小心选到这种自然推销就多
+SJ
+09:16
+Soff Jomeka
+In reply to this message
+沃3hk在快要到期的最后两天2个电话
+SL
+09:16
+Stan Lee
+大概率是信息泄露
+W
+09:16
+William
+In reply to this message
+嗯，那就可能是泄漏的了
+SL
+09:17
+Stan Lee
+用的CMHK的实体卡，后面搞ESIM,转到3HK
+09:17
+CMHK一卡两地储值卡，现在绝版了
+UN
+09:18
+U N
+港卡不是得弄个新号，区分开内地号的云闪付
+W
+09:18
+William
+推销多确实烦
+粥
+09:18
+粥哈哈
+回收号挺多的，反正我开过好几个香港号码注册 whatsapp 都显示永封。。。
+W
+09:19
+William
+这只能碰运气了
+09:20
+根本不知道哪些是回收号
+SL
+09:22
+Stan Lee
+我的月神卡是回收号，APP还能看到之前的订单记录，笑死
+W
+09:22
+William
+这就尴尬了。重新卖不清理下记录么。。
+SL
+09:22
+Stan Lee
+你用手机号登录 进去看订单列表试试
+UN
+09:24
+U N
+月神号是esim吗？
+SL
+09:24
+Stan Lee
+上个人还是上台的24个月
+09:24
+In reply to this message
+是
+UN
+09:24
+U N
+它的两个号，同时有信号？
+09:25
+据说是一卡两号
+09:28
+资费高吗
+09:29
+两个号都9元
+法
+09:33
+法老-英国
+9元一月接打电话玩不起
+09:33
+保号一年108
+UN
+09:34
+U N
+这一算，是感觉用内地电话就算了100多也差不多电话费了
+W
+09:37
+William
+我也是对内地号码没需求，Cmhk 送内地号我也没开
+法
+09:38
+法老-英国
+最划算的就是支持vowifi的储值卡
+09:38
+接打香港电话很便宜
+W
+09:46
+William
+正常玩家也没有几个电话要打
+SL
+09:52
+Stan Lee
+In reply to this message
+谁会一直开着vowifi
+法
+09:53
+法老-英国
+给需要的人用啊
+09:53
+而且不用一直开着
+10:03
+Deleted Account
+接打电话用大湾区储值卡就得了，买流量还有100分钟送。
+10:04
+用不完也不会过期
+10:05
+主要是100块可以拿来买流量啊
+10:06
+都玩外卡了谁不买点流量
+10:07
+缺点就是没有Esim
+UN
+11:04
+U N
+In reply to this message
+蓝卡？
+11:04
+这个只有流量没电话
+11:17
+Deleted Account
+In reply to this message
+都有，自己谷歌。
+11:18
+我都用了两年了。
+W
+11:44
+William
+太草台了
+11:57
+二次号起码给之前的记录清理一下啊。啥都不弄就继续卖了。。
+UN
+12:09
+U N
+In reply to this message
+绑香港银行卡，得有，接，打，短信，流量，四个功能
+12:10
+In reply to this message
+怎么才1？
+烟（
+12:10
+烟雨 （温柔新生）
+那是1件不是1块
+法
+12:12
+法老-英国
+太贵了玩不起
+SL
+12:26
+Stan Lee
+In reply to this message
+我的也是2022年
+12:38
+Deleted Account
+In reply to this message
+以上功能都有
+d
+13:14
+des
+In reply to this message
+前段时间用gg秒收短信
+SJ
+13:16
+Soff Jomeka
+cte携号转网后，原来的长期保号服务没了，自己登记要每月1磅了？
+d
+13:16
+des
+cte wificalling
+13:16
+不是不收是要sms fee
+法
+13:22
+法老-英国
+苹果定位到英国再开ctuk流量 记得注册前删除重新安装一次app
+13:22
+看看能不能成功
+SJ
+13:25
+Soff Jomeka
+In reply to this message
+我买原套餐的时候就已经自动保号了，现在携号过来亏了
+d
+13:26
+des
+感觉现在的cte没人要，不知道为什么
+13:26
+成本价都不要
+D?
+13:27
+Drink more hot oil 
+除了群友，谁用漫游流量玩
+W
+13:27
+William
+上外网卡的不如用梯子，保号不如gg便宜方便
+SJ
+13:27
+Soff Jomeka
+找客服补这个携号转网后的保号功能，能争取到吗？
+W
+13:27
+William
+比较鸡肋吧
+SJ
+13:28
+Soff Jomeka
+In reply to this message
+梯子不纯净啊，这个至少原生
+D?
+13:28
+Drink more hot oil 
+在户外内外卡分离设备使用
+W
+13:29
+William
+In reply to this message
+有啥纯净不纯净的，我用了十多年梯子也没见什么账号被封的，别用太便宜的就行了
+SJ
+13:30
+Soff Jomeka
+In reply to this message
+我英区都快全军覆没了，哎，一定要用纯净的原生ip
+13:30
+教训深刻，以前不懂
+13:30
+我买了2张cte
+W
+13:30
+William
+你全军覆没是因为p的文件吧
+d
+13:30
+des
+自己搞个vps感觉都比机场好
+SJ
+13:30
+Soff Jomeka
+我从不p
+13:31
+你以为我是五道口的弟子吗？
+W
+13:31
+William
+你不p你怎么开英国的钱包那些
+13:31
+英国不就那几个嘛
+13:32
+In reply to this message
+这个真不一定
+高宏
+13:34
+高 宏远
+In reply to this message
+没用过好机场吧
+d
+13:35
+des
+很久没用了
+13:35
+都是用自建的
+13:36
+还有个最低套餐的tag备用
+d
+13:51
+des
+第二个cte开了7天刚刚来短信了
+CS
+13:57
+Candies Sven
+In reply to this message
+不一定。我vps被墙了，靠机场链式，虽然延迟高，有点卡。但用的还是很爽的
+瞳
+13:58
+瞳锌
+我节点乱窜都没事
+d
+13:58
+des
+我也乱窜
+瞳
+13:59
+瞳锌
+主打一个爱封不封
+d
+13:59
+des
+注册东西先用tag，不行再esim漫游流量
+13:59
+再不行就不注册了
+瞳
+13:59
+瞳锌
+用不起这两
+CS
+13:59
+Candies Sven
+手贱。开了2天ss。后面被墙了
+瞳
+13:59
+瞳锌
+ss2022的话应该没事吧
+d
+14:00
+des
+ss2022也会墙
+瞳
+14:00
+瞳锌
+我听大佬说自己用的话，ss2022出事概率不大
+d
+14:00
+des
+23年10月被墙过3个ip
+14:00
+一换ip就墙，在这之前用了好几个月ss2022
+CS
+14:01
+Candies Sven
+ss容易墙。自己用还是挺了两天。要是拿小，以机场的形式分享出去，估计半个小时就要被封了。
+d
+14:01
+des
+现在还是ss+转发好
+14:01
+直连还是reality
+14:01
+现在转发每周通报烦死了
+CS
+14:02
+Candies Sven
+之前vless reality/tuic，用了一个多月都没有事。
+ss一开，很快就墙了。
+还是reality，好用
+d
+14:02
+des
+最近那个vless encryption也不错，就是目前没支持的订阅转换
+14:03
+reality缺点就是慢，但是也不会慢多少就是了
+U
+14:36
+UK_JPCD
+有推荐的vps的吗uk的
+CS
+14:42
+Candies Sven
+In reply to this message
+yunyoo.cc 这家还不错。
+IDC原生
+14:43
+Deleted Account
+请问clubsim可以线上补卡吗，esim丢失收不到验证码了
+14:47
+就是这个问题啊，到新二维码那里显示失效没了
+14:48
+现在旧手机没信号了
+14:48
+新手机显示失效
+14:51
+感谢抢救成功
+UN
+15:41
+U N
+In reply to this message
+多问一句，中国电信澳门的蓝卡可以吗？好像搜索了下是中国电信香港的蓝卡
+15:49
+Deleted Account
+In reply to this message
+https://mobile.chinatelecom.com.hk/
+15:50
+自己去找
+UN
+15:52
+U N
+我查看下对比了
+15:53
+香港送100分钟这个挺香的
+15:53
+打香港银行基本不花钱了
+15:53
+澳门的没送
+15:54
+Deleted Account
+我就是用的这款
+UN
+15:54
+U N
+短信，电话价格差不多多
+15:54
+Deleted Account
+两年前在淘宝买的
+UN
+15:54
+U N
+这个和月神卡对比如何？
+15:54
+没有esim吗？
+15:54
+Deleted Account
+ESIM和选号
+15:55
+月神卡有
+15:55
+这个没有
+UN
+15:57
+U N
+按苹果手机港版的esim ,估计很快就有
+15:57
+月神卡不知道性价比如何
+UN
+16:33
+U N
+有月费的直接排除
+叶
+16:34
+叶
+kitesim有没有人用过
+16:34
+1美金一天无限流量
+16:34
+Sticker
+Not included, change data exporting settings to download.
+, 7.4 KB
+16:34
+还能支付宝付款
+16:49
+Deleted Account
+不便宜啊
+SJ
+18:17
+Soff Jomeka
+In reply to this message
+申请了还没开始用
+18:20
+In reply to this message
+很贵啊，我这1.36刀一天
+J
+18:54
+Jacob
+In reply to this message
+买了个马来西亚的esim，说是原生ip，结果一查是机房，白花20刀
+叶
+19:29
+叶
+[]
+19:31
+[]
+19:32
+免费esim
+J
+19:39
+Jacob
+In reply to this message
+大哥，马来西亚的是原生嘛？
+叶
+19:40
+叶
+In reply to this message
+是的
+J
+19:40
+Jacob
+是的话邀请链接发我下哈哈哈
+叶
+19:40
+叶
+In reply to this message
+不知道
+19:40
+Sticker
+Not included, change data exporting settings to download.
+, 7.4 KB
+19:40
+估计在境内是
+19:41
+在马来西亚就是马来西亚的原生
+19:41
+在中国分配的是香港
+烟（
+19:41
+烟雨 （温柔新生）
+In reply to this message
+开个马来的eSIM不行吗
+J
+19:42
+Jacob
+In reply to this message
+有推荐的吗
+19:42
+In reply to this message
+@Nc484o
+叶
+19:43
+叶
+Sticker
+Not included, change data exporting settings to download.
+, 8.2 KB
+19:43
+油管找呗
+烟（
+19:43
+烟雨 （温柔新生）
+用漫游流量的话 我还真不知道
+J
+19:44
+Jacob
+我现在是买的单个ip，链式代理
+19:44
+一个月13刀，痛
+烟（
+19:44
+烟雨 （温柔新生）
+保号可以开hotlink/tunetalk/u mobile
+19:44
+In reply to this message
+干啥用
+J
+19:45
+Jacob
+In reply to this message
+哈哈哈赌博
+白
+19:45
+白丝好委员会
+In reply to this message
+技术上说，机房ip和原生ip是并列关系
+烟（
+19:45
+烟雨 （温柔新生）
+这需要原生IP吗 不至于吧
+白
+19:45
+白丝好委员会
+原生ip的反面是广播IP
+19:45
+靠bgp宣告过去的
+19:46
+机房ip相对的是住宅ip/mobile ip/企业出口ip
+19:46
+不过企业出口ip几乎全是机房ip
+19:46
+所以说是原生ip，给你机房ip并不是虚假宣传
+J
+19:46
+Jacob
+In reply to this message
+用一般机场也能用，但是我用的那些大概率都有vpn检测的，怕到时候被封了
+白
+19:46
+白丝好委员会
+只是可能你知识不到家
+J
+19:47
+Jacob
+确实不懂，反正就看检测网站
+19:47
+都花钱了肯定想要双isp啊
+白
+19:50
+白丝好委员会
+不过十来刀一个月的质量肯定是一般的
+19:51
+你想一个宽带往低了算100块钱一个月，给你一个ip，卖你多少钱合适。又超卖多少合适。机房ip就便宜的多
+J
+19:51
+Jacob
+我注册了起码六七家网站才找到现在用的这个，各个检测网站检测出来都还可以
+19:52
+估计因为马来西亚的比较少吧
+19:52
+像是美国这种的倒是很多，而且便宜
+白
+19:52
+白丝好委员会
+你是vps还是代理啊
+J
+19:52
+Jacob
+proxy
+19:53
+然后用指纹浏览器
+猫
+19:58
+猫儿
+[]
+19:59
+双ISP但IDC机房
+19:59
+睡觉
+J
+20:01
+Jacob
+[]
+20:01
+这什么玩意儿
+猫
+20:02
+猫儿
+你没看错 这个城市叫 八打灵再也
+D
+20:02
+Deleted Account
+城市名字
+J
+20:02
+Jacob
+太6了
+D
+20:02
+Deleted Account
+Petaling Jaya
+J
+20:02
+Jacob
+[]
+猫
+20:03
+猫儿
+用量不多可以买按流量计费的
+J
+20:03
+Jacob
+我这个就是风控值略高了一点，如果在10%以内就好了
+20:04
+按流量计费的好像没有固定ip吧
+猫
+20:04
+猫儿
+确实，只能短时间固定
+J
+20:08
+Jacob
+所以我在想hotlink的漫游是不是
+20:08
+有没有用过的老哥说一下
+大B
+22:51
+大雄 BGM
+[]
+22:51
+上家宽
+22:51
+go起
+6 December 2025
+SJ
+02:57
+Soff Jomeka
+网上平台买的都是假的ISP
+02:57
+一检测都是曾经的垃圾ip
+02:58
+最后它们都只好乖乖退款给我，无法满足我要的静态住宅isp需求
+02:59
+你们都是怎么买到的？不同网站检测过吗？
+7
+03:11
+7uza-
+群里大佬们有研究
+SJ
+03:14
+Soff Jomeka
+就是因为买不到isp，我才买了两张cte电话卡
+03:15
+不过75g用一年也不够吧
+7
+03:16
+7uza-
+看你来干嘛，拉WiFicalling肯定够了
+03:17
+我还想把我的CTE回过年出了呢
+CS
+03:32
+Candies Sven
+In reply to this message
+这是哪家的？vps？S5 IP？
+SJ
+07:40
+Soff Jomeka
+咱们的estk如何知道还剩多少空间啊？我今天写卡失败啊，有人知道么？
+法
+07:41
+法老-英国
+苹果写卡的时候就能看见 安卓app直接能看见
+SJ
+07:42
+Soff Jomeka
+苹果写卡哪里看啊？
+S
+07:42
+S"
+about不就寫著
+SJ
+07:42
+Soff Jomeka
+请问这个estk的卡可以更新的吗？我当年买了写卡器
+07:42
+Deleted Account
+In reply to this message
+有新版固件就可以更
+SJ
+07:43
+Soff Jomeka
+In reply to this message
+里头是看free nvram：13018意思是我还有这么多空间是吗？
+S
+07:44
+S"
+嗯
+SJ
+07:44
+Soff Jomeka
+In reply to this message
+忘记怎么整了，有没有教程啊？我一年多没有用读卡器了
+07:45
+那还有空间，为什么写不成功呢？全部 download failed.
+法
+08:33
+法老-英国
+废话啊
+08:33
+啥卡13K能写
+08:33
+13018不是13K
+SJ
+08:33
+Soff Jomeka
+是说空间太小了吗？
+法
+08:33
+法老-英国
+根本不够写卡的
+08:34
+一般卡片至少20k-70k之间
+SJ
+08:34
+Soff Jomeka
+哦，原来是空间不够了啊
+08:55
+[]
+大佬们 这是真的吗？
+S
+08:58
+Sooele
+还好。ctm 已经办好
+D?
+08:59
+Drink more hot oil 
+应该是，他消息灵通得很
+08:59
+我是预付费，没上台
+09:04
+In reply to this message
+预付费就够用了吧
+09:04
+我也没有上台
+D?
+09:05
+Drink more hot oil 
+In reply to this message
+够用
+09:05
+申办预付卡不影响吧
+D?
+09:06
+Drink more hot oil 
+预付卡应该不影响吧，游客用
+p记
+09:09
+px休息中 记得催我睡觉
+In reply to this message
+不错
+SJ
+10:08
+Soff Jomeka
+携号转网转网后，原来号码生成的esim是要重新再换吗？
+10:21
+转网后cte能收到888发来的短信，证明成功了，可以release再购买了吧？
+U
+10:22
+UK_JPCD
+你们cte都怎么激活的啊
+SJ
+10:22
+Soff Jomeka
+等一天到第二天晚上8点啊
+W
+10:37
+William
+Gg怎么还不搞充10送15活动呢
+GH
+10:41
+GUOQIU HAN
+In reply to this message
+变脸这么快
+10:41
+预防杂骗
+C
+10:47
+Czone
+In reply to this message
+9月份估计搞麻了
+10:48
+9月光群里都消耗多少激活码了
+W
+10:48
+William
+In reply to this message
+没事，负负得正。再麻一次吧
+C
+10:48
+Czone
+多开几个号，多申请一些
+W
+10:48
+William
+我一张没嫖上，我11月进群的
+C
+10:49
+Czone
+等活动到了，才能盆满钵满
+W
+10:49
+William
+我只想自己开几个余额高的，把几个靓号转进去
+C
+10:50
+Czone
+想让你儿子继承你的gg卡嘛
+10:50
+哈哈哈
+10:51
+送15磅自己开自己赚都赚麻了
+W
+10:51
+William
+In reply to this message
+对，给我aff我再给他冲进余额
+10:52
+In reply to this message
+靓号是可以继承下去的，反正不记名。挺好的
+C
+10:52
+Czone
+优秀
+法
+11:08
+法老-英国
+屁用没有
+11:08
+都属于诈骗电话
+D?
+11:09
+Drink more hot oil 
+凡是好开的卡，被用来诈骗就多
+W
+11:29
+William
+确实。好开的都被诈骗的占据了
+J
+11:35
+Jacob
+In reply to this message
+大哥你这是哪家啊
+大B
+11:37
+大雄 BGM
+荔枝云
+11:38
+便宜
+一
+11:44
+一只胖锦鲤
+多便宜
+11:44
+1块钱吗a
+大B
+11:45
+大雄 BGM
+15一个月
+11:48
+Deleted Account
+请问谁有外卡测速群
+D?
+11:49
+Drink more hot oil 
+没，早退出来了，天天测速流量有点费
+11:49
+Deleted Account
+我现在又好奇速度了
+11:49
+可惜那个好像不是开放群聊
+D?
+11:50
+Drink more hot oil 
+现在进不去了，频道都不能访问了
+11:50
+Deleted Account
+私密了好像
+D?
+11:50
+Drink more hot oil 
+自己测啊
+11:50
+Deleted Account
+我测了，速度不对，不知道咋回事，想去问问
+D?
+11:51
+Drink more hot oil 
+或者去通信运营商网站看，他们发在那里有
+11:52
+Deleted Account
+好的谢谢，我去看看，网站地址请问是哪个
+D?
+11:53
+Drink more hot oil 
+[]
+11:53
+Deleted Account
+烟（
+12:00
+烟雨 （温柔新生）
+In reply to this message
+好像有选时间？一般是第二天 但是今天是周末不知道处不处理
+J
+12:22
+Jacob
+In reply to this message
+邀请链接能发下吗
+大B
+12:29
+大雄 BGM
+没有
+12:29
+直接开就是
+J
+12:37
+Jacob
+In reply to this message
+官网是哪个啊搜出来有荔枝云，荔枝ip这些
+烟（
+12:46
+烟雨 （温柔新生）
+In reply to this message
+NAT小鸡 没货
+12:47
+[]
+法
+12:54
+法老-英国
+这是为个标就要浪费一个月十几块
+W
+12:56
+William
+马来的确实没什么用
+佩P
+12:57
+佩德罗 Pedro
+共享 IP
+大B
+13:01
+大雄 BGM
+拉xox
+13:01
+昨晚试过，英国打马来能通
+兔
+13:10
+兔兄弟
+马来esim?
+大B
+13:17
+大雄 BGM
+对
+13:18
+本地资费
+法
+13:19
+法老-英国
+开了vowifi
+GH
+13:20
+GUOQIU HAN
+In reply to this message
+原生IP吗
+烟（
+13:20
+烟雨 （温柔新生）
+In reply to this message
+这呢
+GH
+13:22
+GUOQIU HAN
+流弊
+大B
+13:29
+大雄 BGM
+Xox买的值
+SJ
+14:12
+Soff Jomeka
+cte回国套餐就流量功能吗？有没有免费通话分钟数，或者自己加多少钱可以通话？
+JR
+14:13
+Joseph Ruff
+没
+d
+14:13
+des
+只有流量
+D?
+14:36
+Drink more hot oil 
+In reply to this message
+可以通话，买包只有欧洲通话，有余额可以直接漫游通话，0.2镑/分钟
+d
+14:38
+des
+保号的cte感觉没用了
+14:38
+想再买一个15英镑9折套餐号
+法
+14:39
+法老-英国
+有的
+14:39
+很多
+14:39
+你们难道要从英国打中国电话？
+14:40
+[]
+14:41
+[]
+CS
+14:48
+Candies Sven
+In reply to this message
+这家好像，注册不了账号，貌似要买开号才行
+U
+15:26
+UK_JPCD
+可以
+15:26
+不过gv转出来要3刀
+WS
+15:32
+WoW Seller
+请问现在不插卡还能变esim 吗
+GH
+15:37
+GUOQIU HAN
+In reply to this message
+啥意思
+F
+15:48
+Fika
+In reply to this message
+得插卡 收短信
+芳堇
+16:36
+芳澤 堇
+怎么拿暗号呀
+16:51
+[]
+16:51
+请问一下大佬们，我填的都是对的，为什么会这样呢？
+D?
+16:57
+Drink more hot oil 
+激活要这些？我前些天都没要啊
+16:58
+先护照实名购买esim，直接安装，再到tng给hotlink充个30rm
+16:58
+信号就来了
+Co
+16:59
+Come on
+In reply to this message
+购买后直接安装esim就行
+GH
+16:59
+GUOQIU HAN
+要实名认证
+芳堇
+17:01
+芳澤 堇
+好的好的，谢谢
+d
+20:17
+des
+[]
+刚刚又买了一张cte新卡，用机房ip也能成功拉起wificalling，应该是没有要原生+isp
+ip 拉的说法
+20:17
+[]
+D?
+20:18
+Drink more hot oil 
+系统版本比ip重要
+20:19
+定位比ip重要
+d
+20:20
+des
+ios18，定位国内，低评分机房广播ip
+D?
+20:21
+Drink more hot oil 
+ios26和26以下是两个系统
+20:22
+不信你找个26以上的，你原生都拉不起来
+20:22
+要用尾插改定位
+d
+20:23
+des
+26不改定位肯定不能
+D?
+20:23
+Drink more hot oil 
+你用的软路由？
+d
+20:23
+des
+26以下的系统尾插基本没用
+20:24
+In reply to this message
+vmware op虚拟机盘路由+不能刷系统的硬路由当ap
+20:24
+也差不多软路由
+20:26
+安卓这边没法测试，没有正经支持wificalling的安卓机
+D?
+20:26
+Drink more hot oil 
+之前的原生 isp ip要求的说法是从漫游激活cte出来的
+20:27
+以防万一不能激活，用的giffgaff的流量
+d
+20:27
+des
+不知道有没有再烂一点的英国ip
+20:27
+看看能不能成功
+20:28
+cf warp的英国ip好像很烂
+D?
+20:29
+Drink more hot oil 
+有的可以，有的不行，群友试过，有的机场拉不起来
+d
+20:29
+des
+多试一些机场
+20:29
+有些机场有试用套餐，之前用试用套餐的也成功拉起来
+20:30
+也是机房+广播ip
+D?
+20:30
+Drink more hot oil 
+红杏云可以，还有什么机场也可以，我没试过，我几张cte，可以互相拉
+d
+20:30
+des
+应该重要的是要udp
+D?
+20:30
+Drink more hot oil 
+肯定要支持udp才能拉
+d
+20:31
+des
+有些机场没udp，好像部分esim漫游也没udp，再加上代理软件不一定默认开启udp
+20:32
+新号码第一次拉可能要好几分钟，刚才等了3分钟才拉起来
+D?
+20:32
+Drink more hot oil 
+代理软件要手动打开tunnel
+20:33
+第一次ip纯净好拉些
+d
+20:33
+des
+还有个说法是新号第一次拉要isp原生ip后面随意英国ip
+D?
+20:34
+Drink more hot oil 
+群友用红杏云拉Wi-Ficalling激活了cte，我没试过
+d
+20:35
+des
+反正不行就多试一些机场
+20:36
+ios用clashmi我没拉起来过
+D?
+20:36
+Drink more hot oil 
+shadowrocket好拉些
+20:37
+严格来说，我都没试过除了cte热点之外的方法拉，都是听群友说的
+20:38
+只是对ios版本的要求亲身试过，ios26，垃圾
+20:39
+能不要升级千万别升
+小
+20:53
+小喵崽
+26得配合尾插
+20:54
+18相当好拉
+20:54
+软路由我是拉通香港和英国了
+7 December 2025
+UN
+00:43
+U N
+In reply to this message
+15可以拉吗？
+小
+02:56
+小喵崽
+16也挺好拉
+02:57
+15应该大差不差
+U
+02:59
+UK_JPCD
+我26怎么都拉不起
+小
+03:01
+小喵崽
+26得尾插
+瞳
+04:06
+瞳锌
+可惜，我没esim手机
+W
+04:12
+William
+我有esim手机，但是不是iPhone。。。
+D?
+04:12
+Drink more hot oil 
+先要有at&t才能试这个
+04:13
+群友发的dp
+一
+04:28
+一只胖锦鲤
+[]
+04:28
+这到底是在转移 还是失败了
+04:30
+2号转移的 需要这么久吗
+04:32
+[]
+04:32
+搞不懂了
+AM
+05:43
+Anderson Ma
+求问，263云卡，连连这些能转esim吗
+06:11
+Deleted Account
+请问一下，ios26.1有推荐的定位尾插吗
+d
+06:13
+des
+hhj的在我ios18会掉定位
+7
+06:21
+7uza-
+我买的kk
+法
+06:25
+法老-英国
+我尾插定位过了 3天了位置还在香港
+Next messages

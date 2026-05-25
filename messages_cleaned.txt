@@ -1,0 +1,3287 @@
+Esim.Kim中文交流群
+10 July 2025
+Esim.Kim中文交流群 converted a basic group to this supergroup
+«esim.kim交流群»
+12 July 2025
+E
+00:28
+Esim.Kim中文交流群
+[]
+一分钟giffgaff实体转esim二维码工具 https://esim.kim/giffgaff/
+1 August 2025
+E
+10:47
+Esim.Kim中文交流群
+[]
+免费7天可接码，余额变动延期180天（只限5w张）
+Co
+ヅ joined group by request
+Y Yee joined group by request
+dkskdk joined group by request
+NanSi Wen joined group by request
+L joined group by request
+Come on joined group by request
+C A joined group by request
+Wonder Leo joined group by request
+tutu Gui joined group by request
+小  joined group by request
+peeweep joined group by request
+2 August 2025
+Pog joined group by request
+E
+10:23
+Esim.Kim中文交流群
+友情提醒：外面送 giffgaff
+激活码不能协助接码验证转esim的一律按zp处理，从八月开始 giffgaff
+原生手机转esim二维码，必须接短信验证才能成功转esim二维码。
+网上的脚本通过邮箱验证转esim已经无法使用了，官方禁止了邮箱验证转esim权限
+如果已经(被骗)充值激活，没法短信接码转esim的，可以通过下面的工具验证cookie后点手动转esim二维码，按教程操作即可免接码直接转esim二维码下载到自己手机里
+不用卡了可以联系giffgaff客服，说明实体卡丢失，请求注销退款
+非原生esim手机获取esim二维码工具：https://esim.kim/giffgaff/
+Xeon Pitar joined group by request
+3 August 2025
+OREO joined group by request
+Xiao Zou joined group by request
+yeluo joined group by request
+sudy Kukk joined group by request
+Deleted Account joined group by request
+Norward joined group by request
+4 August 2025
+Martin joined group by request
+Kurumi Tokisaki MO joined group by request
+zmnbtt joined group by request
+XACT joined group by request
+wch sy joined group by request
+E
+19:26
+Esim.Kim中文交流群
+giffgaff卡esim炸卡后无需转实体卡，免短信接码转esim方法已测试可用，这两天会更新到工具上
+O
+N
+5 August 2025
+E
+15:57
+Esim.Kim中文交流群
+giffgaff 炸卡可以免接码转esim了
+工具：https://esim.kim/giffgaff/
+N
+16:06
+发短信验证转esim二维码走的giffgaff官方原生esim手机方法
+~~手动填激活码转esim二维码走giffgaff官方esim转回实体方法~~
+giffgaff专用工具：https://esim.kim/giffgaff/
+ws
+16:44
+wch sy
+实体卡第一次转eSIM，还有办法不用短信验证码，用邮箱验证码登录转嘛
+E
+17:03
+Esim.Kim中文交流群
+用炸卡方法可以
+17:03
+去用via浏览器打开官网用邮箱登陆获取cookie填到工具上
+ws
+17:06
+wch sy
+就是说不用短信验证码，只需要cookie就能转eSIM了嘛
+E
+17:07
+Esim.Kim中文交流群
+对
+17:07
+你去试试就知道了
+ws
+17:07
+wch sy
+好的
+E
+17:07
+Esim.Kim中文交流群
+不会的可以问
+17:09
+手动填激活码转esim方法可以随便用别人的激活码充值激活号码，可以免接码转esim二维码了
+Pog removed Pog
+ws
+17:17
+wch sy
+是的需要的就是这样，我有时候也会免费送点激活码给别人，要是他们充值激活以后转eSIM都要来让我插卡接短信验证码的话那也太麻烦了点
+E
+17:19
+Esim.Kim中文交流群
+只是有个手动步骤，也简单
+17:19
+有手就行
+ws
+17:20
+wch sy
+这个cookie只能有via浏览器安卓版获取嘛，iOS和Windows系统上有没有什么办法获取
+E
+17:23
+Esim.Kim中文交流群
+其他获取的好像验证不通过
+17:23
+你试试，也许可以
+17:23
+有人反馈ios获取的就验证不通过
+ws
+17:24
+wch sy
+我试过iOS的好像直接获取不到cookie，Windows的还没试过
+E
+17:26
+Esim.Kim中文交流群
+via浏览器都可以获取到，但是ios获取到的可能不全
+17:26
+visid_incap_2118422
+visid_incap_1274813
+17:27
+必须包含这两个值，而且cookie两分钟内有效
+17:27
+超时粘贴进去验证就会失败
+ws
+17:35
+wch sy
+是嘛，网页上没掉登录过两分钟刷下网页这个值都会变不成
+17:35
+我还以为登录一次，在这个期间就一直这个值了呢
+E
+17:39
+Esim.Kim中文交流群
+In reply to this message
+不会变，但是超时不能再次验证用，只能退出重新登陆再复制
+ws
+17:40
+wch sy
+哦，意思是只有登录成功的前2分钟内有效嘛
+E
+17:41
+Esim.Kim中文交流群
+对的
+ws
+17:41
+wch sy
+明白了
+E
+17:42
+Esim.Kim中文交流群
+验证通过后会缓存到你浏览器，不小心刷新工具页面后不用重新填cooke，直接点验证cookie可以跳过
+ws
+17:47
+wch sy
+[]
+Windows上我试了，刚刚登录以后立马复制cookie可以验证通过
+E
+17:48
+Esim.Kim中文交流群
+那就是可以，我估计ios也可以
+ws
+17:48
+wch sy
+我这个账号是已经转过eSIM的，如果是新激活码刚刚充值激活，还没转过eSIM，直接点下边手动转eSIM二维码按钮也是可以转成功的嘛。
+E
+17:49
+Esim.Kim中文交流群
+之前别人反应ios不行，可能是他超时了，我以为真的不行
+17:49
+In reply to this message
+对
+17:50
+可以接码自动走原生esim接口自动转，也可以手动填激活码免接码转
+17:51
+你可以用你的号码测试一遍，这样你可以去写个教程教别人
+17:52
+放心不会炸卡，我自己测试过的，要不然也不能让你们用
+ws
+17:52
+wch sy
+我也是不太懂这个，正在研究看看什么情况
+E
+18:01
+Esim.Kim中文交流群
+我写这个算是傻瓜式操作了
+ws
+18:12
+wch sy
+嗯，刚刚试着转了一次，发现个问题，就是调用的转二维码图片接口是要科学上网才能打开嘛，第一次没关梯子没法开，开了梯子重新刷新才打开
+18:13
+没有没被墙的接口了嘛
+E
+18:20
+Esim.Kim中文交流群
+我换一个
+18:30
+好了
+ws
+18:31
+wch sy
+E
+18:34
+Esim.Kim中文交流群
+你刚才试的验证码转还是手动转？
+ws
+18:37
+wch sy
+手动
+E
+18:37
+Esim.Kim中文交流群
+没毛病吧？
+ws
+18:38
+wch sy
+没有，转出来二维码扫了也能下载
+E
+18:40
+Esim.Kim中文交流群
+肯定能啊，不能才见鬼了
+18:40
+ws
+18:41
+wch sy
+Deleted joined group by request
+小米 joined group by request
+Esim.Kim中文交流群 pinned this message
+Esim.Kim中文交流群 pinned this message
+Co
+20:59
+Come on
+我自己弄了6张gg实体卡 激活了一张 送给电报群友2张 手上还有3张未激活的
+有要的小伙伴可以找我要码激活 我可以帮忙插卡接码
+E
+21:00
+Esim.Kim中文交流群
+激活码直接发群里有人需要就会直接使用
+Co
+21:01
+Come on
+[]
+E
+21:01
+Esim.Kim中文交流群
+建议你自己留一个新实体卡，以防手动转esim二维码方法失效
+Co
+21:02
+Come on
+要就@我把 我也好知道谁要哪张 需要接码的话我好插手机上
+21:03
+有两张带5英镑奖励的
+E
+21:06
+Esim.Kim中文交流群
+别乱开数据漫游，纯接码用充值的十镑就够保号十年了
+Co
+21:06
+Come on
+是的
+21:07
+发短信0.3 如果WiFi Calling的话就0.04
+E
+21:09
+Esim.Kim中文交流群
+我上个月才接触gg卡，当时也是转esim遇到问题，然后解决问题上瘾了，才搞了这工具
+Co
+21:10
+Come on
+大佬
+21:10
+我是iPhone 美版无损 所以直接app上弄的esim
+E
+21:15
+Esim.Kim中文交流群
+你才是大佬，富哥
+21:15
+我还用的安卓9手机
+Co
+21:15
+Come on
+我弄的二手备用
+21:16
+专门esim的 海外账号
+Deleted joined group by request
+6 August 2025
+07:20
+Deleted Account
+[]
+Pi Pi joined group by request
+Rewards joined group by request
+7 August 2025
+03:14
+Deleted Account
+@enioybblife 是卡上的6位激活码吗
+Co
+03:15
+Come on
+In reply to this message
+是的
+E
+05:57
+Esim.Kim中文交流群
+被扫了也无所谓，你可以 手动转esim二维码 扫新的，旧的会失效
+06:06
+你一直发群里干啥？
+06:06
+故意的？
+N
+06:06
+Norward
+In reply to this message
+马云 你什么意思？
+E
+06:11
+Esim.Kim中文交流群
+暂时没有
+06:11
+In reply to this message
+他好像还有几张
+06:11
+你问他要一下
+Co
+06:12
+Come on
+我手上还有一张！ 谁要
+06:12
+带5英镑奖励的
+E
+06:13
+Esim.Kim中文交流群
+那没有，自己开信用卡不就好了
+Co
+06:13
+Come on
+In reply to this message
+用外币信用卡或者外币借记卡就行
+E
+06:13
+Esim.Kim中文交流群
+外币信用U卡一堆
+Co
+06:14
+Come on
+充值卡密也可以英区paypal上买
+06:15
+o2o的
+14:59
+Deleted Account
+@Vip6688AE 我发给你
+15:05
+SXL51T
+SX2NS9
+T8889L
+T888WS
+T8ZG6E
+T88HWN
+T8ZFH6
+T8DFW7
+T8ZFHA
+T88H94
+T88H66
+T88H6T
+T8ZFD7
+T88HJ6
+T8ZFDX
+T8ZFD5
+T88HRH
+T88HJ5
+T8ZFBH
+T88HQP
+NH4A3T
+NH4AC7
+NH4CTE
+NH4AVL
+NH4CTN
+SX25CA
+15:05
+In reply to this message
+目前只有这些
+15:05
+都是有充十送五的
+ws
+15:08
+wch sy
+In reply to this message
+买卡密的话好像还很贵，10英镑卡密的好像要12英镑左右
+15:08
+Deleted Account
+In reply to this message
+是的
+15:08
+飞猪上面的也基本都是110元左右
+ws
+15:09
+wch sy
+还是信用卡直接充比较便宜，但是充次数稍微一多giffgaff系统好像也有风控，好像就会禁止信付款了
+Co
+15:10
+Come on
+我去
+15:10
+6啊
+15:11
+Deleted Account
+In reply to this message
+对
+15:11
+我当天连续付了7次 之后就再也不行了
+15:12
+另一张master的卡，直接就充值失败了，但是捐款成功了，，，
+15:12
+最终是GF卡也没有激活 10英镑也扣了
+ws
+15:13
+wch sy
+不会吧应该是只会不让支付
+15:14
+应该不会说支付了却不到账的吧
+15:14
+短时间里频繁充值好像就这样，过几天好像就会解除再充值，那种卡就又可以支付了
+15:15
+Deleted Account
+因为支付失败 浦发直接把我这张卡都冻结了
+ws
+15:18
+wch sy
+我倒是没有遇到这种事情，我就是遇到没办法激活充值，然后就停了几天，再充就又可以了
+E
+15:18
+Esim.Kim中文交流群
+可以用信用卡去买卡密
+ws
+15:18
+wch sy
+但是那样费用太高
+15:18
+要12英镑这样
+E
+15:19
+Esim.Kim中文交流群
+In reply to this message
+都是你的吗？我晚点看写个检测，新用户手动转esim的时候预约激活码，就自动获取你的这个激活码
+ws
+15:19
+wch sy
+@esim_kim 你有啥便宜渠道买卡密嘛能10英镑就买10英镑卡密嘛
+E
+15:19
+Esim.Kim中文交流群
+没有，我不玩这些，信用卡一大把
+Deleted joined group by request
+ws
+15:20
+wch sy
+In reply to this message
+和卡没关系，giffgaff风控的是设备和IP什么的
+15:20
+遇到支付失败的时候我试过换其他卡，也还都是支付失败
+E
+15:21
+Esim.Kim中文交流群
+换设备换ip呢？
+ws
+15:21
+wch sy
+还没有仔细研究过这样
+15:22
+我一般都是没开梯子本地IP直连giffgaff网站充值的
+ℤ𝕖𝕡𝕙𝕚𝕣𝕦𝕒𝕙 joined group by request
+16:38
+Deleted Account
+@esim_kim 对，都是我的，这样，我私信你，再给你30个码 你可以给其他网友
+不过 今天太晚了，明天给你整理一下发你
+ℤ
+16:42
+ℤ𝕖𝕡𝕙𝕚𝕣𝕦𝕒𝕙
+进群进晚了呀，看这情况是不是不需要实体卡直接用别人激活码就能搞出esim了。
+16:42
+刚入手了实体卡。
+16:50
+Deleted Account
+𝕺𝖑𝖊 都一样的
+ℤ
+16:53
+ℤ𝕖𝕡𝕙𝕚𝕣𝕦𝕒𝕙
+确实
+17:01
+Deleted Account
+白嫖的无限流量的节点
+17:01
+[]
+https://ac6bdb9a.ops-d6i.pages.dev/sub/ae9f2c5b-0270-4a54-8783-2f3efae1ca51#BPB-Normal
+17:01
+[]
+17:01
+支持IPV6的可以正常使用
+E
+17:06
+Esim.Kim中文交流群
+In reply to this message
+对，直接用别人实体激活码就可以，无实体激活码直接预约esim激活码也可以
+17:06
+Deleted Account
+In reply to this message
+我居然无法私信你
+E
+17:08
+Esim.Kim中文交流群
+给你发消息了
+17:09
+Deleted Account
+“小学生”？
+ℤ
+17:11
+ℤ𝕖𝕡𝕙𝕚𝕣𝕦𝕒𝕙
+In reply to this message
+嗨嗨嗨，买都买了，实体激活转esim算了。
+E
+17:55
+Esim.Kim中文交流群
+你可以先别激活你的实体卡
+17:56
+等会我更新后，用工具获取一个别人的实体卡激活也有赠金的，转成esim二维码，等那天想转实体卡又转到你手上的实体卡去
+ws
+17:58
+wch sy
+In reply to this message
+如果那样就没有充10送5了吧，只能充10到账10了吧。
+E
+17:58
+Esim.Kim中文交流群
+增加了检测到cookie是新用户，会获取一个实体激活码（新用户充值激活送 5
+磅赠金）
+充值激活成功后再点一次上面的(手动转esim二维码按钮)预约eSIM激活码
+按下面教程去转eSIM然后点下面的获取eSIM二维码即可
+17:59
+In reply to this message
+有啊，工具上等会可以获取到别人的实体卡激活码，也有赠金
+17:59
+等会好了，告诉你们
+ws
+17:59
+wch sy
+我是说用预约eSIM激活码
+E
+18:00
+Esim.Kim中文交流群
+esim激活码没有赠金
+18:00
+老用户用工具获取不到实体激活码，只能预约esim激活码
+18:01
+新用户没有关联sim号码的，用工具等会首先是获取实体卡激活码
+ws
+18:03
+wch sy
+哦
+ℤ
+18:04
+ℤ𝕖𝕡𝕙𝕚𝕣𝕦𝕒𝕙
+In reply to this message
+哈哈，我就是想到了这个买了两张
+E
+18:04
+Esim.Kim中文交流群
+这样新用户就可以不用去外面找激活码了，而且获取到的实体激活码当时都是有效的，被激活过就会自动检测删除
+ws
+18:29
+wch sy
+In reply to this message
+没用了嘛，我在软件里订阅了一下，发现所有节点都连不上
+E
+18:53
+Esim.Kim中文交流群
+[]
+8 August 2025
+杰 Jay joined group by request
+11:09
+Deleted Account
+@tianxianjiejie 群主搞的这个在线工具 就是生成ESIM的二维码的
+米
+10 August 2025
+13:17
+Deleted Account
+In reply to this message
+群主，您写的这个教程，我刚才用了一下，无实体卡激活的教程——
+这一步“点击去填激活码，填完点下一步，下滑到底，选择没有月费的计划，按提示步骤选择最低充值十镑绑定信用卡付款激活成功，再回到工具，点获取esim二维码即可扫码下载esim到手机上“中，提到的，”点击去填激活码，填完点下一步“，您可以再加一句”点击去填激活码，激活码填写的是在本工具获取到的预约的ESIM的6位激活码，填完点下一步。
+13:18
+我刚才就是理解成了实体卡的6位激活码。。。
+E
+13:22
+Esim.Kim中文交流群
+这个教程是以工具来写的，点手动转esim就会显示esim激活码，不至于会想歪啊
+13:33
+新手必看：没有实体卡没有激活码也不用担心，自己动手轻松快速完成注册充值激活下载esim教程
+用via浏览器直接访问 giffgaff.com
+注册一个新账号，填邮箱验证后填密码，点下一步，生日可不填，选择 No thanks
+然后点 Continue 完成注册
+点左上角地址栏图标，点查看cookies，点复制，然后填到工具里验证，~~点手动转esim二维码，新用户会预约到一个群友投稿的实体激活码(激活送5镑赠金)，并向官方预约到一个esim激活码~~
+点击去填激活码，先填实体激活码，填完点下一步，下滑到底，选择没有月费的计划，按提示步骤选择最低充值十镑绑定信用卡付款激活成功，再回到工具，~~复制esim激活码，再点去填激活码，按工具上的教程操作，~~然后点获取esim二维码即可扫码下载esim到手机上(别人手上的实体卡立马失效)
+~~友情提示：先用别人的实体卡激活码去激活充值十镑话费成功后双方都会获得五磅话费，如果激活成功后别人无法协助你通过短信验证码转esim二维码，你可以自己用工具选择(手动转esim二维码)可免接码下载esim到自己手机里(别人手上的实体卡立马失效)~~
+保号：180天内余额变动一次即可，发短信或者开数据漫游几秒关闭后去app看余额是否变动，变动即保号成功延长180天
+giffgaff专用工具：https://esim.kim/giffgaff/
+Esim.Kim中文交流群 pinned this message
+ws
+13:44
+wch sy
+@esim_kim
+群主网站能不能加个捐实体激活码的渠道，我也有几个激活码想捐一捐
+杰J
+13:57
+杰 Jay
+这个是需要用安卓手机吗
+ws
+14:19
+wch sy
+电脑也可以
+E
+14:31
+Esim.Kim中文交流群
+没有实体卡，注册一个新账号，用工具验证cookie点手动转esim二维码，会送一个带5镑赠金的实体激活码
+杰J
+14:32
+杰 Jay
+电脑怎么查看cookies啊
+E
+14:32
+Esim.Kim中文交流群
+f12，不懂就问ai
+杰J
+14:33
+杰 Jay
+OK
+E
+14:33
+Esim.Kim中文交流群
+你可以试试ios应该也可以
+ws
+14:33
+wch sy
+我现在发现个浏览器插件
+14:33
+点一下直接复制cookie
+E
+14:33
+Esim.Kim中文交流群
+浏览器插件获取到没用
+杰J
+14:33
+杰 Jay
+In reply to this message
+什么插件
+14:33
+哦哦
+E
+14:34
+Esim.Kim中文交流群
+这个必须要浏览器f12看到的才有用
+ws
+14:34
+wch sy
+等我先测试一下
+14:34
+看看和f12里看到的有没有差别
+E
+14:34
+Esim.Kim中文交流群
+肯定有
+14:35
+我填写框注明了，必须包含那两个值
+14:35
+否则无效的
+14:36
+油猴脚本都是用js获取的，有些值js获取不到
+ws
+14:36
+wch sy
+等我测试下就知道了
+E
+14:38
+Esim.Kim中文交流群
+In reply to this message
+直接发我
+ws
+14:40
+wch sy
+我测试了，f12里复制出来的cookie和插件获取到的cookie确实有一点点细微的不一样，但是复制到你这个eSIM获取工具里，点验证cookie有效性按钮以后可以验证通过
+14:41
+估计是里边的2118422和1274813都一样
+E
+14:41
+Esim.Kim中文交流群
+可以通过？
+ws
+14:42
+wch sy
+是的
+E
+14:42
+Esim.Kim中文交流群
+难道官方又改了，之前是不可以的
+14:42
+In reply to this message
+只要有这两个就行
+ws
+14:43
+wch sy
+https://chromewebstore.google.com/detail/cookie-tool/gfmallmkikahpafdljpnolhgbhgkheja
+14:44
+我找到的这个插件
+点一下就直接把cookie复制带粘贴板了
+E
+15:14
+Esim.Kim中文交流群
+[]
+新用户点手动转eSIM二维码
+领取到实体激活码就是图一
+没领到实体激活码就是图二
+15:14
+[]
+Tim joined group by request
+Kevin qu joined group by request
+11 August 2025
+夢 joined group by request
+E
+17:27
+Esim.Kim中文交流群
+有需要 giffgaff 激活码批量检测工具的说一声，可以检测激活码是否还有效
+17:27
+私发你
+夢
+17:29
+夢
+In reply to this message
+我需要
+E
+18:14
+Esim.Kim中文交流群
+[]
+激活码检测工具： https://esim.kim/giffgaff/code/
+Co
+E
+21:40
+Esim.Kim中文交流群
+就做了这个，其他esim都没玩过
+21:40
+做主页有点尴尬
+龙 奶 joined group by request
+E
+22:33
+Esim.Kim中文交流群
+这个Simyo卡，在哪里买，也是免实名？也是不限次数获取esim的？
+龙奶
+22:37
+龙 奶
+simyo不是要n26银行卡买的吗？
+ws
+23:34
+wch sy
+In reply to this message
+是的，很难搞因为想要注册N26就很难
+12 August 2025
+R
+00:25
+Rewards
+@esim_kim 麻烦发一下激活码监测工具给我
+N
+04:49
+Norward
+In reply to this message
+没N26就只能跳过了
+E
+08:05
+Esim.Kim中文交流群
+In reply to this message
+上面发了
+rasheed joined group by request
+13 August 2025
+E
+08:42
+Esim.Kim中文交流群
+[]
+免费萨尔瓦多 +503
+号码，先扫码下载esim号码，别启用，访问https://activate.tigo.com.sv/
+选SIM卡，然后输入ICCID，上传护照『百度的图片就可以』，随便填写信息，激活成功页面会显示号码，然后再启用号码就会有信号了，可以白嫖六个月接码，可以充值8刀后余额变动一次保号180天
+充值链接(只能美国ip访问)用谷歌账号登陆即可
+https://app.internacional.tigo.com/movil/home
+一张esim卡可以无限下载删除下载去注册账号，机不可失
+E
+pg
+A
+6
+N
+09:30
+Norward
+In reply to this message
+佬，原生esim安卓手机，有办法在不启用卡片的状态下查看到ICCID么？
+E
+09:30
+Esim.Kim中文交流群
+那不知道了
+N
+09:31
+Norward
+我为了查ICCID就临时启用一下，等激活后就没信号
+𝙯𝙚𝙙𝙙 joined group by request
+Budget233 joined group by request
+XP
+09:51
+Xeon Pitar
+In reply to this message
+下载后软件能看到的，我有微弱的联通信号
+09:52
+In reply to this message
+大佬，如何看自己的手机号？我应该激活了
+tG
+09:57
+tutu Gui
+六个月后呢？
+以俉之名 joined group by request
+U N joined group by request
+huaxing zheng joined group by request
+Jongun Kim joined group by request
+tG
+10:01
+tutu Gui
+信号联通4g
+以
+10:02
+以俉之名
+请问谁有giffgaff的空白卡激活码啊，能给个吗
+E
+10:04
+Esim.Kim中文交流群
+In reply to this message
+激活成功那个页面就有手机号
+XP
+10:05
+In reply to this message
+直接用工具可以领
+10:05
+新账号验证cookie点手动转esim直接领带5镑赠金的激活码
+hz
+10:06
+huaxing zheng
+@whitecathe 我没信号？
+tG
+10:10
+tutu Gui
+等几分钟
+10:11
+[]
+以
+10:12
+以俉之名
+In reply to this message
+直接去注册个账户就行？
+10:13
+然后cookies导入验证有效性就能获取到激活码得到一个激活码吗？
+E
+10:13
+Esim.Kim中文交流群
+对
+10:14
+点手动转esim会得到一个实体卡激活码和一个esim激活码
+Ayto Hik joined group by request
+以
+10:27
+以俉之名
+赞啊，这样太方便了
+E
+10:27
+Esim.Kim中文交流群
+对新人友好
+Idont Know joined group by request
+小友 joined group by request
+E
+10:28
+Esim.Kim中文交流群
+一个工具一步到位
+10:29
+注册其他的可以吧
+N
+10:30
+Norward
+In reply to this message
+这个卡还有些耗内存，比一般的esim大一些，刚算了在80k左右
+10:31
+其他的一般在50k以内，大一些的60k
+E
+10:31
+Esim.Kim中文交流群
+随时删除就可以了
+Bill Donovan joined group by request
+E
+10:42
+Esim.Kim中文交流群
+In reply to this message
+好了吗？
+以
+10:49
+以俉之名
+好了，很顺利
+10:50
+用群友说的cookies
+tools，都不用via浏览器，直接使用电脑就可以，复制的cookies有效识别，方便
+E
+11:01
+Esim.Kim中文交流群
+In reply to this message
+我习惯手机，所以
+以
+11:05
+以俉之名
+手机浏览器也支持扩展吧，那样就没必要再装个via浏览器了
+E
+11:08
+Esim.Kim中文交流群
+不一定获取到的有用
+11:08
+手机浏览器安全限制不一样
+... joined group by request
+UN
+11:14
+U N
+In reply to this message
+能写一下步骤吗，感觉新手弄不明白
+E
+11:16
+Esim.Kim中文交流群
+不是写了步骤的，应该都看得懂
+IK
+12:39
+Idont Know
+In reply to this message
+我也是这样，你解决了吗？
+卡
+12:40
+卡哆娜
+我直接启用的
+12:40
+激活完就有信号了
+E
+12:41
+Esim.Kim中文交流群
+你ios手机？
+卡
+12:42
+卡哆娜
+是的
+E
+12:43
+Esim.Kim中文交流群
+目前很多人都是先启动号码，会导致没有信号
+吕步青云 𓆏ࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩ joined group by request
+IK
+12:45
+Idont Know
+那不先启动号码怎样看iccid?
+E
+12:46
+Esim.Kim中文交流群
+esim卡可以直接看
+NW
+12:46
+NanSi Wen
+In reply to this message
+我试了两张，原生ios手机都要先启动才能看ICCID，激活以后都没有信号
+12:47
+用实体esim先激活再启用都有信号
+卡
+12:47
+卡哆娜
+我搞了4张都有
+E
+12:47
+Esim.Kim中文交流群
+[]
+12:47
+[]
+12:47
+[]
+填iccid后9位，随便上传一个护照照片，激活后页面上的就是手机号
+NW
+12:47
+NanSi Wen
+不知道怎么回事
+卡
+12:47
+卡哆娜
+苹果自动启用的
+NW
+12:48
+NanSi Wen
+原生esim下载就启动
+12:48
+然后我激活以后没有信号
+卡
+12:48
+卡哆娜
+[]
+12:49
+我的正常
+NW
+12:49
+NanSi Wen
+我再试试
+12:49
+看看能不能用
+卡
+12:49
+卡哆娜
+接入的是联通
+NW
+12:49
+NanSi Wen
+我实体esim激活也是联通
+?
+13:34
+Budget233
+各位有没有什么国内电话卡长期套餐推荐？流量不是很够用
+14:12
+Deleted Account
+In reply to this message
+reateago的ESIM
+14:12
+In reply to this message
+你是想在国内的大套餐？
+14:16
+[]
+14:16
+[]
+14:16
+@Budget233 这种的？
+?
+14:19
+Budget233
+In reply to this message
+是啊，想找个长期的卡
+14:32
+Deleted Account
+In reply to this message
+这两个是我推荐给我身边的朋友用的
+14:32
+我自己的是绑定了宽带 119元的 150G+1000分钟通话时间的
+14:38
+In reply to this message
+我现在证实，可以注册TG
+14:39
+[]
+?
+14:40
+Budget233
+In reply to this message
+除了保号价格以外没什么问题
+14:40
+In reply to this message
+长期的吗，还是只有四年
+14:40
+Deleted Account
+In reply to this message
+四年还不够长？
+14:41
+之后 可以延期 不过，到时候 可以再选择新的套餐卡
+N
+14:42
+Norward
+In reply to this message
+解决不了啦，这玩意类似别人卡bug实现什么功能一样，只不过我们这次是被bug给卡了
+14:42
+Deleted Account
+In reply to this message
+建议大家别试了，手机号与归属地不同，注册完直接封号
+?
+14:42
+Budget233
+感觉活不了几天
+14:42
+已经有人开始刷号了
+N
+14:43
+Norward
+In reply to this message
+啥？tg吗
+14:43
+Deleted Account
+In reply to this message
+对
+?
+14:43
+Budget233
+In reply to this message
+有长期的当然最好，不用折腾
+N
+14:43
+Norward
+其他群也有说注册完直接封的
+14:43
+Deleted Account
+In reply to this message
+官方的提示是 四年可以延期
+N
+14:43
+Norward
+这啥号码啊
+?
+14:43
+Budget233
+换绑貌似能活
+ld
+育高
+14:51
+育良 高
+In reply to this message
+怎么弄的 我没发激活
+卡
+14:53
+卡哆娜
+我就正常激活呀
+14:53
+没怎么弄的。
+E
+14:54
+Esim.Kim中文交流群
+ios下载esim就必须启动下载的号码？
+14:55
+可以马上截图iccid立马关闭号码，去激活后再启用试试
+龙奶
+14:55
+龙 奶
+[]
+？？？？
+E
+14:55
+Esim.Kim中文交流群
+In reply to this message
+按这个来
+育高
+14:57
+育良 高
+这个激活网站打不开
+?
+14:58
+Budget233
+In reply to this message
+换个ip
+N
+14:59
+Norward
+In reply to this message
+开始制裁假护照了吧
+15:00
+下午开始陆续报这样的错
+育高
+15:02
+育良 高
+你们用的哪里的IP
+15:02
+我好像是机场的问题 是的 已经解决了
+15:05
+苹果原生 怎么弄iccid
+龙奶
+15:06
+龙 奶
+[]
+我萨尔瓦多的ip都不行
+15:06
+15:07
+一直报错
+E
+15:08
+Esim.Kim中文交流群
+什么报错？
+龙奶
+15:08
+龙 奶
+In reply to this message
+这个
+E
+15:08
+Esim.Kim中文交流群
+激活页进不去？
+育高
+15:09
+育良 高
+In reply to this message
+苹果原生有办法弄吗
+E
+15:10
+Esim.Kim中文交流群
+In reply to this message
+你上个页面咋填的？
+15:11
+In reply to this message
+ios下载完马上截图iccid立马关闭号码，去激活后再启用试试
+龙奶
+15:12
+龙 奶
+[]
+15:12
+育高
+15:18
+育良 高
+没有机会看iccid
+E
+15:18
+Esim.Kim中文交流群
+下一步就出问题？
+15:18
+Deleted Account
+已经激活过了吧
+15:18
+已经激活过的号码全都是报这个错
+龙奶
+15:19
+龙 奶
+没事了，重新扫了一个过了
+15:20
+育高
+15:22
+育良 高
+没有机会
+龙奶
+15:32
+龙 奶
+上传护照一直提示抱歉，您选择的国籍不符合激活条件
+15:33
+？？？
+15:34
+Deleted Account
+In reply to this message
+OCR识别失败了，裁剪一下图片 不用太大
+15:34
+有信息那一页就行
+E
+15:36
+Esim.Kim中文交流群
+只要人头半页就够了
+龙奶
+15:38
+龙 奶
+成功了，大佬牛逼
+麻辣香锅♪♫ joined group by request
+麻
+15:41
+麻辣香锅♪♫
+Sticker
+Not included, change data exporting settings to download.
+, 18.4 KB
+龙奶
+15:44
+龙 奶
+[]
+15:44
+15:46
+Deleted Account
+嗯？好像是没见过的报错
+龙奶
+15:46
+龙 奶
+身份验证通过了
+15:47
+最后确认完成，就这样了
+E
+15:47
+Esim.Kim中文交流群
+多试试呗
+15:47
+反正无限扫
+15:47
+有没有可能同一个ip激活多次
+15:47
+换个ip看看
+麻
+15:50
+麻辣香锅♪♫
+[]
+15:50
+这就可以打开ESTK开关了吗
+龙奶
+15:52
+龙 奶
+我换了个护照就成功了，应该是一个护照不能用太多次
+E
+15:55
+Esim.Kim中文交流群
+In reply to this message
+对
+麻
+15:56
+麻辣香锅♪♫
+In reply to this message
+OK
+15:56
+秒来信号
+15:56
+还可以
+15:57
+可惜短期卡
+E
+15:57
+Esim.Kim中文交流群
+不要钱的半年可以了
+15:58
+那种批量起号的有用
+Andy joined group by request
+E
+15:58
+Esim.Kim中文交流群
+In reply to this message
+也可以余额变动保号180天
+麻
+15:58
+麻辣香锅♪♫
+In reply to this message
+还能保号？
+15:58
+666
+A
+15:58
+Andy
+[]
+麻
+15:58
+麻辣香锅♪♫
+咋保
+龙奶
+15:58
+龙 奶
+感觉这样薅羊毛几天就得挂啊
+15:59
+估计几个星期就挂了
+A
+15:59
+Andy
+ESIM 没信号啊
+E
+15:59
+Esim.Kim中文交流群
+In reply to this message
+不影响，大不了就是码废了
+A
+15:59
+Andy
+@esim_kim 1
+E
+15:59
+Esim.Kim中文交流群
+In reply to this message
+你是下卡就启用了？
+A
+15:59
+Andy
+这个问题怎么解决
+15:59
+我是原生ESIM 手机
+E
+15:59
+Esim.Kim中文交流群
+激活后再启用才有信号
+16:00
+这不知道，上面有个人ios原生成功了
+A
+16:00
+Andy
+不是先扫你发的哪个码吗
+E
+16:00
+Esim.Kim中文交流群
+是
+A
+16:00
+Andy
+下一步 激活
+16:01
+Deleted Account
+应该不是直接启用的问题，
+我看其他群有直接启用的 然后激活就来信号了
+龙奶
+16:01
+龙 奶
+我也是直接秒来信号，联通4g的
+16:01
+比之前giffgaff来信号还快
+麻
+16:02
+麻辣香锅♪♫
+[]
+16:02
+开俩玩玩得了
+E
+16:02
+Esim.Kim中文交流群
+具体就不知道是，大多数都是先启用就会没有信号
+麻
+16:02
+麻辣香锅♪♫
+不能开多了
+16:03
+。。。。。。。。。
+E
+16:03
+Esim.Kim中文交流群
+In reply to this message
+试试流量能不能漫游
+麻
+16:03
+麻辣香锅♪♫
+OK
+16:03
+我试试
+E
+16:04
+Esim.Kim中文交流群
+我就下了一个号码测试，试了一下正常接码就没管他了
+16:04
+Deleted Account
+你们能登录官网吗，
+麻
+16:08
+麻辣香锅♪♫
+In reply to this message
+好像有点难
+16:08
+没网
+16:08
+奇怪
+NW
+16:11
+NanSi Wen
+In reply to this message
+我是扫码显示激活以后立马飞行模式切掉页面去网站激活，原生esim也可以用！这个之前原生esim我搞了三张都是无信号的
+麻
+16:12
+麻辣香锅♪♫
+In reply to this message
+怎么拿码
+NW
+16:12
+NanSi Wen
+飞行模式也可以看到码啊
+16:12
+去手机设置里面有ICCID
+E
+16:13
+Esim.Kim中文交流群
+In reply to this message
+看样子我说的方法可以
+NW
+16:14
+NanSi Wen
+之前的我用原生esim激活以后发现会连一下运营商信号，一瞬间的样子马上就无服务了，再去网站激活都是无服务
+麻
+16:15
+麻辣香锅♪♫
+In reply to this message
+得快？
+16:15
+不能让他连到信号？
+NW
+16:16
+NanSi Wen
+是啊，一扫以后显示激活，马上飞行模式
+16:16
+切掉页面去激活
+16:18
+断掉网络以后，我用另一个手机激活
+E
+16:22
+Esim.Kim中文交流群
+只有自己测试才能找到诀窍
+16:23
+说得很明了，就是要先激活在启用
+李璐 joined group by request
+NW
+16:25
+NanSi Wen
+是啊，我看到别人说原生esim先激活再认证也可以，结果三张都没有信号
+龙奶
+17:14
+龙 奶
+In reply to this message
+官网登录好像要+502的号段
+17:14
+太诡异了
+17:14
+Deleted Account
+你跑错网站了吧
+龙奶
+17:15
+龙 奶
+[]
+17:15
+In reply to this message
+有可能
+17:15
+Deleted Account
+https://mi.tigo.com.sv/ingresar
+17:15
+这边登录
+A
+17:21
+Andy
+[]
+17:24
+Deleted Account
+换IP
+A
+17:27
+Andy
+[]
+17:27
+要先注册？
+育高
+18:03
+育良 高
+是不是码失效了
+E
+18:05
+Esim.Kim中文交流群
+不能下卡了？
+育高
+18:06
+育良 高
+你们试试 有可能我设备黑了
+y
+18:06
+yeluo
+能吧
+18:07
+我十多分钟前下的
+育高
+18:08
+育良 高
+买estk要买读卡器吗
+E
+18:12
+Esim.Kim中文交流群
+安卓手机基本不用考虑读卡器
+18:13
+用app就可以写卡了
+育高
+18:17
+育良 高
+ok
+S
+18:19
+Sapphire
+In reply to this message
+google 收到验证码
+E
+18:19
+Esim.Kim中文交流群
+安卓版本不低于12就可以用app
+y
+18:35
+yeluo
+我都是网上找的图片
+18:37
+试了下谷歌可以接码，X不支持
+ws
+18:37
+wch sy
+，你们都在搞这个卡有啥用
+y
+18:37
+yeluo
+搞着玩，反正免费
+ws
+18:37
+wch sy
+能保号嘛，如果不能我觉得没啥用
+龙奶
+18:39
+龙 奶
+搞不好都撑不过几天，过几天就挂了
+ws
+18:40
+wch sy
+对于这种我一点想搞的欲望都没有
+龙奶
+18:40
+龙 奶
+ws
+18:41
+wch sy
+注册点号到时候手机号废了，这些号不也都废了吗
+18:42
+Deleted Account
+In reply to this message
+事实上是OCR识别失败了
+龙奶
+18:48
+龙 奶
+现在除了giffgaff还有啥保号卡啊
+ws
+18:49
+wch sy
+乌龟电信
+18:49
+我现在就用这两家卡
+Quizás joined group by request
+E
+18:55
+Esim.Kim中文交流群
+蝗虫大军，专业白嫖
+18:56
+不管有没有用，先嫖
+18:56
+对于起号干灰产的有用
+18:56
+都是临时账号
+hz
+19:04
+huaxing zheng
+ios没信号 删了重新装？
+E
+19:06
+Esim.Kim中文交流群
+In reply to this message
+看上面别人发的经验
+hz
+19:07
+huaxing zheng
+扫了 开飞行是吧
+E
+19:08
+Esim.Kim中文交流群
+下载成功开飞行模式
+Q
+19:15
+Quizás
+群主变成客服了
+E
+19:17
+Esim.Kim中文交流群
+72小时为你们免费当牛做马
+AH
+19:17
+Ayto Hik
+请问一下503的怎么保号
+龙奶
+19:17
+龙 奶
+E
+19:17
+Esim.Kim中文交流群
+有人说余额变动保号180天
+AH
+19:18
+Ayto Hik
+他余额充值的网站是哪个？短信发送过来的网站进不去
+19:18
+Q
+19:18
+Quizás
+这种不用想着保号，这号码说不定过几天就挂了
+19:18
+注册点小号，玩玩封号也无所谓
+AH
+19:19
+Ayto Hik
+我用它注册tg的话，如何把注册的tg号变成自己的
+19:20
+添加一个辅助邮箱可以吗？
+ws
+19:20
+wch sy
+搞不了好像
+龙奶
+19:21
+龙 奶
+大概率刚上tg就被封号了
+AH
+19:21
+Ayto Hik
+那能玩多久是多久吧，多注册几个邮箱
+E
+19:22
+Esim.Kim中文交流群
+503号码，官网登陆
+https://auth.tigo.com/ingresar-telefono?session_id=hVbUJOaZ02E4&client_id=5j33ukYDq79j4T3vmpbNSLdbHLB3etZ2TF0tKjei&state=dHBBU1Y3QVhEQXZW&redirect_uri=https:%2F%2Fmi.tigo.com.sv%2Fingresar&error=invalid_request&error_description=ERR18
+Q
+龙奶
+3 
+龙奶
+hz
+19:24
+huaxing zheng
+删了重装还是一直激活不来信号
+Q
+19:24
+Quizás
+话说这官网你们有成功登录上的吗？
+E
+19:24
+Esim.Kim中文交流群
+姿势不对
+Q
+19:24
+Quizás
+我甚至验证码都发不出来哈哈哈
+E
+19:25
+Esim.Kim中文交流群
+我没有试
+19:25
+发不出提示啥？
+Q
+19:26
+Quizás
+Tuvimos un problema. Vuelve a intentar más
+tarde.我们遇到一个问题，请稍后再试
+龙奶
+E
+19:26
+Esim.Kim中文交流群
+明天再试试
+Q
+龙奶
+19:28
+龙 奶
+我也是这样
+19:28
+Q
+hz
+19:49
+huaxing zheng
+写esim卡上也没信号，先激活后启用
+19:49
+服了
+Q
+14 August 2025
+TJ
+01:33
+Tom Just
+In reply to this message
+这个提示错误。填号码登录上去会什么？
+UN
+02:43
+U N
+Giffgaff一个邮箱账号可以绑多张卡吗？还是得一个邮箱账号一张卡号码？
+Co
+03:13
+Come on
+In reply to this message
+只能一
+Q
+03:15
+Quizás
+没试过，反正我俩张都绑的同一个邮箱
+03:15
+应该没上线
+UN
+03:20
+U N
+你们说的互相矛盾呢
+Q
+03:21
+Quizás
+总不可能是给我开特权了吧
+03:22
+UN
+03:49
+U N
+一个邮箱，可能可以多个账号，对应多个号码？
+04:03
+大家用工具里的激活码充值了吗
+UN
+05:10
+U N
+这个激活被骗充值的概率大不大
+NanSi Wen invited jieke1 wen
+TJ
+06:23
+Tom Just
+In reply to this message
+怎么查看自己的话费余额和怎么充值保号？
+E
+07:34
+Esim.Kim中文交流群
+In reply to this message
+大
+次罗 joined group by request
+藏起来 joined group by request
+H*廢物版 joined group by request
+E
+07:35
+Esim.Kim中文交流群
+我只能说怕就别玩
+07:40
+自己去看了就知道，基本没有风险
+TJ
+09:46
+Tom Just
+In reply to this message
+哈哈，吓跑新人。
+09:47
+有信号，不知道怎么查话费和缴费保号
+09:47
+能保号就牛
+E
+10:37
+Esim.Kim中文交流群
+有空的去研究一下
+夢
+11:03
+夢
+群主是有大量的邀请码吗？
+11:03
+网站上那种炸卡要替换esim
+11:04
+是不是要大量的邀请码才能搞？
+E
+11:04
+Esim.Kim中文交流群
+？
+11:04
+不需要啊
+11:04
+直接通过工具点手动转esim二维码，自动向官方预约esim激活码，可以实现免接码转esim二维码
+夢
+11:05
+夢
+原来如此
+UN
+12:22
+U N
+弱弱问一下，这个充值是在哪个页面充值？
+E
+14:42
+Esim.Kim中文交流群
+点去填激活码就是官网啊
+14:43
+填好激活码按步骤来就行
+UN
+15:35
+U N
+挺好
+TJ
+16:18
+Tom Just
+In reply to this message
+如何查看余额，和冲话费！？
+16:18
+保号
+ℤ
+16:26
+ℤ𝕖𝕡𝕙𝕚𝕣𝕦𝕒𝕙
+In reply to this message
+都用TG了，学会谷歌吧。
+E
+16:28
+Esim.Kim中文交流群
+官方app里有
+今晚早点睡 joined group by request
+TJ
+16:30
+Tom Just
+In reply to this message
+还有官方app。牛
+16:31
+app可以电话注册啊
+E
+16:32
+Esim.Kim中文交流群
+giffgaff 有app啊，直接登陆
+TJ
+16:54
+Tom Just
+我以为你说萨尔瓦多的tigo
+16:54
+哈哈
+E
+16:59
+Esim.Kim中文交流群
+tigo 谷歌能搜到app，好像不是萨尔瓦多的
+17:03
+Deleted Account
+tigo的app 像是就套了个网页进去…
+E
+17:06
+Esim.Kim中文交流群
+你下载了？
+17:06
+能不能登陆？
+17:08
+Deleted Account
+In reply to this message
+和网页一样的提示
+17:08
+网页登不上的 app 也不行
+E
+17:14
+Esim.Kim中文交流群
+可能跟ip有关吧
+17:15
+难不成官网炸了还是非工作日不营业
+TJ
+17:16
+Tom Just
+In reply to this message
+不是
+Q
+17:16
+Quizás
+In reply to this message
+我萨尔瓦多的ip也登录不上
+TJ
+17:16
+Tom Just
+是不是我们的号码是野鸡号
+龙奶
+17:17
+龙 奶
+非常有可能
+E
+17:20
+Esim.Kim中文交流群
+官网能kyc怎么可能会野鸡
+17:20
+肯定是官方发的活动啊
+17:21
+至于为撒登陆不了，提示的是什么？
+Q
+17:32
+Quizás
+其实也无所谓 反正免费 这种号搞不好随时就制裁假护照了 登上去保号也不现实
+17:32
+都不用扫人脸，也不算很完整的kyc吧
+E
+17:33
+Esim.Kim中文交流群
+你们都撸了多少个？
+龙奶
+17:33
+龙 奶
+俩个。这esim，80k，弄太多，卡直接满了
+17:33
+俩个直接用掉170k
+17:33
+Q
+15 August 2025
+UN
+02:43
+U N
+不过为什么没有拿到5英镑奖励？
+UN
+03:27
+U N
+一不小心开着流量，10英镑只剩7英镑了
+03:28
+得不偿失
+E
+03:54
+Esim.Kim中文交流群
+In reply to this message
+你试试吧，因为有些获取到的cookie不完整
+03:55
+而且登陆成功复制的cookie有时效，两分钟内验证，否则会过期
+03:56
+In reply to this message
+你没有用的实体激活码？
+UN
+04:09
+U N
+用的实体激活码呀
+04:10
+你工具的
+E
+04:10
+Esim.Kim中文交流群
+那应该有赠金吧
+UN
+04:10
+U N
+Y6那个
+04:10
+到账10
+04:10
+没有15
+E
+04:11
+Esim.Kim中文交流群
+那不知道啥情况了
+04:11
+都是群友提供的实体激活码
+04:12
+如果是直接用esim激活码充值激活，那就没有赠金
+UN
+04:12
+U N
+哦那我用的是esim的
+E
+04:13
+Esim.Kim中文交流群
+先用实体激活码充值激活，在用esim激活码
+04:14
+[]
+04:14
+这样的提示，一看就懂吧
+04:18
+In reply to this message
+[]
+杰J
+04:40
+杰 Jay
+[]
+04:40
+iPhone是不行吗？
+04:41
+我点cookies，怎么这么短
+以
+04:44
+以俉之名
+要安卓
+04:44
+或者浏览器装 cookies 插件获取
+UN
+04:50
+U N
+我直接esim了，貌似也可以
+04:50
+用下面那个码
+E
+04:53
+Esim.Kim中文交流群
+In reply to this message
+是可以啊，相当于不用实体激活码，直接用esim激活码充值激活直接可以查看esim二维码
+04:56
+In reply to this message
+这就是浏览器获取不到
+04:56
+[]
+04:56
+cookies必须找包含这个值
+杰J
+05:01
+杰 Jay
+iPhone手机不可以哦
+05:02
+iPhone手机有没有办法获取？
+E
+05:03
+Esim.Kim中文交流群
+抓包可以
+05:03
+抓包能看到完整的cookies的
+杰J
+05:04
+杰 Jay
+那不会，还是用电脑研究下试试看吧
+Yang Liu joined group by request
+朝阳 joined group by request
+Andy Liang joined group by request
+E
+10:40
+Esim.Kim中文交流群
+不影响什么吧
+10:40
+免得有人觉得不敢用
+卡
+10:41
+卡哆娜
+没事，号码可以换的
+E
+10:42
+Esim.Kim中文交流群
+这没有任何影响的
+10:42
+看谁是靓号，让他大家羡慕一下
+UN
+10:53
+U N
+我尾号8886
+AL
+10:56
+Andy Liang
+话说有没有支持雪崩卡便宜的号码
+NW
+11:24
+NanSi Wen
+爱沙尼亚可以用
+11:25
+也很便宜
+AL
+11:34
+Andy Liang
+In reply to this message
+没有eSIM卡
+11:34
+有没有便宜的eSIM卡
+11:35
+In reply to this message
+哪个靠谱一点？
+NW
+11:36
+NanSi Wen
+都差不多
+11:36
+买张内存大的
+AL
+11:37
+Andy Liang
+In reply to this message
+那些便宜的，三四十块靠谱吗
+11:37
+[]
+11:37
+我这个支持吗
+11:37
+In reply to this message
+会不会哪天突然坏了
+11:38
+In reply to this message
+给个链接
+NW
+11:38
+NanSi Wen
+原生esim都有坏掉的
+11:38
+别说这些实体esim卡了
+AL
+11:38
+Andy Liang
+In reply to this message
+给了个链接可以不？
+NW
+11:39
+NanSi Wen
+拼多多一大堆哦
+AL
+11:39
+Andy Liang
+In reply to this message
+不知道哪家靠谱啊
+11:39
+至少你用的靠谱些
+E
+11:45
+Esim.Kim中文交流群
+别人告诉你estk靠谱，你闲贵
+NW
+11:46
+NanSi Wen
+其实我觉得差不多
+11:46
+我有estk，也有小白卡
+11:46
+用来用去也没什么问题
+11:46
+感觉差不多
+AL
+11:46
+Andy Liang
+In reply to this message
+那三十几块钱的呢
+NW
+11:47
+NanSi Wen
+买个35左右的就差不多
+AL
+11:47
+Andy Liang
+In reply to this message
+防炸卡是啥意思
+NW
+11:47
+NanSi Wen
+小白卡我都写了七八个号了
+11:47
+稳稳的
+AL
+11:48
+Andy Liang
+In reply to this message
+giffgaff可以直接获取新的eSIM二维码，不用跑英国一趟吧？
+11:49
+In reply to this message
+这个呢
+11:49
+还有Clubsim呢
+NW
+11:49
+NanSi Wen
+有10次写入机会
+AL
+11:49
+Andy Liang
+In reply to this message
+要不要跑香港一趟
+11:49
+还有Hahasim支持吗？
+11:50
+内地的eSIM出来以后可以写到这种卡上吗
+11:50
+In reply to this message
+我感觉hahasim更好一些
+11:51
+可惜没有eSIM
+NW
+11:51
+NanSi Wen
+In reply to this message
+国内的肯定不行，原生美版esim都写不上
+AL
+11:51
+Andy Liang
+In reply to this message
+国内的eSIM应该会锁区吧？
+NW
+11:51
+NanSi Wen
+要绑定国内设备的
+AL
+11:52
+Andy Liang
+In reply to this message
+真逆天
+11:52
+我主力机两个卡槽都要用内地卡
+11:52
+要是能把其中一个写入eSIM就好了
+11:53
+In reply to this message
+照这样说，干脆giffgaff之类的清关的时候通通拦截
+NW
+11:53
+NanSi Wen
+去搞个美版手机
+AL
+11:54
+Andy Liang
+净搞些毫无意义的
+NW
+11:54
+NanSi Wen
+可以写esim再插一张国内卡
+AL
+11:54
+Andy Liang
+In reply to this message
+我要用两张内地卡
+NW
+11:54
+NanSi Wen
+两个手机不就行了
+AL
+11:54
+Andy Liang
+In reply to this message
+有点麻烦
+11:55
+我主力机荣耀 200 Pro
+11:55
+备用机iPhone 7 Plus
+NW
+11:55
+NanSi Wen
+我现在三个手机，一个原生美版esimiPhone ，两个安卓
+11:56
+In reply to this message
+换个美版iPhone
+AL
+11:56
+Andy Liang
+In reply to this message
+没钱现在
+NW
+11:56
+NanSi Wen
+带原生esim就齐全了
+AL
+11:56
+Andy Liang
+而且iPhone不想当主力机
+11:56
+不支持复制门禁卡
+11:57
+安卓外版支持原生eSIM
+11:57
+但是外版安卓用不了国行钱包
+11:59
+giffgaff怎么转eSIM的？
+ℤ
+12:03
+ℤ𝕖𝕡𝕙𝕚𝕣𝕦𝕒𝕙
+In reply to this message
+门禁随便买个手环不就好了
+AL
+12:03
+Andy Liang
+In reply to this message
+[]
+跟这个有啥区别
+12:04
+In reply to this message
+要钱啊
+ℤ
+12:04
+ℤ𝕖𝕡𝕙𝕚𝕣𝕦𝕒𝕙
+我出门手上都要带点东西
+12:04
+In reply to this message
+fine
+AL
+12:04
+Andy Liang
+In reply to this message
+这个页面是不是只能原生eSIM
+NW
+12:05
+NanSi Wen
+是的
+AL
+12:06
+Andy Liang
+In reply to this message
+[]
+这个下面的有效期是啥
+12:07
+过了这个有效期余额没变动，号码会被收回吗？
+ℤ
+12:09
+ℤ𝕖𝕡𝕙𝕚𝕣𝕦𝕒𝕙
+In reply to this message
+好少见的10余额
+AL
+12:09
+Andy Liang
+In reply to this message
+具体的有效期没法直接看吗
+ℤ
+12:11
+ℤ𝕖𝕡𝕙𝕚𝕣𝕦𝕒𝕙
+In reply to this message
+giffgaff属于最基础入门卡了，giffgaff玩不明白的话感觉基本告别外网esim了
+Deleted joined group by request
+13:29
+Deleted Account
+苹果手机丢了里面的gg卡esim怎么转移？
+13:29
+能跳过转移实体卡直接搞esim？
+13:30
+woc
+13:30
+woc
+Kq
+13:30
+Kevin qu
+。。。。
+13:30
+Deleted Account
+YouTube上都没有的教程
+13:30
+居然让我知道了
+Kq
+13:30
+Kevin qu
+能进app就能申请esim了啊
+13:31
+Deleted Account
+In reply to this message
+我能进app
+13:31
+但是我原手机里的esim和手机一起丢了
+13:31
+也能重新转移吗
+Kq
+13:31
+Kevin qu
+不会啊，可以邮件验证
+13:32
+Deleted Account
+验证邮箱不行吗
+13:32
+有谁试过
+Kq
+13:32
+Kevin qu
+我啊
+13:32
+Deleted Account
+In reply to this message
+我试了好像不太行
+13:32
+app不行
+13:32
+网页版行
+Kq
+13:34
+Kevin qu
+神马？我刚试了下还能用邮箱登录的
+13:35
+能登录不就能切换？
+13:35
+哈？
+13:35
+Deleted Account
+esim好像真的要手机验证码
+13:36
+In reply to this message
+我问一下哈，这个esim我转移到我新的手机上
+13:36
+我那个丢了的手机上的gg卡esim会怎么样？
+ws
+13:36
+wch sy
+In reply to this message
+防炸卡算法是什么，意思不会发生炸卡了嘛
+13:36
+Deleted Account
+自动失效？
+13:36
+In reply to this message
+哦哦哦
+13:36
+谢谢大佬
+TJ
+14:05
+Tom Just
+In reply to this message
+这个是app还是网页那个？我网页，绑定手机号，老提示验证码错误，然后绑定不了
+14:07
+In reply to this message
+哪儿下载app
+14:08
+哪个区，香港区可以吗
+14:13
+In reply to this message
+mi tigo啊？
+以
+14:39
+以俉之名
+这个提示还是去掉吧，或者把前几位星号。就留最后 4 位
+龙奶
+15:06
+龙 奶
+In reply to this message
+真的，到时候有人填呼叫中心里去，一天24小时一种被打卖课电话
+以
+15:49
+以俉之名
+架不住有垃圾人
+15:49
+把显示的号码扔到什么地方去，谁知道呢
+龙奶
+16:15
+龙 奶
+In reply to this message
+呼叫是中心，是国外那些卖课推销广告
+16:15
+又不是个人
+16:16
+他们本来就是外国人，用国外手机号打广告电话的，打我们外国手机号又不算漫游
+ℤ
+16:30
+ℤ𝕖𝕡𝕙𝕚𝕣𝕦𝕒𝕙
+In reply to this message
+好号码
+16:31
+Deleted Account
+好家伙
+ws
+16:32
+wch sy
+国外有靓号这玩意嘛，好像也就中国人比较在意这个
+以
+16:39
+以俉之名
+还有人用你的 gg 号码去登录 monzo 或者其他的钱包软件，大部分人都有用 gg
+注册过这些
+16:39
+虽然登录不上，但是架不住别人一直发验证消息啊
+ws
+16:40
+wch sy
+[]
+关闭语音信箱
+以
+16:40
+以俉之名
+要不你把你 gg 号码发出来，你看有没有人用你的号码去尝试登录这些软件
+ℤ
+16:40
+ℤ𝕖𝕡𝕙𝕚𝕣𝕦𝕒𝕙
+In reply to this message
+只能说，我的号码不被知道就好了
+以
+16:40
+以俉之名
+公开和不公开两回事
+16:41
+只能这样说，谁愿意自己的号码被全部人知道
+16:41
+那是你没注册过这些，那些用 gg 号码注册的呢
+16:42
+哪天 monzo 怀疑他被盗号了，要居留证明怎么办
+龙奶
+17:07
+龙 奶
+In reply to this message
+这号码是认真的吗？
+17:07
+什么运气能做到这种程度
+ws
+17:07
+wch sy
+In reply to this message
+应该是自己写的
+17:09
+刷个全是8的好吧
+Q
+17:09
+Quizás
+全是8感觉早被他们运营商内部消化了
+17:09
+这种
+17:10
+giffgaff是不是可以免费换俩次号码
+17:14
+好像俩次吧，有人试过吗？
+ws
+17:16
+wch sy
+In reply to this message
+听说有这个说法，还没换过
+以
+17:17
+以俉之名
+要不停的用新邮箱去注册，也累，20 一个卖钱的倒是可以搞，比送外卖轻松
+17:18
+充钱那就是充钱的价格了
+Q
+17:20
+Quizás
+话说有没有香港的保号卡推荐
+17:25
+https://youtu.be/_e-GVtk6FD8?si=h3yh0_LcNMgiJ-gd
+17:25
+这个怎么样啊，好像只能用一年
+17:28
+充值得实名了好像
+17:28
+这个卡评论区也没人测试，不知道什么情况
+17:31
+之前看见过一个tg是+888开头的
+Q
+18:01
+Quizás
+太占用内存了
+18:01
+我也弄俩个
+18:10
+你试了吗？
+18:13
+20:36
+Deleted Account
+giffgaff能选号？
+20:38
+啊哈
+20:38
+抓包？
+20:42
+我不太会
+20:42
+不太懂你们这个
+杰J
+21:37
+杰 Jay
+In reply to this message
+这个转了 扫上了还没有信号。
+21:40
+扫上了
+21:40
+哈哈 打错
+21:40
+In reply to this message
+这个号牛逼
+21:41
+好的 等等试试看 谢谢
+ws
+22:02
+wch sy
+In reply to this message
+香港号都比较贵，我之前搞过一个要八九十一年，自从发现了gg卡以后，我就不打算再续费香港卡了
+16 August 2025
+?
+00:17
+Budget233
+In reply to this message
+实名是个问题
+00:17
+In reply to this message
+Club和Haha
+01:45
+Deleted Account
+estk这种和原生esim使用体验能比吗
+p
+02:10
+peeweep
+我 estk 和原生 eSIM 都有，estk 体验差一些，但是可以自适应。
+02:12
+Deleted Account
+giffgaff好像不能直接转estk这种吧
+02:12
+得拿电脑抓包，安卓写卡
+02:13
+我买了个美版16e，之前用的日版15
+ws
+02:13
+wch sy
+In reply to this message
+怎么不能，这个工具就是为这个而生的
+02:14
+Deleted Account
+？
+02:14
+不得用电脑抓包吗
+ws
+02:14
+wch sy
+安卓可以直接抓
+02:15
+Deleted Account
+对呀可是我是苹果
+02:15
+安卓的我也会，写卡就是了
+02:15
+苹果好像写不了卡
+ws
+02:15
+wch sy
+苹果estk可以把
+02:16
+除非是那种丐版的
+02:16
+Deleted Account
+苹果好像都得用安卓写卡
+02:16
+或者那种写卡器
+p
+02:16
+peeweep
+买带 Bootstrap profile 的版本 iOS 就可以写了
+02:16
+Deleted Account
+我之前用的时候就不能自己写卡
+02:16
+In reply to this message
+出新版本了吗
+ws
+02:16
+wch sy
+高级版的
+02:16
+早就有了吧
+p
+02:17
+peeweep
+In reply to this message
+https://www.estk.me/product/estkme-plus/
+ws
+02:17
+wch sy
+只要不是最便宜丐版的好像就支持这个功能
+02:18
+是要先用安卓或者读卡器写入一个有流量的号码，然后插苹果手机上就可以用第一张卡的流量给卡下载其他esim卡的信息了
+02:20
+Deleted Account
+In reply to this message
+对
+02:20
+我的那张就是这样的
+p
+02:20
+peeweep
+不知道为什么，estk 感觉切卡以后搜索网络要很长时间，原生 eSIM 就很快
+02:23
+Deleted Account
+所以我买了外版苹果
+02:23
+专门翻墙玩
+夢
+06:24
+夢
+In reply to this message
+请问用什么科技？
+06:24
+我也想搞一个玩玩
+06:24
+以
+11:12
+以俉之名
+打算买个新加坡或者日本版本的 iphone17pro
+UN
+14:27
+U N
+Gg号还没转完！那么多激活码？
+UN
+15:34
+U N
+In reply to this message
+无限循环？
+15:35
+我以为新帐号激活是可以申请邮寄卡
+ws
+15:37
+wch sy
+有esim就不用实体卡，没有esim的才需要实体卡
+15:41
+我的意思手机要使用gg卡，没有esim，你光激活了没esim下载怎么用
+15:53
+是的，邮寄动不动就丢件，有时候还迟迟不到，速度不知道怎么相差那么多，我申请时间相差也了就两三天，前边的已经收到了，后边的都过去快十来天了，还没动静
+AL
+16:54
+Andy Liang
+9esim比estk便宜点吧？
+ws
+16:55
+wch sy
+国内山寨版的更便宜，好像只要三十多
+AL
+17:10
+Andy Liang
+In reply to this message
+怕不靠谱
+17:11
+Go eSIM是开源的还是闭源的？
+ws
+17:11
+wch sy
+In reply to this message
+怎么就不靠谱了
+AL
+17:11
+Andy Liang
+In reply to this message
+如果出问题联系谁
+17:11
+万一商家跑路了
+龙奶
+17:12
+龙 奶
+没啥区别，芯片基本就是那几家拿的，卖家又做不出来芯片
+17:12
+开源的，跑路就跑路了呗
+ws
+17:12
+wch sy
+In reply to this message
+你要联系商家干嘛，自己能用就行
+龙奶
+17:12
+龙 奶
+对啊
+ws
+17:13
+wch sy
+In reply to this message
+就是，就相当于一张内存卡，你往里边想怎么写就怎么写
+AL
+17:13
+Andy Liang
+In reply to this message
+如果出问题咋办
+ws
+17:13
+wch sy
+啥问题
+AL
+17:13
+Andy Liang
+In reply to this message
+比如说用不了，突然废了
+ws
+17:13
+wch sy
+只要你会用就不会有问题
+17:13
+废了就废了呗
+龙奶
+17:14
+龙 奶
+In reply to this message
+你手机放微波炉里啊
+17:14
+用着用着废了
+17:14
+ws
+17:14
+wch sy
+estk炸卡了他们能给你发个新的嘛
+17:14
+不管什么卡废了也不可能给你售后吧
+UN
+17:17
+U N
+In reply to this message
+哥们，解释下这两个激活码啥关系？
+17:17
+我搞不清
+17:18
+Deleted Account
+一个是激活卡的 一个转esim的
+UN
+17:18
+U N
+第一个是实体卡上激活码，它对应一个gg号码，那它和esim激活码啥关系？
+17:19
+两个激活码对应同一个号码吗？
+ws
+17:19
+wch sy
+In reply to this message
+实体esim激活充值送5英镑，esim激活码激活充值没有5英镑就这么简单
+AL
+17:19
+Andy Liang
+In reply to this message
+那也就是说不管是三十几块的还是estk, 9eSIM这种，质量和服务都是一样的？
+UN
+17:20
+U N
+它实体卡没有激活，都没号码，怎么能对应一个esim激活码
+N
+17:20
+Norward
+In reply to this message
+掰两半扔了，或者别用就好
+ws
+17:20
+wch sy
+In reply to this message
+我感觉是大差不差的
+Q
+17:20
+Quizás
+无论是eSIM还是你说的“山寨国产小白卡”，其核心都是一块安全微控制器（Secure
+MCU）芯片。这个市场高度集中，由少数几家全球半导体巨头主导，例如：
+欧洲厂商：意法半导体（STMicroelectronics）、英飞凌（Infineon
+Technologies）、恩智浦（NXP Semiconductors）
+德国公司：捷德（Giesecke+Devrient）
+法国公司：泰雷兹（Thales，前金雅拓Gemalto）
+17:20
+你绝的那些卖家自己能直接能刻录芯片？
+UN
+17:21
+U N
+所以我一直以为，只能先实体卡激活，才能转esim
+17:21
+没想到
+17:22
+可以不要实体卡激活码，直接esim激活一个号码
+17:23
+Esim激活码哪里来的？
+ws
+17:23
+wch sy
+In reply to this message
+可以就是充值10到账10，用实体激活码激活充值10到账15
+龙奶
+17:23
+龙 奶
+这种白卡和xesim，不就一个挂牌一个不挂牌吗？
+UN
+17:23
+U N
+注册一个账号，就可以有一个号码了，对吗？
+ws
+17:23
+wch sy
+In reply to this message
+可以这里理解
+UN
+17:24
+U N
+有账号了，就可以直接Cookie直接买个esim，这个意思，对吗
+ws
+17:24
+wch sy
+白卡只能国卖卖，到国外卖好像就属于违规的，没有合法授权
+UN
+17:25
+U N
+相当于官网买一个esim激活，
+17:25
+只是官网只能苹果手机
+17:25
+工具可以搞二维码，
+17:25
+明白了
+17:26
+主要是工具把两个激活码放一起，真一下子弄晕了
+17:26
+那用实体卡激活码
+17:26
+充值后
+17:27
+激活实体卡了
+17:27
+那esim激活码就激活实体卡的号码，对吗？
+ws
+17:28
+wch sy
+纠结这么多干嘛直接用就完了
+UN
+17:28
+U N
+要不就官方给你预约esim激活码的另外一个号码
+龙奶
+17:28
+龙 奶
+In reply to this message
+对啊，就卖个牌子钱而已，还有这些合规和认证，芯片都是同一家的，要是能自己刻录芯片，在烂也是个国企了，还卖卡
+UN
+17:28
+U N
+恩
+17:28
+不是
+17:29
+我没激活实体卡，直接用esim激活码
+17:29
+我只用了esim激活码激活呀
+y
+17:30
+yeluo
+只是实体转esim
+UN
+17:31
+U N
+恩
+y
+17:38
+yeluo
+[]
+17:40
+[]
+17:41
+[]
+17:41
+直接谷歌账号登录添加号码，就能选择充值了
+龙奶
+17:42
+龙 奶
+费用有点高
+17:42
+17:42
+Deleted Account
+好像可以转移话费？
+y
+17:42
+yeluo
+[]
+17:43
+从这里进的，官网我都登录不了
+17:43
+Deleted Account
+这是哪
+y
+17:43
+yeluo
+下载APP那里
+17:44
+https://app.internacional.tigo.com/movil/home
+TJ
+17:46
+Tom Just
+In reply to this message
+我收到手机验证码，填进去说验证码错误。
+17:47
+验证几次进不去。app，web都试了，进不去，奇葩。
+y
+17:47
+yeluo
+直接谷歌账号登录
+TJ
+17:48
+Tom Just
+In reply to this message
+是谷歌账户
+17:48
+In reply to this message
+你进去了？
+y
+17:48
+yeluo
+你到填信用卡信息那里了吗
+17:48
+我就没要验证码，直接登录的
+TJ
+17:49
+Tom Just
+你没用app啊？
+17:49
+tigo
+y
+17:49
+yeluo
+网页
+TJ
+17:49
+Tom Just
+只能网页啊？
+17:49
+明天再试试
+17:50
+你不用手机号码验证？
+y
+17:51
+yeluo
+没验证，直接谷歌账号登录的
+UN
+17:52
+白屏我也遇到了
+龙奶
+17:53
+龙 奶
+[]
+成功
+TJ
+17:59
+Tom Just
+这个是充话费啊？
+Q
+18:00
+Quizás
+tigo的有可能90天就销号了，先用用看
+17 August 2025
+UN
+05:06
+U N
+话说，可以一个邮箱关联不同的gg账号吗？
+AL
+07:25
+Andy Liang
+话说有人知道今年下半年的eSIM手机是单卡槽+eSIM还是双卡槽+eSIM
+07:25
+如果是双卡槽+eSIM，就算原生eSIM锁区应该也无所谓，可以插的estk之类的吧？
+GRTX__ joined group by request
+cate brown joined group by request
+杰J
+16:12
+杰 Jay
+In reply to this message
+你的7878787878
+NW
+16:38
+NanSi Wen
+用iPhone成功开启wificall，安卓只有2G
+16:38
+voxi国内安卓只能用2G吗
+杰J
+16:56
+杰 Jay
+让你装到了 我偏不打 哈哈
+18 August 2025
+ws
+07:09
+wch sy
+In reply to this message
+可以的，一个邮箱可以注册N个账号
+UN
+10:22
+U N
+号商转了卖二维码吗
+10:59
+Deleted Account
++888不是tg的那个吗
+今
+11:03
+今晚早点睡
+In reply to this message
+羡慕+888
+11:04
+In reply to this message
+真要看？
+11:06
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 18.2 KB
+11:06
+舅惯着你了
+夢
+13:24
+夢
+米
+米哈游 18.08.2025 11:07:47
+你骗人
+AL
+13:39
+Andy Liang
+In reply to this message
+这个保号成本多少
+13:40
+Deleted Account
+连基站就能保号*
+AL
+13:43
+Andy Liang
+话说咱们群的群主是哪位
+13:48
+In reply to this message
+一年还是一个月
+13:49
+In reply to this message
+怎么续期
+13:50
+In reply to this message
+多久不续期会被收回
+123 321 joined group by request
+AL
+13:53
+Andy Liang
+[]
+这个靠谱吗
+13:54
+开源还是闭源的
+13:54
+跟小白卡比的话
+13:54
+In reply to this message
+还不如小白卡靠谱？
+13:55
+就是跟5ber一样，跑路了就没法用了？
+13:55
+Deleted Account
+5ber不是可以用xesim吗
+AL
+13:55
+Andy Liang
+In reply to this message
+小白卡怎么防炸卡
+13:56
+In reply to this message
+giffgaff写入小白卡如果卡废了还能重新生成二维码吧？
+13:56
+Deleted Account
+可以
+AL
+13:56
+Andy Liang
+estk最贵
+13:57
+In reply to this message
+丰富在哪
+13:59
+In reply to this message
+9eSIM也没有防炸卡？
+13:59
+Deleted Account
+[]
+AL
+14:00
+Andy Liang
+In reply to this message
+小白卡你不用？
+14:01
+@cd8060 也就是说，9eSIM跟小白卡没任何区别，9eSIM
+128块纯智商税，是这么理解吧？
+14:02
+Deleted Account
+这得看你买的哪一种了
+AL
+14:03
+Andy Liang
+In reply to this message
+那还有脸卖那么贵啊？
+14:05
+[]
+14:05
+[]
+14:07
+[]
+《打造品牌》
+14:10
+Deleted Account
+小白卡和v0都是ecp的芯片就这样子
+AL
+14:12
+Andy Liang
+@cd8060 还有我想问个问题，对于TikTok和Google
+Maps这种会检测SIM卡的app，如果是这种小白卡怎么检测
+14:13
+是不是我切换到中国香港号码，就检测为中国香港，切换到英国号码
+就检测为英国
+14:13
+Deleted Account
+你启用的什么卡就检测到什么卡啊emm
+AL
+14:13
+Andy Liang
+还是说固定的
+14:13
+In reply to this message
+这种app检测的是ICCID还是什么
+14:16
+In reply to this message
+好的
+14:18
+In reply to this message
+怎么伪装
+N
+15:30
+Norward
+Animation
+Not included, change data exporting settings to download.
+766.2 KB
+UN
+16:26
+U N
+@esimkim 蜉蝣群，没了还是踢我了？
+16:28
+估计下午说那句10元卖gg
+16:28
+这气量
+16:29
+不是，我其实和群主有私聊交易的
+16:30
+没想到还是利字当头
+16:30
+哪个？
+16:31
+是群主还是哪个管理？
+16:32
+工具有几个环节是可以做手脚，我开始也担心
+16:33
+后来试了，要盗的话转esim就不成功
+16:34
+你不是说被踢了，怎么还在群里？
+16:35
+哦
+16:35
+我手头还有张实体卡，
+16:35
+觉得留着实体卡也有实体卡的好处
+16:36
+不过好像gg有账号可以随时补，对吧
+16:36
+换回去怎么弄？
+16:36
+我看是可以报丢失
+16:37
+账号最重要，对吧
+16:37
+可以随时用账号补esim
+16:37
+还不太明白这几个转换的关系
+16:38
+Esim转回实体卡也是在账号里操作？
+16:38
+也可以用工具？
+16:38
+确实方便，
+16:39
+很多运营商转，补，啥的有限制
+16:39
+我感觉你这工具可以搞些限制数量
+16:39
+免得gg以后严打限制
+16:40
+公益是公益
+16:40
+会有副作用
+16:40
+万一官方把esim 政策弄严了，大家反而会怪工具
+16:41
+主要是号商
+16:42
+你关注下转的多少总量吧，到时候再看
+Next messages

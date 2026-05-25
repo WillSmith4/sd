@@ -1,0 +1,3425 @@
+Esim.Kim中文交流群
+Previous messages
+19 October 2025
+法
+05:45
+法老-英国
+国外销量也不行
+05:45
+苹果还砍了订单
+G
+05:45
+Golay
+反正出了air 是讨骂的
+J.
+05:45
+Jeremy .C
+In reply to this message
+出啊，就全球型号，挂那说等待监管批准就是了
+05:45
+Deleted Account
+他要是没限制，那所有人都买嗨了
+法
+05:45
+法老-英国
+批准了 这批货也不可能返厂的
+05:45
+Deleted Account
+限制这样，哪有人买？
+法
+05:46
+法老-英国
+就算批准了 也要等下个新品了
+G
+05:46
+Golay
+In reply to this message
+那不是把矛头兑到政府部门，他敢？
+J.
+05:46
+Jeremy .C
+Apple AI不也是，不一样卖
+G
+05:47
+Golay
+Ai有替代品
+05:47
+感知不强
+05:48
+现在国内iPhone，17标准版销量还不是嘎嘎的，只有卖不出去的价格
+05:48
+什么狗屁ai在价格面前，大多数人选择价格
+JK
+05:49
+Jongun Kim
+In reply to this message
+真不给
+05:49
+想得挺美
+05:49
+In reply to this message
+和工信部说去吧
+G
+05:50
+Golay
+In reply to this message
+内部有写卡通道的，只是有权限的太少，并不是没漏洞
+法
+05:51
+法老-英国
+等批准了 苹果还要产新机才能预装CI证书
+05:57
+开卖了 没发货啊
+05:57
+上市不是22号吗
+05:58
+大部分人还没收到货呢
+05:58
+小部分人 测试的不严谨
+J.
+05:58
+Jeremy .C
+In reply to this message
+这个CI证书不能OTA升级啊？必须出厂前写死在esim芯片里？
+法
+05:58
+法老-英国
+必然呢
+05:59
+不然呢
+J.
+05:59
+Jeremy .C
+哦……
+06:00
+三大电信运营商下发esim，也是绑定IMEI和eID，原则上能把外版的这两个号输入进三大运营商的系统，是不是就应该能发esim啊？
+06:00
+In reply to this message
+请教大佬
+法
+06:00
+法老-英国
+没有证书
+06:00
+不可能的
+C
+06:02
+Czone
+没有证书，服务器就认证不过，下发不了
+06:02
+Deleted Account
+那现在把他焊到外版的呢
+06:03
+是不是只要软件这边能解决就好了？
+C
+06:04
+Czone
+imei也绑着呢
+06:04
+Deleted Account
+emmmm
+C
+06:04
+Czone
+你还得改串号
+法
+06:04
+法老-英国
+硬改 也是梦
+06:04
+imei 在主板上
+06:04
+Deleted Account
+算了，等华强北吧
+法
+06:04
+法老-英国
+索性你换新机吧
+06:04
+Deleted Account
+看有什么神人
+C
+06:05
+Czone
+拆芯片这活，运营商早就在随身wifi上吃过教训了
+法
+06:05
+法老-英国
+监管只要放开2张卡的限制 和 国外esim 回国能用 才会慢慢有人能接收
+06:06
+现在的政策 不太行
+C
+06:06
+Czone
+本来我都觉得它只能上联通
+06:06
+没想到另外俩还蹦出来了
+JK
+06:07
+Jongun Kim
+In reply to this message
+那你去营业厅试试呗
+06:07
+这么多人/运营商都说不行
+06:07
+不信就去试试呗
+06:09
+In reply to this message
+也不是没有。拿10年前的移动老卡解5码然后找个托管平台生成二维码就行了
+06:09
+就是esim和实体卡不能同时在网，不然会停机
+06:10
+Deleted Account
+In reply to this message
+enmmm这条件也太苛刻了
+06:10
+上哪找一个给你？
+JK
+06:10
+Jongun Kim
+In reply to this message
+因为现在的卡没漏洞啊
+鹏
+08:47
+鹏仔
+兄弟们
+08:48
+club sim 在国内用流量怎么选
+08:48
+电话要怎么打
+08:48
+急求
+t
+08:49
+tsmoci
+好像WIFIcalling能打
+08:53
+Deleted Account
+In reply to this message
+对
+08:53
+好像只能跑WIFI通话
+烟（
+08:57
+烟雨 （温柔新生）
+clubsim内地打不了
+08:58
+Deleted Account
+In reply to this message
+他在越南
+烟（
+09:00
+烟雨 （温柔新生）
+充话费直接打 几十港币一分钟
+鹏
+09:00
+鹏仔
+我给我朋友安排一个
+09:00
+到底能不能打
+09:00
+我该怎么选套餐
+C
+09:01
+Czone
+选本地通话的套餐咯
+09:01
+前提是能拉起来wificalling
+鹏
+09:03
+鹏仔
+会拉不起来吗
+09:03
+我在越南都拉起来了
+H
+09:04
+HKUP
+clubsim好像不能打非852的电话？
+l
+09:06
+loadinghtml
+用haha
+09:06
+haha能打
+09:06
+8块一分钟
+法
+09:06
+法老-英国
+WiFiCall可以打香港电话
+鹏
+09:07
+鹏仔
+有没有卖得
+09:07
+流量能用吗
+法
+09:07
+法老-英国
+都要加钱
+鹏
+09:07
+鹏仔
+现在需要一张香港卡 流量能用得，可以打电话发短信得。国内用
+法
+09:07
+法老-英国
+额外加套餐
+C
+09:07
+Czone
+又要电话又要流量，电信蓝卡咯
+鹏
+09:07
+鹏仔
+哪个
+l
+09:08
+loadinghtml
+咸鱼就有人卖
+鹏
+09:08
+鹏仔
+大湾卡吗？
+法
+09:08
+法老-英国
+要实名的
+鹏
+09:08
+鹏仔
+没有搞好得吗
+法
+09:08
+法老-英国
+要实名的
+C
+09:08
+Czone
+不实名别想了
+09:08
+啥都要，就啥都没咯
+鹏
+09:09
+鹏仔
+我club是实名得撒
+法
+09:09
+法老-英国
+能实名多了
+09:09
+3hk
+09:09
+Ctm
+鹏
+09:10
+鹏仔
+靠北
+法
+09:10
+法老-英国
+自己看
+鹏
+09:10
+鹏仔
+现在 需要一张 搞过来就能用的
+法
+09:10
+法老-英国
+[]
+鹏
+09:10
+鹏仔
+目前出价50U
+09:10
+挣钱的速度
+09:13
+要esim的
+09:14
+实体卡没那么多卡槽装
+l
+09:14
+loadinghtml
+买cuhk去吧
+09:15
+月神卡
+C
+09:17
+Czone
+等下来句太贵了
+09:17
+芭比Q了
+l
+09:17
+loadinghtml
+他都有50u了
+09:17
+还差这点？
+C
+09:18
+Czone
+50U是一次性又不是每个月50U
+l
+09:18
+loadinghtml
+问题月神也不用50u每月
+09:19
+保号才9块/m
+C
+09:19
+Czone
+他要电话+流量
+09:19
+不是保号
+l
+09:19
+loadinghtml
+买套餐就有
+09:19
+又不贵
+C
+09:20
+Czone
+你看他回了嘛
+胡
+09:20
+胡桃
+ctmo不是挺好吗？
+09:20
+我记得也能转esim吧
+法
+09:23
+法老-英国
+不是发图了吗
+09:23
+看不懂？
+纳
+09:25
+纳西妲
+giffgaff佣金结算
+09:25
+还没有好
+09:25
+现在都19号了平时15号就有了好像
+C
+09:25
+Czone
+系统炸了
+09:26
+第一次送15，送不过不来
+09:45
+Deleted Account
+In reply to this message
+之前跟你说有了
+09:45
+那你说你收不到。这玩意，只有实体卡
+H
+09:47
+HKUP
+clubsim现在可以开esim了
+09:47
+Deleted Account
+In reply to this message
+全是回收号，一点用没有
+09:47
+我才不要呢
+鹏
+09:50
+鹏仔
+只能要esim
+10:00
+Deleted Account
+In reply to this message
+上中国电信的那张
+10:00
+电信蓝卡
+JK
+12:20
+Jongun Kim
+In reply to this message
+第一个月48
+12:20
+后续9
+法
+12:22
+法老-英国
+一年也要100多港币
+JK
+12:24
+Jongun Kim
+In reply to this message
+可以了
+12:25
+没有课金易罢了
+12:25
+你可以买流量包
+l
+12:26
+loadinghtml
+48
+JK
+12:27
+Jongun Kim
+In reply to this message
+一张15港币
+12:27
+24小时每张
+法
+12:27
+法老-英国
+当初是白嫖
+12:27
+现在是买50的产品
+鹏
+14:15
+鹏仔
+兄弟们
+14:15
+我紫u卡注册的飞机号死了。它不让我用这个号码继续注册了怎么搞
+C
+14:15
+Czone
+等半年
+14:15
+14:16
+不会呀，半年后注册，变新号
+鹏
+14:16
+鹏仔
+14:16
+真不知道造了什么孽
+C
+14:18
+Czone
+你偷看隔壁寡妇洗澡的代价
+bT
+14:36
+burger Tustin
+现在还能开户国外的银行吗？
+C
+14:45
+Czone
+银行开户去yt随便搜一下不是一堆嘛
+鹏
+15:04
+鹏仔
+In reply to this message
+真没有，宝宝
+15:05
+In reply to this message
+这不是有护照就行吗
+B
+15:35
+Bu7eneChen
+In reply to this message
+超出限速200k？
+15:35
+那意思无限流量吗
+l
+15:36
+loadinghtml
+JPY : CNY = 5980.0 : 282.8468
+数据每日八点更新 - 2025-10-19
+15:37
+300块 还是太富了
+B
+15:37
+Bu7eneChen
+一年5980如果无限流量我搞一个
+15:38
+In reply to this message
+？
+l
+15:38
+loadinghtml
+自走机器人
+15:38
+google自己搜
+K
+15:39
+Kira
+来自乐天移动
+【致前往海外的人士】
+●旅行目的地可使用的服务介绍●
+■海外漫游（数据通信）
+【费用】
+每月最多2gb不额外收费
+*添加到计划的数据使用量
+2gb以上可以使用低速通信
+高速数据通信“1gb / 31天（500日元）”可充电
+l
+15:39
+loadinghtml
+l
+loadinghtml 19.10.2025 15:38:11
+google自己搜
+l
+15:39
+loadinghtml
+听不懂？
+15:39
+Sticker
+Not included, change data exporting settings to download.
+, 11.5 KB
+C
+15:39
+Czone
+哈哈，都想喂嘴里
+B
+15:40
+Bu7eneChen
+In reply to this message
+低速通信也行啊
+15:40
+200kbps可以接受了
+M
+21:59
+Mhfhkmbvf
+gg卡有人要吗 余额200
+22:00
+1
+l
+22:07
+loadinghtml
+我了个余额200
+22:07
+一眼料刷的
+Ko
+22:08
+K oi
+In reply to this message
+料是什么
+22:08
+Sticker
+Not included, change data exporting settings to download.
+, 18.5 KB
+l
+22:08
+loadinghtml
+盗刷
+Ko
+22:08
+K oi
+这种盗刷不会挨抓吗
+22:09
+Sticker
+Not included, change data exporting settings to download.
+, 13.7 KB
+l
+22:09
+loadinghtml
+谁抓你
+Ko
+22:09
+K oi
+确实 很难查
+l
+22:12
+loadinghtml
+这个是必然的
+22:12
+卡主争议 gg就封号了
+Ko
+22:14
+K oi
+斯 听不懂
+22:14
+这个不是没实名吗
+伶
+22:51
+伶牙俐齿
+In reply to this message
+这啥原理啊？
+C
+23:35
+Czone
+In reply to this message
+保号5000年吗
+20 October 2025
+t
+01:57
+tsmoci
+余额25都能用很久很久了，200用不完都一般
+01:57
+吃了aff？
+01:57
+Sticker
+Not included, change data exporting settings to download.
+, 2.4 KB
+db
+01:59
+dish bird
+Sticker
+Not included, change data exporting settings to download.
+, 20.7 KB
+02:05
+In reply to this message
+买流量套餐（x
+t
+02:06
+tsmoci
+太奢侈了
+伶
+02:16
+伶牙俐齿
+[]
+我这手机号比较奇怪，输入完手机号点确定以后就弹出了这个。
+02:17
+In reply to this message
+关键他说已经把验证码发到了某个邮箱，那个邮箱根本就不是我的啊。
+02:18
+In reply to this message
+那也奇怪，我点击通讯录，点击新建，输入我的手机号之后他说没开通
+02:21
+[]
+奇怪。
+02:21
+In reply to this message
+好吧，这麻烦了。
+伶
+03:34
+伶牙俐齿
+In reply to this message
+也就是这玩意儿不一定有人注册了呗
+伶
+03:51
+伶牙俐齿
+In reply to this message
+那麻烦了，用验证码接收非让我开通TG高级版
+p记
+04:33
+px休息中 记得催我睡觉
+In reply to this message
+英国账号也上不去了？
+伶
+04:34
+伶牙俐齿
+In reply to this message
+啥，也就是不给发短信，必须开高级版是吗？
+p记
+04:34
+px休息中 记得催我睡觉
+不是86才这样吗
+C
+04:35
+Czone
+节点不行，啥号都给你蹦出来会员
+伶
+04:35
+伶牙俐齿
+In reply to this message
+那假设我冲了会员会给我来短信吗？
+C
+04:35
+Czone
+充了大概率会来
+伶
+04:35
+伶牙俐齿
+In reply to this message
+不是，你刚才不是说英国号也上不去了吗？我以为你的呢。
+C
+04:36
+Czone
+但是也没见人充过1.99美金，不划算啊
+p记
+04:37
+px休息中 记得催我睡觉
+In reply to this message
+没看我发的疑问句吗
+伶
+04:37
+伶牙俐齿
+In reply to this message
+哈哈，主要刚才太激动了，我以为也坏了呢，吓我一跳。
+p记
+04:39
+px休息中 记得催我睡觉
+手机号接不到码还能登吗@wanduaaa
+04:39
+帮了邮箱也上不去？
+04:40
+好吧 哎
+祖
+07:27
+祖
++44可以绑定飞机号了吗
+烟（
+07:30
+烟雨 （温柔新生）
+不是一直都可以吗
+祖
+07:46
+祖
+In reply to this message
+发了接不到验证码
+07:46
+很奇怪
+べ雞
+07:49
+べ可樂 雞翅〆
+In reply to this message
+有没有可能他说的200块余额是人民币？
+鹏
+07:53
+鹏仔
+In reply to this message
+日本啊
+07:53
+这看起来可以啊
+07:58
+是不是可以注册日本软件
+07:58
+比如，日本line
+，然后去ig上找日本妹妹。加人家的联系方式，从此开始了一段为国争光的爱情
+?
+08:35
+𝙯𝙚𝙙𝙙
+In reply to this message
+可以的话那还不错
+鹏
+08:36
+鹏仔
+In reply to this message
+日本line不行吧
+08:36
+日本line有年龄认证
+?
+08:36
+𝙯𝙚𝙙𝙙
+不知道啊
+烟（
+08:36
+烟雨 （温柔新生）
+年龄认证可以过
+N（
+08:36
+Nelly Arabelle （请联系Bot）
+Sticker
+Not included, change data exporting settings to download.
+, 11.7 KB
+08:36
+学习新知识
+?
+08:36
+𝙯𝙚𝙙𝙙
+关键这个卡能不能注册
+烟（
+08:36
+烟雨 （温柔新生）
+可以我的line就是
+鹏
+08:38
+鹏仔
+In reply to this message
+国外妹子用微信得真不多
+08:38
+我也就认识那么几个
+08:38
+我觉得我朋友圈不算小了。人家不喜欢用是因为经常封
+Se
+08:39
+S erein
+日台几乎都用line但感觉line也烂一堆广子
+鹏
+08:39
+鹏仔
+之前我的line里 有20几个台湾妹，三四个马来妹。两个日本妹
+Se
+08:39
+S erein
+In reply to this message
+line也有
+ca
+鹏
+08:39
+鹏仔
+真的，没事就和他们撩骚
+08:39
+开心的一批
+N（
+08:40
+Nelly Arabelle （请联系Bot）
+In reply to this message
+那是不是就可以去学习日语了
+烟（
+08:40
+烟雨 （温柔新生）
+不如加台区的（
+鹏
+08:41
+鹏仔
+都不需要花钱
+08:41
+你送个几块钱表情包给人家
+08:41
+开心得一批
+7
+08:44
+77~
+In reply to this message
+英格利息
+08:45
+hk tw jp th的賴都死了一個
+p记
+09:21
+px休息中 记得催我睡觉
+有靓号卖吗
+09:21
+想收个
+09:21
+Sticker
+Not included, change data exporting settings to download.
+, 10.6 KB
+09:21
+Deleted Account
+@Xongmao88 尾号 3 连和 4 连的都有
+09:22
+[]
+p记
+09:24
+px休息中 记得催我睡觉
+In reply to this message
+哪偷来的
+09:24
+这么便宜
+09:24
+Sticker
+Not included, change data exporting settings to download.
+, 9.8 KB
+鹏
+09:29
+鹏仔
+群主为什么不送我
+09:29
+这是什么原因
+09:29
+你付出了什么代价
+べ雞
+09:30
+べ可樂 雞翅〆
+In reply to this message
+他和龜哥哥是一對，還不明顯嗎？
+鹏
+09:34
+鹏仔
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 62.0 KB
+p记
+10:08
+px休息中 记得催我睡觉
+Sticker
+Not included, change data exporting settings to download.
+, 11.3 KB
+10:19
+没鸟我
+L
+11:11
+LONG
+转完esim 实体卡怎么还能收到短信 。。。
+SL
+11:37
+Stan Lee
+换设备后，新设备多久能来信号
+11:37
+一般
+11:42
+目前旧设备还有信号，新设备没信号
+11:42
+新设备的卡都不敢删
+UN
+11:44
+U N
+旧设备不取消，新设备哪里会有信号？
+C
+11:45
+Czone
+为啥要删
+11:45
+官方的提示最晚24小时换卡完成
+SL
+11:46
+Stan Lee
+等新设备来信号再删吧
+C
+11:46
+CooL神
+40张到位，有人有需要吗
+11:46
+[]
+11:46
+giffgaff白卡
+UN
+11:46
+U N
+为啥那么多张
+C
+11:47
+CooL神
+这只是一部分
+C
+11:48
+Czone
+之前不是有个批量收卡的
+C
+11:48
+CooL神
+[]
+11:49
+现在不好搞了，海关拦截有点严
+C
+11:49
+Czone
+陆陆续续来吧
+N（
+11:53
+Nelly Arabelle （请联系Bot）
+Sticker
+Not included, change data exporting settings to download.
+, 11.7 KB
+11:53
+白卡pdd上面七块钱一张还包邮
+C
+12:36
+CooL神
+In reply to this message
+三个月集中一批，运气好的话刚好第三个月，那就只需要不到一个月就派送了
+小
+13:02
+小喵崽
+广告咋这么多
+13:02
+哈哈哈哈
+13:02
+群发的么？
+N（
+14:34
+Nelly Arabelle （请联系Bot）
+In reply to this message
+gg转过esim原本的sim是不是就报废了
+14:34
+Sticker
+Not included, change data exporting settings to download.
+, 15.0 KB
+素
+14:38
+素笺欣年
+群u有没有不需要kyc的esim推荐下
+N（
+14:39
+Nelly Arabelle （请联系Bot）
+In reply to this message
+报废的能帮别人转esim吗
+14:39
+Sticker
+Not included, change data exporting settings to download.
+, 15.0 KB
+14:39
+Deleted Account
+In reply to this message
+GG卡不就是嘛
+素
+14:43
+素笺欣年
+In reply to this message
+已经有了
+14:43
+Deleted Account
+In reply to this message
+这还不够吗？
+14:43
+不够的话，再就搞10个GG卡
+14:43
+GG卡不限制一台手机搞几个ESIM
+B
+14:54
+Bu7eneChen
+In reply to this message
+这玩意稳吗
+14:55
+这玩意怎么像nekoko
+14:55
+不会是一起的吧
+K
+14:56
+Kira
+是一起的
+B
+14:58
+Bu7eneChen
+还有靓号
+14:58
++372 5711 1111
+14:58
+离谱了这号真抽象
+鹏
+14:58
+鹏仔
+。。。。
+14:58
+我就没刷出来过
+B
+14:58
+Bu7eneChen
+我去竞拍看看
+14:58
+竞拍里的
+鹏
+14:58
+鹏仔
+额
+B
+14:59
+Bu7eneChen
+估计1000cny应该能拿下吧
+鹏
+14:59
+鹏仔
+那便宜
+14:59
+爱沙尼亚的是吧
+15:00
+这屌号，还能打电话来着
+B
+15:00
+Bu7eneChen
+是啊
+15:00
+这号挺好
+15:00
+但问题是
+15:00
+他那拍卖还得充值
+15:00
+充了买不到提现不了
+鹏
+15:03
+鹏仔
+哈哈哈
+15:03
+没意义
+15:03
+把兄弟当猪杀
+B
+15:03
+Bu7eneChen
+哈哈哈哈
+15:03
+估计没个几千出不来
+15:04
+买不到就去亏惨了
+鹏
+15:04
+鹏仔
+Sticker
+Not included, change data exporting settings to download.
+, 10.7 KB
+15:04
+都是恶意套路
+B
+15:04
+Bu7eneChen
+哈哈哈哈
+15:06
+买了没啥用，还是香港和国内号稳定
+15:06
+gg卡都是来玩的
+15:07
+In reply to this message
+这玩意和esimgg有啥区别
+鹏
+15:12
+鹏仔
+In reply to this message
+我就用的这个
+p记
+15:20
+px休息中 记得催我睡觉
+Sticker
+Not included, change data exporting settings to download.
+, 8.5 KB
+B
+15:37
+Bu7eneChen
+6
+15:37
+2222是你号码？
+15:38
+6
+21 October 2025
+烟（
+06:19
+烟雨 （温柔新生）
+Sticker
+Not included, change data exporting settings to download.
+, 230.1 KB
+l
+06:52
+loadinghtml
+In reply to this message
+@esimkim
+06:52
+送他张飞机票
+06:53
+不行
+07:01
+不行我要当群主
+粥
+08:50
+粥哈哈
+来了这个群，每天看着一堆靓号转 esim
+AL
+09:26
+Ai Li
+In reply to this message
+886666感觉都悬
+09:27
+这些大佬太有钱了
+p记
+09:31
+px休息中 记得催我睡觉
+Sticker
+Not included, change data exporting settings to download.
+, 11.3 KB
+09:32
+In reply to this message
+不错啊
+09:32
+这号码
+09:33
+豪毛 原来是拍卖
+鹏
+09:33
+鹏仔
+猛打猛冲
+p记
+09:33
+px休息中 记得催我睡觉
+我还以为一口价
+09:34
+保号贵吗 爱沙尼亚
+AL
+09:34
+Ai Li
+In reply to this message
+买了有余额连接基站自动保号
+09:35
+他家保号是最棒的
+p记
+09:35
+px休息中 记得催我睡觉
+这么好
+AL
+09:35
+Ai Li
+昂，我买了俩
+p记
+09:37
+px休息中 记得催我睡觉
+拍卖周期拉太长了
+09:37
+In reply to this message
+靓号吗
+AL
+09:37
+Ai Li
+In reply to this message
+靓号买不起
+09:37
+有免费的选号
+UN
+09:41
+U N
+你们gg是自动服务商吗？为啥总是无服务？
+09:41
+双卡的话需要给它4g吗？
+A
+09:43
+AfdRiu
+不需要
+UN
+09:46
+U N
+你们一直有信号？
+09:46
+我这经常与服务
+09:46
+无服务
+C
+09:48
+Czone
+In reply to this message
+你就是不给4g才无服务
+09:49
+2g都拆很多了，你再不开4g，当然经常没服务
+玩
+12:09
+玩卡教授
+Sticker
+Not included, change data exporting settings to download.
+, 6.6 KB
+B
+12:35
+BZ
+666
+法
+13:18
+法老-英国
+难得看见一个
+L
+13:24
+Lfifhly
+t
+tnt 21.10.2025 13:12:55
+还是情侣号 999
+鹏
+13:34
+鹏仔
+666
+13:35
+我愿意
+べ雞
+13:37
+べ可樂 雞翅〆
+誰的情侶號哦
+13:37
+我也想要一個啦
+纳
+13:39
+纳西妲
+t
+tnt 21.10.2025 13:12:55
+还是情侣号 999
+鹏
+13:42
+鹏仔
+靠北啊
+AL
+15:45
+Ai Li
+In reply to this message
+这价格
+15:45
+。。。。会不会炸
+法
+15:47
+法老-英国
+用就炸 不用就不炸
+15:50
+不能必须root手机后才能
+15:50
+不用
+15:50
+因为压根就没有ara-m
+15:51
+不会吧
+15:51
+你买的啥卡
+15:51
+9esim V1 mini
+白卡测试卡，没有aram，需要电脑连接读卡器写入，专业人士使用，无售后服务，介意慎拍
+15:51
+不是写的很清楚了吗
+15:52
+那肯定有
+15:52
+你让他发图片出来
+15:52
+如果读不出来 那就是手机很垃圾
+C
+15:53
+Czone
+In reply to this message
+这个应该就是ecp白卡
+法
+15:54
+法老-英国
+有时候这些卡片 还要看机器的兼容性
+C
+15:55
+Czone
+按道理只要有moapi就行
+法
+15:55
+法老-英国
+软件能检测机器的兼容性啊
+15:56
+检测下就知道了
+烟（
+15:59
+烟雨 （温柔新生）
+软件检测不一定可信
+法
+15:59
+法老-英国
+反正我测试我那个破小米 root后都不支持
+15:59
+懒得测了直接换机器
+C
+16:04
+Czone
+这两年的机器，只要不是太低端，一般都有moapi
+法
+16:06
+法老-英国
+我掏出来的就是2017年的机器
+B
+16:13
+Bu7eneChen
+In reply to this message
+拿下我吃
+l
+16:23
+loadinghtml
+[]
+16:23
+沙币gg 积分不发
+16:23
+天天发广告
+16:27
+我的15个人头
+16:27
+15*15=225胖呢
+AL
+16:34
+Ai Li
+In reply to this message
+你是真想弄一个啊
+无
+16:45
+无忧
+月神也没有什么好号
+无
+17:11
+无忧
+淘宝有家店1m esim的卖45挺划算的
+p记
+17:36
+px休息中 记得催我睡觉
+In reply to this message
+有
+17:37
+但是用了账号会被提示 让强制解绑
+17:38
+[]
+17:38
+前几天看到一个人买了 但是现在不让用
+B
+17:40
+Bu7eneChen
++999号码都很贵的
+17:40
+好多ton
+p记
+17:42
+px休息中 记得催我睡觉
+不让用问题是
+17:42
+买了干嘛
+17:42
+再说 也没找到购买入口
+A
+17:43
+AfdRiu
+压根就没有+999的国家呀
+p记
+17:44
+px休息中 记得催我睡觉
+In reply to this message
+999也卖 但是入口不知道在哪 有人买了
+17:45
+In reply to this message
+。。。。
+.
+17:45
+...
+In reply to this message
+tg的
+A
+17:46
+AfdRiu
+那不就跟QQ号一样了？
+p记
+17:46
+px休息中 记得催我睡觉
+In reply to this message
+是的
+17:47
+In reply to this message
+比qq值钱多了 一个qq能买一套房？
+17:47
+看看888的价格
+伶
+19:21
+伶牙俐齿
+In reply to this message
+话说这个发送通知是干嘛用的啊？
+19:28
+In reply to this message
+那普通iPhone外版在删除的时候会给运营商发通知吗？
+19:28
+In reply to this message
+每家运营商都可以这样干吗？
+C
+19:31
+Czone
+这个前提是那二维码不是一次性的，一次性的需要运营商重新下发二维码
+KT
+20:08
+Kurumi Tokisaki MO
+𰻝
+22 October 2025
+p记
+05:05
+px休息中 记得催我睡觉
+Sticker
+Not included, change data exporting settings to download.
+, 11.3 KB
+05:12
+忒贵买不起
+05:12
+Sticker
+Not included, change data exporting settings to download.
+, 7.8 KB
+伶
+09:12
+伶牙俐齿
+In reply to this message
+我去，这不坑人吗？那这么说起来的话，eSIM的缺陷也很明显啊，换设备很不方便，这个就取决于运营商策略了。
+鹏
+10:15
+鹏仔
+In reply to this message
+这女娃的孩子牙口一定很好
+C
+10:37
+Czone
+In reply to this message
+你以为真像抖音说的哪哪都强啊，事实运营商拿捏esim比拿捏实体卡更容易
+鹏
+10:38
+鹏仔
+In reply to this message
+苹果好换
+10:38
+我紫U卡正常安卓要换得重新申请，两个苹果直接互相移就行了
+C
+10:39
+Czone
+那也是苹果支持的运营商多，核心还是运营商给的便利
+鹏
+10:41
+鹏仔
+封锁太严了还是
+绑
+11:18
+绑绑绑
+giffgaff不发积分还在发广告
+11:18
+我以为积分到了
+AL
+11:34
+Andy Liang
+[]
+为啥eSIM.gg 不显示已开通的号码了？
+SL
+11:39
+Stan Lee
+In reply to this message
+F5
+AL
+11:40
+Andy Liang
+In reply to this message
+啥意思
+SL
+11:40
+Stan Lee
+刷新呀
+AL
+11:43
+Andy Liang
+In reply to this message
+没用
+K
+11:44
+Kira
+自己用错邮箱了吧
+AL
+11:45
+Andy Liang
+In reply to this message
+没有啊
+11:47
+感觉是网站问题
+烟（
+11:58
+烟雨 （温柔新生）
+你上错号了吧
+AL
+13:34
+Ai Li
+In reply to this message
+我嘞个豆
+KT
+13:35
+Kurumi Tokisaki MO
+In reply to this message
+总量，国内外所有的
+13:35
+只能加两个esim
+13:35
+苹果在下午推送了系统限制
+l
+14:10
+loadinghtml
+等有人试了再说
+N（
+14:10
+Nelly Arabelle （请联系Bot）
+等
+14:10
+6元没上车
+14:11
+熄火了
+l
+14:11
+loadinghtml
+可以的话 把club转张到cls
+N（
+14:47
+Nelly Arabelle （请联系Bot）
+不懂
+14:48
+我去找个人帮我实名一下
+14:48
+Sticker
+Not included, change data exporting settings to download.
+, 13.2 KB
+烟（
+14:48
+烟雨 （温柔新生）
+Sticker
+Not included, change data exporting settings to download.
+, 29.8 KB
+N（
+14:48
+Nelly Arabelle （请联系Bot）
+有没有推荐一下的过kyc的
+烟（
+14:48
+烟雨 （温柔新生）
+举爪
+N（
+14:50
+Nelly Arabelle （请联系Bot）
+？
+N（
+15:14
+Nelly Arabelle （请联系Bot）
+Sticker
+Not included, change data exporting settings to download.
+, 15.0 KB
+p记
+15:21
+px休息中 记得催我睡觉
+[]
+沙县走起
+法
+15:25
+法老-英国
+这6块钱不够吧
+p记
+15:36
+px休息中 记得催我睡觉
+In reply to this message
+[]
+你的座驾被我逮到了
+CW
+15:39
+Calling Wlan
+[]
+15:39
+网站不好用啦
+15:40
+嗯嗯
+15:40
+新的二维码申请不下来，旧的也不行
+15:41
+嗯嗯
+15:41
+接码平台下不来啊，这还得转实体卡了。。。
+15:42
+15:42
+我是正好卡在这了么。。。
+15:42
+处理了2个，全停摆了
+15:50
+就搞了2
+O
+15:51
+Over
+？？？
+15:51
+解码平台转esim?
+CW
+15:56
+Calling Wlan
+我再搞一个试试
+15:56
+浪费0.6刀了。。
+VL
+15:59
+Vitor Lee
+人才
+Se
+16:00
+S erein
+还在偷
+N（
+16:01
+Nelly Arabelle （请联系Bot）
+Sticker
+Not included, change data exporting settings to download.
+, 15.0 KB
+16:01
+sms偷啥
+CW
+16:02
+Calling Wlan
+In reply to this message
+成功一个
+Se
+16:03
+S erein
+In reply to this message
+3uk和gg
+N（
+16:03
+Nelly Arabelle （请联系Bot）
+咋偷
+16:03
+我也试试
+16:03
+Sticker
+Not included, change data exporting settings to download.
+, 13.2 KB
+16:04
+就喜欢干这些偷鸡摸狗的事情
+Se
+16:04
+S erein
+和gg怎么转esim流程一样
+N（
+16:04
+Nelly Arabelle （请联系Bot）
+去接码平台接码？
+Se
+16:04
+S erein
+只是从平台接码而已
+N（
+16:05
+Nelly Arabelle （请联系Bot）
+能重复接？
+16:05
+接码平台不是接一次就没了吗
+Se
+16:05
+S erein
+有可以接20分钟的
+16:05
+没什么用
+16:06
+转了过两天也找回
+N（
+16:06
+Nelly Arabelle （请联系Bot）
+Sticker
+Not included, change data exporting settings to download.
+, 13.2 KB
+16:06
+那没意思
+Se
+16:07
+S erein
+可以改
+16:08
+有收回有活的
+16:08
+我就搞了10个3uk和2个gg
+N（
+16:10
+Nelly Arabelle （请联系Bot）
+Sticker
+Not included, change data exporting settings to download.
+, 13.2 KB
+16:11
+nb
+O
+17:10
+Over
+偷号可还行
+AL
+17:21
+Ai Li
+In reply to this message
+222喔
+23 October 2025
+杰J
+03:24
+杰 Jay
+gg卡现在好转esim吗？
+J
+03:33
+Jack。
+谁有 英国的 esim 和德国的，卖我一张
+03:33
+Sticker
+Not included, change data exporting settings to download.
+, 9.4 KB
+杰J
+03:36
+杰 Jay
+gg卡 现在可以自己转eSIM吗？
+AL
+03:47
+Ai Li
+In reply to this message
+真黑啊，这么贵也不包邮费
+鹏
+05:59
+鹏仔
+In reply to this message
+可以
+06:00
+你收它的费知道吧
+06:01
+问问题就收费 哈哈哈哈
+06:01
+当几回冤大头就知道看群消息了
+C
+06:07
+Czone
+还得嫌弃一句，你服务态度一般
+06:08
+你换个头像，我差点没认出来
+06:09
+自嗨型头像
+06:10
+你没用中文包？
+06:13
+哈哈哈，莫慌
+06:14
+你没树大招风，一般不会被开
+06:18
+还在免流啊
+SL
+06:20
+Stan Lee
+GG卡免流图啥，延迟那么高
+C
+06:21
+Czone
+笑死
+06:21
+你免流不就是用的vpn节点
+SL
+06:21
+Stan Lee
+速度感人
+06:22
+就是呀
+06:22
+还是vpn的ip
+C
+06:22
+Czone
+IP也是机器的ip
+06:22
+梦里啥都有
+06:22
+没有原生ip
+06:22
+是你那节点的ip
+SL
+06:23
+Stan Lee
+没有原生ip，还得买vps搭節點
+C
+06:23
+Czone
+关键数据还得去英国跑一圈
+06:23
+那还玩个嘚免流
+UN
+07:39
+U N
+现在工具怎么用
+C
+07:40
+Czone
+20教你用
+07:41
+免流了哪来的它的ip
+?
+07:43
+𝓛𝓪𝔀𝓻𝓮𝓷𝓬𝓮
+免流用你伺服器的IP
+07:43
+而不是卡的
+07:43
+出國玩不用買卡就是了
+07:44
+In reply to this message
+我就這個用途
+SL
+07:44
+Stan Lee
+In reply to this message
+是借他的网络通道，实际IP还是VPN的IP
+ca
+ca
+?
+07:45
+𝓛𝓪𝔀𝓻𝓮𝓷𝓬𝓮
+你打算環遊世界，去其他國家旅遊倒是很方便，玩免流
+ca
+07:45
+Sticker
+Not included, change data exporting settings to download.
+, 6.6 KB
+07:47
+或者你手機是雙eSIM，想在中國使用，red bull /gg免流也能派上用處
+07:47
+大流量使用，看YT之類的
+KQ
+08:23
+KM QA
+In reply to this message
+是免费，但你还得有服务器才行
+08:23
+原理是弄个代理服务器然后伪装成在访问他运营商网站
+08:24
+一些卡没流量也能上运营商网站，就这样免流了
+ca
+CW
+09:22
+Calling Wlan
+3UK都薅关门了 啊，群友们太厉害了
+酒
+09:22
+酒剑仙
+ctm ip不错
+酒
+09:40
+酒剑仙
+[]
+09:40
+流量费也不是很贵
+p记
+09:40
+px休息中 记得催我睡觉
+有没有大佬知道混币的原理呀
+09:40
+怎么实现的
+09:40
+Sticker
+Not included, change data exporting settings to download.
+, 9.6 KB
+酒
+09:40
+酒剑仙
+还有比ctm流量费便宜的卡吗
+p记
+09:41
+px休息中 记得催我睡觉
+In reply to this message
+为了证明身份 买这么多1
+CW
+09:41
+Sticker
+Not included, change data exporting settings to download.
+, 6.6 KB
+P
+11:40
+PZYTA
+Sticker
+Not included, change data exporting settings to download.
+, 24.9 KB
+11:40
+原来是机器人
+W
+12:29
+William
+In reply to this message
+澳门家宽貌似也没啥用。
+ca
+12:34
+Deleted Account
+In reply to this message
+=Youtube无广告
+12:35
+In reply to this message
+直接龙卷风，usdt进，xmr出，在xmr进，usdt出，简单点
+p记
+12:35
+px休息中 记得催我睡觉
+In reply to this message
+只需要在这一个网站操作就行？
+12:36
+Deleted Account
+In reply to this message
+yep
+p记
+12:37
+px休息中 记得催我睡觉
+In reply to this message
+https://tornado.cash/ 这个吗 哥
+12:37
+Deleted Account
+In reply to this message
+https://trocador.app/en
+W
+12:37
+William
+In reply to this message
+我用brave 浏览器
+p记
+12:38
+px休息中 记得催我睡觉
+In reply to this message
+x谢谢
+12:40
+In reply to this message
+会不会有概率混到被标记的U呢
+CW
+12:41
+Calling Wlan
+In reply to this message
+我又转了一个
+12:56
+Deleted Account
+In reply to this message
+进钱包就可以了
+p记
+13:17
+px休息中 记得催我睡觉
+钱包密钥不知道存哪里比较好 我一般用交易所
+13:20
+一般密钥存哪里比较好呢 兄弟们
+13:21
+我有一次忘过密钥 就没在用钱包了
+13:21
+Sticker
+Not included, change data exporting settings to download.
+, 7.1 KB
+绑
+13:29
+绑绑绑
+In reply to this message
+书里
+p记
+13:34
+px休息中 记得催我睡觉
+In reply to this message
+还是写到纸质上比较安全是吗
+绑
+13:36
+绑绑绑
+In reply to this message
+备份三份
+13:36
+不就行了
+13:38
+Deleted Account
+In reply to this message
+找个女朋友，纹身上
+p记
+13:38
+px休息中 记得催我睡觉
+Sticker
+Not included, change data exporting settings to download.
+, 7.7 KB
+13:38
+那我也搞个钱包吧
+13:39
+他们说混完币全是黑的
+13:39
+我擦了
+13:39
+Deleted Account
+不要慌
+13:40
+进钱包-交易所
+p记
+13:40
+px休息中 记得催我睡觉
+要是混到黑的进不去交易所吧
+13:40
+不对 黑的话 再进交易所 那不完犊子了吗
+13:41
+Deleted Account
+不要对没发生的事情操心
+13:42
+在说了，都混币了还进什么交易所，直接进u卡
+p记
+13:44
+px休息中 记得催我睡觉
+好吧
+13:44
+Scott 你不用交易所吗
+13:54
+Deleted Account
+In reply to this message
+No
+p记
+14:12
+px休息中 记得催我睡觉
+好了 我也搞了钱包
+14:13
+iCloud存密钥怎么样 安全吗
+14:16
+到了吗
+14:16
+开开眼
+14:16
+是的 我想着密钥存到苹果哪里合适呢
+14:16
+我平时密码 或者账号都是记在脑子里
+14:17
+这密钥太长了 背一天也记不住
+14:17
+Sticker
+Not included, change data exporting settings to download.
+, 7.1 KB
+14:22
+In reply to this message
+你钱一般存在钱包吗
+14:23
+Deleted Account
+In reply to this message
+孙割钱包和trust wallet
+p记
+14:24
+px休息中 记得催我睡觉
+奥 那都是钱包
+14:28
+还得和你多学习学习
+14:28
+Sticker
+Not included, change data exporting settings to download.
+, 10.6 KB
+AL
+15:13
+Ai Li
+In reply to this message
+欧呦
+15:14
+5207777
+15:14
+这么酷
+p记
+15:18
+px休息中 记得催我睡觉
+兄弟们 那个esim二维码有效期多久来着 点的有点快了 忘记看下发红字了
+15:19
+嗯
+W
+15:31
+William
+In reply to this message
+这哥们随机都能遇到AAAA号，人品太好了吧
+15:34
+In reply to this message
+要技术吧？
+烟（
+15:34
+烟雨 （温柔新生）
+呃 插手机里就能看
+p记
+15:34
+px休息中 记得催我睡觉
+这也算本事的
+烟（
+15:34
+烟雨 （温柔新生）
+不激活也能看 甚至还能收短信
+p记
+15:35
+px休息中 记得催我睡觉
+之前看到过这个bug
+15:35
+还能用流量不扣费。。。
+烟（
+15:36
+烟雨 （温柔新生）
+In reply to this message
+英国 这不直接去twilio选？
+W
+15:36
+William
+AAAA结尾在2000人民币左右了
+15:36
+In reply to this message
+这家便宜还是？
+烟（
+15:36
+烟雨 （温柔新生）
+这家免费
+W
+15:37
+William
+In reply to this message
+那挺好，得狂刷新看运气吧？
+烟（
+15:37
+烟雨 （温柔新生）
+直接搜啊
+W
+15:38
+William
+那好的不早被人搞走了嘛
+烟（
+15:38
+烟雨 （温柔新生）
+那确实
+W
+15:39
+William
+嗯是的，美国的都不便宜
+烟（
+15:40
+烟雨 （温柔新生）
+In reply to this message
+美国的不用实名
+15:40
+可以直接转走
+p记
+15:40
+px休息中 记得催我睡觉
+美国号段多 靓号就多
+15:40
+但是月租很贵
+15:41
+感觉gv权重不是很高 不敢买 gv靓号是很多
+15:41
+看看你的17啊
+15:41
+Sticker
+Not included, change data exporting settings to download.
+, 9.8 KB
+W
+15:41
+William
+GV的确实不行
+p记
+15:41
+px休息中 记得催我睡觉
+羡慕死我了
+15:41
+奥奥
+W
+15:43
+William
+注册限制有一点，其他还行
+CW
+15:46
+Calling Wlan
+In reply to this message
+这么贵吗，我有个2222的尾号
+W
+15:48
+William
+In reply to this message
+嗯，标价是这样的！也就国人喜欢
+烟（
+15:49
+烟雨 （温柔新生）
+[]
+15:49
+从Twilio转走的（
+W
+15:50
+William
+漂亮
+15:52
+In reply to this message
+你这真的么，屌爆了
+15:52
+Deleted Account
+美国可以买T-Mobile 0月租卡
+CW
+15:52
+Calling Wlan
+In reply to this message
+都是人才，我还没激活呢
+15:52
+Deleted Account
+In reply to this message
+年保号30人民币
+15:59
+In reply to this message
+一个YouTube,价格很贵，3000人民币
+l
+16:02
+loadinghtml
+3k
+16:02
+谁要？
+W
+16:02
+William
+In reply to this message
+[]
+老哥你说的是这个网站么？
+l
+16:02
+loadinghtml
+有人买我直接卖
+烟（
+16:03
+烟雨 （温柔新生）
+In reply to this message
+是
+N（
+16:04
+Nelly Arabelle （请联系Bot）
+In reply to this message
+现在美国有没有低价保号的
+16:04
+Sticker
+Not included, change data exporting settings to download.
+, 15.0 KB
+16:04
+Sticker
+Not included, change data exporting settings to download.
+, 11.5 KB
+l
+16:04
+loadinghtml
+Animation
+Not included, change data exporting settings to download.
+105.3 KB
+W
+16:04
+William
+In reply to this message
+多谢，我研究下看有没有靓号。
+CW
+16:12
+Calling Wlan
+[]
+p记
+16:19
+px休息中 记得催我睡觉
+In reply to this message
+卧槽
+16:37
+Deleted Account
+In reply to this message
+你的底价是多少
+16:37
+我来收你的
+16:37
+Sticker
+Not included, change data exporting settings to download.
+, 190.3 KB
+l
+16:37
+loadinghtml
+2999
+16:38
+Deleted Account
+伤心
+16:38
+我找到一个1200的
+p记
+16:39
+px休息中 记得催我睡觉
+什么类型的
+16:39
+看看
+l
+16:40
+loadinghtml
+他说的tm 0
+16:40
+Deleted Account
+In reply to this message
+[]
+可是个好东西
+l
+16:43
+loadinghtml
+不是说没免费通话和短信了么
+p记
+16:44
+px休息中 记得催我睡觉
+奥奥 你说是0月租美国卡
+H
+16:58
+HKUP
+好家伙
+16:58
+给sms activate的giffgaff偷完了
+17:02
+怎么没有ai水印啊
+p记
+18:22
+px休息中 记得催我睡觉
+Sticker
+Not included, change data exporting settings to download.
+, 9.2 KB
+18:22
+早
+24 October 2025
+J.
+05:11
+Jeremy .C
+esim卡：
+- 少开优开，幸福一生。
+- 只开一张好，国补享到老。
+- 不是不允许开通，而是缓开、慢开、优开，有次序有节奏地开
+- 允许一部分地区的人先开通、多开通（港澳台），让先开带动后开。
+- 坚决维护三大运营商的核心地位。坚决维护以工信部为核心的集中统一领导。
+D
+05:19
+Dave
+clubsim 6HKD/年 保号 明牌 45 人民币 ，仅一张 要的私信
+p记
+05:29
+px休息中 记得催我睡觉
+In reply to this message
+靓号吗
+D
+06:17
+Dave
+In reply to this message
+随机
+p记
+06:18
+px休息中 记得催我睡觉
+In reply to this message
+奥奥 怎么样这卡 值得入
+06:18
+吗
+06:18
+Sticker
+Not included, change data exporting settings to download.
+, 9.2 KB
+p记
+06:41
+px休息中 记得催我睡觉
+这边建议沙县小吃
+06:41
+一步到位
+06:41
+Sticker
+Not included, change data exporting settings to download.
+, 11.3 KB
+玛巴
+09:42
+玛卡 巴卡
+9eSIM v3容量好大，装giffgaff 能装大概100个？
+UN
+09:42
+U N
+多了容易咋
+玛巴
+09:43
+玛卡 巴卡
+我陆续装了40多个进去
+酒
+09:43
+酒剑仙
+40多个gg？
+玛巴
+09:44
+玛卡 巴卡
+是啊
+CW
+09:44
+Calling Wlan
+In reply to this message
+真牛逼
+09:44
+我才整了5个
+酒
+09:44
+酒剑仙
+整这么多有个啥用
+CW
+09:45
+Calling Wlan
+In reply to this message
+你不懂得，用处多了。不过我没有他这么大的需求
+玛巴
+09:45
+玛卡 巴卡
+卖卡啊
+C
+09:45
+Czone
+卧槽，去偷了那么多gg嘛
+玛巴
+09:45
+玛卡 巴卡
+咋偷呢，自己激活的
+C
+09:45
+Czone
+9esim按容量可以写大概80个gg，但是有50个限制
+酒
+09:46
+酒剑仙
+9esim多少容量的
+C
+09:46
+Czone
+1.5，1.6
+酒
+09:46
+酒剑仙
+和estk不一样
+09:46
+estk max 1.6
+玛巴
+09:46
+玛卡 巴卡
+In reply to this message
+最多50吗？害
+C
+09:46
+Czone
+gg不到20k
+09:46
+In reply to this message
+对的，50上限
+酒
+09:47
+酒剑仙
+没啥用
+CW
+09:47
+Calling Wlan
+In reply to this message
+祝你一键爆炸
+C
+09:47
+Czone
+也就纯写gg这种小的能干上50
+酒
+09:47
+酒剑仙
+求推荐个香港 澳门的漫游上网卡
+09:47
+目前整了一个ctm
+09:47
+感觉还行
+C
+09:47
+Czone
+In reply to this message
+GG不怕炸卡的
+玛巴
+09:47
+玛卡 巴卡
+In reply to this message
+C
+09:48
+Czone
+不死GG不是开玩笑的
+玛巴
+09:48
+玛卡 巴卡
+炸了再转回实体卡吧
+酒
+09:48
+酒剑仙
+有道理
+SL
+09:48
+Stan Lee
+In reply to this message
+3HK
+酒
+09:48
+酒剑仙
+这个比较贵吧
+玛巴
+09:49
+玛卡 巴卡
+澳门ctm chill ，我还没实名激活成功
+酒
+09:49
+酒剑仙
+实名很简单
+09:49
+ctm 我先绑到estk上了，手机到了后直接删除了，没联网
+09:49
+直接入坑
+C
+09:51
+Czone
+In reply to this message
+你是个卡商啊
+玛巴
+09:51
+玛卡 巴卡
+卖gg卡的
+酒
+09:51
+酒剑仙
+gg卡申请了三次，一次没收到
+C
+09:51
+Czone
+现在什么行情
+酒
+09:52
+酒剑仙
+都寄飞了?
+C
+09:52
+Czone
+你是赚aff加卖卡？
+玛巴
+09:52
+玛卡 巴卡
+7块一张白卡啊
+C
+09:52
+Czone
+你不是卖激活好的
+玛巴
+09:52
+玛卡 巴卡
+上个月激活的，25英镑的130元，还没卖完
+酒
+09:52
+酒剑仙
+In reply to this message
+你一次申请几张
+09:52
+我看是每次最多3张
+09:53
+申请10次？
+玛巴
+09:53
+玛卡 巴卡
+怎么邮局还打电话呢？留电话了吗
+C
+09:53
+Czone
+In reply to this message
+你卖的多，得多开几个账号赚aff
+酒
+09:53
+酒剑仙
+人才啊
+C
+09:53
+Czone
+In reply to this message
+他给邮递员艹菊花
+玛巴
+09:53
+玛卡 巴卡
+C
+09:53
+Czone
+不然平信一般不打电话
+09:54
+等下买去玩免流给你大号封了
+09:55
+哈哈哈，人家25磅的卡才卖130
+09:55
+难怪上次报价卖不出去
+酒
+09:57
+酒剑仙
+GG
+09:57
+GG的收件地址有问题吧 没看到有联系人和电话
+09:57
+没电话也能寄？
+C
+09:59
+Czone
+In reply to this message
+真tm6
+09:59
+电话写了除非遇到良心快递员，不然一般不会打
+10:00
+还有就是楼上这个卖屁股的
+酒
+10:01
+酒剑仙
+合着我之前申请的 没写手机号，白折腾了
+10:02
+ctm 支持5g，竟然能跑出1300M
+C
+10:02
+Czone
+In reply to this message
+你怎么会是中通
+10:02
+不都邮政吗
+10:03
+In reply to this message
+不，没写收不到，大概率写了也收不到
+10:03
+噢，发一张还好
+酒
+10:03
+酒剑仙
+In reply to this message
+那不玩个寂寞
+C
+10:03
+Czone
+平信是不包送到的
+10:04
+全看你们那边邮递员良心
+酒
+10:04
+酒剑仙
+前边是白玩了
+C
+10:04
+Czone
+你想收到，就去镇级邮政，找到那个负责你片区呢
+10:04
+那个邮递员
+10:04
+给他来一套人情世故
+酒
+10:05
+酒剑仙
+狒狒了
+C
+10:06
+Czone
+In reply to this message
+然后从此你菊花就没消停过
+10:06
+高低塞包烟
+酒
+10:08
+酒剑仙
+有情况
+玛巴
+10:09
+玛卡 巴卡
+C
+10:09
+Czone
+卧槽，原来是女的
+10:24
+In reply to this message
+这不聊天嘛
+10:24
+八卦才是聊天最好的话题，这不要不是看你眼熟咱也不敢瞎鸡巴开玩笑
+10:26
+你还有平邮的信件？
+10:32
+平邮客服也没啥用吧，追踪不了
+10:33
+DHL动不动就一两百的快递费当然舒服，ups也舒服
+10:33
+这两家东南亚到国内，跟国内顺丰都快差不多快了
+10:34
+平邮不属于快递
+10:35
+那是最原始的，不过也就是快递兴起，不然以前平邮都很容易收，现在村里也好收
+非
+10:36
+非礼无视
+我的bybit实体卡已经平邮了20多天了
+10:36
+还没动静
+酒
+11:48
+酒剑仙
+苹果id都很难注册了吗
+CS
+11:53
+Candies Sven
+有人有需要gg卡空白新卡板的吗？我这还有10来张，9月寄来的卡。找不到，群友给了
+11:56
+Deleted Account
+In reply to this message
+验证别用国内手机号
+11:56
+随便搞
+法
+11:58
+法老-英国
+在这个群里你还搞不到号码
+g
+12:00
+gaq
+giffgaff官网能看payback point了
+12:29
+Deleted Account
+In reply to this message
+就是
+l
+12:31
+loadinghtml
+[]
+12:31
+还真是
+12:33
+我的算了16个
+g
+12:33
+gaq
+草台班子这一块
+12:34
+[]
+才发现我这个自邀的号给了30余额，不是充10送15吗
+l
+12:34
+loadinghtml
+实际我的应该是17个
+12:34
+Sticker
+Not included, change data exporting settings to download.
+, 227.6 KB
+12:35
+Deleted Account
+Payback confirmed
+Got it. You've chosen cash to redeem your Payback points earned this
+Payback period. Payback is paid every six months, in June and December.
+You will receive an email from PayPal to confirm the transaction during
+payout.
+Remember, if you want to change your decision, you can. Just make a new
+selection before payout if you need to.
+12:35
+舒服
+l
+12:35
+loadinghtml
+也不对
+12:36
+不管了
+12:36
+比225多就行了
+W
+12:41
+Wav
+估计是把超15个都算进去了
+12:41
+血赚
+12:41
+Deleted Account
+In reply to this message
+对
+12:42
+看样子是算进去了
+W
+12:42
+Wav
+预料不到这草台班子
+12:42
+不然使劲撸
+g
+12:44
+gaq
+母公司有钱嗯造
+W
+12:46
+Wav
+其实它不会亏，多少没保号的赚翻了
+酒
+12:48
+酒剑仙
+In reply to this message
+要用国外ip？
+12:48
+Deleted Account
+In reply to this message
+国内IP也行
+SL
+12:48
+Stan Lee
+In reply to this message
+会不会是拿充值的钱去投资了？
+12:48
+Deleted Account
+In reply to this message
+我注册很多了，都没事
+12:49
+In reply to this message
+就100块钱，要什么飞机
+12:49
+出了事了，会给你时间转出
+12:49
+不怕
+g
+12:52
+gaq
+gg都薅多少年了 还是屹立不倒
+W
+12:53
+Wav
+其实你帮他赚的可能更多
+12:53
+互利
+12:53
+所以才不会倒，它需要用户基数，我们要奖励
+l
+12:55
+loadinghtml
+应该是对的
+12:55
+前15 15
+后面的5
+12:55
+我刚好18个
+12:55
+15*15+5*3=240
+g
+12:57
+gaq
+15个之后变super recruiter不是首充不给返现吗 不过草台班子是这样的了
+W
+13:01
+Wav
+15以后是首充没有5磅
+13:01
+15以后需要120天内二次充值才有返现，这是正常规则
+13:02
+估计这次乱套了没少拿就行了
+13:02
+Deleted Account
+就等他下个月发工资了
+l
+13:02
+loadinghtml
+那只能这么算了
+13:02
+因为我18张激活
+W
+13:02
+Wav
+管它的
+13:03
+你多赚15磅也美滋滋
+13:03
+反正预期就拿他15个
+13:03
+要12月发
+13:05
+中国也就几十万
+13:05
+它总数才一千多万用户
+绑
+13:06
+绑绑绑
+羡慕坏了
+13:06
+[]
+没吃上
+烟（
+13:06
+烟雨 （温柔新生）
+信都收不到（
+W
+13:07
+Wav
+上个月是赶上3和沃达丰合并
+13:07
+历史首次15磅奖励
+l
+13:07
+loadinghtml
+不是吧
+13:07
+我搜记录 去年就有了吧
+W
+13:08
+Wav
+去年就搞10磅
+13:08
+今年5、6月连续也是10磅
+13:09
+万人群的群主卖卡吃aff赚疯了
+绑
+13:11
+绑绑绑
+肯定啊
+13:11
+还有油管博主
+13:12
+Deleted Account
+In reply to this message
+啥意思？
+13:13
+你咋这么少？
+13:13
+没赶上15英镑活动吗？
+绑
+13:13
+绑绑绑
+嗯
+13:13
+Deleted Account
+In reply to this message
+去年都是+10
+13:13
+第一次+15
+酒
+13:14
+酒剑仙
+人才
+伊
+13:14
+伊蕾娜の测评频道（VAC）
+就是没有全部收到
+?
+13:14
+𝙯𝙚𝙙𝙙
+11.30号发钱吗
+伊
+13:14
+伊蕾娜の测评频道（VAC）
+In reply to this message
+好像是12.1
+13:14
+Deleted Account
+In reply to this message
+11.30截止，12.1付款
+?
+13:15
+𝙯𝙚𝙙𝙙
+好的
+13:15
+1个月 挺快的
+W
+13:15
+Wav
+哪有那么快付款
+13:16
+通常都20号左右到账
+13:16
+Deleted Account
+In reply to this message
+我的意思是开始付款
+13:16
+都是慢慢来的
+13:16
+不是一次性所有人都发
+W
+13:16
+Wav
+不会，开始付款是第二周开始
+13:17
+第二周都还能选择付款方式
+13:19
+Deleted Account
+我都是提前选完了
+13:19
+后面就不管他了
+C
+13:21
+Czone
+In reply to this message
+你发了小财了
+UN
+13:29
+U N
+In reply to this message
+昨天还有80多张
+13:29
+刚想今晚下手，0了
+?
+13:37
+𝙯𝙚𝙙𝙙
+发财了
+13:38
+Deleted Account
+In reply to this message
+没发财，他本来就有钱
+夢
+13:55
+夢
+[]
+13:55
+就直接绑上去了
+13:55
+我还去浏览器f12直接修改文字
+13:55
+白修改了
+13:55
+Sticker
+Not included, change data exporting settings to download.
+, 8.1 KB
+14:10
+In reply to this message
+羡慕坏了
+14:10
+我的就没有
+14:10
+QwQ
+l
+14:18
+loadinghtml
+In reply to this message
+可以回国？
+14:18
+反正我是绑的uk pp
+14:19
+太富了
+14:19
+一天2k
+14:19
+一个月6w
+14:19
+一年72w
+14:20
+USDT : CNY = 720000.0 : 5127777.828
+数据每日八点更新 - 2025-10-24
+14:20
+一年500w
+14:20
+xmsl
+14:21
+难怪看不上这点小毛
+H
+14:22
+HKUP
+？混个温饱是这样定义的
+14:26
+那我们不得全部饿死了
+夢
+14:26
+夢
+那我们不得全部饿死了
+W
+14:27
+Wav
+羡慕群主一天2000U
+14:27
+难怪看不上af f
+14:28
+香港太平山
+14:30
+买了一个村
+14:30
+自己住破屋、怕有人图他钱
+H
+14:32
+HKUP
+富哥就是有格局
+14:32
+14:48
+Deleted Account
+In reply to this message
+那咱可以在地面上建一个普通的民房，地下搞一个10000平的地宫。。
+W
+14:49
+Wav
+哈哈，地面20平，地下一座城
+14:52
+Deleted Account
+In reply to this message
+地下浣熊市
+H
+15:06
+HKUP
+不值钱
+15:08
+啥
+15:08
+？
+15:08
+卖多少
+15:10
+我去
+C
+15:13
+Czone
+这个信箱图片好面熟
+15:14
+好像是那个giffgaff群那个阿姨的信箱
+15:18
+寄村里，最快7天就到了
+15:18
+嘎嘎快
+烟（
+15:21
+烟雨 （温柔新生）
+收不到一点
+夢
+15:23
+夢
+羡慕坏了
+C
+15:23
+Czone
+你们都在秀肌肉
+l
+15:24
+loadinghtml
+我都没卡了
+15:24
+只有两三张了
+15:24
+等换个号再申
+鹏
+15:38
+鹏仔
+这什么玩意
+玛巴
+16:04
+玛卡 巴卡
+我在pdd挂七块多一张，老有人过来要批发
+16:04
+问题是我也没卡了啊
+玩
+16:06
+玩卡教授
+Sticker
+Not included, change data exporting settings to download.
+, 14.2 KB
+16:10
+Deleted Account
+In reply to this message
+15 磅卖 188 元？
+16:29
+Deleted Account
+In reply to this message
+我好像也看过这张
+16:57
+Deleted Account
+[]
+一个朋友的存货
+16:57
+[]
+C
+16:58
+Czone
+这是开了多少卡
+16:58
+申请来的
+16:58
+Deleted Account
+他说，他有 1000 多个账户
+16:59
+?
+16:59
+𝙯𝙚𝙙𝙙
+户？
+16:59
+我擦
+16:59
+那他奖励都用一个pp接啊
+玩
+17:00
+玩卡教授
+In reply to this message
+·牛皮
+17:00
+Deleted Account
+In reply to this message
+这就不清楚了
+C
+17:00
+Czone
+那就上天了，一个月3万张卡
+17:01
+Deleted Account
+In reply to this message
+申请不了这么多，我自己的 10
+个账户，就最多申请两个月，这两个月申请的卡激活数量不足一半的话，第三个月一张卡都申请不了了。
+JC
+C
+17:02
+Czone
+按60张一个账户嘛，总数也干到了6万张
+玩
+17:02
+玩卡教授
+Sticker
+Not included, change data exporting settings to download.
+, 9.2 KB
+C
+17:02
+Czone
+然后不全到，一半，3万张
+17:02
+Deleted Account
+我问过他 1000 个账户也不会一个月同时开的
+玩
+17:02
+玩卡教授
+账号不够多 卡多好像也没用 一个账号就15
+17:02
+Deleted Account
+不然根本忙不过来
+17:02
+In reply to this message
+对的
+玩
+17:03
+玩卡教授
+Sticker
+Not included, change data exporting settings to download.
+, 8.4 KB
+17:03
+我这边海关栏了 ，卡都收不到了
+17:03
+之前能收，现在收不到了
+17:03
+Sticker
+Not included, change data exporting settings to download.
+, 8.4 KB
+C
+17:03
+Czone
+下个月gg要是给10磅或者15磅，高低搞个十来张
+17:04
+Deleted Account
+官方搞活动，一般都是因为有特殊的节假日
+C
+17:04
+Czone
+12月直接回本
+17:04
+Deleted Account
+比如九月是开学季
+C
+17:04
+Czone
+没事啊，12月还有圣诞节呢
+17:04
+提前促销
+17:05
+只要有10磅奖励就相当于白嫖账户和卡
+17:05
+Deleted Account
+赚翻了
+C
+17:06
+Czone
+我就怕邮政把我举报了
+17:06
+Deleted Account
+港股打新有人参与吗？
+17:06
+In reply to this message
+我朋友寄到另外一个城市的卡，就被邮递员直接给打条子电话了
+17:07
+条子让我朋友去当地派出所交代情况
+17:07
+In reply to this message
+对的！
+17:08
+ 国内的人一般都没有 esim 手机
+C
+17:08
+Czone
+In reply to this message
+我感觉量太大就是这
+17:09
+Deleted Account
+In reply to this message
+对 现在就是这搞的
+17:09
+In reply to this message
+非常大
+C
+17:10
+Czone
+这...好生意
+17:10
+Deleted Account
+那个地址下单了 200 个账户 虽然没有全到，但也有 1000 张左右了
+17:10
+In reply to this message
+信息搬运才是最赚钱的
+17:10
+做一个信息掮客
+17:11
+哈哈哈 是的！
+17:12
+中间商才是最好赚钱的
+17:13
+In reply to this message
+那可不是嘛！
+C
+17:14
+Czone
+那确实，有一波人就觉得gg免费送来的，卖卡黑心
+17:14
+Deleted Account
+亲眼看着身边的一个朋友，一周前身价负 15 万，三天前，身价 85 万——
+玩币，合约，一晚赚了 100 万
+C
+17:15
+Czone
+之前群里不就是，代充115说黑，10英镑不到100
+17:15
+玩合约感觉钱都不是钱
+17:16
+跟玩数字游戏
+17:16
+Deleted Account
+In reply to this message
+那可不是嘛！玩合约，就是和魔鬼对赌啊！
+C
+17:16
+Czone
+啥人都有
+17:22
+Deleted Account
+In reply to this message
+我在小红书还遇到一个傻逼，让我包邮送他，还让我把返利送他一半！！
+C
+17:22
+Czone
+让他去吃屎
+17:23
+还给他返利钱
+17:23
+Deleted Account
+我说他傻逼 他说他是北京户口的 说自己保送到北大 还说自己 是学生
+但是信用卡有 100 万额度
+17:23
+我看了他的主页 全是网络乞讨的内容
+C
+17:23
+Czone
+小红书卖不上价
+17:24
+送的人太多
+17:58
+Deleted Account
+免费领取一个月的 Perplexity Pro 会员:https://pplx.ai/netspc
+领取分三步，很快 
+1.下载 Comet 并将其设置为默认浏览器
+2.登录 Perplexity 并使用 Comet 提出至少一个问题
+3.免费获得 1 个月的 Perplexity Pro
+如果网页一直转圈要验证，梯子就开 Tun 模式。或者直接使用离线安装包：
+下载地址1：https://pan.quark.cn/s/92d8cbfc5469
+下载地址2：https://wormhole.app/LOQbvr#TsTuEKl1JO3Z8D8cQgMaRA
+Perplexity 会第一时间接入 GPT + DeepSeek + Claude + Gork 等领先模型，
+中文内容选 DeepSeek ，
+代码编写选 Claude ，
+英文内容选 GPT 和 Grok ，
+文生图选 Playgroud ，妥妥的 AI 模型的全能战士。
+真心建议大家都试试，做投资分析挺好的，用了就回不去了。
+纯当浏览器使用也可以，比chrome和edge反应更快！
+C
+18:00
+Czone
+你也在搞这玩意
+18:01
+Deleted Account
+关键是好用啊
+Next messages

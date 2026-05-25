@@ -1,0 +1,3545 @@
+Esim.Kim中文交流群
+Previous messages
+25 December 2025
+叶
+16:27
+叶
+太多了
+16:27
+随便选了一个
+16:28
+gg好拉
+16:29
+gg拉Wi-Fi calling
+关掉所有网络和代理Wi-Fi通话也关掉
+然后开飞行
+然后再开Wi-Fi开代理在打开Wi-Fi通话
+烂英国节点也秒开
+16:30
+[]
+16:30
+给这些全打开
+16:33
+[]
+16:34
+[]
+16:34
+换了个机场也秒拉
+16:35
+[]
+HA
+16:38
+Hi Anny
+gg卡wifficall打电话怎么收费的
+叶
+16:38
+叶
+[]
+cte也可以这样拉
+16:38
+[]
+16:47
+Deleted Account
+通话还得是香港卡划算
+阿
+17:17
+阿根
+In reply to this message
+其实是EE
+大B
+17:23
+大雄 BGM
+[]
+GG的ip咋那么多
+酥
+17:23
+酥酥
+你这是用啥查的
+叶
+17:23
+叶
+gg开wifi calling
+17:24
+发了一条短信
+17:24
+扣了0.1
+大B
+17:24
+大雄 BGM
+In reply to this message
+[]
+17:24
+In reply to this message
+我开不出来
+酥
+17:25
+酥酥
+软路由吗
+大B
+17:25
+大雄 BGM
+是的
+叶
+17:26
+叶
+In reply to this message
+苹果低于26应该都可以
+大B
+17:26
+大雄 BGM
+16的
+叶
+17:27
+叶
+In reply to this message
+16的应该不行吧
+大B
+17:27
+大雄 BGM
+se2
+叶
+17:28
+叶
+不是说要高于17.几
+大B
+17:28
+大雄 BGM
+In reply to this message
+用ctx流量可以
+法
+17:28
+法老-英国
+设置问题
+叶
+17:28
+叶
+行
+法
+17:28
+法老-英国
+没有做vowifi 直连
+大B
+17:29
+大雄 BGM
+[]
+17:29
+域名好几种
+17:29
+规则里面都没这种域名
+法
+17:29
+法老-英国
+不要看这个
+17:29
+意思是无法注册ims
+大B
+17:30
+大雄 BGM
+In reply to this message
+指点下
+法
+17:30
+法老-英国
+你用什么写得vowifi
+17:30
+吧vowifi写得截图发出来
+一
+17:30
+一只胖锦鲤
+我只能说12.5.6拉不起来
+大B
+17:30
+大雄 BGM
+[]
+我
+法
+17:30
+法老-英国
+ee 12。5.6随便拉
+17:30
+DNS得设置
+一
+17:30
+一只胖锦鲤
+Gg
+17:31
+拉不起来
+法
+17:31
+法老-英国
+gg 最低16才能拉
+17:31
+而且需要刷入ipcc
+大B
+17:31
+大雄 BGM
+[]
+一
+17:31
+一只胖锦鲤
+嗯，我刷ipcc刷不进去
+17:31
+放弃了
+大B
+17:31
+大雄 BGM
+In reply to this message
+ipcc是58的
+法
+17:31
+法老-英国
+[]
+17:31
+这个问题
+大B
+17:32
+大雄 BGM
+删掉？
+法
+17:32
+法老-英国
+[]
+大B
+17:32
+大雄 BGM
+Photo
+281×48
+把这两个都删掉？
+法
+17:33
+法老-英国
+ipv
+17:33
+ipv6会影响vowifi
+17:34
+建议关
+大B
+17:34
+大雄 BGM
+ipv6是关了的
+17:34
+抄你的作业？
+法
+17:34
+法老-英国
+Photo
+275×37
+17:34
+只改这条就行
+17:35
+然后不要用软件复写yaml文件
+大B
+17:36
+大雄 BGM
+群不手写 黏贴复制
+烟（
+17:37
+烟雨 （温柔新生）
+跨频交流
+法
+17:37
+法老-英国
+喝多是你软件得问题
+17:37
+像openclash 会对你的yaml进行超多复写
+17:38
+导致功能出现问题
+大B
+17:43
+大雄 BGM
+靠搞不定
+法
+17:47
+法老-英国
+你用的什么软件
+大B
+17:47
+大雄 BGM
+openclash
+法
+17:47
+法老-英国
+可能的
+17:47
+上次也有人用这个一直搞不起来
+大B
+17:48
+大雄 BGM
+Photo
+1460×91
+我换联通 这里就有显示了
+法
+17:48
+法老-英国
+重启设备
+I
+17:48
+Itami
+In reply to this message
+拉得起来吗
+大B
+17:48
+大雄 BGM
+重启软路由阿
+法
+17:48
+法老-英国
+重启手机阿
+17:48
+重启软路由做啥
+17:48
+4500表示已经握手了
+大B
+17:49
+大雄 BGM
+[]
+17:49
+这里也这么显示的
+法
+17:49
+法老-英国
+重启手机
+大B
+17:49
+大雄 BGM
+再重启了
+17:56
+握手成功 但是还没显示vvowifi
+法
+17:56
+法老-英国
+你啥手机？
+大B
+17:56
+大雄 BGM
+se2
+法
+17:56
+法老-英国
+系统版本？
+大B
+17:56
+大雄 BGM
+16.1.1
+法
+17:56
+法老-英国
+gg?
+大B
+17:56
+大雄 BGM
+对
+法
+17:56
+法老-英国
+关闭定位
+大B
+17:57
+大雄 BGM
+全关闭了
+法
+17:57
+法老-英国
+开飞行 开关WiFi按钮
+法
+17:58
+法老-英国
+大B
+大雄 BGM 25.12.2025 17:48:04
+Photo
+1460×91
+我换联通 这里就有显示了
+法
+17:58
+法老-英国
+这个图上的链接全部掉
+大B
+17:58
+大雄 BGM
+现在也有显示
+17:59
+In reply to this message
+用流量秒连
+法
+17:59
+法老-英国
+节点问题吧
+大B
+18:00
+大雄 BGM
+红杏云跟我自己的节点我挨个试下
+18:00
+In reply to this message
+我自己的干净的
+18:00
+[]
+疯狂的挑
+法
+18:00
+法老-英国
+不知道
+18:01
+你是不是dns 单独弄了个服务在搞
+大B
+18:01
+大雄 BGM
+我联通的是nikki
+18:01
+[]
+法
+18:02
+法老-英国
+怪不得
+18:02
+[]
+18:02
+改了
+大B
+18:02
+大雄 BGM
+[]
+法
+18:06
+法老-英国
+https://gspe1-ssl.ls.apple.com/pep/gcc 访问下
+大B
+18:07
+大雄 BGM
+Photo
+105×48
+法
+18:07
+法老-英国
+怪不得
+大B
+18:07
+大雄 BGM
+没全局UK
+法
+18:07
+法老-英国
+拉不起来是有原因的
+烟（
+18:07
+烟雨 （温柔新生）
+18:08
+把GCC也塞进去
+大B
+18:08
+大雄 BGM
+模式用的规则
+法
+18:08
+法老-英国
+# 地区检测
+DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
+18:08
+这个加入到你的 英国规则上
+大B
+18:09
+大雄 BGM
+[]
+18:09
+这样？
+法
+18:09
+法老-英国
+逗号 指向的规则
+大B
+18:09
+大雄 BGM
+指向UK？
+法
+18:10
+法老-英国
+Photo
+1280×170
+18:10
+这个规则指向你要拉起服务器的地区节点
+18:10
+比如拉英国就要选英国节点
+18:10
+拉香港就要选香港节点
+大B
+18:11
+大雄 BGM
+我还得建一个
+法
+18:11
+法老-英国
+你手动写一个上去测试阿
+18:11
+又不用马上写规则
+18:11
+逗号你的英国节点
+18:11
+[]
+18:11
+这不是吗
+18:11
+逗号vowifiuk
+大B
+18:12
+大雄 BGM
+我试试
+18:15
+拉不起来
+法
+18:17
+法老-英国
+全局英国
+大B
+18:20
+大雄 BGM
+全局可以了
+18:20
+[]
+HA
+法
+18:21
+法老-英国
+Yaml分流写的不对
+大B
+18:21
+大雄 BGM
+In reply to this message
+发给你帮我检查下 可以不？
+法
+18:21
+法老-英国
+这个没办法检查
+18:22
+明天我写个WiFi calling通用版Yaml
+大B
+18:22
+大雄 BGM
+帮我解决 表示答谢 赠送你专线
+18:22
+我还有条专线空闲着
+18:22
+每月200G
+18:22
+直接给面板
+18:23
+[]
+法
+18:23
+法老-英国
+对我来说没啥用
+大B
+18:24
+大雄 BGM
+G口
+法
+18:24
+法老-英国
+没用这种东西不需要基本就浪费
+PC
+18:24
+Pho Cue
+送掉吧
+18:24
+Lala 已經倒閉了
+大B
+18:25
+大雄 BGM
+[]
+猫
+18:26
+猫儿
+@USBx8 你软路由用的哪个插件
+大B
+18:26
+大雄 BGM
+联通的是nikki
+18:26
+电信是openclash
+法
+18:27
+法老-英国
+我推荐用nikki
+18:27
+Yaml才是重点
+18:27
+写的不好各种问题
+大B
+18:30
+大雄 BGM
+[]
+台彦
+18:58
+台湾 彦祖
+十块？
+18:58
+这么便宜？
+18:59
+In reply to this message
+怎么弄
+W⁶
+21:18
+World ⁶G
+Hello
+大B
+21:28
+大雄 BGM
+ctx 我用国产安卓拉起来了
+21:31
+[]
+21:31
+[]
+21:32
+一个网络拉4个vowifi
+W⁶
+22:58
+World ⁶G
+GiffgarfUK VPN Unlimited Inbox
+23:00
+[]
+GiffgarfUK
+GCP
+Google Cloud
+W⁶
+23:00
+[]
+GiffgarfUK
+GCP
+Google Cloud
+W⁶
+23:01
+VPS and Cloudflare Paid
+26 December 2025
+BR
+00:45
+Been Reall
+@USBx8 软路由就是方便
+SF
+00:45
+Sll Full
+签到
+美
+01:13
+美吗？soso
+不懂就问，想知道拉这些东西是干嘛的呢？有什么作用吗
+Y
+01:16
+YUNG
+In reply to this message
+香港什么卡
+W
+01:19
+William
+In reply to this message
+屌爆哦
+U
+01:30
+Undo
+In reply to this message
+你去搜一下WiFi calling和vowifi 的作用就知道了
+W
+01:35
+William
+In reply to this message
+哈哈
+叶
+01:44
+叶
+Sticker
+Not included, change data exporting settings to download.
+, 20.9 KB
+W
+01:53
+William
+In reply to this message
+母鸡啊。看上面图片貌似是的
+02:02
+In reply to this message
+厉害
+?
+02:14
+Paylor Buswift
+https://esim.kim/twilio/
+02:14
+[]
+02:14
+挂了吗
+一
+02:17
+一只胖锦鲤
+ctexcel的转网是暂停了吗
+02:17
+我的pac年底到期了
+阿
+阿
+02:18
+阿根
+In reply to this message
+你在说啥
+一
+02:18
+一只胖锦鲤
+转网呀
+02:18
+携号转网
+阿
+02:18
+阿根
+In reply to this message
+什么意思
+02:18
+不知道你在说什么
+一
+02:18
+一只胖锦鲤
+[]
+阿
+阿
+02:19
+阿根
+PAC码有效期是一个月
+一风
+02:19
+一帆 风顺
+69915
+阿
+02:19
+阿根
+In reply to this message
+有点无语...
+叶
+02:37
+叶
+In reply to this message
+我的cte转好3天了
+02:37
+还没发成功短信
+02:37
+也没说要送我什么东西
+美
+02:41
+美吗？soso
+WiFi calling打电话免费吗？
+战
+02:46
+战斗SOSO
+签到
+封S
+02:57
+封6二 Super
+签到
+PC
+03:11
+Pho Cue
+In reply to this message
+你的套餐免费它就免费
+叶
+03:19
+叶
+有没有gg号让我测试一下
+03:19
+是不是免费发和打
+03:20
+刚激活的号说是3个月免费打giffgaff电话和短信
+j
+03:20
+jiessie
+3hk选靓号公布了嘛
+W
+03:26
+William
+公布也不会有什么靓号的
+j
+03:27
+jiessie
+这个保号也贵吧一年要100多
+W
+03:28
+William
+200多啊。
+j
+03:28
+jiessie
+可以携号转网不
+W
+03:28
+William
+必须可以啊
+j
+03:28
+jiessie
+保号太贵了，便宜的才6hkd一年
+03:28
+W
+03:30
+William
+毕竟他不止保号。有流量啊
+j
+03:30
+jiessie
+流量多少给g
+03:33
+转哪家好
+a
+03:33
+alm25
+高手如云哈
+云慕
+03:34
+云海 慕容
+iOS26系统可以Wi-Fi calling
+叶
+03:34
+叶
+谁让我
+03:35
+发个码
+03:35
+gg号
+W
+03:36
+William
+In reply to this message
+什么？
+叶
+03:36
+叶
+In reply to this message
+gg的号码
+03:37
+我试试给gg用户发短信收不收钱
+W
+03:37
+William
+有啥可试验的。。
+叶
+03:37
+叶
+3个月本土免费拨打我还没试过
+03:38
+算了我去另一个群随便找一个发
+03:38
+Sticker
+Not included, change data exporting settings to download.
+, 182.4 KB
+W
+03:38
+William
+根本没意义的事。去做他干嘛
+03:44
+Deleted Account
+强迫症
+叶
+03:46
+叶
+好像发不出去
+03:47
+[]
+03:48
+[]
+03:48
+我去
+03:48
+扣我0.3不能关飞行模式的
+W
+03:48
+William
+所谓用户间免费应该也是指的在英国本土吧
+法
+03:50
+法老-英国
+又是一个开着蜂窝玩WiFi calling的
+SL
+03:50
+Stan Lee
+法
+法老-英国 26.12.2025 03:50:27
+又是一个开着蜂窝玩WiFi calling的
+叶
+03:51
+叶
+In reply to this message
+开Wi-Fi calling了
+法
+03:51
+法老-英国
+有信号标的扣你0.3太正常了
+03:52
+Deleted Account
+优选走基站啊，没毛病。
+U
+叶
+03:53
+叶
+Sticker
+Not included, change data exporting settings to download.
+, 29.7 KB
+03:53
+[]
+03:53
+这样呢
+以
+03:53
+以俉之名
+得用飞行模式用
+叶
+03:53
+叶
+[]
+03:53
+不知道这人收到没
+03:54
+Deleted Account
+你只要发送成功就行了
+法
+03:54
+法老-英国
+发不出去
+03:55
+明显他WiFi calling下无法发送短信
+03:55
+Deleted Account
+Sticker
+Not included, change data exporting settings to download.
+, 16.6 KB
+D?
+03:55
+Drink more hot oil 
+看绿条就不知道不可能成功
+叶
+03:56
+叶
+好像发送失败了算了不玩了
+03:57
+In reply to this message
+昨天发了一条
+03:57
+扣了0.1
+03:57
+可能是因为这次换了节点拉的原因
+PC
+03:58
+Pho Cue
+Wifi calling 下可以发短信
+͏͏
+04:01
+͏ ͏
+In reply to this message
+飞行模式怎么调出wifi calling
+叶
+04:02
+叶
+Sticker
+Not included, change data exporting settings to download.
+, 29.7 KB
+͏͏
+04:05
+͏ ͏
+我的怎么操作都还是中国移动
+W
+04:06
+William
+测试这个干嘛。没任何意义啊
+04:06
+04:10
+这就和以前的集团小号差不多。
+叶
+04:12
+叶
+不对
+04:12
+显示是发不出去
+04:12
+但是我切卡之后
+04:13
+收到了短信
+04:13
+Sticker
+Not included, change data exporting settings to download.
+, 7.4 KB
+04:14
+[]
+04:14
+[]
+04:14
+Sticker
+Not included, change data exporting settings to download.
+, 29.7 KB
+͏͏
+04:21
+͏ ͏
+我的gg卡选广电没信号也出不了vowifi
+04:21
+离了大谱
+G9
+05:15
+Gaara 911
+In reply to this message
+方便插入是吗
+大B
+05:16
+大雄 BGM
+In reply to this message
+要不要打个电话
+G9
+05:17
+Gaara 911
+[]
+我这样回复可以吗
+l
+05:19
+lex
+ctmo在哪里购买
+一
+05:28
+一只胖锦鲤
+In reply to this message
+我还没转过去呢
+叶
+05:33
+叶
+你们的贝宝都是什么区的
+SL
+05:34
+Stan Lee
+美区
+05:34
+In reply to this message
+前天的内购今天还没扣钱
+叶
+05:34
+叶
+Sticker
+Not included, change data exporting settings to download.
+, 13.9 KB
+SL
+05:34
+Stan Lee
+笑死
+05:35
+看看你的非洲宝贝
+05:35
+Sticker
+Not included, change data exporting settings to download.
+, 16.8 KB
+大B
+05:36
+大雄 BGM
+黑宝贝
+叶
+05:37
+叶
+Sticker
+Not included, change data exporting settings to download.
+, 20.9 KB
+G9
+05:37
+Gaara 911
+In reply to this message
+黑的宝贝，，，
+05:43
+Deleted Account
+loop 还有救吗？
+G9
+05:45
+Gaara 911
+In reply to this message
+薅不到了吗
+W
+05:46
+William
+[]
+999
+05:47
+乌鸡大补
+G9
+05:50
+Gaara 911
+In reply to this message
+基本看不见人
+͏͏
+05:59
+͏ ͏
+In reply to this message
+吃过乌骨鸡吗
+SJ
+06:01
+Soff Jomeka
+如果二手水果机有出现这个是不是代表维修过？
+SJ
+06:01
+Soff Jomeka
+SJ
+Soff Jomeka 26.12.2025 05:57:02
+[]
+有这个是不是有维修过？
+06:01
+Deleted Account
+？
+06:01
+esim
+06:01
+还能领吗？
+SJ
+06:01
+Soff Jomeka
+In reply to this message
+点进去就是保障已过期
+06:02
+看不到维修记录
+06:04
+[]
+这样是代表换过电池吗？23年3月过了保障期了，怎么可能还91%?
+06:04
+以后不再买二手了，心情郁闷
+06:05
+屏幕有刮痕，看着就心塞
+06:05
+[]
+法
+06:05
+法老-英国
+一分钱一分货
+SJ
+06:05
+Soff Jomeka
+1280已经不便宜了
+06:05
+Deleted Account
+如果真的换过电池 换原装的还不满足 二手的
+06:06
+苹果几？
+法
+06:06
+法老-英国
+那你干嘛不卖16e美版
+SJ
+06:06
+Soff Jomeka
+是膜下面屏幕的划痕，不是膜
+06:06
+In reply to this message
+是
+06:07
+In reply to this message
+不知道哪里买，这家是群友推荐的
+法
+06:07
+法老-英国
+没办法
+06:07
+不满意退货呗
+06:07
+2手东西 又不是不退不换的
+06:08
+Deleted Account
+se 二手 1千多 贵了
+法
+06:08
+法老-英国
+论性价比 肯定是美版16e 不开卡槽的 最性价比
+06:08
+2499
+SJ
+06:08
+Soff Jomeka
+退货又要一番博弈，感觉好累
+法
+06:09
+法老-英国
+咸鱼买的？
+SJ
+06:09
+Soff Jomeka
+淘宝，从来没有一次购物让人满意的淘宝
+06:09
+In reply to this message
+有条件吧，8天可退，不知道什么条件
+法
+06:10
+法老-英国
+挑剔的人 请买全新
+06:11
+Deleted Account
+。。。
+法
+06:11
+法老-英国
+现在se 哪有全新的
+06:11
+全新的都是改外壳屏幕的
+06:12
+挑剔的人 买最近上市的新机
+06:12
+才有全新全原
+台彦
+06:13
+台湾 彦祖
+买的那个9esim你们收到没？
+06:14
+几天能到，顺丰快递应该隔天就到啊
+一
+06:15
+一只胖锦鲤
+2950买的13pro 512
+06:15
+Deleted Account
+小学生666
+法
+06:15
+法老-英国
+性价比绝对16e 性能不差前面所有pro产品
+06:16
+内存还能8G
+一
+06:17
+一只胖锦鲤
+屏幕就不如
+06:18
+自研基带垃圾中的战斗机
+简
+06:19
+简
+In reply to this message
+3天
+法
+06:20
+法老-英国
+明年全是自研基带了
+一
+06:20
+一只胖锦鲤
+本来信号就差 再加上自研基带 越来越差
+p记
+06:20
+px休息中 记得催我睡觉
+[]
+06:20
+Deleted Account
+？
+͏͏
+06:21
+͏ ͏
+In reply to this message
+17系列不也垃圾
+06:21
+。。。
+06:21
+问题不大
+06:22
+In reply to this message
+一个东一个西
+06:22
+Deleted Account
+什么情况？
+法
+06:22
+法老-英国
+只用wifi calling 和基带没关系
+j
+06:31
+jiessie
+In reply to this message
+这多少g的1280
+简
+06:32
+简
+In reply to this message
+1280 屏幕坏的 可以退了
+p记
+06:32
+px休息中 记得催我睡觉
+[]
+06:32
+WTF？？？？？
+06:33
+我这是能申请实体卡了？
+06:33
+In reply to this message
+我传了身份证就过了
+法
+06:33
+法老-英国
+我的SE3 1480呢
+06:33
+你的便宜了
+I
+06:33
+Itami
+In reply to this message
+羡慕
+06:35
+Deleted Account
+loop eism 还能白嫖吗？
+ZH
+06:36
+Zhixiong Hong
+口令
+法
+06:36
+法老-英国
+就能玩30天 有何意义呢？
+06:36
+Deleted Account
+71462
+SL
+06:39
+Stan Lee
+In reply to this message
+看到免费，不管有没有用，上车了再说，不都这样吗
+06:39
+Sticker
+Not included, change data exporting settings to download.
+, 16.8 KB
+p记
+06:43
+px休息中 记得催我睡觉
+人卡充值 充usdc是吧
+叶
+06:50
+叶
+PayPal app怎么弄成中文
+06:50
+注册的英国区
+PC
+06:52
+Pho Cue
+没有中文
+SJ
+06:54
+Soff Jomeka
+In reply to this message
+[]
+屏幕有这样的刮痕
+PC
+06:54
+Pho Cue
+你把膜撕掉就知道了
+SJ
+06:55
+Soff Jomeka
+退么？还是降价勉强接受？
+06:55
+In reply to this message
+不用撕，是屏幕问题
+PC
+06:56
+Pho Cue
+对我来说没问题
+06:56
+我的se都没贴膜
+06:56
+Sticker
+Not included, change data exporting settings to download.
+, 7.3 KB
+SJ
+06:56
+Soff Jomeka
+不贴膜完好才是真的好
+06:57
+In reply to this message
+它这不是膜的问题，是屏幕刮的痕迹
+W
+06:57
+William
+二手的讲究那些号码
+SJ
+06:58
+Soff Jomeka
+这种情况多少价格可以接受比较合理？
+j
+06:59
+jiessie
+06:59
+800
+06:59
+二手水太深，换过电池的也说成原装的
+06:59
+还修改了爱思数据
+SJ
+07:00
+Soff Jomeka
+如何检测电池换过？
+j
+07:00
+jiessie
+看电池健康啊
+07:00
+和出厂年份
+SJ
+07:00
+Soff Jomeka
+[]
+j
+07:00
+jiessie
+再看看螺丝有没有拆机过
+07:00
+一般用一年这个健康
+SJ
+07:01
+Soff Jomeka
+哪里看出厂年份？
+07:02
+se3是22年出的机子
+j
+07:03
+jiessie
+闲鱼买的基本上都是拆机换过的
+SJ
+07:03
+Soff Jomeka
+可以，淘宝买的
+j
+07:03
+jiessie
+淘宝可以退啊
+07:03
+用多久了
+SJ
+07:03
+Soff Jomeka
+In reply to this message
+过保了23年3月
+j
+07:03
+jiessie
+深圳那边都是拆机过的基本上
+07:04
+把换电池的说成原装
+07:04
+In reply to this message
+我意思你买多久了
+法
+07:04
+法老-英国
+换电池是基本操作
+07:04
+还有换屏幕的
+j
+07:04
+jiessie
+有些还有屏幕
+SJ
+07:05
+Soff Jomeka
+In reply to this message
+今天刚到
+j
+07:05
+jiessie
+现在看爱思不管用，这些人把爱思数据都修改了
+07:05
+全是骗人的
+07:05
+Deleted Account
+你要是在意 划痕 心里通不过 能退就退 不然怎么办
+SJ
+07:06
+Soff Jomeka
+1200让我接受，便宜70
+法
+07:06
+法老-英国
+1分钱1分货
+j
+07:06
+jiessie
+你这买的99新？
+法
+07:06
+法老-英国
+买最近几年出的
+SJ
+07:06
+Soff Jomeka
+In reply to this message
+9新
+法
+07:06
+法老-英国
+99新绝对给你换外壳屏幕了
+07:06
+9新划痕正常
+j
+07:06
+jiessie
+我买的是官换机
+07:06
+还在保修期
+SJ
+07:07
+Soff Jomeka
+In reply to this message
+什么叫官换机？
+j
+07:07
+jiessie
+我拿苹果售后检测过没有问题，我才用的
+SJ
+07:07
+Soff Jomeka
+In reply to this message
+一个群友就是这家买的，它的也还在保修期
+法
+07:07
+法老-英国
+苹果水深
+SJ
+07:07
+Soff Jomeka
+所以我才去这家买
+法
+07:07
+法老-英国
+很多词都不明白
+SJ
+07:08
+Soff Jomeka
+In reply to this message
+官方翻新？
+j
+07:08
+jiessie
+这个全凭运气，商家那么多台给你挑的哪个都是看运气
+SJ
+07:08
+Soff Jomeka
+是
+j
+07:09
+jiessie
+我的系统也是iOS18
+SJ
+07:10
+Soff Jomeka
+[]
+有这个是否就是有维修的意思？点进去又只显示过保
+j
+07:10
+jiessie
+不是啊
+SJ
+07:11
+Soff Jomeka
+In reply to this message
+我被我升级到iOS 26了，是不是写不了eSIM 了？
+法
+07:11
+法老-英国
+可以
+j
+07:11
+jiessie
+可以写
+法
+07:11
+法老-英国
+这就是手贱党的觉悟
+07:11
+开不了wifi calling
+SJ
+07:11
+Soff Jomeka
+帮我出个价格吧？多少能接受，退换扯好麻烦
+法
+07:11
+法老-英国
+要开wificalling 还需要买尾插
+j
+07:11
+jiessie
+哈哈
+07:11
+128g？
+SJ
+07:12
+Soff Jomeka
+嗯
+07:12
+128，早知道我买64的
+法
+07:12
+法老-英国
+这机器还有人要？
+07:12
+除了玩esim的
+j
+07:12
+jiessie
+64的800差不多
+SJ
+07:12
+Soff Jomeka
+就是买来备用专门搞eSIM 的
+j
+07:12
+jiessie
+128，1100最多
+07:13
+这玩意不值钱
+07:13
+你不想用了卖二手不好出
+法
+07:14
+法老-英国
+不是不好出
+07:14
+是根本出不掉
+j
+07:14
+jiessie
+我上次看了下回收才给300多
+07:14
+380
+SJ
+07:18
+Soff Jomeka
+退了就没eSIM 手机了
+07:18
+新的买不起
+07:18
+哎
+07:18
+我还价1100，对方让我直接退了
+U
+07:19
+UK_JPCD
+我64 se3全原 699
+07:19
+79%的电池
+j
+07:20
+jiessie
+重新买个
+07:20
+退了重新买64的
+法
+07:21
+法老-英国
+最后纠结的还不是钱吗
+07:21
+其实直接买个700的se3 更好
+j
+07:21
+jiessie
+是的，买便宜的成色差点
+法
+07:21
+法老-英国
+又不是咸鱼买的
+07:21
+退货很难吗？
+07:22
+Deleted Account
+小白卡不行吗为什么要ESIM原生机
+U
+07:27
+UK_JPCD
+10块 现在不行了吗，购买新储值卡最低消费50
+j
+07:29
+jiessie
+在哪锁单
+07:29
+机器人发的
+SJ
+07:37
+Soff Jomeka
+苹果手机设置的密码如何清除掉啊？
+W
+07:37
+William
+小学生牛逼啊
+SJ
+07:37
+Soff Jomeka
+要退货了，要清除掉
+07:37
+In reply to this message
+技术成功了？
+j
+07:38
+jiessie
+准备好了
+07:38
+靓号
+SJ
+07:38
+Soff Jomeka
+这次我要赶头香，老板你慢一点发布
+法
+07:41
+法老-英国
+能读取库中所有号码
+07:41
+才是重点
+07:41
+Deleted Account
+没啥靓号了主要是
+U
+07:42
+UK_JPCD
+In reply to this message
+最低消费50了
+07:42
+Deleted Account
+不过十元保号半年也是很有吸引力
+07:42
+In reply to this message
+那是你技术不够
+U
+07:43
+UK_JPCD
+In reply to this message
+W
+07:43
+William
+说下发x，被机器人提了。。
+法
+07:43
+法老-英国
+群里10个人同时刷
+07:43
+号码池很快刷完
+W
+07:44
+William
+差点脱离群众了。
+j
+07:44
+jiessie
+准备好了
+法
+07:44
+法老-英国
+做个15分钟数据库
+07:44
+用软件的人同时刷
+07:44
+号码统级上传成表格
+W
+07:44
+William
+这个比之前的BOT好用
+j
+07:44
+jiessie
+看号码有多靓
+法
+07:44
+法老-英国
+然后看人谁手快锁
+W
+07:45
+William
+3HK号码池子应该是不断刷新的。
+07:45
+[]
+刷3A确实快多了
+法
+07:45
+法老-英国
+软件发出来
+07:45
+我蹲点锁就行了
+G9
+07:46
+Gaara 911
+Sticker
+Not included, change data exporting settings to download.
+, 9.8 KB
+W
+07:46
+William
+In reply to this message
+你早上发的那个表格是怎么扫出来的？
+法
+07:47
+法老-英国
+正常换批号码肯定要等待时间
+07:47
+不过别想了
+07:47
+好号码池里肯定没有
+SJ
+07:47
+Soff Jomeka
+开始了吗？
+W
+07:47
+William
+In reply to this message
+嗯。不太好下单
+07:48
+In reply to this message
+明确的号想搜出来也得看概率。毕竟刷新个数和频率有限制。不是一下把库里全扫一边了
+07:51
+Photo
+165×65
+07:52
+法
+07:55
+法老-英国
+这池子里面的号码无法想象的差
+U
+07:59
+UK_JPCD
+Photo
+1016×85
+07:59
+我都间隔好一会
+W
+08:00
+William
+In reply to this message
+好像是的
+U
+08:00
+UK_JPCD
+In reply to this message
+p记
+08:02
+px休息中 记得催我睡觉
+终于
+08:02
+取出来了
+08:02
+Sticker
+Not included, change data exporting settings to download.
+, 11.3 KB
+x
+08:03
+xue
+有美国转运回国的 渠道没
+PC
+08:03
+Pho Cue
+In reply to this message
+戴口罩和帽子了嗎
+08:03
+Deleted Account
+去哪个银行取了
+p记
+08:03
+px休息中 记得催我睡觉
+In reply to this message
+有病
+U
+08:03
+UK_JPCD
+In reply to this message
+转中
+p记
+08:04
+px休息中 记得催我睡觉
+正经取钱又不是抢钱
+x
+08:04
+xue
+In reply to this message
+有平台推荐没 转信用卡
+叶
+08:04
+叶
+可惜了没成年弄不了港卡
+08:04
+Sticker
+Not included, change data exporting settings to download.
+, 182.4 KB
+U
+08:04
+UK_JPCD
+In reply to this message
+信用卡好像不行
+p记
+08:04
+px休息中 记得催我睡觉
+In reply to this message
+农
+W
+08:05
+William
+屌爆了。用上群主工具，我们都是3A+起步用户
+08:06
+In reply to this message
+这个我没要，我就说怎么后来下不了订单，原来是被下单了。
+08:06
+Deleted Account
+群主我什么时候可以用上
+SL
+08:06
+Stan Lee
+In reply to this message
+用的claude ?
+PC
+08:06
+Pho Cue
+羨慕內測
+p记
+08:06
+px休息中 记得催我睡觉
+取3000手续费67
+08:07
+挺贵
+j
+08:08
+jiessie
+什么时候可以用上
+SL
+08:09
+Stan Lee
+隔壁damm大神不也有一个 https://3hk.exesim.com/
+R
+08:09
+Riva Milne
+ccs官网是多少？
+SL
+08:10
+Stan Lee
+我忘记存了
+SL
+08:10
+Stan Lee
+D
+Damm 23.12.2025 11:53:01
+3hk.exesim.com
+密码: damm
+试试我这个和记大一统
+W
+08:11
+Deleted Account
+系统鉴权码是什么
+SL
+08:11
+Stan Lee
+找到了
+W
+08:11
+William
+他bot下了原来也搞成网址了？
+08:12
+避免外人滥用，搞个授权码可以啊
+08:12
+是的。他的bot我用过，搜不到精准的下不了单。
+08:13
+In reply to this message
+有频率限制啊
+08:13
+要等冷却把
+08:14
+都一样。这个为爱发电，不能让群主去买个代理IP池吧。
+U
+08:14
+UK_JPCD
+In reply to this message
+能否前段页面之前请求3hk
+08:14
+直接
+08:15
+那只能代理池了
+0カ
+08:16
+0v0 カオス
+xdm有没有推荐的美国电话卡
+U
+08:16
+UK_JPCD
+Sticker
+Not included, change data exporting settings to download.
+, 5.1 KB
+W
+08:19
+William
+群主这技术，这群迟早得过万人
+NA
+p记
+08:19
+px休息中 记得催我睡觉
+1g 大概10来块
+08:19
+一天刷10g 就100来块了
+08:22
+活儿也好 妹子也喜欢
+j
+08:22
+jiessie
+p记
+08:22
+px休息中 记得催我睡觉
+Sticker
+Not included, change data exporting settings to download.
+, 11.3 KB
+j
+08:23
+jiessie
+哈哈
+08:23
+加
+W
+08:23
+William
+In reply to this message
+我还有闲置的1.5个ECO卡，一个9ESIM，我感觉离写满快了
+08:23
+是的。加个授权码挺好的。
+08:25
+In reply to this message
+确实。我感觉我又行了，还可以增加5个香港号了
+p记
+08:27
+px休息中 记得催我睡觉
+万人的话运营商估计都得来投放广告了
+08:27
+Deleted Account
+到时躺赢
+U
+08:28
+UK_JPCD
+webshare.io 注册送10个代理
+p记
+08:29
+px休息中 记得催我睡觉
+估计3hk那边技术以为有人在攻击
+U
+08:29
+UK_JPCD
+[]
+08:29
+不过是这几个国家的
+p记
+08:29
+px休息中 记得催我睡觉
+一直相同ip请求
+F
+08:31
+Fika
+6
+08:31
+3a给你们
+08:31
+In reply to this message
+我只想要6开头的好号
+W
+08:31
+William
+我感觉这个和268套餐给的选号池子可能不一样
+U
+08:32
+UK_JPCD
+In reply to this message
+https://proxy.webshare.io/api/v2/proxy/list/download/prmnsgxpkdrxpdbphjuejhndhgczixpddvjfqwnn/GB-US/any/username/direct/-/?plan_id=12358159
+要试试 免费的代理池吗
+W
+08:32
+William
+我那个5555没刷几次就刷到了。我是买的年套餐。后面这个10元号刷这么久也没看到一个4A
+F
+08:32
+Fika
+In reply to this message
+读的顺，容易记，就行
+W
+08:33
+William
+In reply to this message
+嗯。感觉是有区别的。
+F
+08:33
+Fika
+我在香港读书的时候，本地人只接5、6、9开头的
+W
+08:33
+William
+In reply to this message
+我就是买的这个。刷到了
+F
+08:34
+Fika
+In reply to this message
+有时候只接6
+W
+08:34
+William
+In reply to this message
+一样的最好。不然还得去开高价格套餐去刷更好的了。那我那天真是运气爆棚吧
+08:35
+嗯。只能说是运气爆棚了
+08:35
+In reply to this message
+哈哈。最近亏麻了。买不起啊
+08:36
+In reply to this message
+我转跑了。
+08:36
+In reply to this message
+这种就很可惜了
+08:37
+隔壁群那BOT不是输入的准备号码下不了单
+08:37
+群主这个可以自选，这个非常好用了
+08:38
+是的。确实
+U
+08:38
+UK_JPCD
+大佬们，怎么跳过 最低消费50啊
+08:39
+In reply to this message
+那不是刷不了嘛
+·
+08:41
+·Show
+纯给网站增加负载
+W
+08:42
+William
+系统也闷逼了。
+·
+08:43
+·Show
+Photo
+645×82
+W
+08:43
+William
+In reply to this message
+写入成功了么？
+08:43
+Deleted Account
+号码不存在怎么写入
+08:44
+肯定没到那一步
+·
+08:44
+·Show
+就纯送钱哈哈
+W
+08:44
+William
+这个号码我记得没错，不是就是前段时间那个截图么
+08:44
+那个视频拍刷到的5666 6666,我怀疑他是鼠标右键改的。。
+·
+08:44
+·Show
+F11 是吧。
+08:45
+直接改页面代码。
+08:45
+Sticker
+Not included, change data exporting settings to download.
+, 5.9 KB
+W
+08:45
+William
+是的。我也觉得就是改的代码。
+F
+08:45
+Fika
+In reply to this message
+骗自己有意思吗
+U
+08:45
+UK_JPCD
+那个视频不是手机APP刷的码
+W
+08:45
+William
+不然碰到这种神级号码能不下单？
+U
+08:46
+UK_JPCD
+In reply to this message
+电脑那不是随便改
+W
+08:46
+William
+我就算是当前号码绑定了10个香港银行，这种神级号码我也得换。
+U
+08:46
+UK_JPCD
+[]
+08:46
+NB 号
+08:47
+Deleted Account
+j
+08:47
+jiessie
+选啊
+08:47
+W
+08:47
+William
+立马下单。
+j
+08:47
+jiessie
+这有效嘛
+U
+08:48
+UK_JPCD
+按不了
+08:49
+In reply to this message
+这个是下载的
+W
+08:49
+William
+In reply to this message
+必须的
+U
+08:50
+UK_JPCD
+Photo
+1085×155
+08:50
+用的哪一种
+F
+08:51
+Fika
+号码获取失败
+U
+08:51
+UK_JPCD
+curl --proxy "http://rfgdxpzj:r4iltm519xl5@142.111.48.253:7030/"
+https://ipv4.webshare.io/
+小
+09:05
+小喵崽
+怎么冲
+E
+09:05
+Esim.Kim中文交流群
+轻松选择心仪号码，自选靓号（五元）锁单购买
+3HK 选号神器：https://esim.kim/3hk
+无法使用alipay hk付款可选：
+原本有号码的账号可以用旧版交易记录找到对应订单号，直接点尝试切换其他付款方式
+原本没有号码的账号只能用新版交易记录找到对应订单号，等十分钟后可以点重新付款选择付款方式
+锁单后，订单在两小时内有效（十分钟后有概率无法支付）
+#
+K
+5 
+cJ
+Bi
+4
+Esim.Kim中文交流群 pinned this message
+09:05
+Deleted Account
+感谢群主
+W
+09:06
+William
+屌爆
+D?
+09:06
+Drink more hot oil 
+我不搞，不过我看你们搞
+09:09
+Deleted Account
+这么快
+小
+09:12
+小喵崽
+我冰岛还开了一个5A号
+09:12
+5个2
+09:12
+·
+09:13
+·Show
+我就一个澳洲的 4a
+SL
+09:16
+Stan Lee
+服务炸了？
+09:17
+刷新下好了
+09:19
+[]
+09:19
+刷两次这样了
+09:19
+Deleted Account
+Photo
+279×51
+09:21
+Photo
+942×74
+09:21
+Deleted Account
+In reply to this message
+可以两个都有
+j
+09:21
+jiessie
+这个登录密码是多少
+09:21
+09:22
+注册3hk的账户密码么
+F
+09:23
+Fika
+对你的3HK账户的密码
+W
+09:23
+William
+完了，我出去你们开刷了
+a
+09:27
+alm25
+这个卡要实名的吗
+W
+09:29
+William
+In reply to this message
+支付宝倒是还可以吧
+j
+09:30
+jiessie
+这个好
+09:30
+出现错误了
+09:31
+不能刷新了
+09:32
+[]
+09:32
+咋样
+09:32
+Deleted Account
+换IP
+j
+09:34
+jiessie
+这个我的
+a
+09:35
+alm25
+In reply to this message
+需要户照才能开的吧
+J
+09:35
+Jacob
+我付了款怎么没反应啊，还显示在处理中
+09:36
+In reply to this message
+买了过后怎么使用啊
+法
+09:36
+法老-英国
+注册实名 写好转网到clubsim
+J
+09:36
+Jacob
+哈哈哈啥都不知道就冲了
+法
+09:36
+法老-英国
+港币6 保号1年
+U
+09:37
+UK_JPCD
+这个是付款10块还是28块
+大B
+09:37
+大雄 BGM
+In reply to this message
+发给我玩玩
+法
+09:38
+法老-英国
+那就2026 1月1日 转网到csl的 任卡
+j
+09:38
+jiessie
+找不到付款
+09:38
+记录没有显示
+法
+09:38
+法老-英国
+都要开卡钱
+09:39
+clubsim可以用科技
+09:39
+估计只要6港币
+j
+09:40
+jiessie
+现在找到了
+一
+09:41
+一只胖锦鲤
+你们又在玩什么
+09:41
+咋刷的
+09:41
+教教我
+09:41
+我也要香港号
+09:41
+我club csl都有
+09:41
+但是号不好
+法
+09:41
+法老-英国
+要有护照才能这样玩
+09:41
+没护照玩不了
+一
+09:41
+一只胖锦鲤
+护照不有手就行
+09:42
+话说群里有没有签证大神
+09:42
+为什么香港号码没有1开头？
+酥
+09:42
+酥酥
+[]
+有人转过US号码么，这玩意到底是从前往后还是从后往前。。。
+一
+09:42
+一只胖锦鲤
+倒着数
+09:42
+Deleted Account
+Photo
+928×68
+GH
+09:42
+GUOQIU HAN
+In reply to this message
+你是zp分子吗
+09:42
+Deleted Account
+这个也可以买
+F
+09:43
+Fiona24
+In reply to this message
+客服回我是从前
+法
+09:43
+法老-英国
+科技晚出了1年
+09:43
+In reply to this message
+我想要个1989开头的香港号码
+法
+09:43
+法老-英国
+早1年 群主已致富
+09:43
+一个4a香港号码 能卖2.8w港币
+09:44
+Deleted Account
+那是尾数吧
+09:44
+4a
+法
+09:45
+法老-英国
+这个时候必须掏出4个9了
+09:45
+[]
+W
+09:45
+William
+5年前可能，不然有工具4A尾巴也是极少
+大B
+09:45
+大雄 BGM
+In reply to this message
+用3hk万能国际号能登入？
+F
+09:45
+Fiona24
+In reply to this message
+666
+大B
+09:45
+大雄 BGM
+In reply to this message
+我是7373
+IS
+09:46
+Ice SOSO
+In reply to this message
+我的这个怎么不提示升级呢，怎么搞的
+法
+09:46
+法老-英国
+3HK diy 协转到csl 再协转到3HK万能
+F
+09:47
+Fika
+3hk万能保号更便宜么
+法
+09:47
+法老-英国
+然后第一年可以打2000分钟香港电话 第二年 第3年可以打300分钟香港电话
+一
+09:47
+一只胖锦鲤
+In reply to this message
+不是呀
+法
+09:47
+法老-英国
+保号每年30港币不到
+一
+09:47
+一只胖锦鲤
+我想白护下十年美签
+09:48
+[]
+09:48
+一个ip就一次？
+法
+09:48
+法老-英国
+你们个个想要号码
+09:49
+api 频繁了
+一
+09:50
+一只胖锦鲤
+[]
+09:50
+这个好
+·
+09:50
+·Show
+Photo
+364×72
+倒顺也是顺
+法
+09:50
+法老-英国
+不要给3hk反悔的时间
+09:50
+马上去买csl卡
+09:50
+号码下单直接携号转走
+09:51
+只给3hk 3天反悔期
+一
+09:51
+一只胖锦鲤
+我身份证后四位0017
+法
+09:51
+法老-英国
+转出 3hk就是垃圾了
+一
+09:51
+一只胖锦鲤
+3A已经没有了啊
+法
+09:51
+法老-英国
+不是说了4a 都是几万港币的价格
+09:52
+3a还会多吗
+09:52
+aabb都没见过几个
+09:52
+abab倒是挺多
+大B
+09:53
+大雄 BGM
+3h万能国际号不能登入阿
+法
+09:53
+法老-英国
+必须3万能的号码才能登录
+09:53
+你别拿3hk的号码去登录
+大B
+09:53
+大雄 BGM
+In reply to this message
+我登入不了
+法
+09:53
+法老-英国
+而且客户端也不是同一个
+09:53
+你的号码是3万能 还是 3hk
+09:53
+搞清楚
+大B
+09:54
+大雄 BGM
+In reply to this message
+我是这个客服端
+j
+09:54
+jiessie
+怎么不行了
+法
+09:54
+法老-英国
+拿可以登录阿
+09:54
+香港本地ip吗
+大B
+09:54
+大雄 BGM
+不是
+法
+09:54
+法老-英国
+这种客户端必须香港本地ip才能登录
+一
+09:55
+一只胖锦鲤
+人太多了
+09:55
+嘎嘎嘎
+法
+09:55
+法老-英国
+群里就1400个人不多
+09:55
+3hk还没反应过来
+W
+09:56
+William
+香港的我有3A尾巴，4A中间，就差个4A尾巴就圆满了
+j
+09:56
+jiessie
+又不行了
+一
+09:56
+一只胖锦鲤
+不行了 一直失败
+j
+09:57
+jiessie
+人一多，就不行了吧
+09:57
+09:57
+还好我买了一个
+09:57
+Deleted Account
+In reply to this message
+4A不够 5A吧
+j
+09:57
+jiessie
+3a根本都没有
+09:57
+Deleted Account
+我只见一个7799尾号
+·
+09:58
+·Show
+前面还没丢出来的时候我还刷到个3A 可惜号码不喜欢。
+W
+09:58
+William
+In reply to this message
+香港4A都很难，5A别想了
+j
+09:58
+jiessie
+怎么还有
+09:59
+返回参数失败
+BS
+09:59
+Ben Su
+Photo
+248×48
+j
+09:59
+jiessie
+一样
+09:59
+Deleted Account
+太多人刷了
+j
+10:01
+jiessie
+不好
+10:01
+F
+10:05
+Fika
+试了不行
+G9
+10:06
+Gaara 911
+Sticker
+Not included, change data exporting settings to download.
+, 83.7 KB
+89
+10:06
+88 99
+刷到号码了 怎么买
+法
+10:07
+法老-英国
+充值200港币 保号1年
+叶
+10:07
+叶
+In reply to this message
+申请哪一张好
+10:07
+Sticker
+Not included, change data exporting settings to download.
+, 20.9 KB
+10:07
+免费升级
+89
+10:07
+88 99
+什么套餐啊
+法
+10:07
+法老-英国
+不需要掏出
+10:07
+套餐
+10:07
+充值200港币就是一年保号有效期
+j
+10:08
+jiessie
+现在好了
+F
+10:08
+Fika
+一个账号能买几个
+法
+10:08
+法老-英国
+快去下单666阿
+叶
+10:08
+叶
+行
+10:08
+[]
+10:09
+Deleted Account
+因为被我刷到了
+10:09
+Photo
+753×74
+法
+10:09
+法老-英国
+号码已经锁了
+10:09
+你们能看到也买不了阿
+W
+10:09
+William
+In reply to this message
+没要，我很早刷到这个过
+法
+10:10
+法老-英国
+4在香港是不吉利的号码
+10:10
+不值钱的
+10:10
+Deleted Account
+我也不要
+法
+10:10
+法老-英国
+就算尾号4个4
+10:10
+也没人要
+J
+10:11
+Jacob
+已经下载到xesim了，后续怎么操作啊各位大佬
+·
+10:11
+·Show
+3hk不实名能接码么？
+法
+10:11
+法老-英国
+不能
+·
+10:12
+·Show
+得港澳通行证激活呗
+89
+10:12
+88 99
+Photo
+366×67
+10:12
+这个还行啊
+G9
+10:12
+Gaara 911
+In reply to this message
+你有开卡码吗
+叶
+10:12
+叶
+[]
+·
+10:12
+·Show
+还是硬规定 得kyc
+叶
+10:12
+叶
+换那个
+G9
+10:12
+Gaara 911
+In reply to this message
+有开卡码吗。你好
+叶
+10:12
+叶
+免费换卡
+G9
+10:12
+Gaara 911
+我没有收到邮件
+10:12
+让我填写开卡码
+10:13
+In reply to this message
+你点击申请卡，试试
+叶
+10:13
+叶
+我有
+G9
+10:13
+Gaara 911
+给你发邮件了。是吧
+叶
+10:13
+叶
+Animation
+Not included, change data exporting settings to download.
+125.7 KB
+10:13
+In reply to this message
+没有
+10:13
+Deleted Account
+[]
+叶
+10:13
+叶
+我找不到邮件
+10:14
+他不发我都不知道
+G9
+10:14
+Gaara 911
+In reply to this message
+额
+叶
+10:14
+叶
+建议开香港的还是美国的
+烟（
+10:14
+烟雨 （温柔新生）
+In reply to this message
+666
+G9
+10:14
+Gaara 911
+In reply to this message
+这不是还要10U码
+10:14
+吗
+叶
+10:14
+叶
+In reply to this message
+立减10
+J
+10:14
+Jacob
+In reply to this message
+又怒亏5元儿哈哈哈
+叶
+10:15
+叶
+有送我码
+G9
+10:15
+Gaara 911
+我没有显示
+10:15
+很坏
+j
+10:15
+jiessie
+10:15
+还有5块钱
+G9
+10:15
+Gaara 911
+In reply to this message
+你是什么邮箱
+叶
+10:16
+叶
+建议开hk还是usd
+10:16
+In reply to this message
+outlook
+A
+10:16
+Azure
+sgd 或者 美元卡
+G9
+10:16
+Gaara 911
+In reply to this message
+我真心建议，我能给我
+10:16
+Sticker
+Not included, change data exporting settings to download.
+, 12.7 KB
+HA
+10:16
+Hi Anny
+Photo
+287×38
+叶
+10:16
+叶
+我也收到了
+G9
+10:16
+Gaara 911
+In reply to this message
+只有美元和香港
+HA
+10:16
+Hi Anny
+这个怎么办
+叶
+10:16
+叶
+在垃圾邮件
+G9
+10:16
+Gaara 911
+可气
+10:17
+Sticker
+Not included, change data exporting settings to download.
+, 89.0 KB
+10:17
+In reply to this message
+电你
+叶
+10:17
+叶
+In reply to this message
+选那个好
+G9
+10:17
+Gaara 911
+In reply to this message
+我哪知道
+10:17
+Sticker
+Not included, change data exporting settings to download.
+, 11.3 KB
+10:17
+Sticker
+Not included, change data exporting settings to download.
+, 12.1 KB
+10:17
+In reply to this message
+为哈不给我邮件
+叶
+10:18
+叶
+你们都选什么卡
+G9
+10:18
+Gaara 911
+有开卡码的，都在哪儿
+10:18
+浪货们，都出来，报码
+10:18
+我看看到底有多少幸运儿
+叶
+10:18
+叶
+我昨天gg给我退款
+10:19
+我都想买新卡
+W
+10:19
+William
+4个4我要，可惜没有
+叶
+10:19
+叶
+现在免费升级了
+j
+10:20
+jiessie
+[]
+10:20
+差一点
+一
+10:21
+一只胖锦鲤
+59668933
+10:22
+就这个顺眼点
+法
+10:24
+法老-英国
+狂扫号码
+10:24
+Deleted Account
+60404411
+10:24
+谁看上去拿下
+j
+10:26
+jiessie
+10:26
+牛
+F
+10:26
+Fika
+牛
+10:26
+差一点下单
+一
+10:26
+一只胖锦鲤
+没有呀
+10:26
+还是10
+F
+10:26
+Fika
+省5块
+一
+10:27
+一只胖锦鲤
+直接3次失败了
+10:28
+Deleted Account
+Photo
+173×48
+j
+10:28
+jiessie
+不行了
+一
+10:28
+一只胖锦鲤
+应该bug了
+简
+10:29
+简
+In reply to this message
+新卡和旧卡有啥不一样
+鼠
+10:29
+鼠田
+3hk保号多少钱
+10:30
+Deleted Account
+一
+10:30
+一只胖锦鲤
+这么快
+法
+10:30
+法老-英国
+15分钟号码全废？
+一
+10:30
+一只胖锦鲤
+还没选到心意的号码
+10:33
+Deleted Account
+是不是5块钱的加上来给BUG了
+D?
+10:33
+Drink more hot oil 
+群主这一天天就给群友发福利，是准备把群做大做强吗
+F
+10:34
+Fika
+向万人群进发做准备
+W
+10:35
+William
+In reply to this message
+我也是一直报错这个
+10:35
+Deleted Account
+In reply to this message
+那么多人 80几个BTC 不够分
+10:36
+Sticker
+Not included, change data exporting settings to download.
+, 170.7 KB
+D?
+10:36
+Drink more hot oil 
+还在惦记群主的83btc
+叶
+10:37
+叶
+[]
+10:37
+开港卡吧
+10:37
+Sticker
+Not included, change data exporting settings to download.
+, 182.4 KB
+F
+10:37
+Fika
+In reply to this message
+网站又可以正常下单了
+A
+10:37
+Aurora
+In reply to this message
+现在ypt还能免费开吗
+p记
+10:37
+px休息中 记得催我睡觉
+In reply to this message
+你没频道吗
+A
+10:38
+Aurora
+要kyc不
+10:38
+Sticker
+Not included, change data exporting settings to download.
+, 13.9 KB
+10:38
+In reply to this message
+那也可以啊哈哈 可以消费
+10:38
+In reply to this message
+Sticker
+Not included, change data exporting settings to download.
+, 13.9 KB
+B
+10:38
+BliZzard
+[]
+10:38
+不一定给过呀
+A
+10:38
+Aurora
+羡慕你们上车早的
+叶
+10:39
+叶
+In reply to this message
+我地址什么都是上个卡的
+10:39
+不知道给不给过
+B
+10:39
+BliZzard
+我随便填的
+W
+10:40
+William
+[]
+一直失败。
+S
+10:40
+Swilder
+[]
+啥玩意儿，不行啊
+叶
+10:40
+叶
+In reply to this message
+要认证的吧
+B
+10:40
+BliZzard
+In reply to this message
+啥也没要
+j
+10:41
+jiessie
+10:41
+休息下
+叶
+10:41
+叶
+In reply to this message
+所以就没过吧
+10:42
+用原来的地址试试看吧
+一
+10:42
+一只胖锦鲤
+In reply to this message
+代理ip是啥
+·
+10:43
+·Show
+就是科学上网
+F
+10:43
+Fika
+1HKD一个
+A
+10:43
+Aurora
+In reply to this message
+锁eid吗主要是
+10:43
+注册环境可以随便换
+10:44
+一年有效期？
+一
+10:44
+一只胖锦鲤
+为啥要代理ip
+10:45
+45.62.172.83
+W
+10:46
+William
+IP被官方禁了吧
+10:46
+太多请求就会挂。
+一
+10:46
+一只胖锦鲤
+45.62.172.84
+W
+10:46
+William
+你光给个IP地址没用。
+一
+10:47
+一只胖锦鲤
+45.62.172.82
+10:47
+哦
+B
+10:47
+BliZzard
+In reply to this message
+抓到包了 好想和手机号码有关系
+10:48
+就支持三个手机号码前缀 我之前用的+44好像没给到发卡商 打回来了
+叶
+10:48
+叶
+行
+W
+10:49
+William
+0元开那就离死不远了。
+叶
+10:49
+叶
+用之前的就行了
+法
+10:49
+法老-英国
+5块开卡活不了几天
+W
+10:49
+William
+最低消费50，能科技10开已经算是很可以了。
+法
+10:49
+法老-英国
+早点转出才安全
+B
+10:50
+BliZzard
+In reply to this message
+不行 之前的只是能提交而已
+10:50
+提不到发卡商 发卡商的备注是手机号码为空 请填写手机号码
+法
+10:51
+法老-英国
+选号完成不是还要花28港币？
+10:51
+这步没了？
+10:51
+好吧
+W
+10:52
+William
+不是特别好的号我都懒得实名
+j
+10:54
+jiessie
+10:54
+还想免费
+10:54
+怎么可能
+W
+10:55
+William
+不建议群主给5HKD开卡选项打开。不然死的快都没的完了
+j
+10:55
+jiessie
+哈哈
+F
+10:55
+Fika
+确实
+10:55
+一旦被人搬上小红书
+j
+10:56
+jiessie
+把号码转哪个运营商好
+F
+10:56
+Fika
+CN过境，寸草不生
+j
+10:56
+jiessie
+5买的有效期多久
+F
+10:56
+Fika
+In reply to this message
+一个是大湾区一日流量，另一个是语音信箱
+j
+10:57
+jiessie
+转哪个运营商适合保号
+法
+10:57
+法老-英国
+Club sim
+10:57
+csl
+j
+10:58
+jiessie
+好的，我要保号，不要流量
+W
+10:58
+William
+好歹让3HK赚多点。人家睁一只眼闭一只眼
+法
+10:58
+法老-英国
+3万能国际
+10:58
+都比3Hk便宜
+j
+10:58
+jiessie
+之前都是最低50才可以开，选号还要28
+10:59
+Deleted Account
+3万能开什么套餐
+法
+10:59
+法老-英国
+3万能需要携转2次
+W
+11:00
+William
+In reply to this message
+这是一倍的区别。很大的
+11:00
+Deleted Account
+我直接在3万能刷的 4个3 改什么套餐好点 有内地流量的
+一
+11:01
+一只胖锦鲤
+邀请码吧
+法
+11:01
+法老-英国
+不用改套餐
+一
+11:01
+一只胖锦鲤
+我想要两个心意的号码
+W
+11:01
+William
+是的，改成打开页面需要邀请码最好
+法
+11:01
+法老-英国
+冲50港币就能保号365天
+D?
+11:01
+Drink more hot oil 
+关了吧，需要 的都弄了，传播开了就滥用了
+j
+11:01
+jiessie
+我已经买了
+11:01
+哈哈
+D?
+11:01
+Drink more hot oil 
+我没弄这个，我本身4个号码
+W
+11:02
+William
+我倒是没所谓。毕竟3A,4A都有了。但是这被黑产的知道了。绝对要撸死。
+法
+11:02
+法老-英国
+香港号码不易多
+叶
+11:02
+叶
+[]
+11:03
+失败了
+一
+11:03
+一只胖锦鲤
+完了
+11:03
+已关闭
+叶
+11:03
+叶
+到底为什么呢
+一
+11:03
+一只胖锦鲤
+B
+11:04
+BliZzard
+In reply to this message
+手机号
+叶
+11:06
+叶
+In reply to this message
+那要怎么搞
+11:07
+换英国号吗
+B
+11:08
+BliZzard
+不是 他就支持三个 我看手机号也改不了吧
+叶
+11:08
+叶
+跟网络有关系吗
+B
+11:10
+BliZzard
+[]
+11:10
+[]
+11:11
+看来得换成+1的
+11:12
+[]
+11:14
+Deleted Account
+所以我直接在终点 3万能刷 省钱了
+W
+11:21
+William
+香港号本来就很便宜了
+法
+11:21
+法老-英国
+Club sim可以自己组合
+11:21
+超过50港币就能下单
+11:22
+不需要买指定套餐
+W
+11:22
+William
+In reply to this message
+CLUB是真便宜。
+法
+11:22
+法老-英国
+最便宜的是csl
+F
+11:22
+Fika
+一个3HK刚好能买好几个号码
+W
+11:22
+William
+但是CLUB哪里看卡有效期，我一直没找到
+法
+11:22
+法老-英国
+进入香港海关
+F
+11:22
+Fika
+In reply to this message
+但是可以只能激活一个
+法
+11:22
+法老-英国
+人手一张
+W
+11:22
+William
+In reply to this message
+嗯，我看看去。
+F
+11:23
+Fika
+剩下的扫二维码会提示无法激活已失效
+法
+11:23
+法老-英国
+那不是新建的号码
+F
+11:23
+Fika
+你试试看都能安装激活不能
+11:24
+我一个帐号买了一个
+法
+11:24
+法老-英国
+最经济的是转入club sim
+F
+11:24
+Fika
+In reply to this message
+另一个账号买了三个
+11:24
+现在只能激活两个
+Next messages

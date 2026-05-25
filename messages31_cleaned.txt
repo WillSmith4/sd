@@ -1,0 +1,3382 @@
+Esim.Kim中文交流群
+Previous messages
+10 December 2025
+04:08
+Deleted Account
+沃达丰太高端了，没玩过。
+法
+04:08
+法老-英国
+下次不会写截图问群里
+MS
+04:08
+MJ Soul
+好
+W
+04:08
+William
+[]
+老哥，这个就是改串么？
+04:09
+Deleted Account
+In reply to this message
+对
+SJ
+04:09
+Soff Jomeka
+In reply to this message
+我记得德沃也要借助 postman才能写吧？直接扫码能写进estk？
+MS
+04:10
+MJ Soul
+In reply to this message
+选哪一个
+SJ
+04:10
+Soff Jomeka
+最大杯
+04:10
+我其实买了2张estk
+法
+04:10
+法老-英国
+[]
+MS
+04:11
+MJ Soul
+In reply to this message
+这从哪里打开的
+法
+04:11
+法老-英国
+一看就知道你不会
+MS
+04:11
+MJ Soul
+确实不会
+法
+04:11
+法老-英国
+下载easyeuicc
+04:11
+Deleted Account
+论开源软件写卡的重要性
+法
+04:11
+法老-英国
+.1.6M
+SJ
+04:11
+Soff Jomeka
+我无脑就买最大杯了
+MS
+04:12
+MJ Soul
+In reply to this message
+对应的载体卡哪里买
+法
+04:12
+法老-英国
+f50 u30air 改串必须root
+04:12
+Deleted Account
+In reply to this message
+9元那款就支持
+法
+04:12
+法老-英国
+你手里.9.9就能用
+04:13
+但是不支持Vdf de
+简
+04:13
+简
+我9.9 可以写 voxi
+W
+04:13
+William
+In reply to this message
+我没有root。这也没改的必要吧？
+法
+04:13
+法老-英国
+没有
+04:13
+改了也没用
+MS
+04:13
+MJ Soul
+In reply to this message
+9.9可以配合easyeuicc用？
+法
+04:13
+法老-英国
+可以
+MS
+04:13
+MJ Soul
+好
+法
+04:14
+法老-英国
+但是你写了Vdf de无法操作
+W
+04:14
+William
+嗯。后台功能太强大。在研究
+MS
+04:14
+MJ Soul
+In reply to this message
+对，识别不到载体卡
+法
+04:14
+法老-英国
+卡已经给你写Bug了
+04:14
+需要读卡器救回
+04:14
+Deleted Account
+In reply to this message
+说不定还能用这个软件进去操作你的旧卡
+MS
+04:14
+MJ Soul
+那咋样，换哪张载体卡好
+法
+04:14
+法老-英国
+扔了吧
+MS
+04:15
+MJ Soul
+In reply to this message
+easyeuicc？
+04:15
+Deleted Account
+In reply to this message
+嗯
+法
+04:15
+法老-英国
+买estk max 或者 9Esim v3没有兼容性问题
+MS
+04:15
+MJ Soul
+In reply to this message
+是的，是不是锁死了？
+04:15
+In reply to this message
+行
+04:15
+Deleted Account
+先去下载操作一下看看
+W
+04:15
+William
+你是用stk写的吧？没地方填确认码。你要是用安卓app写就不会有问题。我德国沃达丰是用estk
+stk直接写的。estk有开启确认码选项。
+法
+04:15
+法老-英国
+你每天都在问 要不买读卡器 要不扔
+MS
+04:15
+MJ Soul
+沃达丰便宜，我能不能再申请一个号码
+W
+04:16
+William
+还得是estk啊。
+MS
+04:16
+MJ Soul
+In reply to this message
+昨天有人给我推荐了一个读卡器，但是我不知道这个读卡器是不是能够兼容所有的载体卡
+法
+04:17
+法老-英国
+买estk的读卡器
+04:17
+兼容没问题
+高宏
+04:17
+高 宏远
+In reply to this message
+直接买estk 读卡器
+04:17
+Deleted Account
+有时间在这里唠嗑还不如去实践
+法
+04:17
+法老-英国
+一个Vdf能问两天也没谁了
+MS
+04:18
+MJ Soul
+读卡器Android：https://www.pgyer.com/OHAL
+04:18
+Deleted Account
+沃达丰漫游资费死贵
+MS
+04:18
+MJ Soul
+In reply to this message
+@gaohongyuan 
+法
+04:18
+法老-英国
+解决方法都告诉你了 买读卡器 换卡 或者直接换卡
+04:18
+别在问了
+04:19
+Deleted Account
+一个电话几十块钱
+法
+04:19
+法老-英国
+你发的读卡器没用过
+04:19
+你想试就买
+04:19
+不想测试听群友买Estk读卡器
+粥
+04:20
+粥哈哈
+9.9 的卡搞得要能登月球才满意吗
+04:20
+沃达封都不止 9.9 了
+R
+04:20
+Riva Milne
+收雅虎邮箱
+W
+04:21
+William
+德国沃达丰免费开的
+04:22
+换个卡重新开就得了，救卡老哥们不也是指道的非常清楚了嘛
+04:22
+Deleted Account
+话说回来，我的月神卡转CSL成功了，重点是现在两张卡都能使用，同时待机。
+04:22
+两个手机都能呼出
+04:23
+只能一个接电话
+法
+04:23
+法老-英国
+回头就掐了
+04:23
+还在转网状态
+04:23
+Deleted Account
+凌晨持续到现在了
+法
+04:24
+法老-英国
+能用不代表已经竣工了
+04:24
+Deleted Account
+肯定的
+法
+04:25
+法老-英国
+Csl完成后通知月神卡运营商
+04:25
+那边才会掐信号
+04:25
+Deleted Account
+它忘记通知就好了
+W
+04:26
+William
+还得手动啊。不智能
+04:26
+不应该是完成了自动掐么
+04:27
+Deleted Account
+至少现在老的还能用
+04:27
+我现在还在使用它的流量
+W
+04:28
+William
+使劲薅一把
+04:29
+Deleted Account
+余额还有点
+04:29
+余额要是用完肯定不行，我都拿来买流量了。
+法
+04:31
+法老-英国
+csl流量便宜
+04:32
+能开全港的vowifi
+04:32
+[]
+SL
+04:32
+Stan Lee
+便宜？单价多少
+法
+04:33
+法老-英国
+6块可以给我玩vowifi一年
+SL
+04:33
+Stan Lee
+30/2G
+04:33
+Deleted Account
+接打电话3元一分钟，月神卡0.3一分钟，各有优势。
+BR
+04:34
+Been Reall
+In reply to this message
+我靠，才上了clubsim，我想搞个csl了
+法
+04:34
+法老-英国
+Csl主要是保号
+04:34
+0元保号 没有余额无视行政费
+04:35
+Deleted Account
+In reply to this message
+这个NB
+BR
+04:35
+Been Reall
+你这个csl还能开不，想上车
+04:35
+Deleted Account
+能的
+法
+04:35
+法老-英国
+要流量可以选6港币100 或者30港币2G 一年
+04:35
+官网直接买Esim
+BR
+04:36
+Been Reall
+好
+W
+04:38
+William
+红茶那奥地利号码根本不能用吧
+04:38
+Deleted Account
+不能接打
+04:38
+跟CSL没法比
+法
+04:39
+法老-英国
+全功能csl储值月卡 还能课金易 0保号
+04:39
+Deleted Account
+想办法去搞个香港靓号先，然后转CSL美滋滋。
+SL
+04:40
+Stan Lee
+In reply to this message
+去自由鸟选
+法
+04:40
+法老-英国
+流量 电话 都不用就是0保号
+SL
+04:40
+Stan Lee
+看能不能刷到
+W
+04:40
+William
+香港靓号可难搞了
+04:40
+Deleted Account
+In reply to this message
+好的
+法
+04:41
+法老-英国
+我的靓号准备去万能了
+04:41
+明年2月转过去
+04:41
+Deleted Account
+反正月神卡好看的号码一个都没有
+04:42
+不过比CSL随机的强一些
+04:42
+我去TW搞个新号看看能不能转过来
+SL
+04:43
+Stan Lee
+[]
+很难刷到的
+04:43
+香港人也喜欢靓号，所以号码都被运营商留起来卖了
+W
+04:44
+William
+月神全是回收号。连订单记录都不清理下。。太惨
+04:45
+Deleted Account
+04:46
+In reply to this message
+注册新号刚好够
+04:47
+主要是实名我看看如何搞
+W
+04:47
+William
+你买香港好一定要用自己护照实名
+04:47
+不然转不过去。两边证件得相同
+法
+04:47
+法老-英国
+我的3diy就是靓号
+04:47
+转来转去麻烦死了
+04:48
+Deleted Account
+In reply to this message
+到时候也用那个人的护照搞一个CSL就得了
+法
+04:48
+法老-英国
+都要实名
+04:48
+否则无法转台
+04:48
+Deleted Account
+CSL不要人脸
+W
+04:48
+William
+In reply to this message
+对。得是同一护照。
+04:49
+我之前是充cthk转网到cmhk的。移动工作人员再三核实了证件得一致。
+04:49
+Deleted Account
+所以先弄到TW号再考虑其他
+BR
+04:49
+Been Reall
+[]
+04:50
+@FaLaoUK 这款吗？
+SL
+04:50
+Stan Lee
+[]
+W
+04:50
+William
+In reply to this message
+一次就给3个号太慢了
+04:50
+3hk我记得一次6个吧
+SL
+04:50
+Stan Lee
+没办法
+04:51
+有没有人写个脚本全部拉出来
+04:51
+In reply to this message
+这个号码怎么样
+W
+04:51
+William
+全拉出来估计都找不到2个像样的。好的都被锁住留下了
+法
+04:54
+法老-英国
+3HK我搞了个8位号码 最后4个8
+04:55
+@yunchatbot 是的 充值68港币 送余额48港币
+BR
+04:55
+Been Reall
+好，感谢，准备上车
+法
+04:56
+法老-英国
+转clubsim 不用人脸
+04:56
+csl主网没转过
+04:56
+我回头clubsim 转 万能去了
+05:00
+Deleted Account
+In reply to this message
+是的
+法
+05:00
+法老-英国
+你需要先实名
+05:00
+不实名你转不了
+05:01
+Deleted Account
+TW没有靓号了
+SL
+05:03
+Stan Lee
+In reply to this message
+刷了那么多就这个还看得上眼
+05:05
+Deleted Account
+咬咬牙搞吧！不然等下我刷去了。
+SL
+05:07
+Stan Lee
+In reply to this message
+你去刷吧，我没需求
+05:09
+Deleted Account
+刷不出来了
+SL
+05:10
+Stan Lee
+多刷，一直刷
+05:13
+Deleted Account
+最低183港币用三个月再转
+05:13
+成本加上CSL要30U了
+法
+05:15
+法老-英国
+真便宜
+05:15
+30U才几百块钱
+05:15
+昨天微信上得拍卖一个号码才200多港币
+05:16
+Deleted Account
+SL
+05:21
+Stan Lee
+In reply to this message
+高套餐可以
+05:26
+Deleted Account
+NB
+05:26
+买的哪个套餐
+老
+05:27
+老虎
+自由鸟得实名吧
+05:31
+Deleted Account
+05:31
+支持内地护照实名吗？
+05:32
+就怕要通行证啊
+法
+05:34
+法老-英国
+[]
+我还有一个靓号
+T
+05:35
+Deleted Account
+In reply to this message
+这个可以
+05:37
+In reply to this message
+实名成功了说一声，我也看上了一个号码，就怕不能内地护照实名还没下单。
+法
+05:39
+法老-英国
+电子鸦片不上头吗
+05:40
+Deleted Account
+有点
+W
+05:43
+William
+In reply to this message
+你这么多靓号，你不上头嘛
+法
+05:44
+法老-英国
+以前搞的
+冷
+05:44
+冷月无声
+In reply to this message
+带4吗
+法
+05:44
+法老-英国
+现在已经开始整理压缩了
+W
+05:44
+William
+In reply to this message
+卖不
+法
+05:45
+法老-英国
+现在是压缩保号成本
+冷
+05:45
+冷月无声
+In reply to this message
++44的尾5a4你收不收
+W
+05:45
+William
+In reply to this message
+我以为你要出呢，哈哈
+05:45
+In reply to this message
+私聊
+冷
+05:47
+冷月无声
+In reply to this message
+2d我抓包自己修改了一个号结果早被人买走了发了我一个随机号
+我争议退款两个月才给我退到账
+05:48
+Deleted Account
+都是人才
+豆?
+05:49
+豆豆 
+香港靓号哪里有，我也想搞一个
+法
+05:49
+法老-英国
+你操作晚了
+SJ
+05:50
+Soff Jomeka
+In reply to this message
+羡慕啊，香港号码怎么搞来的靓号啊，现在花钱都难买到合适的靓号了
+法
+05:50
+法老-英国
+早早操作就能拿到
+冷
+05:50
+冷月无声
+In reply to this message
+哦对了老哥 2d是不是把网页显示改成自己想要的号码就行
+然后下单看这个号在不在库存是吧
+W
+05:50
+William
+In reply to this message
+这个不错啊
+冷
+05:50
+冷月无声
+In reply to this message
+靓号王 请
+法
+05:50
+法老-英国
+储值卡号码
+05:50
+我得香港靓号就是储值卡拿来得
+W
+05:53
+William
+香港靓号才是最香的
+05:53
+可惜太难搞了
+05:55
+Deleted Account
+In reply to this message
+好的
+法
+06:02
+法老-英国
+我保号从206港币一年 降低到了 30港币一年
+06:03
+浪费了1张54港币的卡 和一张 39的开卡费
+06:14
+Deleted Account
+香港号真能拿来日常生活用
+SL
+06:40
+Stan Lee
+In reply to this message
+现在没免费试用了吧
+SJ
+06:45
+Soff Jomeka
+三个三个刷，得刷到什么时候才能看到一个心仪的号码啊
+UN
+06:45
+U N
+In reply to this message
+语音呢？
+法
+06:46
+法老-英国
+语音？
+06:46
+漫游 1年28港币
+06:46
+20分钟
+SL
+06:46
+Stan Lee
+[]
+这个号码还有，要冲的赶快
+SJ
+06:49
+Soff Jomeka
+In reply to this message
+选了还是没有心仪的号啊
+06:50
+要求又那么高，不能0，不能5的，还讨厌4
+SL
+06:51
+Stan Lee
+852要求别太高
+SJ
+06:52
+Soff Jomeka
+国别号码没关系，主要是号码
+SL
+06:52
+Stan Lee
+我的意思852好的号码都被运营商留起来卖了
+法
+06:53
+法老-英国
+好的号码都在贵的上台卡上了
+SL
+SJ
+06:53
+Soff Jomeka
+我不一定要什么3a 4a之类的所谓靓号
+法
+06:53
+法老-英国
+你去年玩香港号码 4a号码很多
+06:53
+今年都被玩烂了
+06:53
+去年3HK 储值卡 可以先选号 后付钱
+06:53
+刷个几小时 好几个4
+06:54
+a号码
+SJ
+07:19
+Soff Jomeka
+选不下去了，直接cls买储值卡行吗？
+法
+07:20
+法老-英国
+保号买啥储值卡
+07:20
+保号买课金易
+07:21
+当然
+SJ
+07:21
+Soff Jomeka
+能日常用的买什么？
+法
+07:21
+法老-英国
+[]
+07:21
+[]
+07:21
+买这个保号
+07:22
+对
+07:22
+每年一次
+07:22
+0元保号
+07:23
+苹果充值
+07:23
+50全冲到苹果商店
+07:23
+苹果store 和 google store
+07:23
+2选1
+07:24
+冲话费 不能买氪金义
+07:24
+直接储值
+07:24
+[]
+07:25
+直接储值也可以
+07:25
+冲手机号码保号
+07:25
+最低20港币 冲 话费 保号365天
+07:26
+课金最好
+07:26
+一毛钱不给csl赚
+07:27
+换esim 要线下
+07:27
+这是缺点
+07:28
+clubsim 线上每年一次 csl 没有线上换卡服务
+07:28
+3HK系列 可以28港币 随便换
+07:29
+你可以选择3HK系列
+07:29
+保号是csl好
+07:29
+电话 短信 网络 全功能的
+07:29
+csl 有氪金 0保号
+07:29
+每年买一张氪金就行了
+07:30
+你可以选择csl的 6港币保号啊
+07:30
+比clubsim 好
+07:31
+[]
+07:31
+CSL 我只玩漫游
+07:31
+炸卡没事
+07:32
+顶多重新买一张
+07:32
+保号我去万能国际
+07:32
+28HKD 随便换
+07:32
+不怕炸卡
+07:32
+没有限制 线上直接换
+SL
+07:32
+Stan Lee
+保号用3万能还是不错的
+07:33
+便宜
+法
+07:33
+法老-英国
+csl 其实不用线下换卡
+07:34
+卡炸了 你直接 转台到clubsim
+07:34
+3天时间就能救活
+SL
+07:34
+Stan Lee
+转台不用收验证码？
+法
+07:34
+法老-英国
+不用
+07:34
+csl 内部转
+07:34
+csl炸卡 买clubsim的卡 实名后 直接转过来
+07:35
+clubs死命
+07:35
+clubsim 可以直接买esim卡
+07:36
+你买clubsim的时候 套餐就买好了啊
+07:36
+买啥套餐
+07:37
+csl 炸卡 去clubsim 买个卡 送你一个号码 csl转过来 送的号码替换掉
+07:37
+就完成了
+07:38
+想多了
+07:38
+运营商怎么赚钱
+07:39
+只是救你csl炸卡的方法
+07:39
+又不是100%炸卡
+SL
+07:52
+Stan Lee
+可能要人工审核吧
+SJ
+08:04
+Soff Jomeka
+你那么快就选到了号码，
+UN
+08:15
+U N
+In reply to this message
+这个打电话比较贵，
+08:15
+流量也不便宜呀
+法
+08:16
+法老-英国
+保号卡
+UN
+08:16
+U N
+其实就是薅商店吧
+法
+08:16
+法老-英国
+比Club sim多个接打电话功能
+UN
+08:16
+U N
+一分钟3块呀
+法
+08:17
+法老-英国
+你为啥要用他接打电话
+UN
+08:17
+U N
+有点折腾的呀
+08:17
+用来买港区应用挺不错就是
+08:17
+港区有小火箭吗？
+法
+08:18
+法老-英国
+每年冲50港币就买小火箭？
+UN
+08:19
+U N
+很少买应用
+08:19
+苹果商店有啥好买的应用
+SJ
+08:23
+Soff Jomeka
+In reply to this message
+课易金没了，官网找不到这个了
+法
+08:26
+法老-英国
+[]
+08:26
+[]
+SJ
+08:28
+Soff Jomeka
+In reply to this message
+这个是clubsim官网吗？
+一
+08:41
+一只胖锦鲤
+In reply to this message
+转给我吧
+hm
+09:02
+h mony
+口令
+SJ
+09:27
+Soff Jomeka
+这个cte的漫游流量感觉速度不太行啊
+09:27
+你们的会么？
+法
+09:32
+法老-英国
+50m速度
+09:32
+Deleted Account
+有50M已经可以看4K视频了
+SJ
+09:33
+Soff Jomeka
+但是打开应用要些时间才能加载出来啊
+法
+09:34
+法老-英国
+200-400的延迟国内打个6折
+SJ
+09:34
+Soff Jomeka
+今天搞了个KYC 转了半天，我担心被挂了
+09:34
+看来3hk不能废啊，还得继续用
+09:34
+Deleted Account
+开始换赛道搞香港靓号了
+法
+09:35
+法老-英国
+[]
+SJ
+09:35
+Soff Jomeka
+In reply to this message
+怎么搞啊，香港好难搞靓号
+法
+09:35
+法老-英国
+一般吧还行
+SJ
+09:35
+Soff Jomeka
+不看数据，只看体验的感觉
+玩
+09:36
+玩卡教授
+Sticker
+Not included, change data exporting settings to download.
+, 15.8 KB
+09:37
+Deleted Account
+In reply to this message
+只能慢慢刷了
+SJ
+09:38
+Soff Jomeka
+自由鸟真没有，月神我看也基本没了
+09:52
+Deleted Account
+8位数的号码你还想要3A 4A尾啊，有好看的的2A就得了呗。
+09:53
+知足常乐
+?
+09:54
+𝙯𝙚𝙙𝙙
+gg邀请返现发了吗？
+SL
+10:03
+Stan Lee
+5688都没人要
+10:14
+Deleted Account
+我要99尾了
+10:16
+In reply to this message
+你红包卡怎么续费的，我的还没有续费按钮。
+10:16
+In reply to this message
+好的，是我心急了
+W
+10:28
+William
+4A是必须的，要么不搞
+10:32
+Deleted Account
+In reply to this message
+这是什么操作
+hm
+10:35
+h mony
+红包卡换设备方便吗？
+老
+10:37
+老虎
+In reply to this message
+有
+10:37
+Deleted Account
+大把
+W
+10:42
+William
+色即是空。我觉得0很好啊
+10:42
+一切皆为空。只是取决于看它的人
+老
+10:42
+老虎
+9不好？
+W
+10:43
+William
+国人一般是不喜欢4的。9是不是到头了？也不好？
+老
+10:44
+老虎
+那你这么说没一个好的
+10:44
+3也不好，妻离子散
+10:44
+2艾滋病
+10:44
+1胰腺癌
+10:45
+这什么逻辑
+W
+10:45
+William
+不是谐音凑词语吧。。
+10:46
+西方日是不喜欢6.但是我们不是西方人又不信基督了。没所谓。
+老
+10:47
+老虎
+777还气死
+10:47
+这么说别用了
+10:47
+5人生五花八门
+10:48
+你说没9好
+10:48
+我就是喜欢9
+10:48
+你说你喜欢678，但是我看见就恶心
+10:49
+说这都没用
+10:49
+Deleted Account
+9 九五至尊
+老
+10:49
+老虎
+没9我还不要
+10:49
+Deleted Account
+现在是九运正当旺
+老
+10:50
+老虎
+九羊开泰
+10:50
+西北方位属金
+10:51
+Deleted Account
+三元九运，现在和未来二十年都是九运当旺。
+老
+10:51
+老虎
+震雷卦
+10:52
+Deleted Account
+9在易经中属于阳爻中的老阳
+老
+10:53
+老虎
+4和9是大财数字，最好了
+W
+10:53
+William
+国人就不爱4，这是基本国情
+老
+10:53
+老虎
+0属于少阴
+10:53
+Deleted Account
+In reply to this message
+同感
+W
+10:53
+William
+老外貌似还挺喜欢4的
+老
+10:54
+老虎
+我就喜欢9多的
+10:54
+Deleted Account
+老
+10:54
+老虎
+九五至尊，皇帝命
+W
+10:54
+William
+你有4a9的么？
+老
+10:54
+老虎
+有啊
+W
+10:55
+William
+难怪别人说9不好，你挺激动的
+老
+10:55
+老虎
+我激动啥
+10:55
+那他说吃屎香，我也激动
+W
+10:55
+William
+In reply to this message
+赶快去上5个9，或者9个5，上九五至尊
+老
+10:55
+老虎
+不搭噶
+10:55
+只是不喜欢他瞎掰
+W
+10:55
+William
+每个人看的角度不一样。没什么
+老
+10:55
+老虎
+没货，有早买了
+W
+10:56
+William
+9在数字里是到头了。我估计是从这点看的。
+老
+10:56
+老虎
+那我说0和1是胎死腹中
+10:56
+2到5死在半路
+10:57
+678半身不遂
+SJ
+10:57
+Soff Jomeka
+In reply to this message
+反了
+老
+10:58
+老虎
+有依据？
+10:58
+Deleted Account
+按你们这么说没有一个是好的
+老
+10:58
+老虎
+9到头了，那些活到110多的天龙人怎么没到头
+10:58
+Deleted Account
+众口难调
+W
+10:59
+William
+我只是从tnt不喜欢的角度我解读下可能性。你太激动了吧。。
+10:59
+Deleted Account
+反正我就喜欢9越多越好，你们说到头也好到尾也罢，我就是喜欢。
+老
+10:59
+老虎
+那你存款就1块吧
+10:59
+我9999亿
+W
+11:00
+William
+In reply to this message
+正常。不过一般人还是喜欢9的
+11:00
+Deleted Account
+萝卜青菜而已
+W
+11:00
+William
+就像把4说的天花乱坠，国人也不会喜欢一样
+老
+11:00
+老虎
+In reply to this message
+天龙人不喜欢9
+11:01
+中南海的十几个号码没一个9
+11:01
+早查过了
+11:01
+Deleted Account
+人家是001好吧
+老
+11:01
+老虎
+5以下战多数
+11:01
+Deleted Account
+头号
+老
+11:01
+老虎
+6也比较多
+11:01
+没一个9
+11:01
+我想不明白
+11:02
+Deleted Account
+那个命硬才行
+法
+11:02
+法老-英国
+靓号让人控制不住
+11:02
+剁手
+W
+11:02
+William
+In reply to this message
+9没什么大毛病。不管从数字好看上还是寓意长久上都还行吧
+11:03
+数字里唯一看起来不好看就是1，放一起都比别人矮一截。哈哈
+11:03
+Deleted Account
+九运势不可挡
+老
+11:03
+老虎
+那0和1是不是阳痿
+11:03
+2345是不是肾虚
+11:03
+678肾亏空
+11:04
+Deleted Account
+当旺二十年
+老
+11:04
+老虎
+别几把扯了
+11:04
+再说我就是要9
+W
+11:04
+William
+In reply to this message
+，2，3，5咋样？我比较喜欢这三个数字
+11:05
+In reply to this message
+尾巴是0，意味着终究归零了？。。
+老
+11:05
+老虎
+我的9999不好？
+11:05
+Deleted Account
+最后成佛了
+W
+11:05
+William
+明天我去研究下易经。
+11:06
+然后给你们算命算靓号气运
+11:06
+Deleted Account
+三元九运 很神奇
+老
+11:06
+老虎
+In reply to this message
+我怎么知道扛不扛住
+11:06
+我就喜欢
+11:06
+是死是活屌朝上
+11:07
+我忘了说了
+11:07
+我的美国号9999
+法
+11:07
+法老-英国
+9999才是重点
+老
+11:07
+老虎
+大陆号很普通
+法
+11:07
+法老-英国
+一分不花才是重点
+老
+11:08
+老虎
+我的大陆号12389
+11:08
+5个数字组成
+11:09
+你又知道了
+O
+11:09
+O
+那 13844444444 呢
+老
+11:10
+老虎
+那我不走路是不是要发达了？
+11:10
+你这么懂，怎么资产不如马云
+O
+11:11
+O
+11:11
+Deleted Account
+你算这些还不如AI算的准
+老
+11:11
+老虎
+In reply to this message
+大富大贵，真命天子
+W
+11:13
+William
+In reply to this message
+在国内这个号不如4A8结尾
+老
+11:13
+老虎
+In reply to this message
+都免费送给你好不好
+法
+11:13
+法老-英国
+一路死
+老
+11:13
+老虎
+你用魔法把它化解
+11:14
+自己扛不住卖了祸害别人？
+11:14
+按你这么说，只有天龙人扛得住
+11:14
+老百姓不配拥有？
+11:15
+有一个他就行
+11:15
+人家有一个8aa
+11:15
+一堆7a
+11:15
+6a数不清
+11:15
+人家天天在飞机嗨得飞起
+11:16
+你是没有羡慕吧
+11:16
+净扯淡
+11:16
+忽悠老百姓
+11:16
+In reply to this message
+天天操逼才是永恒
+11:16
+可惜我没那个能力
+11:17
+操逼，贪财，当官，人生三大准则
+hm
+11:17
+h mony
+[]
+老
+11:18
+老虎
+说破了大天，这才是真理
+hm
+11:18
+h mony
+国行手机备用通话的操作我大概已经研究出来了
+老
+11:19
+老虎
+科学的尽头是，女人 金钱 权力
+11:19
+难经来了也没用
+11:20
+吃屎吧你
+11:20
+[]
+11:21
+帮我算算
+11:21
+我的命好不好
+11:21
+我这几百份护照
+11:21
+你要谁的
+11:22
+不送
+11:22
+让那个风水大湿送你
+11:22
+你是命理师？
+11:23
+脱了裤子放屁
+11:23
+还扛不住
+11:23
+我他么的射你一脸
+11:24
+In reply to this message
+正解
+11:24
+算一次折一次
+11:24
+你算算废宪法那个好不好
+11:24
+你去告诉他废宪法不好
+11:25
+怎么让他活到150
+11:26
+In reply to this message
+你还是有逻辑的
+11:26
+王毅是周恩来的儿子，那他为什么姓王，你给算算
+SJ
+11:26
+Soff Jomeka
+In reply to this message
+你不是搜遍了twilio了吗？
+11:27
+哦，那Talktone 也不行咯？
+O
+11:30
+O
+4ab 8a 这个 a 是代表什么，随机数字吗
+SJ
+11:33
+Soff Jomeka
+600以内的二手eSIM 手机哪里买的有啊？
+11:34
+Deleted Account
+image_2025-12-10_18-34-50.png
+Not included, change data exporting settings to download.
+35.2 KB
+刚激活的 。 7955 832 555
+11:34
+明价40U
+瞳
+11:35
+瞳锌
+6
+11:36
+10u还得看余额有没有15u以上
+法
+11:36
+法老-英国
+快来份迪丽热巴的护照
+11:37
+10u开卡费太贵了
+11:37
+Gg都10磅我是拉不起了
+绑
+11:39
+绑绑绑
+In reply to this message
+魚泡好吃
+老
+11:45
+老虎
+香菇好吃
+11:47
+Deleted Account
+In reply to this message
+不打紧
+W
+12:03
+William
+In reply to this message
+确实3a尾号群里确实难搞
+叶
+12:12
+叶
+gg能不能转tw
+12:12
+Sticker
+Not included, change data exporting settings to download.
+, 7.1 KB
+SJ
+12:13
+Soff Jomeka
+In reply to this message
+大佬，我上了csl官网也没找到到要买哪个套餐才有你发的这个啊。本地储值卡、旅游储值卡、访港旅客？
+法
+12:15
+法老-英国
+https://eshop.hkcsl.com/zh_HK/handsets-and-digital-device/Prepaid/2115051scol.html
+CS
+12:22
+Candies Sven
+In reply to this message
+要18号左右发。gg社区讲的
+?
+J
+12:24
+Jemes
+话说estk有tg客服嘛
+SJ
+12:30
+Soff Jomeka
+官网有客服，态度很好
+12:31
+它们更新了官网
+12:31
+我前天刚买
+l
+12:32
+lex
+gg卡，不充值插卡能看到卡号吗
+12:33
+靓号早被卡贩子留下了吧，买了个还有插卡痕迹
+一
+12:34
+一只胖锦鲤
+In reply to this message
+啥意思
+12:34
+不能插卡？
+12:35
+完了
+12:35
+我的插卡了
+法
+12:35
+法老-英国
+飞行插卡没事
+一
+12:36
+一只胖锦鲤
+我都忘记怎么插卡的了
+法
+12:36
+法老-英国
+插卡不飞行就有记录了
+j
+12:37
+jjjj
+In reply to this message
+结束后就没用了嘛
+12:37
+也不能激活了嘛
+12:38
+我去意思就是大概率废了
+12:44
+这个说的是卡bug用3个月的卡
+高宏
+13:06
+高 宏远
+In reply to this message
+美国号转好了吗
+UN
+13:06
+U N
+各位，自由鸟要先买哪个套餐吧，才能选号锁号？
+13:06
+[]
+13:06
+这个吗？
+SJ
+13:08
+Soff Jomeka
+cte真是准时，8点过就转号成功了
+简
+13:08
+简
+In reply to this message
+什么注册三个月
+SJ
+13:08
+Soff Jomeka
+再买第三个号
+NN
+13:09
+Nick Na
+请问这个apk的下载密码是多少呀
+SJ
+13:10
+Soff Jomeka
+估计你不知不觉中已经过了3个月
+UN
+13:10
+U N
+自由鸟这个你们买了啥号码了？
+SJ
+13:10
+Soff Jomeka
+In reply to this message
+都是垃圾号码，不值得买啊
+法
+13:11
+法老-英国
+电子鸦片
+UN
+13:11
+U N
+今天主题不是搞香港靓号吗？
+法
+13:11
+法老-英国
+每个人的理解不一样
+SJ
+13:11
+Soff Jomeka
+是啊，可是并没有靓号
+法
+13:11
+法老-英国
+不是非要4A才是靓号
+简
+13:11
+简
+Sticker
+Not included, change data exporting settings to download.
+, 199.8 KB
+SJ
+13:12
+Soff Jomeka
+我不要4A都没有
+法
+13:12
+法老-英国
+自己看的顺眼就是靓号
+SJ
+13:12
+Soff Jomeka
+搞了一张cte加拿大的，不知道有没有用
+法
+13:13
+法老-英国
+我都搞了3张了
+13:13
+免费的不撸白不撸
+W
+13:13
+William
+In reply to this message
+你又4a8,4a9你当然这样说。
+简
+13:13
+简
+最多鲁几个
+法
+13:13
+法老-英国
+一个地址3个
+SJ
+13:13
+Soff Jomeka
+In reply to this message
+换了邮箱，电话和地址吗？
+W
+13:14
+William
+把你的4A9香港号转让给我。我就信你
+法
+13:14
+法老-英国
+同一个地址
+简
+13:14
+简
+换个门牌号可以不
+SJ
+13:14
+Soff Jomeka
+我再试试
+13:14
+同一个电话行不行？
+法
+13:14
+法老-英国
+不行
+13:14
+同一个地址可以
+SJ
+13:14
+Soff Jomeka
+那没了，我只有一个电话
+法
+13:15
+法老-英国
+电话随便写一个
+13:15
+邮寄丢了就丢了
+SJ
+13:15
+Soff Jomeka
+随便写收不到啊
+法
+13:15
+法老-英国
+地址有就行
+SJ
+13:15
+Soff Jomeka
+都是到快递代收点的
+法
+13:15
+法老-英国
+那没戏
+j
+13:15
+jjjj
+In reply to this message
+这个出来多久了不会要更新换代了吧
+SJ
+13:15
+Soff Jomeka
+不是门到门
+法
+13:15
+法老-英国
+管他呢
+SJ
+13:16
+Soff Jomeka
+In reply to this message
+更新换代了，跟我第一次买的不一样了
+法
+13:16
+法老-英国
+不就是白撸布袋和卡包吗
+SJ
+13:16
+Soff Jomeka
+更先进了，水果不要读卡器了，出了app
+j
+13:16
+jjjj
+哦豁
+13:16
+就怕买了max过几天又更新了
+SJ
+13:17
+Soff Jomeka
+In reply to this message
+我也买了读卡器
+13:17
+不过是上次买的
+简
+13:18
+简
+点忘记密码
+SJ
+13:18
+Soff Jomeka
+刚转进cte的号码要保号吗？
+13:19
+之前原号码的保号不算在新号码下
+13:19
+我买的回国套餐
+p记
+13:28
+px休息中 记得催我睡觉
+@tntwk 今天收到返利没
+13:28
+Sticker
+Not included, change data exporting settings to download.
+, 11.3 KB
+13:28
+可以 够吃顿沙县了
+?
+13:31
+𝓠𝓲𝓪𝓷𝓧𝓲
+[]
+13:31
+有个这个
+13:31
+喜欢去吧
+13:33
+[]
+我弄了个它 准备整个gg转过去
+U
+13:41
+UK_JPCD
+In reply to this message
+这个下午我考虑了一下，没要
+?
+13:42
+𝓠𝓲𝓪𝓷𝓧𝓲
+感觉还行呀
+U
+13:42
+UK_JPCD
+是可以考虑要
+?
+13:42
+𝓠𝓲𝓪𝓷𝓧𝓲
+看了一圈就这个还可以
+U
+13:43
+UK_JPCD
+我现在这个感觉是万人骑号码，好多都注册不了
+?
+13:43
+𝓠𝓲𝓪𝓷𝓧𝓲
+我的倒是都能注册
+13:43
+就是WeChat刚注册就被封了
+13:43
+U
+13:43
+UK_JPCD
+注册gmail都提示过多
+?
+13:43
+𝓠𝓲𝓪𝓷𝓧𝓲
+我昨天才注册的
+13:43
+没问题呀
+13:44
+你是用的cte流量注册的吗
+U
+13:44
+UK_JPCD
+用cteads指纹浏览器
+13:45
+用虚拟机注册成功，所有安全信息都绑定了，还是给封了，等申诉
+?
+13:45
+𝓠𝓲𝓪𝓷𝓧𝓲
+我是用cte直接谷歌浏览器注册的
+13:45
+用几天看看吧
+U
+13:47
+UK_JPCD
+我去申请7882222325的pac了，不知道能不能申请到
+13:47
+最近薅得挺多的
+?
+13:55
+𝓠𝓲𝓪𝓷𝓧𝓲
+哎呦我去
+13:55
+这号也挺顺的
+U
+13:55
+UK_JPCD
+gg能转入几次哦，大佬们
+SJ
+14:02
+Soff Jomeka
+In reply to this message
+咱们号码携号转网到cte后，是收到888的短信后就可以主动释放再买新号码了吧？
+14:06
+我就收到888发来的新号码更改初始密码的短信而已
+14:06
+用unitrix发的短信还收不到啊
+14:09
+† Can send/receive sms to domestic numbers only
+我的号码有这个十字架，是不是说只能收英国本地号码发出来的短信啊？
+14:10
+谁英国gg要保号的啊，给我发一条短信？
+14:18
+测试收短信不成功，可以接gv打过来的电话
+14:19
+咱们的gv都发不了跨国短信的吗？只能美区？
+叶
+14:22
+叶娃
+口令
+SJ
+14:22
+Soff Jomeka
+In reply to this message
+还没释放掉啊
+14:23
+你们9eSIM多少钱买的啊？
+MS
+14:23
+MJ Soul
+In reply to this message
+9.9
+14:23
+好像不同版本价格不一样
+14:23
+有v3
+14:24
+还有啥，价格不一样
+SJ
+14:24
+Soff Jomeka
+都追求如此极致的性价比吗？
+MS
+14:28
+MJ Soul
+In reply to this message
+不是，当时做活动，看着便宜买的
+14:28
+我主力不是9.9
+J
+14:30
+Jemes
+主力是什么
+MS
+14:32
+MJ Soul
+说这个不好吧，有广告嫌疑
+SJ
+14:55
+Soff Jomeka
+那如果我自己主动释放，就可以接到 unitrix的短信了？
+14:57
+哦，888是收到了，但是unitrix没收到，那我再等半天。。。。有点按耐不住要买下新号码了，
+14:58
+Deleted Account
+GG卡不知道是不是BUG，我他妈的激活ESIM后，登陆后台，直接后台显示没号
+没余额了。。。。
+我试了两个号 两个号直接显示没有号码 没有余额了
+一个是之前的ESIM，没用过，我看后台15英镑余额，我转成实体卡，再转成
+ESIM，一直出错，等了两个多小时后，再转，成功，10分钟后，我再登陆后台，显示，无号码
+无余额，但是手机还是写入ESIM，但是不能发信息，不能打电话，只显示有信号。
+另一个ESIM也是之前的，我没有转实体卡，直接写入手机后，测试不能发短信，我登陆后台一看
+，无号码 无余额，我已经给客服发工单了，看看什么情况吧
+14:58
+各位看看自己的GG卡后台，是不是也变成无号码 无余额了
+SJ
+14:59
+Soff Jomeka
+看教程，说是确定完全转过去才能主动释放
+14:59
+好吧，那我就释放了，赶紧拿下第三个号
+一
+14:59
+一只胖锦鲤
+要那么多号干啥
+SJ
+14:59
+Soff Jomeka
+我就爱靓号
+一
+15:00
+一只胖锦鲤
+我现在还有两个号没用
+SJ
+15:00
+Soff Jomeka
+一发不可收拾
+一
+15:00
+一只胖锦鲤
+[]
+15:01
+Deleted Account
+上个月激活的卡 怎么会超过180天了
+SJ
+15:02
+Soff Jomeka
+In reply to this message
+可惜不适合我，不然我跟你买
+kh
+15:44
+kk hun
+这个咋转蛙趣需要认证好像
+kh
+15:44
+kk hun
+E
+Esim.Kim中文交流群 29.11.2025 06:16:35
+https://esim.kim/twilio   uk靓号筛选器可转入giffgaff账户
+法
+15:47
+法老-英国
+[]
+kh
+15:47
+3天后搞定
+kh
+15:48
+kk hun
+创建监管者包啥意思
+15:48
+W
+15:52
+Wt
+转eim的那个口令去哪拿
+15:53
+16:00
+Deleted Account
+In reply to this message
+你的红包卡续期是不是也只有七天？
+16:01
+那就好我以为我的姿势不对呢
+kh
+16:05
+kk hun
+twilio咋购买英国的手机号
+16:05
+要创建监管包
+SJ
+16:21
+Soff Jomeka
+用paypal给cte充值，余额不增反被倒扣是什么原因啊？
+16:29
+我今天给新携号转网过去的卡充值1磅保号，没想到不仅余额没有增加，还少了0.4磅，难道还要被paypal从cte余额扣手续费？
+法
+16:33
+法老-英国
+你帮cte找到了恶性bug
+SJ
+16:33
+Soff Jomeka
+我已经电邮过去问了
+16:33
+只不过为了1磅感觉不好意思，不过这个问题还是有必要指出来
+16:34
+楼上的国际万能卡是要我们自己携号转网过去才可以的吗？
+法
+16:35
+法老-英国
+没错
+SJ
+16:44
+Soff Jomeka
+除了自由鸟还有什么别的地方可以找到可看的港卡号码啊？
+16:48
+那为什么还要从余额里扣了0.4磅啊？手续费吗？
+16:48
+pp里面已经有货转的损失了
+豆?
+16:58
+豆豆 
+香港靓号哪里买
+一
+17:09
+一只胖锦鲤
+In reply to this message
+我也弄了个红包卡
+SJ
+17:10
+Soff Jomeka
+花了多少？
+17:11
+我明天也研究一下
+一
+17:12
+一只胖锦鲤
+30
+一
+17:49
+一只胖锦鲤
+[]
+17:49
+终于要成功了
+冷
+17:55
+冷月无声
+In reply to this message
+tw还有+1靓号能薅？
+11 December 2025
+Ae
+01:42
+AWS ever
+giffgaff可以转移到别的小白卡上吗
+一
+02:16
+一只胖锦鲤
+昨天的红包卡 感觉号码很垃圾啊
+02:16
+晚上有人发验证码
+02:16
+还有人打电话
+一
+02:37
+一只胖锦鲤
+我刚才试了一下 可以注册tg
+02:37
+应该还没滥用
+02:40
+你么说的 注册tg需要发短信费用
+02:40
+为啥我没遇到
+02:40
+啥情况才需要短信费
+宾杜
+03:29
+宾 杜
+tnt号干封了？
+SL
+03:33
+Stan Lee
+没有吧
+03:34
+@tntwk
+03:34
+不是还在吗
+豆?
+03:59
+豆豆 
+大佬们 香港靓号晒看看
+SL
+04:00
+Stan Lee
+****5688
+04:00
+没有靓号
+04:02
+自己觉得好的就是靓号
+豆?
+04:02
+豆豆 
+哪里有卖
+SL
+04:02
+Stan Lee
+去自由鸟自己选
+04:03
+去3hk自己选
+W
+04:03
+William
+AB66 AB99我这还行吧。
+04:03
+和4a还是没法比。只能自我安慰
+SL
+04:03
+Stan Lee
+**866768
+豆?
+04:03
+豆豆 
+44044
+W
+04:03
+William
+In reply to this message
+自由鸟开户买个号多少钱？
+SL
+04:03
+Stan Lee
+如果7是6就好了
+04:04
+In reply to this message
+最低186好像
+W
+04:04
+William
+In reply to this message
+4个6那肯定可以了。哈哈
+04:04
+In reply to this message
+怎么贵，那不如3hk。
+SL
+04:04
+Stan Lee
+In reply to this message
+主要可以开卡前选
+W
+04:05
+William
+In reply to this message
+嗯，那还可以。需要先kyc不？
+SL
+04:05
+Stan Lee
+不用，选好再kyc,用完3个月转走
+W
+04:06
+William
+那还是可以的。去冲了
+SL
+04:06
+Stan Lee
+那不就浪费180了
+豆?
+04:06
+豆豆 
+大佬们来个链接 我去选看看
+W
+04:07
+William
+没靓号就不买呗。
+SL
+04:07
+Stan Lee
+https://www.birdie.com.hk/
+04:08
+[]
+04:08
+这个号还在
+04:09
+看来大家都看不上
+豆?
+04:11
+豆豆 
+这种号码太普通了
+法
+04:12
+法老-英国
+[]
+04:12
+9港币一个月我都付不起
+SL
+04:12
+Stan Lee
+In reply to this message
+想4A直接去买吧
+04:13
+自己刷很难的
+W
+04:13
+William
+付不起卖掉吧我来付6港币保号
+法
+04:13
+法老-英国
+[]
+04:13
+我转了
+W
+04:13
+William
+In reply to this message
+能收到验证码？
+04:13
+嗯。好吧。
+法
+04:15
+法老-英国
+没啥用
+04:15
+ip 随便搞
+04:15
+国外ip 不值钱
+SL
+04:16
+Stan Lee
+扔了吧，没什么用
+04:16
+In reply to this message
+注册多了还是会要求验证码的
+小
+04:20
+小喵崽
+In reply to this message
+不得大几万
+W
+04:20
+William
+In reply to this message
+和4A尾不能比啊
+04:21
+Deleted Account
+70721699 昨天我还刷到
+法
+04:21
+法老-英国
+香港8位号 4a已经相当好了
+SL
+04:22
+Stan Lee
+现在想刷到没那么容易了
+W
+04:22
+William
+3a都难刷到估计
+04:22
+Deleted Account
+3A尾根本没有
+法
+04:22
+法老-英国
+3HK 我记得去年都是7开头的
+W
+04:22
+William
+7没问题啊。关键是整体如何
+04:22
+Deleted Account
+In reply to this message
+至少不带4
+04:23
+不然很多都是带4
+小
+04:23
+小喵崽
+[]
+法
+04:24
+法老-英国
+那么贵
+04:24
+我的4个9 4个8看样子能卖一台17手机还不止了
+W
+04:24
+William
+联系这家，给9999卖给他们
+04:24
+Deleted Account
+搞
+04:25
+321是吧
+小
+04:25
+小喵崽
+In reply to this message
+你可当
+04:26
+关键这种电话平时用不上
+04:26
+又不会有人联络
+法
+04:27
+法老-英国
+[]
+04:28
+知道什么是电子鸦片了吧
+p
+04:28
+plmok1
+In reply to this message
+这个怎么弄
+W
+04:28
+William
+In reply to this message
+乌克兰和香港没有可比性能。就是6个8也就那么回事
+04:28
+香港的4个就很屌了。
+法
+04:29
+法老-英国
+[]
+04:29
+电子鸦片害的
+小
+04:29
+小喵崽
+[]
+04:29
+Deleted Account
+Sticker
+Not included, change data exporting settings to download.
+, 18.8 KB
+小
+04:29
+小喵崽
+这家我18年买过
+SL
+04:29
+Stan Lee
+法
+法老-英国 11.12.2025 04:29:11
+电子鸦片害的
+W
+04:29
+William
+你卖一个香港的出来啊。就可以继续吸电子烟片了
+小
+04:29
+小喵崽
+几百块
+W
+04:30
+William
+国内4a尾号不贵，基本上预存加最低消费就能拿到
+SL
+04:30
+Stan Lee
+In reply to this message
++60也可以选号，去搞吧，电子鸦片
+W
+04:31
+William
+我感觉自由鸟3hk这种池子里肯定刷新不到什么好号码
+法
+04:31
+法老-英国
+早退烧了
+04:31
+我电子鸦片就玩了大半年
+SJ
+04:31
+Soff Jomeka
+哎，月神都没有一个号码适合，太难了
+法
+04:31
+法老-英国
+我今年已经缩减了电子鸦片数量
+SL
+04:31
+Stan Lee
+In reply to this message
+香港的就别太指望了
+法
+04:31
+法老-英国
+现在维持在50个号码
+SJ
+SL
+04:31
+Stan Lee
+50个
+W
+04:32
+William
+In reply to this message
+是的。还是去薅英国的吧。
+法
+04:32
+法老-英国
+再想办法压下
+小
+04:32
+小喵崽
+In reply to this message
+哪里买 我去瞅瞅
+W
+04:32
+William
+50个还少？。。
+04:32
+Deleted Account
+上头了
+法
+04:32
+法老-英国
+香港我 都携号转网 缩到2个了
+SL
+04:32
+Stan Lee
+我加上86才10个左右
+法
+04:32
+法老-英国
+voxi 我都注册了30个
+SL
+04:32
+Stan Lee
+In reply to this message
+tunetalk可以选号，可以esim
+法
+04:32
+法老-英国
+其实就20个
+W
+04:32
+William
+In reply to this message
+我加上86不超过15个。
+小
+04:33
+小喵崽
+不敢比
+W
+04:33
+William
+主要是英国的4-5个。国内的4个。。
+小
+04:33
+小喵崽
+In reply to this message
+谢谢
+04:33
+我美国还有个5A
+04:33
+俩个3A
+一
+04:34
+一只胖锦鲤
+羡慕
+04:34
+我想要个香港的
+W
+04:34
+William
+美国的5a尾号也不贵
+小
+04:34
+小喵崽
+In reply to this message
+是
+SL
+04:34
+Stan Lee
+这么多号。懒得打理，每年还得保号
+法
+04:34
+法老-英国
+美国我不用靓号
+小
+04:34
+小喵崽
+当时100多刀
+04:34
+Deleted Account
+香港的我要拿来日常使用
+W
+04:34
+William
+In reply to this message
+主要是资源多。好弄
+法
+04:34
+法老-英国
+号码用久了不能换 客户太多
+小
+04:35
+小喵崽
+客户。。。
+法
+04:35
+法老-英国
+老板要巡视的
+W
+04:35
+William
+美国号连网都不好上。用处小。
+法
+04:35
+法老-英国
+我不接 就要扣奖金
+04:36
+我做咨询的
+04:36
+国际结算咨询
+SL
+04:37
+Stan Lee
+难怪要wificalling
+W
+04:37
+William
+英国，美国，香港，这几个国家的靓号还是值得拥有的。其他国家就随意了。我都懒得去弄。随机号码就行了
+法
+04:37
+法老-英国
+香港其实用处不大
+04:37
+香港都是本地互打
+W
+04:38
+William
+香港用处挺大啊。和内地号一样能上网电话。
+法
+04:38
+法老-英国
+没客户在香港
+04:38
+我香港最大的用处就是打银行
+04:38
+客户资金扣在香港 就要协商
+W
+04:38
+William
+我觉得挺有用的。
+法
+04:39
+法老-英国
+一年都接不了几个香港问题
+05:09
+Deleted Account
+自由鸟实名认证好慢啊
+05:10
+TW效率都比他高
+SJ
+05:10
+Soff Jomeka
+自由鸟都有选中的号码？
+法
+05:10
+法老-英国
+什么时候对香港号码那么上劲了？
+05:11
+Deleted Account
+你看不上的我都看上主要是
+05:11
+In reply to this message
+4A大佬别来比较
+SJ
+05:13
+Soff Jomeka
+秀出来看看啊
+05:13
+是什么样的靓号让你实名认证了
+SL
+05:15
+Stan Lee
+****8888
+W
+05:28
+William
+我刷了一会，没一个靓的
+05:30
+自由鸟
+05:31
+In reply to this message
+好的太少了。没办法
+SJ
+05:38
+Soff Jomeka
+In reply to this message
+什么时候刷到的啊？不是最近吧？
+05:46
+大佬你是做什么生意的啊？
+05:47
+一看就是挣大钱的
+伶
+05:54
+伶牙俐齿
+In reply to this message
+这卡有什么研究的呢？我的到期了，不知道在哪里续费。
+高宏
+05:54
+高 宏远
+In reply to this message
+我已经绑tg了
+SJ
+05:57
+Soff Jomeka
+In reply to this message
+购买链接来一个？
+05:58
+三大运营商其实都有号码定制的服务，就是得花钱
+05:58
+如果做大生意可以定制号码
+一
+06:06
+一只胖锦鲤
+In reply to this message
+啥意思 你已经成功了？
+高宏
+06:06
+高 宏远
+In reply to this message
+嗯嗯
+一
+06:06
+一只胖锦鲤
+这么快
+高宏
+06:06
+高 宏远
+看我号
+一
+06:07
+一只胖锦鲤
+不错
+06:07
+你转gv了吗
+高宏
+06:07
+高 宏远
+转了
+一
+06:08
+一只胖锦鲤
+干得漂亮
+高宏
+06:09
+高 宏远
+gv 678 888 开头的号还挺多
+06:10
+yes
+法
+06:14
+法老-英国
+美国的号码 没啥用
+高宏
+06:16
+高 宏远
+In reply to this message
+可以看 在转号码那里看
+法
+06:16
+法老-英国
++1 国家代码 后面3位区号 然后是本地号码
+高宏
+06:18
+高 宏远
+In reply to this message
+有总比没有好
+法
+06:18
+法老-英国
+区号可以选宾夕法尼亚州的 878
+SJ
+06:19
+Soff Jomeka
+In reply to this message
+做业务不是要选免税州吗？
+高宏
+06:19
+高 宏远
+把你选的号 问一下gpt 会告诉你每个号的 优缺点
+法
+06:19
+法老-英国
+想买靓号的 不会在乎 免税不免税
+高宏
+06:19
+高 宏远
+In reply to this message
+选常见的
+SJ
+06:19
+Soff Jomeka
+不是说不要转gv吗？
+06:20
+In reply to this message
+把你的号码秀出来看看啊
+06:21
+如果不是选免税州，你就是买苹果商店的东西都得另外再加消费税
+法
+06:21
+法老-英国
+只区别免税州
+高宏
+06:21
+高 宏远
+In reply to this message
+买东西选免税的不都行了
+一
+06:21
+一只胖锦鲤
+俄勒冈州-97112
+蒙大拿州-59791
+阿拉斯加州-99613
+特拉华州-19703
+新罕布夏州-03033
+高宏
+06:21
+高 宏远
+In reply to this message
+又不是和号码绑定
+一
+06:21
+一只胖锦鲤
+就是
+06:22
+号码当然是纽约
+06:22
+https://www.nanpa.com/resources/area-code-maps#mapanchor
+SJ
+06:29
+Soff Jomeka
+还有这种好事儿？
+高宏
+06:32
+高 宏远
+发达是社会各种方面都很发达
+06:32
+我打电话给客服 我说我英语不好 直接找个翻译给我
+SJ
+06:33
+Soff Jomeka
+In reply to this message
+你是从twilio买的吗？
+高宏
+06:34
+高 宏远
+In reply to this message
+英国号码 美国号码 都是这搞的
+06:53
+In reply to this message
+群友们都已经人手一张吧
+06:53
+Sticker
+Not included, change data exporting settings to download.
+, 3.3 KB
+SL
+07:18
+Stan Lee
+[]
+07:18
+0只对你不好
+大B
+07:19
+大雄 BGM
+In reply to this message
+哪家的？
+SL
+07:19
+Stan Lee
+In reply to this message
+cuniqhk
+大B
+07:19
+大雄 BGM
+In reply to this message
+月神卡？
+SL
+07:20
+Stan Lee
+In reply to this message
+对
+大B
+07:20
+大雄 BGM
+现在开的难度怎么样
+07:20
+还好开吗
+SL
+07:21
+Stan Lee
+很好开
+大B
+07:22
+大雄 BGM
+不过现在打9折，之前8折
+法
+07:23
+法老-英国
+穷人养不起9元港币的套餐
+大B
+07:24
+大雄 BGM
+国内不是8元一个月嘛
+法
+07:25
+法老-英国
+9港币 和 8rmb有多大区别？
+L
+07:28
+Lollipop
+In reply to this message
+9折用什么优惠码啊
+大B
+07:32
+大雄 BGM
+不是到处是
+L
+07:32
+Lollipop
+In reply to this message
+我找的都过期了
+大B
+07:32
+大雄 BGM
+In reply to this message
+也有cn号
+07:32
+In reply to this message
+技术不到位啊
+L
+SL
+07:34
+Stan Lee
+In reply to this message
+突然感觉我之前选的号一点都不香了，还是不能去刷
+大B
+07:40
+大雄 BGM
+In reply to this message
+信号咋样
+SL
+07:40
+Stan Lee
+In reply to this message
+看你当地联通信号
+大B
+07:40
+大雄 BGM
+联通4g？
+SL
+07:40
+Stan Lee
+有5G
+大B
+07:42
+大雄 BGM
+转台了？
+07:43
+羡慕上台
+法
+07:45
+法老-英国
+储值卡转台吧
+07:45
+上台卡转台我养不起
+大B
+07:45
+大雄 BGM
+你搞了什么hk卡
+法
+07:46
+法老-英国
+这个转台申请明显是CSL的
+07:46
+CSL最大的问题是 esim 补卡要去香港
+SL
+07:47
+Stan Lee
+In reply to this message
+他是把自由鸟选的号转去CSL
+法
+07:47
+法老-英国
+最合适的转台是到3万能 但是成本要比csl高
+大B
+07:47
+大雄 BGM
+In reply to this message
+能接打电话收发短信？
+法
+07:47
+法老-英国
+可以
+07:47
+单独付费
+大B
+07:47
+大雄 BGM
+打国内多少
+法
+07:47
+法老-英国
+3块钱好像
+07:47
+3港币
+大B
+07:47
+大雄 BGM
+那么贵
+07:47
+月神卡便宜点
+法
+07:48
+法老-英国
+买套餐 28港币 20分钟 1年有效期
+07:48
+转3万能 比较好
+07:48
+充值10港币送100分钟话费
+大B
+07:49
+大雄 BGM
+没cn号？
+S
+07:49
+Stevie
+In reply to this message
+6块钱csl怎么保号
+法
+07:49
+法老-英国
+肯定是打852用
+07:49
+6块钱就是保号
+S
+07:49
+Stevie
+买那个短信套餐？
+法
+07:49
+法老-英国
+或者 0保号
+大B
+07:49
+大雄 BGM
+[]
+法
+07:49
+法老-英国
+[]
+07:50
+买这个就保号
+07:50
+或者 0保号 买50氪金易
+07:50
+[]
+大B
+07:50
+大雄 BGM
+club
+法
+07:50
+法老-英国
+clubsim 我都转走了
+07:51
+不能
+07:51
+clubsim 只能接短信
+07:51
+其余一概都要额外付费
+07:51
+打电话 需要每个月28港币
+07:52
+和csl没办法比
+大B
+07:52
+大雄 BGM
+csl这么办理
+法
+07:52
+法老-英国
+csl官网买套餐
+大B
+07:52
+大雄 BGM
+cn号有嘛
+法
+07:52
+法老-英国
+没有
+L
+07:53
+Lollipop
+csl如果开始收行政费就不如3wan了
+法
+07:53
+法老-英国
+堵他部手
+07:53
+不收
+L
+07:53
+Lollipop
+3万能不是50港币延长一年有效期
+法
+07:53
+法老-英国
+不是
+07:53
+3万能充值是42港币到余额55话费 延长365天
+07:54
+然后购买3万能的套餐 还能延长365天
+07:54
+实际每年保号成本才不到30港币
+SL
+07:54
+Stan Lee
+In reply to this message
+你要冲这个号码了吗？
+大B
+07:54
+大雄 BGM
+大湾区蓝卡都买后悔了
+07:55
+In reply to this message
+我不冲只是看到了
+L
+07:55
+Lollipop
+In reply to this message
+这个是去那个小程序买吗
+法
+07:55
+法老-英国
+嗯
+07:55
+暂时没有比那个更便宜的3万能了
+L
+07:55
+Lollipop
+那还是3万能好
+07:55
+但是不拉vowifi
+07:55
+接电话太贵了
+法
+07:55
+法老-英国
+肯定要拉vowifi
+07:55
+这才是他的优势
+大B
+07:55
+大雄 BGM
+3万能vowifi？
+07:55
+拉vowifi打cn多少钱？
+法
+07:56
+法老-英国
+。。。。
+07:56
+打毛cn
+07:56
+都是打香港用的
+07:56
+怎么那么喜欢打cn
+07:56
+cn你国内卡不行吗
+L
+07:56
+Lollipop
+接信用卡电话
+大B
+07:56
+大雄 BGM
+HK随便节点就能拉？
+法
+07:56
+法老-英国
+不能
+07:56
+你自己找节点
+大B
+07:56
+大雄 BGM
+家宽？
+法
+07:56
+法老-英国
+csl的网络就能拉3万能
+07:57
+所以我买了一张csl + 3万能
+07:57
+就能完美激活
+07:57
+有中国流量
+07:57
+不划算
+大B
+07:57
+大雄 BGM
+[]
+07:57
+这个能拉？
+法
+07:57
+法老-英国
+CSL 做热点 3万能用vowifi 就行
+07:58
+CSL的能拉
+07:58
+3DIY
+GH
+07:58
+GUOQIU HAN
+In reply to this message
+esim吗
+法
+07:58
+法老-英国
+的能拉
+大B
+07:58
+大雄 BGM
+HK佬的家宽
+法
+07:58
+法老-英国
+其他漫游卡没测试过
+07:58
+自己买个测试下就知道了
+大B
+07:58
+大雄 BGM
+3万48一年？
+法
+07:58
+法老-英国
+。。。。
+07:58
+3万27.5/年
+大B
+07:59
+大雄 BGM
+那可以接收
+07:59
+有链接嘛
+07:59
+写ESTK可以？
+法
+07:59
+法老-英国
+d
+damm 的 eSIM 基地通知专用 01.12.2025 10:48:23
+[]
+#3HK
+3国际万能卡用充值保号(45得55)到期后可以再充10港币购买一年的无限通话组合(支持vowifi)保号，合27.5港币/年。
+另外有微信小程序
+  #小程序://CBonShareGroup/8i1CK3kXtxzJq0h
+以39HKD售卖eSIM版国际万能卡(不定期补货)，同店也有充值券卖。
+07:59
+d
+damm 的 eSIM 基地通知专用 01.12.2025 10:48:23
+[]
+法
+07:59
+法老-英国
+可以
+07:59
+3万能 1年27.5港币
+07:59
+按照他的方法买套餐
+07:59
+https://forum.naixi.net/thread-7708-1-1.html
+L
+08:00
+Lollipop
+In reply to this message
+这家店卖的有1港币一个月的通话套餐
+08:00
+有群友试过吗
+法
+08:00
+法老-英国
+3万能 和 3 diy 不是一个
+08:00
+别互相替代
+08:00
+大佬们平时用whatsapp吗？
+L
+08:02
+Lollipop
+In reply to this message
+好8
+法
+08:03
+法老-英国
+1个老板 2家公司 不互相卷
+08:03
+还能给你互通啊
+大B
+08:03
+大雄 BGM
+微信小程序名字叫什么
+法
+08:03
+法老-英国
+图上不是有吗
+08:04
+  #小程序://CBonShareGroup/8i1CK3kXtxzJq0h
+08:06
+看了whatsApp要凉凉了
+法
+08:06
+法老-英国
+whatsapp 我只用来联系运营商
+08:06
+其他一概不用
+大B
+08:09
+大雄 BGM
+//CBonShareGroup/8i1CK3kXtxzJq0h
+08:09
+这个搜索不到
+08:11
+WhatsApp有CallKit吗？
+法
+08:12
+法老-英国
+完整粘贴到和人聊天对话框点击发送
+08:12
+然后点击就会跳转
+SL
+08:13
+Stan Lee
+In reply to this message
+  #小程序://CBonShareGroup/8i1CK3kXtxzJq0h
+  一整个发到你的微信，就能点开了
+大B
+08:14
+大雄 BGM
+  #小程序://CBonShareGroup/8i1CK3kXtxzJq0h
+08:18
+In reply to this message
+这个卡只能香港用吗
+SJ
+08:20
+Soff Jomeka
+才多大啊，就一生了？
+Next messages
